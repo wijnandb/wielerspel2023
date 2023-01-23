@@ -20,7 +20,7 @@ def create_html_file(input, output):
         reader = csv.reader(f)
         data = list(reader)
 
-    fileout = open("html/"+output, "w")
+    fileout = open(output, "w")
 
     table = "<html>\n\t<head>\n\t\t<title>Stand Wielerspel 2023</title>\n\t</head>\n\t<body>\n\t\t<table>\n"
 
