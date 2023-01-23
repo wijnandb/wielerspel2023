@@ -17,18 +17,6 @@ jobs:
       - name: checkout repo content
         uses: actions/checkout@v3 # checkout the repository content
 
-      - run: |
-          date > generated.txt
-          git config user.name wijnandb
-          git config user.email wijnandb@retta.nl
-          git add .
-          git commit -m "generated"
-          git push
-    
-      - shell: bash
-        run: |
-          rm index.html ploegen.html uitslagen.html
-
       - name: setup python
         uses: actions/setup-python@v4
         with:
