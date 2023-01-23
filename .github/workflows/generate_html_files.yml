@@ -22,16 +22,19 @@ jobs:
         with:
           python-version: '3.10' # install the python version needed
 
-      - name: execute py script 
-        run: python generate_ranking/creating.py
-
       - name: Update html-files
         uses: test-room-7/action-update-file@v1
         with:
           # Include all JS files from the `dist` directory
-          file-path: '*.html'
+          file-path: |
+            index.html
+            ploegen.html
+            uitslagen.html
           commit-msg: Update resources
           github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: execute py script 
+        run: python generate_ranking/creating.py
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9.1.1
