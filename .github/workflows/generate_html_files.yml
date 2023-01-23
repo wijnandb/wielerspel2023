@@ -17,12 +17,6 @@ jobs:
       - name: checkout repo content
         uses: actions/checkout@v2 # checkout the repository content
 
-      - name: Remove html files
-        run: |
-          ls
-          rm -f *.html
-          ls
-
       - name: setup python
         uses: actions/setup-python@v4
         with:
@@ -30,6 +24,13 @@ jobs:
 
       - name: execute py script 
         run: python generate_ranking/creating.py
+
+      - name: Update html-files
+        uses: test-room-7/action-update-file@v1
+        with:
+          file-path: *.html
+          commit-msg: Update resources
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9.1.1
