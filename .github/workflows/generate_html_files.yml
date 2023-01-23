@@ -28,7 +28,8 @@ jobs:
       - name: Update html-files
         uses: test-room-7/action-update-file@v1
         with:
-          file-path: *.html
+          # Include all JS files from the `dist` directory
+          file-path: '*.html'
           commit-msg: Update resources
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
