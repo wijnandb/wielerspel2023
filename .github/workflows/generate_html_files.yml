@@ -24,7 +24,6 @@ jobs:
             index.html
             ploegen.html
             uitslagen.html
-          with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           commit-msg: Update resources
 
