@@ -17,8 +17,9 @@ jobs:
       - name: checkout repo content
         uses: actions/checkout@v2 # checkout the repository content
 
-      - name: Clean secret management files
+      - name: Remove html files
         run: |
+          ls
           rm -f *.html
 
       - name: setup python
