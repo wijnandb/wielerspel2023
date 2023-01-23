@@ -53,3 +53,5 @@ for entry in entries:
     output = entry[:-4]+".html"
     # print(output)
     create_html_file("CSV/"+entry, output)
+
+create_html_file("CSV/ranking.csv", "index.html")
