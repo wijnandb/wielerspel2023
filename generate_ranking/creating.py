@@ -22,7 +22,7 @@ def create_html_file(input, output):
 
     fileout = open(output, "w")
 
-    table = "<html>\n\t<head>\n\t\t<title>Stand Wielerspel 2023</title>\n\t</head>\n\t<body>\n\t\t<table>\n"
+    table = "---\nlayout: default\n---\n<html>\n\t<head>\n\t\t<title>Stand Wielerspel 2023</title>\n\t</head>\n\t<body>\n\t\t<table>\n"
 
     # Create the table's column headers
     header = data[0]
