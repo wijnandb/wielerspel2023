@@ -1,0 +1,15 @@
+name: On Push Run
+
+on: push
+
+env:
+  DEVOPS_DIR: devops
+
+jobs:
+  generating:
+    name: Generate HTML files
+    runs-on: ubuntu-latest
+    steps:
+    - name: Hello World
+      run: python generate_ranking/creating.py
+      shell: sh
