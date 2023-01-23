@@ -56,7 +56,7 @@ def add_points_to_results():
 
 
 def write_csv_file(filename, results):
-    file = '../CSV/'+str(filename)
+    file = 'CSV/'+str(filename)
     with open(file, 'w', newline='') as f:
         write = csv.writer(f)
         write.writerows(results)
