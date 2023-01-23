@@ -1,4 +1,4 @@
-name: run main.py
+name: create HTML files from CSV
 
 on:
   schedule:

@@ -43,7 +43,7 @@ def create_html_file(input, output):
     fileout.writelines(table)
     fileout.close()
 
-    print("HTML file gegenereerd")
+    print(f"HTML file gegenereerd {fileout}")
 
 import os
 entries = os.listdir('CSV/')
