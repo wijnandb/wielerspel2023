@@ -26,6 +26,7 @@ jobs:
         run: python generate_ranking/creating.py
 
   addfiles:
+    steps:
       - name: add and commit changes
         needs: build
         run: |   
