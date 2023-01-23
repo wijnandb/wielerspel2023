@@ -24,7 +24,8 @@ jobs:
             index.html
             ploegen.html
             uitslagen.html
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          allow-removing: true
           commit-msg: Update resources
 
       - name: setup python
