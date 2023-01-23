@@ -53,7 +53,6 @@ def create_html_file(input, output):
 #     output = entry[:-4]+".html"
 #     # print(output)
 #     create_html_file("CSV/"+entry, output)
-
 create_html_file("CSV/ranking.csv", "index.html")
 create_html_file("CSV/ploegen.csv", "ploegen.html")
 create_html_file("CSV/results_with_points.csv", "uitslagen.html")

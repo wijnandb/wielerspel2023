@@ -11,7 +11,7 @@ Processing consists of several steps:
 """
 import csv
 import operator
-from datetime import datetime
+#from datetime import datetime
 """
 results.csv
 0 - rank
@@ -130,8 +130,8 @@ def add_up_points_per_teamcaptain(riders):
     
     for r in ranking_with_rank:
         print(r)
-    processtime = datetime.today().strftime('%Y-%m-%d#%H:%M:%S')
-    write_csv_file("ranking/"+str(processtime)+".csv", ranking_with_rank)
+    #processtime = datetime.today().strftime('%Y-%m-%d#%H:%M:%S')
+    write_csv_file("ranking.csv", ranking_with_rank)
 
 
 if add_points_to_results():
