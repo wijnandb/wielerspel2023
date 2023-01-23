@@ -21,6 +21,7 @@ jobs:
         run: |
           ls
           rm -f *.html
+          ls
 
       - name: setup python
         uses: actions/setup-python@v4
