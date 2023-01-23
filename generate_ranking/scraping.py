@@ -129,13 +129,6 @@ def get_results_per_race(race_id, race_name, category):
 
 get_results()
 
-# print(results)
-# print(new_results)
-
-updated_results = results + new_results
-
-print(len(updated_results))
-
 def unique_items(L):
     found = set()
     for item in L:
@@ -143,10 +136,9 @@ def unique_items(L):
             yield item
             found.add(item)
 
+updated_results = results + new_results
 unique_results = list(set(updated_results))
-print(type(unique_results))
-print(unique_results)
-print(len(unique_results))
+
 
 with open('../CSV/all_results.csv', 'w') as f:
     write = csv.writer(f)

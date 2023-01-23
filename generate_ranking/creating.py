@@ -49,7 +49,7 @@ import os
 entries = os.listdir('CSV/')
 
 for entry in entries:
-    print(entry)
+    # print(entry)
     output = entry[:-4]+".html"
-    print(output)
+    # print(output)
     create_html_file("CSV/"+entry, output)
