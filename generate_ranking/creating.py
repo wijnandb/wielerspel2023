@@ -13,7 +13,7 @@ So, let's create HTML from:
 ../ranking/
 """
 import csv
-import os
+# import os
 
 def create_html_file(input, output):
     with open(input, newline='') as f:
@@ -45,8 +45,8 @@ def create_html_file(input, output):
 
     print(f"HTML file gegenereerd {fileout}")
 
-import os
-entries = os.listdir('CSV/')
+# import os
+# entries = os.listdir('CSV/')
 
 # for entry in entries:
 #     # print(entry)
