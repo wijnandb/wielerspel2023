@@ -11,6 +11,7 @@ Processing consists of several steps:
 """
 import csv
 import operator
+from decimal import *
 #from datetime import datetime
 """
 results.csv
@@ -40,12 +41,12 @@ points.csv:
 
 def add_points_to_results():
     points = read_csv_file('points.csv')
-    results =  read_csv_file('all_results.csv')
+    results = read_csv_file('all_results.csv')
 
-    for result in results:
+    for result in results[1:]: # skip the header row
         for point in points:
             if (int(result[0]) == int(point[1])) and (result[1] == point[0]):
-                result[6] = float(point[2])
+                result[6] = Decimal(point[2])
                 result[7] = int(point[3])
         #print(result)
     """
@@ -93,9 +94,9 @@ def add_up_points_per_rider():
         JPP = 0
         for result in results:
             if rider[0] == result[5]:
-                points += float(result[6])
+                points += Decimal(result[6])
                 JPP += int(result[7])
-        rider[8] = float(points)
+        rider[8] = Decimal(points)
         rider[9] = int(JPP)
         # if rider[8] > 0 or rider[9] > 0:
         #     print(f"{rider[2]}, {rider[8]} points, {rider[9]} JPP\n")
@@ -116,9 +117,9 @@ def add_up_points_per_teamcaptain(riders):
         #print(teamcaptain)
         for rider in riders:
             if rider[3] == teamcaptain:
-                points += float(rider[8])
+                points += Decimal(rider[8])
                 JPP += int(rider[9])
-        ranking.append([teamcaptain, float(points),int(JPP)])
+        ranking.append([teamcaptain, Decimal(points),int(JPP)])
     
     #print(sorted(ranking))#, key=lambda x:(x[1], x[2], x[0])))
     ranking = sorted(ranking, key=operator.itemgetter(1, 2), reverse=True)

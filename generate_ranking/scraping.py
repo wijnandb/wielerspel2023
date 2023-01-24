@@ -9,8 +9,9 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 from datetime import datetime
+from operator import itemgetter
 
-with open('CSV/all_results.csv', newline='') as f:
+with open('_CSV/all_results.csv', newline='') as f:
     readresults = csv.reader(f)
     if not readresults:
         results = []
@@ -62,9 +63,7 @@ def get_results():
             rank = tds[4].text.split(".")[0]
             category = tds[1].text
             #print(category)
-            if category[:3] in ['1.2','2.2']:
-                print("skip this category")
-            else:
+            if not category[:3] in ['1.2','2.2']:
                 #country = tds[2].text
                 race_name = tds[3].text
                 race_id = tds[3].a['href'].split("=")[1]
@@ -76,6 +75,8 @@ def get_results():
                     new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP)])
                 else:
                     get_results_per_race(race_id, race_name, category)
+            # else:
+            #     #print("skip this category")
         except:
             print("Something went wrong scraping latest results")
 
@@ -129,21 +130,33 @@ def get_results_per_race(race_id, race_name, category):
 
 get_results()
 
-def unique_items(L):
-    found = set()
-    for item in L:
-        if item not in found:
-            yield item
-            found.add(item)
+"""
+Undoubling results is a bitch.
+I am creating a list of race_id and rank to keep track of the results I already scraped.
 
-updated_results = results + new_results
-unique_results = unique_items(updated_results)
+New list, add race_id and rank to it
+"""
+race_rank_results = []
+full_results = []
+for nr in new_results:
+    if [int(nr[0]),int(nr[3])] not in race_rank_results:
+        race_rank_results.append([int(nr[0]),int(nr[3])])
+        full_results.append(nr)
+print(len(race_rank_results))
+print(len(full_results))
+for r in results:
+    if [int(r[0]),int(r[3])] not in race_rank_results:
+        race_rank_results.append([int(r[0]),int(r[3])])
+        full_results.append(r)
+print(len(race_rank_results))
+print(len(full_results))
 
+full_results.insert(0,['rank','category','racename','race_id','rider_name','rider_id','points','jpp'])
 
-with open('CSV/all_results.csv', 'w') as f:
+with open('_CSV/all_results.csv', 'w') as f:
     write = csv.writer(f)
-    write.writerows(new_results)
+    write.writerows(full_results)
 
-with open('CSV/updated_results.csv', 'w') as f:
-    write = csv.writer(f)
-    write.writerows(unique_results)
+# with open('_CSV/updated_results.csv', 'w') as f:
+#     write = csv.writer(f)
+#     write.writerows(unique_results)
