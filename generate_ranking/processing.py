@@ -89,10 +89,10 @@ def add_up_points_per_rider():
     riders = read_csv_file("ploegen.csv")
     results = read_csv_file("results_with_points.csv")
 
-    for rider in riders:
+    for rider in riders[1:]:
         points = 0
         JPP = 0
-        for result in results:
+        for result in results[1:]:
             if rider[0] == result[5]:
                 points += Decimal(result[6])
                 JPP += int(result[7])

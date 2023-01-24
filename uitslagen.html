@@ -10,6 +10,7 @@ title: "Uitslagen met punten"
       <th>Category</th>
       <th>Punten</th>
       <th>JPP</th>
+      <!--th>Ploegleider</th-->
     </tr>
     {% for item in site.data.results_with_points %}
       <tr>
@@ -19,6 +20,7 @@ title: "Uitslagen met punten"
         <td>({{ item.category }})</td>
         <td>{{ item.points }}</td>
         <td>{{ item.jpp }}</td>
+        <!--td>{{ item.ploegleider }}</td-->
       </tr>
     {% endfor %}
   </table>
