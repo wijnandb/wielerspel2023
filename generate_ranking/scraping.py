@@ -11,7 +11,7 @@ import csv
 from datetime import datetime
 from operator import itemgetter
 
-with open('_CSV/all_results.csv', newline='') as f:
+with open('_data/all_results.csv', newline='') as f:
     readresults = csv.reader(f)
     if not readresults:
         results = []
@@ -153,7 +153,7 @@ print(len(full_results))
 
 full_results.insert(0,['rank','category','racename','race_id','rider_name','rider_id','points','jpp'])
 
-with open('_CSV/all_results.csv', 'w') as f:
+with open('_data/all_results.csv', 'w') as f:
     write = csv.writer(f)
     write.writerows(full_results)
 

@@ -25,7 +25,7 @@ results.csv
 7 - JPP
 """
 def read_csv_file(filename):
-    file = '_CSV/'+str(filename)
+    file = '_data/'+str(filename)
     with open(file, newline='') as f:
         readresults = csv.reader(f)
         csvfile = list(readresults)
@@ -57,7 +57,7 @@ def add_points_to_results():
 
 
 def write_csv_file(filename, results):
-    file = '_CSV/'+str(filename)
+    file = '_data/'+str(filename)
     with open(file, 'w', newline='') as f:
         write = csv.writer(f)
         write.writerows(results)
