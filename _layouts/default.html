@@ -49,8 +49,12 @@
       </section>
       <script>
         $(document).ready( function () {
-        $('#datatables').DataTable();
-    } );
+        $('#table_id').DataTable( {
+          "lengthMenu": [ 
+            [25, 50, 100, -1], [25, 50, 100, "All"] 
+          ],
+        });
+    });
       </script>
         <!-- Footer-->
         <footer class="py-5 bg-dark">
