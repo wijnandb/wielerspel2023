@@ -24,7 +24,7 @@ results.csv
 7 - JPP
 """
 def read_csv_file(filename):
-    file = '../CSV/'+str(filename)
+    file = 'CSV/'+str(filename)
     with open(file, newline='') as f:
         readresults = csv.reader(f)
         csvfile = list(readresults)
@@ -128,8 +128,8 @@ def add_up_points_per_teamcaptain(riders):
     for i in range(len(ranking)):
         ranking_with_rank.append([i+1, ranking[i][0], ranking[i][1], ranking[i][2]])
     
-    for r in ranking_with_rank:
-        print(r)
+    # for r in ranking_with_rank:
+    #     print(r)
     #processtime = datetime.today().strftime('%Y-%m-%d#%H:%M:%S')
     write_csv_file("ranking.csv", ranking_with_rank)
 

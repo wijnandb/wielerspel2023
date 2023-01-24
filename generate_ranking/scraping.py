@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 import csv
 from datetime import datetime
 
-with open('../CSV/all_results.csv', newline='') as f:
+with open('CSV/all_results.csv', newline='') as f:
     readresults = csv.reader(f)
     if not readresults:
         results = []
@@ -137,13 +137,13 @@ def unique_items(L):
             found.add(item)
 
 updated_results = results + new_results
-unique_results = list(set(updated_results))
+unique_results = unique_items(updated_results)
 
 
-with open('../CSV/all_results.csv', 'w') as f:
+with open('CSV/all_results.csv', 'w') as f:
     write = csv.writer(f)
     write.writerows(new_results)
 
-with open('../CSV/updated_results.csv', 'w') as f:
+with open('CSV/updated_results.csv', 'w') as f:
     write = csv.writer(f)
     write.writerows(unique_results)
