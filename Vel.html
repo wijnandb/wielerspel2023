@@ -12,7 +12,7 @@ ploegleider: Vel
       <th>Punten</th>
       <th>JPP</th>
     </tr>
-    {% for member in site.data.ploegen | where_exp: "member.ploegleider == page.ploegleider" %}
+    {% for member in site.data.ploegen.ploegleider[page.ploegleider] %}
       <tr>
         <td><a href="{{ member.renner_id }}.html">{{ member.renner }}</td>
         <td>{{ member.team }}</td>

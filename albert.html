@@ -1,0 +1,12 @@
+<ul>
+    {% for ploegleider in site.data.ploegleiders %}
+    {% assign org = ploegleider[1] %}
+      <li>
+        <a href="https://github.com/{{ org.username }}">
+          {{ org.name }}
+        </a>
+        ({{ org.members | size }} members)
+      </li>
+    {% endfor %}
+    
+    </ul>
