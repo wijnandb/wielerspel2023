@@ -3,28 +3,54 @@
 
   <head>
     <title>Wielerspel 2023</title>
-    <link rel="stylesheet" href="/assets/css/style.css"">
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="/assets/css/style.css" rel="stylesheet" />
   </head>
 
-  <body>
-
-
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-       <table name="navigation">
-            <tr>
-                               <td><a href="index.html">Stand</a></td>
-                               <td><a href="ploegen.html">Ploegen</a></td>
-                               <td><a href="uitslagen.html">Uitslagen</a></td>
-            </tr>
-        </table>
-                                                           <center>{{ content }}</center>
-      </div>
-    </main>
-
-
-
+    <body>
+      <!-- Responsive navbar-->
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+          <div class="container">
+              <a class="navbar-brand" href="#!">Wielerspel 2023</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                      <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Stand</a></li>
+                      <li class="nav-item"><a class="nav-link" href="#!">Ploegen</a></li>
+                      <li class="nav-item"><a class="nav-link" href="#!">Uitslagen</a></li>
+                  </ul>
+              </div>
+          </div>
+      </nav>
+      <!-- Header - set the background image for the header in the line below-->
+      <header class="py-5 bg-image-full" style="background-image: url('https://source.unsplash.com/WUehAgqO5hE/1600x900')">
+          <div class="text-center my-5">
+              <img class="img-fluid rounded-circle mb-4" src="" alt="..." />
+              <h1 class="text-white fs-3 fw-bolder"></h1>
+              <p class="text-white-50 mb-0">Wielerspel 2023</p>
+          </div>
+      </header>
+      <!-- Content section-->
+      <section class="py-5">
+          <div class="container my-5">
+              <div class="row justify-content-center">
+                  <div class="col-lg-6">
+                      <h2>Stand Wielerspel</h2>
+                      <p class="lead">{{ content }}</p>
+                      <p class="mb-0">Of dit lettertype/deze look</p>
+                  </div>
+              </div>
+          </div>
+      </section>
+        <!-- Footer-->
+        <footer class="py-5 bg-dark">
+          <div class="container"><p class="m-0 text-center text-white">Wielerspel 1994 - 2023</p></div>
+      </footer>
+      <!-- Bootstrap core JS-->
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+      <!-- Core theme JS-->
+      <script src="/assets/js/scripts.js"></script>
   </body>
-
 </html>
