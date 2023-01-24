@@ -144,7 +144,7 @@ for nr in new_results:
         full_results.append(nr)
 print(len(race_rank_results))
 print(len(full_results))
-for r in results:
+for r in results[1:0]:
     if [int(r[0]),int(r[3])] not in race_rank_results:
         race_rank_results.append([int(r[0]),int(r[3])])
         full_results.append(r)
