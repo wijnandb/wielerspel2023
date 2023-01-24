@@ -1,13 +1,21 @@
 ---
 template: default
+title: "Stand Wielerspel"
 ---
-<ul>
+  <table class="table">
     {% for member in site.data.ranking %}
-      <li>
-        {{ member.positie }}
-        <a href="{{ member.ploegleider }}.html">
-          {{ member.ploegleider }}
-        </a>
-      </li>
+      <tr>
+        <td>{{ member.positie }}</td>
+        <td>
+          <a href="{{ member.ploegleider }}.html">
+            {{ member.ploegleider }}
+          </a>
+        </td>
+        <td>{{ member.punten }}</td>
+        <td>{{ member.jpp }}</td>
+      </tr>
     {% endfor %}
-  </ul>
+  </table>
+
+
+  <p class="small">Generated at {{ site.time | date_to_xmlschema }}</p>
