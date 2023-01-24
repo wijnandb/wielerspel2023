@@ -2,7 +2,7 @@
 title: "Alle verkochte renners"
 template: default
 ---
-  <table class="table">
+  <table class="table" id="datatables">
     <tr>
       <th>Renner</th>
       <th>Team</th>
@@ -19,8 +19,8 @@ template: default
         <td>{{ member.nationality }}</td>
         <td>{{ member.ploegleider }}</td>
         <td>{{ member.kosten }}</td>
-        <td>{{ member.JPP }}</td>
         <td>{{ member.punten }}</td>
+        <td>{{ member.JPP }}</td>
       </tr>
     {% endfor %}
   </table>

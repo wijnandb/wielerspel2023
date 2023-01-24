@@ -2,16 +2,19 @@
 title: "Uitslagen met punten"
 ---
 
-<table class="table">
-    <tr>
-      <th>positie</th>
-      <th>Renner</th>
-      <th>Race</th>
-      <th>Category</th>
-      <th>Punten</th>
-      <th>JPP</th>
-      <!--th>Ploegleider</th-->
-    </tr>
+<table class="table" id="datatables">
+    <thead>
+        <tr>
+        <th>positie</th>
+        <th>Renner</th>
+        <th>Race</th>
+        <th>Category</th>
+        <th>Punten</th>
+        <th>JPP</th>
+        <!--th>Ploegleider</th-->
+        </tr>
+    </thead>
+    <tbody>
     {% for item in site.data.results_with_points %}
       <tr>
         <td>{{ item.rank }}</td>
@@ -23,4 +26,5 @@ title: "Uitslagen met punten"
         <!--td>{{ item.ploegleider }}</td-->
       </tr>
     {% endfor %}
+    </tbody>
   </table>
