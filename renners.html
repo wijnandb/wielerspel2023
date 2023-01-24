@@ -1,0 +1,26 @@
+---
+title: "Alle verkochte renners"
+template: default
+---
+  <table class="table">
+    <tr>
+      <th>Renner</th>
+      <th>Team</th>
+      <th>Nationaliteit</th>
+      <th>Ploegleider</th>
+      <th>Kosten</th>
+      <th>Punten</th>
+      <th>JPP</th>
+    </tr>
+    {% for member in site.data.riders_with_points %}
+      <tr>
+        <td><a href="{{ member.renner_id }}.html">{{ member.renner }}</td>
+        <td>{{ member.team }}</td>
+        <td>{{ member.nationality }}</td>
+        <td>{{ member.ploegleider }}</td>
+        <td>{{ member.kosten }}</td>
+        <td>{{ member.JPP }}</td>
+        <td>{{ member.punten }}</td>
+      </tr>
+    {% endfor %}
+  </table>
