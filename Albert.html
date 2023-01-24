@@ -1,12 +1,30 @@
-<ul>
-    {% for ploegleider in site.data.ploegleiders %}
-    {% assign org = ploegleider[1] %}
-      <li>
-        <a href="https://github.com/{{ org.username }}">
-          {{ org.name }}
-        </a>
-        ({{ org.members | size }} members)
-      </li>
-    {% endfor %}
-    
-    </ul>
+---
+title: Ploeg van Albert
+template: default
+---
+  <table class="table display compact" id="table_id" style="width:100%">
+    <thead>
+        <tr>
+            <th>Renner</th>
+            <th>Team</th>
+            <th>Nationaliteit</th>
+            <th>Ploegleider</th>
+            <th>Kosten</th>
+            <th>Punten</th>
+            <th>JPP</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for member in site.data.riders_with_points %}
+        <tr>
+            <td>{{ member.renner }}</td>
+            <td>{{ member.team }}</td>
+            <td>{{ member.nationality }}</td>
+            <td>{{ member.ploegleider }}</td>
+            <td>{{ member.kosten }}</td>
+            <td>{{ member.punten }}</td>
+            <td>{{ member.JPP }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+  </table>
