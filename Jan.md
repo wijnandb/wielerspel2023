@@ -12,7 +12,7 @@ template: default
       <th>Punten</th>
       <th>JPP</th>
     </tr>
-    {% for member in site.data.ploegen | where_exp: "ploegleider == 'page.ploegleider" }}%}
+    {% for member in site.data.ploegen | where_exp: "ploegleider == 'Jan'" }}%}
       <tr>
         <td><a href="{{ member.renner_id }}.html">{{ member.renner }}</td>
         <td>{{ member.team }}</td>

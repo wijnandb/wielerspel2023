@@ -3,6 +3,12 @@ template: default
 title: "Stand Wielerspel"
 ---
   <table class="table">
+    <tr>
+      <th>#</th>
+      <th>Ploegleider</th>
+      <th>punten</th>
+      <th>JPP</th>
+    </tr>
     {% for member in site.data.ranking %}
       <tr>
         <td>{{ member.positie }}</td>
@@ -12,7 +18,7 @@ title: "Stand Wielerspel"
           </a>
         </td>
         <td>{{ member.punten }}</td>
-        <td>{{ member.jpp }}</td>
+        <td>{{ member.JPP }}</td>
       </tr>
     {% endfor %}
   </table>
