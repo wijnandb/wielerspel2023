@@ -1,0 +1,10 @@
+<ul>
+    {% for member in site.data.ranking %}
+      <li>
+        {{ member.positie }}
+        <a href="{{ member.ploegleider }}.html">
+          {{ member.ploegleider }}
+        </a>
+      </li>
+    {% endfor %}
+    </ul>
