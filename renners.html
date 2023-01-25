@@ -17,10 +17,10 @@ template: default
     <tbody>
         {% for member in site.data.riders_with_points %}
         <tr>
-            <td>{{ member.renner }}</td>
+            <td><a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ renner_id }}">{{ member.renner }}</a></td>
             <td>{{ member.team }}</td>
             <td>{{ member.nationality }}</td>
-            <td><!--a href="{{ member.ploegleider | slugify }}.html"-->{{ member.ploegleider }}<!--/a--></td>
+            <td><a href="{{ member.ploegleider | downcase }}.html">{{ member.ploegleider }}</a></td>
             <td>{{ member.kosten }}</td>
             <td>{{ member.punten }}</td>
             <td>{{ member.JPP }}</td>
