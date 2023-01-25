@@ -20,5 +20,9 @@ Deze uitkomst ordenen op punten en jackpotpunten, rangorde toevoegen en we hebbe
 
 Al deze files worden vervolgens naar Github _gepusht_, waar ze tot HTML files worden gegenereerd en direct worden gepubliceerd.
 
+Idealiter draait dit hele systeem alleen _in the cloud_, dus dat het _scrapen_ van uitslagen, het verwerken van punten en het publiceren van de bijgewrkte pagina's allemaal wordt geinitieerd vanaf de plek waar de site ook draait, maar dat is nog niet gelukt.
+
+Het proces start dus nog op mijn computer, waarna het hele circus in beweging wordt getrokken en we (indien er een nieuwe uitslag is) ook [een nieuwe stand]({{ site.baseurl }}{% link index.html %}) zien.
+
 
 
