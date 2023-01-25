@@ -52,7 +52,7 @@ def get_results():
         try:
             tds = row_tag.find_all('td')
             """
-            0 - date
+            0 - date (Not using this yet.. I should!)
             1 - category
             2 - country
             3 - Name race + href full results
