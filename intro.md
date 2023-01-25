@@ -12,7 +12,7 @@ Als het gaat om een etappe, een berg- of puntentrui, of een kleiner nationaal ka
 
 Omdat alleen de laatste uitslagen op deze pagina staan, worden deze uitslagen vergeleken met eerder opgehaalde uitslagen, zodat we geen dubbele uitslagen verwerken.
 
-In de volgende stap worden de punten (en JPP) aan de resultaten toegevoegd, door in weer een ander bestand de punten op te zoeken die behoren bij de positie en de category. Dit geeft ons [deze lijst met uitslagen]({{ site.baseurl }}{% link wielerspel2023/uitslagen.html %})
+In de volgende stap worden de punten (en JPP) aan de resultaten toegevoegd, door in weer een ander bestand de punten op te zoeken die behoren bij de positie en de category. Dit geeft ons [deze lijst met uitslagen]({{ site.baseurl }}{% link uitslagen.html %})
 
 Dan volgt de stap waar [per renner de verdiende punten en jackpotpunten]({{ site.baseurl }}{% link punten.html %}) uit de uitslagen worden opgeteld, gevolgd door het optellen van de punten per ploegleider. 
 
