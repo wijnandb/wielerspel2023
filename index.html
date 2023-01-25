@@ -11,11 +11,11 @@ title: "Stand Wielerspel"
     </tr>
     {% for member in site.data.ranking %}
       <tr>
-        <td>{{ member.positie }}.</td>
+        <td>{{ member.positie }}</td>
         <td>
-          <!--a href="ploegleiders/{{ member.ploegleider | downcase }}.html"-->
+          <a href="{{ member.ploegleider | downcase }}.html">
             {{ member.ploegleider }}
-          <!--/a-->
+          </a>
         </td>
         <td>{{ member.punten }}</td>
         <td>{{ member.JPP }}</td>
