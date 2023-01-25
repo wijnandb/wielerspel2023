@@ -5,8 +5,10 @@ title: "Uitslagen met punten"
 <table class="table" id="datatables">
     <thead>
         <tr>
-            <th>Uitslag</th>
-            <th>Race (category)</th>
+            <th>positie</th>
+            <th>Renner</th>
+            <th>Race</th>
+            <th>Category</th>
             <th>Punten</th>
             <th>JPP</th>
             <!--th>Ploegleider</th-->
@@ -15,8 +17,10 @@ title: "Uitslagen met punten"
     <tbody>
     {% for item in site.data.results_with_points %}
       <tr>
-        <td>{{ item.rank }}. <a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ item.rider_id }}" target="_new">{{ item.rider_name }}</a></td>
-        <td>{{ item.racename }} ({{ item.category }})</td>
+        <td>{{ item.rank }}</td>
+        <td><a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ item.rider_id }}" target="_new">{{ item.rider_name }}</a></td>
+        <td>{{ item.racename }}</td>
+        <td>({{ item.category }})</td>
         <td>{{ item.points }}</td>
         <td>{{ item.jpp }}</td>
         <!--td>{{ item.ploegleider }}</td-->
