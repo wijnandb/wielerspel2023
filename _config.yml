@@ -6,4 +6,4 @@ defaults:
       layout: "default"
     exclude:
       ['generate_ranking', 'LICENSE', 'README.md']
-    timezone: Europe/Amsterdam
+    timezone: "Europe/Amsterdam"

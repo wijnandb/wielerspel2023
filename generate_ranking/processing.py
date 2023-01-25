@@ -112,15 +112,19 @@ def add_up_points_per_teamcaptain(riders):
     ranking = []
     teamcaptains = get_teamcaptains(riders)
     for teamcaptain in teamcaptains:
+        team = []
         points = 0
         JPP = 0
         #print(teamcaptain)
         for rider in riders:
             if rider[3] == teamcaptain:
+                # add to teamcaptain.csv
+                team.append([rider])
                 points += Decimal(rider[8])
                 JPP += int(rider[9])
+        write_csv_file("ploegleiders/"+teamcaptain+".csv", team)
         ranking.append([teamcaptain, Decimal(points),int(JPP)])
-    
+
     #print(sorted(ranking))#, key=lambda x:(x[1], x[2], x[0])))
     ranking = sorted(ranking, key=operator.itemgetter(1, 2), reverse=True)
     # append headers, 
