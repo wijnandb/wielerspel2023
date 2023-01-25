@@ -14,7 +14,7 @@ Omdat alleen de laatste uitslagen op deze pagina staan, worden deze uitslagen ve
 
 In de volgende stap worden de punten (en JPP) aan de resultaten toegevoegd, door in weer een ander bestand de punten op te zoeken die behoren bij de positie en de category.
 
-Dan volgt de stap waar [per renner de verdiende punten en jackpotpunten]({% link points.html %}) uit de uitslagen worden opgeteld, gevolgd door het optellen van de punten per ploegleider. 
+Dan volgt de stap waar [per renner de verdiende punten en jackpotpunten]({% link punten.html %}) uit de uitslagen worden opgeteld, gevolgd door het optellen van de punten per ploegleider. 
 
 Deze uitkomst ordenen op punten en jackpotpunten, rangorde toevoegen en we hebben de basis voor de [stand]({% link index.html %}).
 
