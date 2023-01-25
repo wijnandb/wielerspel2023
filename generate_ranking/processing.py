@@ -44,7 +44,7 @@ def add_points_to_results():
     results = read_csv_file('all_results.csv')
 
     for result in results[1:]: # skip the header row
-        for point in points:
+        for point in points[1:]:
             if (int(result[0]) == int(point[1])) and (result[1] == point[0]):
                 result[6] = Decimal(point[2])
                 result[7] = int(point[3])
