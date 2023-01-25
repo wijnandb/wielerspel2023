@@ -29,3 +29,16 @@ template: default
     </tbody>
   </table>
   
+  {% assign cities = site.data.cities %}
+
+{% for city in cities %}
+
+  {% if city.name == page.city %}
+    <a rel="author"
+      href="https://twitter.com/{{ author.twitter }}"
+      title="{{ city.description }}">
+        {{ city.name }}
+    </a>
+  {% endif %}
+
+{% endfor %}
