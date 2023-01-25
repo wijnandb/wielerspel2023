@@ -98,8 +98,6 @@ def add_up_points_per_rider():
                 JPP += int(result[7])
         rider[8] = Decimal(points)
         rider[9] = int(JPP)
-        # if rider[8] > 0 or rider[9] > 0:
-        #     print(f"{rider[2]}, {rider[8]} points, {rider[9]} JPP\n")
     
     # store the riders with points in a CSV
     # or progress to the next step, adding up points per teamcaptain
@@ -112,17 +110,19 @@ def add_up_points_per_teamcaptain(riders):
     ranking = []
     teamcaptains = get_teamcaptains(riders)
     for teamcaptain in teamcaptains:
-        team = []
+        # put the header row in each teamcaptain's csv file
+        team = [riders[0]]
         points = 0
         JPP = 0
         #print(teamcaptain)
         for rider in riders:
             if rider[3] == teamcaptain:
                 # add to teamcaptain.csv
-                team.append([rider])
+                team.append([int(rider[0]),rider[1],rider[2],rider[3],int(rider[4]),rider[5],rider[6],rider[7],Decimal(rider[8]),int(rider[9])])
+                print(team)
                 points += Decimal(rider[8])
                 JPP += int(rider[9])
-        write_csv_file("ploegleiders/"+teamcaptain+".csv", team)
+        write_csv_file("ploegleiders/"+teamcaptain.lower()+".csv", team)
         ranking.append([teamcaptain, Decimal(points),int(JPP)])
 
     #print(sorted(ranking))#, key=lambda x:(x[1], x[2], x[0])))

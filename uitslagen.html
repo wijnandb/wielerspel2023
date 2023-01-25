@@ -18,7 +18,7 @@ title: "Uitslagen met punten"
     {% for item in site.data.results_with_points %}
       <tr>
         <td>{{ item.rank }}</td>
-        <td><!--a href="{{ item.rider_id }}.html"-->{{ item.rider_name }}</td>
+        <td><a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ item.rider_id }}" target="_new">{{ item.rider_name }}</a></td>
         <td>{{ item.racename }}</td>
         <td>({{ item.category }})</td>
         <td>{{ item.points }}</td>
