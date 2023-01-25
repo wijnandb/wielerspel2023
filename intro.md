@@ -12,9 +12,9 @@ Als het gaat om een etappe, een berg- of puntentrui, of een kleiner nationaal ka
 
 Omdat alleen de laatste uitslagen op deze pagina staan, worden deze uitslagen vergeleken met eerder opgehaalde uitslagen, zodat we geen dubbele uitslagen verwerken.
 
-In de volgende stap worden de punten (en JPP) aan de resultaten toegevoegd, door in weer een ander bestand de punten op te zoeken die behoren bij de positie en de category. Dit geeft ons [deze lijst met uitslagen]({{ site.baseurl }}{% link uitslagen.html %})
+In de volgende stap worden de punten (en JPP) aan de resultaten toegevoegd, door in weer een ander bestand [de punten op te zoeken]({{ site.baseurl }}{% link punten.html %}) die behoren bij de positie en de category. Dit geeft ons [deze lijst met uitslagen]({{ site.baseurl }}{% link uitslagen.html %}).
 
-Dan volgt de stap waar [per renner de verdiende punten en jackpotpunten]({{ site.baseurl }}{% link punten.html %}) uit de uitslagen worden opgeteld, gevolgd door het optellen van de punten per ploegleider. 
+Dan volgt de stap waar [per renner de verdiende punten en jackpotpunten]({{ site.baseurl }}{% link renners.html %}) uit de uitslagen worden opgeteld, gevolgd door het optellen van de punten per ploegleider. 
 
 Deze uitkomst ordenen op punten en jackpotpunten, rangorde toevoegen en we hebben de basis voor de [stand]({{ site.baseurl }}{% link index.html %}).
 
@@ -24,5 +24,11 @@ Idealiter draait dit hele systeem alleen _in the cloud_, dus dat het _scrapen_ v
 
 Het proces start dus nog op mijn computer, waarna het hele circus in beweging wordt getrokken en we (indien er een nieuwe uitslag is) ook [een nieuwe stand]({{ site.baseurl }}{% link index.html %}) zien.
 
+We tonen op dit moment alles in tabellen die sorteerbaar en doorzoekbaar zijn, dat is voor alle verkochte renners wel handig, voor andere tabellen zoals de stand wellicht niet echt.
 
+De ploegen per ploegleider staan nu ook online, die zijn gesorteerd op alfabetische volgorde van de rennernamen, dit kun je aanpassen door te klikken op de kolom waar je op wilt sorteren. Eerste keer klikken geeft sorteren van laag naar hoog, nog een keer klikken voor hoog naar laag.
+
+De [renners]({{ site.baseurl }}{% link renners.html %}) linken door naar hun persoonlijke pagina op CQranking, daar kun je verder kijken naar uitgebreidere gegevens en uitslagen.
+
+Laat maar weten wat je er van vindt en wat er nog anders/beter/mooier/extra moet, suggesties zijn welkom.
 
