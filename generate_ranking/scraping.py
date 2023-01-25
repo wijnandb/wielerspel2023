@@ -134,7 +134,8 @@ get_results()
 Undoubling results is a bitch.
 I am creating a list of race_id and rank to keep track of the results I already scraped.
 
-New list, add race_id and rank to it
+New list, add race_id and rank to it, check if we already have that result, if not,
+add it to both lists.
 """
 race_rank_results = []
 full_results = []
@@ -142,14 +143,13 @@ for nr in new_results:
     if [int(nr[0]),int(nr[3])] not in race_rank_results:
         race_rank_results.append([int(nr[0]),int(nr[3])])
         full_results.append(nr)
-print(len(race_rank_results))
-print(len(full_results))
-for r in results[1:0]:
+
+for r in results[1:]:
+    # results has a header row, which we skip and at the end add it again
     if [int(r[0]),int(r[3])] not in race_rank_results:
         race_rank_results.append([int(r[0]),int(r[3])])
         full_results.append(r)
-print(len(race_rank_results))
-print(len(full_results))
+
 
 full_results.insert(0,['rank','category','racename','race_id','rider_name','rider_id','points','jpp'])
 
