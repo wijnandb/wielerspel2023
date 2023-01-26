@@ -12,6 +12,7 @@ Processing consists of several steps:
 import csv
 import operator
 from decimal import *
+import process_files
 #from datetime import datetime
 """
 results.csv
@@ -24,12 +25,12 @@ results.csv
 6 - points
 7 - JPP
 """
-def read_csv_file(filename):
-    file = '_data/'+str(filename)
-    with open(file, newline='') as f:
-        readresults = csv.reader(f)
-        csvfile = list(readresults)
-    return csvfile
+# def read_csv_file(filename):
+#     file = '_data/'+str(filename)
+#     with open(file, newline='') as f:
+#         readresults = csv.reader(f)
+#         csvfile = list(readresults)
+#     return csvfile
 
 """
 points.csv:
@@ -40,8 +41,8 @@ points.csv:
 """
 
 def add_points_to_results():
-    points = read_csv_file('points.csv')
-    results = read_csv_file('all_results.csv')
+    points = process_files.read_csv_file('points.csv')
+    results = process_files.read_csv_file('all_results.csv')
 
     for result in results[1:]: # skip the header row
         for point in points[1:]:
@@ -52,15 +53,15 @@ def add_points_to_results():
     """
     Instead of writing the results to a file, I can also return the list with results to further process
     """
-    write_csv_file('results_with_points.csv', results)
+    process_files.write_csv_file('results_with_points.csv', results)
     return True
 
 
-def write_csv_file(filename, results):
-    file = '_data/'+str(filename)
-    with open(file, 'w', newline='') as f:
-        write = csv.writer(f)
-        write.writerows(results)
+# def write_csv_file(filename, results):
+#     file = '_data/'+str(filename)
+#     with open(file, 'w', newline='') as f:
+#         write = csv.writer(f)
+#         write.writerows(results)
 
 
 def get_teamcaptains(sold_riders):
@@ -86,8 +87,8 @@ ploegen.csv
 """
 
 def add_up_points_per_rider():
-    riders = read_csv_file("ploegen.csv")
-    results = read_csv_file("results_with_points.csv")
+    riders = process_files.read_csv_file("ploegen.csv")
+    results = process_files.read_csv_file("results_with_points.csv")
 
     for rider in riders[1:]:
         points = 0
@@ -101,7 +102,7 @@ def add_up_points_per_rider():
     
     # store the riders with points in a CSV
     # or progress to the next step, adding up points per teamcaptain
-    write_csv_file("riders_with_points.csv", riders)
+    process_files.write_csv_file("riders_with_points.csv", riders)
     add_up_points_per_teamcaptain(riders)
 
 
@@ -119,10 +120,10 @@ def add_up_points_per_teamcaptain(riders):
             if rider[3] == teamcaptain:
                 # add to teamcaptain.csv
                 team.append([int(rider[0]),rider[1],rider[2],rider[3],int(rider[4]),rider[5],rider[6],rider[7],Decimal(rider[8]),int(rider[9])])
-                print(team)
+                # print(team)
                 points += Decimal(rider[8])
                 JPP += int(rider[9])
-        write_csv_file("ploegleiders/"+teamcaptain.lower()+".csv", team)
+        process_files.write_csv_file("ploegleiders/"+teamcaptain.lower()+".csv", team)
         ranking.append([teamcaptain, Decimal(points),int(JPP)])
 
     #print(sorted(ranking))#, key=lambda x:(x[1], x[2], x[0])))
@@ -133,10 +134,10 @@ def add_up_points_per_teamcaptain(riders):
     for i in range(len(ranking)):
         ranking_with_rank.append([i+1, ranking[i][0], ranking[i][1], ranking[i][2]])
     
-    # for r in ranking_with_rank:
-    #     print(r)
+    for r in ranking_with_rank:
+        print(r)
     #processtime = datetime.today().strftime('%Y-%m-%d#%H:%M:%S')
-    write_csv_file("ranking.csv", ranking_with_rank)
+    process_files.write_csv_file("ranking.csv", ranking_with_rank)
 
 
 if add_points_to_results():

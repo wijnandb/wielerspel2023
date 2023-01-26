@@ -8,16 +8,19 @@ I am struggling to remove doubles, so why not add the lists together and make a 
 import requests
 from bs4 import BeautifulSoup
 import csv
+import process_files
 from datetime import datetime
-from operator import itemgetter
+# from operator import itemgetter
 
-with open('_data/all_results.csv', newline='') as f:
-    readresults = csv.reader(f)
-    if not readresults:
-        results = []
-    else: 
-        results = list(readresults)
-    
+
+results = process_files.read_csv_file('all_results.csv')
+
+# backup the existing results, use datetime
+today =  datetime.today()
+print(today)
+filename = 'backup/'+str(today)+".csv"
+print(filename)
+process_files.write_csv_file(filename, results)
 
 new_results = []
 
@@ -29,6 +32,41 @@ new_results = []
                 # 'rider_id',
                 # 'points',
                 # 'JPP']]
+
+def check_if_new_results():
+    """
+    We don't want the scraper to run if there are no new results. 
+    We visit CQranking, check teh latest result(s). 
+    If we already have that result, we cancel.
+    Otherwise, we scrape.
+    We could/(should?) run the normal scraper once a day regardless?
+    """
+    base_result_url = "https://cqranking.com/men/asp/gen/start.asp"
+    b = base_result_url
+    r = requests.get(b)
+    soup = BeautifulSoup(r.text, "html.parser")
+    result_table =  soup.find("table", ["borderNoOpac"])
+    row_tags = result_table.find_all('tr')[1:] # just first two results, skipping header row
+    for row_tag in row_tags[:3]:
+        try:
+            tds = row_tag.find_all('td')
+            """
+            0 - date (Not using this yet.. I should!)
+            1 - category
+            2 - country
+            3 - Name race + href full results
+            4 - rank + name rider + href rider
+            """
+            rank = tds[4].text.split(".")[0]
+            race_id = tds[3].a['href'].split("=")[1]
+            for result in results:
+                if (int(rank) == result[0] and int(race_id) == result[3]):
+                    print(f"{race_id} already exists with rank {rank}")
+                    return False
+            return True
+        except:
+            print("Something went wrong scraping latest results")
+
 
 
 def get_results():
@@ -153,9 +191,17 @@ for r in results[1:]:
 
 full_results.insert(0,['rank','category','racename','race_id','rider_name','rider_id','points','jpp'])
 
-with open('_data/all_results.csv', 'w') as f:
-    write = csv.writer(f)
-    write.writerows(full_results)
+# Now store the rsults in a CSV file
+process_files.write_csv_file('all_results.csv', full_results)
+# and store the new_results is another CSV file
+# add header row first
+new_results.insert(0,['rank','category','racename','race_id','rider_name','rider_id','points','jpp'])
+process_files.write_csv_file('latest_results.csv', new_results)
+
+
+# with open('_data/all_results.csv', 'w') as f:
+#     write = csv.writer(f)
+#     write.writerows(full_results)
 
 # with open('_CSV/updated_results.csv', 'w') as f:
 #     write = csv.writer(f)
