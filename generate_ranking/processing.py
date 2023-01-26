@@ -1,7 +1,7 @@
 """
 Processing consists of several steps:
 
--  add points to results
+- add points to results
 
 - add up points per rider
 
