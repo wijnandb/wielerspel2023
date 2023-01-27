@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.PSs,"Vuelta a San Juan, Stage 5 : Plaza de Chimbas - Alto del Colorado (prov.)",40870,LOPEZ MORENO Miguel Angel,23334,0.0,0
 1,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,GOOSSENS Kobe,23771,0.0,0
 2,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,SANCHEZ MAYO Pelayo,31655,0.0,0
 3,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,VAN EETVELT Lennert,32225,0.0,0
@@ -32,6 +33,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,2.WT1r,"Tour Down Under, Mountains classification",40936,HONORE Mikkel Frølich,25629,0.0,0
 1,2.WT1r,"Tour Down Under, Points classification",40935,MATTHEWS Michael,13066,0.0,0
 1,2.PSs,"Vuelta a San Juan, Stage 1 : San Juan - San Juan (prov.)",40866,BENNETT Sam,13362,0.0,0
-1,1.1,GP Valencia,40897,DE LIE Arnaud,32221,0.0,0
-2,1.1,GP Valencia,40897,BIERMANS Jenthe,22010,0.0,0
-3,1.1,GP Valencia,40897,BOASSON HAGEN Edvald,4377,0.0,0
