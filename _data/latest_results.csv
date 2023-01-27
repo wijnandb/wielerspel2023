@@ -1,9 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença (prov.)",40901,GOOSSENS Kobe,23771,0.0,0
-2,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença (prov.)",40901,SANCHEZ MAYO Pelayo,31655,0.0,0
-3,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença (prov.)",40901,VAN EETVELT Lennert,32225,0.0,0
+1,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,GOOSSENS Kobe,23771,0.0,0
+2,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,SANCHEZ MAYO Pelayo,31655,0.0,0
+3,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,VAN EETVELT Lennert,32225,0.0,0
 1,2.1s,"La Tropicale Amissa Bongo, Stage 5 : Kango - Angondje (prov.)",40884,FERNANDEZ RUIZ Miguel Angel,26985,0.0,0
-1,NCT4,National Championships Thailand (Thong Pha Phum) I.T.T. (prov.),40907,CHAWCHIANGKWANG Peerapol,11810,0.0,0
+1,NCT4,National Championships Thailand (Thong Pha Phum) I.T.T.,40907,CHAWCHIANGKWANG Peerapol,11810,0.0,0
+1,NCT5,National Championships Namibia (Windhoek) I.T.T.,40905,COETZEE Drikus,26844,0.0,0
 1,1.1,Trofeo Ses Salines - Alcudia,40899,VAN DEN BERG Marijn,27674,0.0,0
 2,1.1,Trofeo Ses Salines - Alcudia,40899,VERNON Ethan,30035,0.0,0
 3,1.1,Trofeo Ses Salines - Alcudia,40899,GIRMAY HAILU Biniam,29474,0.0,0
