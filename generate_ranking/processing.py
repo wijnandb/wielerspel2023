@@ -9,10 +9,10 @@ Processing consists of several steps:
 
 - sort teamcaptains by points and JPP
 """
-import csv
 import operator
 from decimal import *
 import process_files
+import process_points
 #from datetime import datetime
 """
 results.csv
@@ -39,6 +39,11 @@ points.csv:
 2 - points
 3 - jpp
 """
+
+points = process_files.read_csv_file('points.csv')
+results = process_files.read_csv_file('all_results.csv')
+new_results = process_files.read_csv_file('new_results.csv')
+process_points.add_points_to_results(points, results)
 
 def add_points_to_results():
     points = process_files.read_csv_file('points.csv')

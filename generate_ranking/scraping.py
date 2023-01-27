@@ -63,8 +63,6 @@ def check_if_new_results():
             for result in results:
                 if (int(rank) == int(result[0]) and int(race_id) == int(result[3])):
                     print(f"{race_id} already exists with rank {rank}")
-                    return False
-                print(f"deze niet hetzelfde {result}")
             return True
         except:
             print("Something went wrong scraping latest results")

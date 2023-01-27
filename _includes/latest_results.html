@@ -1,0 +1,30 @@
+---
+title: "Laatste uitslagen"
+---
+
+<table class="table display compact" id="table_id" style="width:100%">
+    <thead>
+        <tr>
+            <th>positie</th>
+            <th>Renner</th>
+            <th>Race</th>
+            <th>Category</th>
+            <th>Punten</th>
+            <th>JPP</th>
+            <!--th>Ploegleider</th-->
+        </tr>
+    </thead>
+    <tbody>
+    {% for item in site.data.latest_results limit 5 %}
+      <tr>
+        <td>{{ item.rank }}</td>
+        <td><a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ item.rider_id }}" target="_new">{{ item.rider_name }}</a></td>
+        <td>{{ item.racename }}</td>
+        <td>{{ item.category }}</td>
+        <td>{{ item.points }}</td>
+        <td>{{ item.jpp }}</td>
+        <!--td>{{ item.ploegleider }}</td-->
+      </tr>
+    {% endfor %}
+    </tbody>
+</table>

@@ -1,4 +1,5 @@
 import csv
+from decimal import *
 
 
 def read_csv_file(filename):
@@ -30,3 +31,6 @@ def write_row_in_HTML_table(row):
         start.append("<td>"+str(value)+"</td>")
     start.append("</tr>")
     return start
+
+
+
