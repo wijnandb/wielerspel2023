@@ -59,10 +59,12 @@ def check_if_new_results():
             """
             rank = tds[4].text.split(".")[0]
             race_id = tds[3].a['href'].split("=")[1]
+            print(f"Check resultaat, {tds[3].text}")
             for result in results:
                 if (int(rank) == result[0] and int(race_id) == result[3]):
                     print(f"{race_id} already exists with rank {rank}")
                     return False
+                print(f"deze niet hetzelfde {result}")
             return True
         except:
             print("Something went wrong scraping latest results")
