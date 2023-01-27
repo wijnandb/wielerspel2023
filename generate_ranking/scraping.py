@@ -83,6 +83,7 @@ def get_results():
     Store these and re-visit, until (prov.) or (provisional) disclaimer is gone.
     """
     if check_if_new_results():
+        print("OK, checking new results")
         base_result_url = "https://cqranking.com/men/asp/gen/start.asp"
         b = base_result_url
         r = requests.get(b)
