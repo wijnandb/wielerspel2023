@@ -40,26 +40,21 @@ points.csv:
 3 - jpp
 """
 
-points = process_files.read_csv_file('points.csv')
-results = process_files.read_csv_file('all_results.csv')
-new_results = process_files.read_csv_file('latest_results.csv')
-process_points.add_points_to_results(points, results)
+# def add_points_to_results():
+#     points = process_files.read_csv_file('points.csv')
+#     results = process_files.read_csv_file('all_results.csv')
 
-def add_points_to_results():
-    points = process_files.read_csv_file('points.csv')
-    results = process_files.read_csv_file('all_results.csv')
-
-    for result in results[1:]: # skip the header row
-        for point in points[1:]:
-            if (int(result[0]) == int(point[1])) and (result[1] == point[0]):
-                result[6] = Decimal(point[2])
-                result[7] = int(point[3])
-        #print(result)
-    """
-    Instead of writing the results to a file, I can also return the list with results to further process
-    """
-    process_files.write_csv_file('results_with_points.csv', results)
-    return True
+#     for result in results[1:]: # skip the header row
+#         for point in points[1:]:
+#             if (int(result[0]) == int(point[1])) and (result[1] == point[0]):
+#                 result[6] = Decimal(point[2])
+#                 result[7] = int(point[3])
+#         #print(result)
+#     """
+#     Instead of writing the results to a file, I can also return the list with results to further process
+#     """
+#     process_files.write_csv_file('results_with_points.csv', results)
+#     return True
 
 
 # def write_csv_file(filename, results):
@@ -145,6 +140,13 @@ def add_up_points_per_teamcaptain(riders):
     process_files.write_csv_file("ranking.csv", ranking_with_rank)
 
 
-if add_points_to_results():
-    print("Added points and JPP to results")
-    add_up_points_per_rider()
+points = process_files.read_csv_file('points.csv')
+results = process_files.read_csv_file('all_results.csv')
+new_results = process_files.read_csv_file('latest_results.csv')
+process_points.add_points_to_results("all_results.csv", "results_with_points.csv")
+process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv")
+
+if process_points.add_points_to_results("all_results.csv", "results_with_points.csv"):
+    if process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv"):
+        print("Added points and JPP to results")
+        add_up_points_per_rider()
