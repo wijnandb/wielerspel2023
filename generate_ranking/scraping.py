@@ -46,8 +46,8 @@ def check_if_new_results():
     r = requests.get(b)
     soup = BeautifulSoup(r.text, "html.parser")
     result_table =  soup.find("table", ["borderNoOpac"])
-    row_tags = result_table.find_all('tr')[1:] # just first two results, skipping header row
-    for row_tag in row_tags[:3]:
+    row_tags = result_table.find_all('tr')[1:2] # just first result, skipping header row
+    for row_tag in row_tags:
         try:
             tds = row_tag.find_all('td')
             """
