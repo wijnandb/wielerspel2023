@@ -42,7 +42,7 @@ points.csv:
 
 points = process_files.read_csv_file('points.csv')
 results = process_files.read_csv_file('all_results.csv')
-new_results = process_files.read_csv_file('new_results.csv')
+new_results = process_files.read_csv_file('latest_results.csv')
 process_points.add_points_to_results(points, results)
 
 def add_points_to_results():
