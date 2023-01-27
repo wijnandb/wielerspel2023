@@ -61,7 +61,7 @@ def check_if_new_results():
             race_id = tds[3].a['href'].split("=")[1]
             print(f"Check resultaat, {tds[3].text}")
             for result in results:
-                if (int(rank) == result[0] and int(race_id) == result[3]):
+                if (int(rank) == int(result[0]) and int(race_id) == int(result[3])):
                     print(f"{race_id} already exists with rank {rank}")
                     return False
                 print(f"deze niet hetzelfde {result}")
