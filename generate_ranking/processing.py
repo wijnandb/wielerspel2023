@@ -127,7 +127,7 @@ def add_up_points_per_teamcaptain(riders):
         ranking.append([teamcaptain, Decimal(points),int(JPP)])
 
     #print(sorted(ranking))#, key=lambda x:(x[1], x[2], x[0])))
-    ranking = sorted(ranking, key=operator.itemgetter(1, 2), reverse=True)
+    ranking = sorted(ranking, key=operator.itemgetter(1, 2, 0), reverse=True)
     # append headers, 
     # add rank, with i for len(ranking)
     ranking_with_rank = [['positie','ploegleider','punten','JPP']]
