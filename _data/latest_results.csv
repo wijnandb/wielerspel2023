@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.PSs,"Vuelta a San Juan, Stage 6 : San Juan - San Juan (prov.)",40871,WELSFORD Samuel,23517,0.0,0
 1,1.1,Trofeo Serra de Tramuntana,40900,GOOSSENS Kobe,23771,0.0,0
 2,1.1,Trofeo Serra de Tramuntana,40900,VAN EETVELT Lennert,32225,0.0,0
 3,1.1,Trofeo Serra de Tramuntana,40900,VAN WILDER Ilan,29828,0.0,0
@@ -23,13 +24,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,2.1s,"La Tropicale Amissa Bongo, Stage 2 : Oyem - Mitzic (prov.)",40881,TESSON Jason,29883,0.0,0
 1,2.PSs,"Vuelta a San Juan, Stage 2 : Villa San Agustin - San Jose de Jachal (prov.)",40867,JAKOBSEN Fabio,23426,0.0,0
 1,2.1s,"La Tropicale Amissa Bongo, Stage 1 : Bitam - Oyem (prov.)",40880,SOUPE Geoffrey,13560,0.0,0
-1,2.WT1,"Tour Down Under, General classification",40865,VINE Jay,29568,0.0,0
-2,2.WT1,"Tour Down Under, General classification",40865,YATES Simon,17893,0.0,0
-3,2.WT1,"Tour Down Under, General classification",40865,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0
-4,2.WT1,"Tour Down Under, General classification",40865,SHEFFIELD Magnus,31598,0.0,0
-5,2.WT1,"Tour Down Under, General classification",40865,SCHMID Mauro,29214,0.0,0
-6,2.WT1,"Tour Down Under, General classification",40865,O'CONNOR Ben,23763,0.0,0
-7,2.WT1,"Tour Down Under, General classification",40865,BYSTRØM Sven Erik,18608,0.0,0
-8,2.WT1,"Tour Down Under, General classification",40865,TIBERI Antonio,30649,0.0,0
-9,2.WT1,"Tour Down Under, General classification",40865,IZAGIRRE INSAUSTI Gorka,10070,0.0,0
-10,2.WT1,"Tour Down Under, General classification",40865,COQUARD Bryan,18714,0.0,0
