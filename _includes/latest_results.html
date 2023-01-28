@@ -1,10 +1,8 @@
 <table class="table display compact" id="table_id" style="width:100%">
     <thead>
         <tr>
-            <th>positie</th>
             <th>Renner</th>
-            <th>Race</th>
-            <th>Category</th>
+            <th>#, Race (cat)</th>
             <th>Punten</th>
             <th>JPP</th>
             <!--th>Ploegleider</th-->
@@ -13,10 +11,8 @@
     <tbody>
     {% for item in site.data.latest_results_with_points %}
       <tr>
-        <td>{{ item.rank }}</td>
         <td>{{ item.rider_name }}</td>
-        <td>{{ item.racename }}</td>
-        <td>{{ item.category }}</td>
+        <td>{{ item.rank }}. {{ item.racename }} ({{ item.category }})</td>
         <td>{{ item.points }}</td>
         <td>{{ item.jpp }}</td>
         <!--td>{{ item.ploegleider }}</td-->
