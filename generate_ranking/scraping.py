@@ -7,7 +7,6 @@ I am struggling to remove doubles, so why not add the lists together and make a 
 """
 import requests
 from bs4 import BeautifulSoup
-import csv
 import process_files
 from datetime import datetime
 # from operator import itemgetter
