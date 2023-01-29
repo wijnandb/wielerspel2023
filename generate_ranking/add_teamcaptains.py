@@ -20,7 +20,7 @@ def add_full_name(shortcode):
 
 
 
-def add_teamcaptain(results):
+def add_teamcaptain(infile, outfile=None):
     """
     This looks up a rider from a result, then looks up the corresponding teamcaptain
     and adds the teamcaptain to the result.
@@ -28,15 +28,48 @@ def add_teamcaptain(results):
     """
     """
     Which way should I loop: which is the outer loop and which is the inner loop?
-    
+
     """
-    for rider in riders:
-        for result in results:
-            # look up the rider in the results
-            if result[] == rider[]:
+    results = process_files.read_csv_file(infile)
+    # add new column to results
+    if results[0][-1] != "ploegleider":
+        results[0].append("ploegleider")
+
+    for result in results[1:]:
+        #print(f"checking result {result}")
+        result.append("niet verkocht")
+        for rider in riders[1:]:
+        # look up the rider in the results
+            if int(result[5]) == int(rider[0]):
                 # add the shortcode of the teamcaptain
-                result.append(rider[])
-    """
-    Doing it the other way around makes it possible to add "not sold" to a rider
-    """
+                result[-1]=(rider[3])
+                break
+    print(results)
+
+    process_files.write_csv_file(outfile, results)
+"""
+results.csv
+0 - rank
+1 - category
+2 - racename
+3 - race_id
+4 - rider_name
+5 - rider_rider_id
+6 - points
+7 - JPP
+"""
+"""
+ploegen.csv
+0 - renner_id
+1 - rider_name
+2 - rider_full_name
+3 - teamcaptain
+4 - price
+5 - team
+6 - nationality
+7 - age
+8 - points
+9 - JPP
+"""
+
 

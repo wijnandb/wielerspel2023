@@ -13,6 +13,7 @@ import operator
 from decimal import *
 import process_files
 import process_points
+import add_teamcaptains
 #from datetime import datetime
 """
 results.csv
@@ -146,12 +147,11 @@ new_results = process_files.read_csv_file('latest_results.csv')
 process_points.add_points_to_results("all_results.csv", "results_with_points.csv")
 process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv")
 
-# here is the place where we should add the teamcaptain to the results
-
-
-
-
 if process_points.add_points_to_results("all_results.csv", "results_with_points.csv"):
     if process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv"):
         print("Added points and JPP to results")
         add_up_points_per_rider()
+        # here is the place where we should add the teamcaptain to the results
+        print("Adding teamcaptains to results")
+        add_teamcaptains.add_teamcaptain("results_with_points.csv","test_results_with_points.csv")
+        add_teamcaptains.add_teamcaptain("latest_results_with_points.csv","test_latest_results_with_points.csv")
