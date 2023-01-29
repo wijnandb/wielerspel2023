@@ -11,11 +11,11 @@ title: "Uitslagen met punten"
             <th>Category</th>
             <th>Punten</th>
             <th>JPP</th>
-            <!--th>Ploegleider</th-->
+            <th>Ploegleider</th>
         </tr>
     </thead>
     <tbody>
-    {% for item in site.data.test_results_with_points %}
+    {% for item in site.data.results_with_points %}
       <tr>
         <td>{{ item.rank }}</td>
         <td><a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ item.rider_id }}" target="_new">{{ item.rider_name }}</a></td>

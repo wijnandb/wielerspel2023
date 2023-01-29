@@ -153,5 +153,5 @@ if process_points.add_points_to_results("all_results.csv", "results_with_points.
         add_up_points_per_rider()
         # here is the place where we should add the teamcaptain to the results
         print("Adding teamcaptains to results")
-        add_teamcaptains.add_teamcaptain("results_with_points.csv","test_results_with_points.csv")
-        add_teamcaptains.add_teamcaptain("latest_results_with_points.csv","test_latest_results_with_points.csv")
+        add_teamcaptains.add_teamcaptain("results_with_points.csv")
+        add_teamcaptains.add_teamcaptain("latest_results_with_points.csv")

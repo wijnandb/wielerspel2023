@@ -25,10 +25,9 @@ def add_teamcaptain(infile, outfile=None):
     This looks up a rider from a result, then looks up the corresponding teamcaptain
     and adds the teamcaptain to the result.
     This will be the shortname of the teamcaptain, which functions as the key.
-    """
-    """
-    Which way should I loop: which is the outer loop and which is the inner loop?
 
+    Chnaged function so infile gets read, processed and re-written.
+    Can also have a different infile and outfile
     """
     results = process_files.read_csv_file(infile)
     # add new column to results
@@ -46,7 +45,7 @@ def add_teamcaptain(infile, outfile=None):
                 break
     print(results)
 
-    process_files.write_csv_file(outfile, results)
+    process_files.write_csv_file(infile, results)
 """
 results.csv
 0 - rank

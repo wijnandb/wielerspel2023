@@ -5,11 +5,11 @@
             <th>rank. Race (cat)</th>
             <th>Punten</th>
             <th>JPP</th>
-            <!--th>Ploegleider</th-->
+            <th>Ploegleider</th>
         </tr>
     </thead>
     <tbody>
-    {% for item in site.data.test_latest_results_with_points %}
+    {% for item in site.data.latest_results_with_points %}
       <tr>
         <td>{{ item.rider_name }}</td>
         <td>{{ item.rank }}. {{ item.racename }} ({{ item.category }})</td>
