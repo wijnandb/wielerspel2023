@@ -9,6 +9,10 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 8,1.WT3,Cadel Evans Great Ocean Road Race,40904,HIRSCHI Marc,26509,0,12,Bram
 9,1.WT3,Cadel Evans Great Ocean Road Race,40904,BENNETT George,12254,0,10,Nicky
 10,1.WT3,Cadel Evans Great Ocean Road Race,40904,QUINN Sean,29331,0,8,niet verkocht
+1,1.1,Trofeo Playa de Palma (prov.),40902,VERNON Ethan,30035,2,0,Arjan
+2,1.1,Trofeo Playa de Palma (prov.),40902,GIRMAY HAILU Biniam,29474,0.3,0,Nicky
+3,1.1,Trofeo Playa de Palma (prov.),40902,VAN DE PAAR Jarne,29798,0.1,0,niet verkocht
+1,NC4,National Championships Thailand (Thong Pha Phum) R.R. (prov.),40908,KLAHAN Noppachai,31282,0.0,0,niet verkocht
 1,2.PSs,"Vuelta a San Juan, Stage 6 : San Juan - San Juan (prov.)",40871,WELSFORD Samuel,23517,0.3,0,PB
 1,1.1,Trofeo Serra de Tramuntana,40900,GOOSSENS Kobe,23771,2,0,niet verkocht
 2,1.1,Trofeo Serra de Tramuntana,40900,VAN EETVELT Lennert,32225,0.3,0,niet verkocht
@@ -31,5 +35,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 3,1.1,Trofeo Calvia,40898,HEALY Ben,28846,0.1,0,niet verkocht
 1,2.1s,"La Tropicale Amissa Bongo, Stage 3 : Lebamba - Mouila (prov.)",40882,TESSON Jason,29883,0.2,0,Jan
 1,2.PSs,"Vuelta a San Juan, Stage 3 : Circuito San Juan Villicum - Circuito San Juan Villicum (prov.)",40868,SIMMONS Quinn,30666,0.3,0,Bram
-1,2.1s,"La Tropicale Amissa Bongo, Stage 2 : Oyem - Mitzic (prov.)",40881,TESSON Jason,29883,0.2,0,Jan
-1,2.PSs,"Vuelta a San Juan, Stage 2 : Villa San Agustin - San Jose de Jachal (prov.)",40867,JAKOBSEN Fabio,23426,0.3,0,Kaspar
