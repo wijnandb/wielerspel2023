@@ -1,6 +1,7 @@
 ---
 title: Interessante klassementjes?
 date: 28-01-2023
+author: Wijnand
 ---
 
 Zonder zout in wonden te willen gooien of oude vetes nieuw leven in te willen blazen, snijd ik graag het onderwerp van klassementjes aan. Of, om de gemoederen te bedaren en het over een modernere, neutralere boeg te gooien: data.
