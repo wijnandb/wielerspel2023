@@ -12,7 +12,7 @@
     <tbody>
     {% for item in site.data.latest_results_with_points %}
       <tr>
-        <td>{{ item.rider_name }}</td>
+        <td><a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ item.rider_id }}" title="CQranking pagina van {{ item.rider_name }}">{{ item.rider_name }}</a></td>
         <td>{{ item.rank }}. {{ item.racename }} ({{ item.category }})</td>
         <td>{{ item.points }}</td>
         <td>{{ item.jpp }}</td>
