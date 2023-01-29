@@ -15,6 +15,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 1,1.1,Trofeo Playa de Palma (prov.),40902,VERNON Ethan,30035,2,0,Arjan
 2,1.1,Trofeo Playa de Palma (prov.),40902,GIRMAY HAILU Biniam,29474,0.3,0,Nicky
 3,1.1,Trofeo Playa de Palma (prov.),40902,VAN DE PAAR Jarne,29798,0.1,0,niet verkocht
+1,1.1,GP La Marseillaise (prov.),40903,POWLESS Neilson,24902,2,0,Harry
+2,1.1,GP La Marseillaise (prov.),40903,FERRON Valentin,28375,0.3,0,niet verkocht
+3,1.1,GP La Marseillaise (prov.),40903,VAN MOER Brent,28448,0.1,0,niet verkocht
 1,2.1s,"La Tropicale Amissa Bongo, Stage 7 : Cap Esterias - Libreville (prov.)",40886,SALBY Alexander,26419,0.2,0,niet verkocht
 1,NC4,National Championships Thailand (Thong Pha Phum) R.R. (prov.),40908,KLAHAN Noppachai,31282,0.0,0,niet verkocht
 1,2.PSs,"Vuelta a San Juan, Stage 6 : San Juan - San Juan (prov.)",40871,WELSFORD Samuel,23517,0.3,0,PB
@@ -34,4 +37,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 2,1.1,Trofeo Ses Salines - Alcudia,40899,VERNON Ethan,30035,0.3,0,Arjan
 3,1.1,Trofeo Ses Salines - Alcudia,40899,GIRMAY HAILU Biniam,29474,0.1,0,Nicky
 1,2.1s,"La Tropicale Amissa Bongo, Stage 4 : Mouila - Lambarene (prov.)",40883,LAGAB Azzedine,10294,0.2,0,niet verkocht
-1,2.PSs,"Vuelta a San Juan, Stage 4 : Circuito San Juan Villicum - Plaza Barreal (prov.)",40869,GAVIRIA RENDON Fernando,20777,0.3,0,Albert
