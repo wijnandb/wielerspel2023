@@ -7,9 +7,9 @@ title: Berichten
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}<br />
-      <a href="{{ post.url }}">Lees meer...</a>"
+      <a href="{{ site.baseurl }}{{ post.url }}">Lees meer...</a>
     </li>
   {% endfor %}
 </ul>
