@@ -37,7 +37,14 @@ De informatie is er dus, het gaat nu om het koppelen van de renner aan de ploegl
 
 Hoe ziet dat er uit voor wat betreft de data die we opslaan?
 
-jaartal     race    winnaar     ploegleider
+             
+| jaartal  | race  | winnaar  | ploegleider  | 
+|---|---|---|---|---|
+| 1999  |  1234 |  5678 | Jan  | 
+
 
 De eerste 3 velden komen dan dus van de site(s) met de informatie, de laatste kolom voegen we zelf toe a.d.h.v. de informatie over onze eigen ploegen in dat jaar.
+De makkelijkste oplossing m.b.t. de ploegleiders is om te zorgen dat die door de jaren heen op dezelfde manier worden geschreven/gespeld. Om er zeker van te zijn dat er geen afwijkingen zijn, kunnen we de ploegleiders ook omzetten naar een ploegleider_id en die overal in de site gebruiken.
+
+
 
