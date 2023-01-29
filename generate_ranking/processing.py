@@ -146,6 +146,8 @@ new_results = process_files.read_csv_file('latest_results.csv')
 process_points.add_points_to_results("all_results.csv", "results_with_points.csv")
 process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv")
 
+# here is the place where we should add the teamcaptain to the results
+
 if process_points.add_points_to_results("all_results.csv", "results_with_points.csv"):
     if process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv"):
         print("Added points and JPP to results")

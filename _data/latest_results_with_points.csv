@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,1.WT3,Cadel Evans Great Ocean Road Race,40904,MAYRHOFER Marius,29192,5,50
+2,1.WT3,Cadel Evans Great Ocean Road Race,40904,PAGE Hugo,30663,2,35
+3,1.WT3,Cadel Evans Great Ocean Road Race,40904,CLARKE Simon,3366,1,25
+4,1.WT3,Cadel Evans Great Ocean Road Race,40904,MATTHEWS Michael,13066,0,20
+5,1.WT3,Cadel Evans Great Ocean Road Race,40904,STRONG Corbin,29492,0,18
+6,1.WT3,Cadel Evans Great Ocean Road Race,40904,EWAN Caleb,19651,0,16
+7,1.WT3,Cadel Evans Great Ocean Road Race,40904,SMITH Dion,21036,0,14
+8,1.WT3,Cadel Evans Great Ocean Road Race,40904,HIRSCHI Marc,26509,0,12
+9,1.WT3,Cadel Evans Great Ocean Road Race,40904,BENNETT George,12254,0,10
+10,1.WT3,Cadel Evans Great Ocean Road Race,40904,QUINN Sean,29331,0,8
 1,2.PSs,"Vuelta a San Juan, Stage 6 : San Juan - San Juan (prov.)",40871,WELSFORD Samuel,23517,0.3,0
 1,1.1,Trofeo Serra de Tramuntana,40900,GOOSSENS Kobe,23771,2,0
 2,1.1,Trofeo Serra de Tramuntana,40900,VAN EETVELT Lennert,32225,0.3,0
@@ -23,4 +33,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,2.PSs,"Vuelta a San Juan, Stage 3 : Circuito San Juan Villicum - Circuito San Juan Villicum (prov.)",40868,SIMMONS Quinn,30666,0.3,0
 1,2.1s,"La Tropicale Amissa Bongo, Stage 2 : Oyem - Mitzic (prov.)",40881,TESSON Jason,29883,0.2,0
 1,2.PSs,"Vuelta a San Juan, Stage 2 : Villa San Agustin - San Jose de Jachal (prov.)",40867,JAKOBSEN Fabio,23426,0.3,0
-1,2.1s,"La Tropicale Amissa Bongo, Stage 1 : Bitam - Oyem (prov.)",40880,SOUPE Geoffrey,13560,0.2,0
