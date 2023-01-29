@@ -63,13 +63,13 @@ points.csv:
 #         write = csv.writer(f)
 #         write.writerows(results)
 
-
-def get_teamcaptains(sold_riders):
-    teamcaptains = []
-    for sr in sold_riders[1:]:
-        if sr[3] not in teamcaptains:
-            teamcaptains.append(sr[3])
-    return teamcaptains
+teamcaptains = process_files.read_csv_file("teamcaptains.csv")
+# def get_teamcaptains(sold_riders):
+#     teamcaptains = []
+#     for sr in sold_riders[1:]:
+#         if sr[3] not in teamcaptains:
+#             teamcaptains.append(sr[3])
+#     return teamcaptains
 
 
 """
@@ -109,30 +109,30 @@ def add_up_points_per_rider():
 def add_up_points_per_teamcaptain(riders):
     # riders = read_csv_file("ploegen.csv")
     ranking = []
-    teamcaptains = get_teamcaptains(riders)
-    for teamcaptain in teamcaptains:
+    #teamcaptains = get_teamcaptains(riders)
+    for teamcaptain in teamcaptains[1:]:
         # put the header row in each teamcaptain's csv file
         team = [riders[0]]
         points = 0
         JPP = 0
         #print(teamcaptain)
         for rider in riders:
-            if rider[3] == teamcaptain:
+            if rider[3] == teamcaptain[0]:
                 # add to teamcaptain.csv
                 team.append([int(rider[0]),rider[1],rider[2],rider[3],int(rider[4]),rider[5],rider[6],rider[7],Decimal(rider[8]),int(rider[9])])
                 # print(team)
                 points += Decimal(rider[8])
                 JPP += int(rider[9])
-        process_files.write_csv_file("ploegleiders/"+teamcaptain.lower()+".csv", team)
-        ranking.append([teamcaptain, Decimal(points),int(JPP)])
+        process_files.write_csv_file("ploegleiders/"+teamcaptain[0].lower()+".csv", team)
+        ranking.append([teamcaptain[0],teamcaptain[1], Decimal(points),int(JPP)])
 
     #print(sorted(ranking))#, key=lambda x:(x[1], x[2], x[0])))
-    ranking = sorted(ranking, key=operator.itemgetter(1, 2, 0), reverse=True)
+    ranking = sorted(ranking, key=operator.itemgetter(2, 3), reverse=True)
     # append headers, 
     # add rank, with i for len(ranking)
-    ranking_with_rank = [['positie','ploegleider','punten','JPP']]
+    ranking_with_rank = [['positie','short','ploegleider','punten','JPP']]
     for i in range(len(ranking)):
-        ranking_with_rank.append([i+1, ranking[i][0], ranking[i][1], ranking[i][2]])
+        ranking_with_rank.append([i+1, ranking[i][0], ranking[i][1], ranking[i][2],ranking[i][3]])
     
     for r in ranking_with_rank:
         print(r)
@@ -147,6 +147,9 @@ process_points.add_points_to_results("all_results.csv", "results_with_points.csv
 process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv")
 
 # here is the place where we should add the teamcaptain to the results
+
+
+
 
 if process_points.add_points_to_results("all_results.csv", "results_with_points.csv"):
     if process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv"):

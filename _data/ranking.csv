@@ -1,15 +1,15 @@
-positie,ploegleider,punten,JPP
-1,Vel,11,50
-2,PB,6.6,78
-3,Jan,4.1,71
-4,Albert,3.3,35
-5,Wijnand,2.1,0
-6,Bram,0.4,32
-7,Nicky,0.4,10
-8,Kaspar,0.3,0
-9,Arjan,0.3,0
-10,Paul,0,16
-11,Harry,0.0,16
-12,Roy,0,0
-13,Kees,0,0
-14,Frank,0,0
+positie,short,ploegleider,punten,JPP
+1,Vel,Frank Vellinga,11,50
+2,PB,Pieter-Bas de Bruijn,6.6,78
+3,Jan,Jan Versluys,4.1,71
+4,Albert,Albert Kraaij,3.3,35
+5,Wijnand,Wijnand Baretta,2.1,0
+6,Bram,Bram van Ommeren,0.4,32
+7,Nicky,Nick Veenstra,0.4,10
+8,Arjan,Arjan Knibbe,0.3,0
+9,Kaspar,Kaspar Burghard,0.3,0
+10,Harry,Harry Koene,0.0,16
+11,Paul,Paul van Doorn,0,16
+12,Frank,Frank Rozemeijer,0,0
+13,Kees,Kees van Ommeren,0,0
+14,Roy,Roy Smits,0,0
