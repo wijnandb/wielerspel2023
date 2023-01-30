@@ -66,7 +66,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 23765,DUNBAR Eddie,DUNBAR Eddie,Paul,2,JAY,IRL,27,0,0
 24932,EENKHOORN Pascal,EENKHOORN Pascal,Harry,1,LTD,NED,26,0,0
 21405,EIKING Odd Christian,EIKING Odd Christian,Roy,0,EFE,NOR,29,0,0
-28377,EVENEPOEL Remco,EVENEPOEL Remco,Roy,70,SOQ,BEL,23,0,0
+28377,EVENEPOEL Remco,EVENEPOEL Remco,Roy,70,SOQ,BEL,23,0,14
 19651,EWAN Caleb,EWAN Caleb,Paul,16,LTD,AUS,29,0,16
 29309,FEDOROV Yevgeniy,FEDOROV Yevgeniy,PB,1,AST,KAZ,23,0,0
 30562,FISHER-BLACK Finn,FISHER-BLACK Finn,Jan,1,UAD,NZL,22,0,0
@@ -74,7 +74,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24873,FOSS Tobias,FOSS Tobias Svendsen,Harry,7,TJV,NOR,26,0,0
 19335,FRAILE Omar,FRAILE MATARRANZ Omar,Arjan,1,IGD,ESP,33,0,0
 3828,FUGLSANG Jakob,FUGLSANG Jakob,Kees,1,IPT,DEN,38,0,0
-24057,GANNA Filippo,GANNA Filippo,Jan,16,IGD,ITA,27,0,0
+24057,GANNA Filippo,GANNA Filippo,Jan,16,IGD,ITA,27,1,35
 23497,GARCIA CORTINA Ivan,GARCIA CORTINA Ivan,PB,1,MOV,ESP,28,0,0
 24255,GAUDU David,GAUDU David,Nicky,9,GFC,FRA,27,0,0
 20777,GAVIRIA Fernando,GAVIRIA RENDON Fernando,Albert,3,MOV,COL,29,0.3,0
@@ -94,7 +94,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 4819,HERMANS Ben,HERMANS Ben,Albert,1,IPT,BEL,37,0,0
 22077,HERMANS Quinten,HERMANS Quinten,Frank,1,ADC,BEL,28,0,0
 17534,HERRADA Jesus,HERRADA LOPEZ Jesus,Paul,2,COF,ESP,33,0,0
-25026,HIGUITA Sergio,HIGUITA GARCIA Sergio Andres,Kaspar,15,BOH,COL,26,0,0
+25026,HIGUITA Sergio,HIGUITA GARCIA Sergio Andres,Kaspar,15,BOH,COL,26,0.5,25
 23948,HINDLEY Jai,HINDLEY Jai,Kaspar,13,BOH,AUS,27,0,0
 26509,HIRSCHI Marc,HIRSCHI Marc,Bram,10,UAD,SUI,25,0,12
 17078,HIRT Jan,HIRT Jan,Wijnand,1,SOQ,CZE,32,0,0
@@ -125,7 +125,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29907,LEEMREIZE Gijs,LEEMREIZE Gijs,Vel,1,TJV,NED,24,0,0
 27653,LEKNESSUND Andreas,LEKNESSUND Andreas,Paul,2,DSM,NOR,24,0,0
 27132,LOPEZ Juan Pedro,LOPEZ PEREZ Juan Pedro,PB,1,TFS,ESP,26,0,0
-23334,LOPEZ Miguel Angel,LOPEZ MORENO Miguel Angel,Nicky,5,???,COL,29,0.3,0
+23334,LOPEZ Miguel Angel,LOPEZ MORENO Miguel Angel,Nicky,5,???,COL,29,4.3,50
 29982,LOUVEL Matis,LOUVEL Matis,Paul,3,ARK,FRA,24,0,0
 18455,LUTSENKO Alexey,LUTSENKO Alexey,Vel,6,AST,KAZ,31,0,0
 26271,MÄDER Gino,MÄDER Gino,Bram,5,TBV,SUI,26,0,0
@@ -176,7 +176,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 20719,ROGLIC Primoz,ROGLIC Primoz,Bram,38,TJV,SLO,34,0,0
 21958,ROTA Lorenzo,ROTA Lorenzo,Paul,3,ICW,ITA,28,0,0
 13229,ROWE Luke,ROWE Luke,Arjan,0,IGD,GBR,33,0,0
-27024,RUBIO Einer Augusto,RUBIO REYES Einer Augusto,Frank,0,MOV,COL,25,0,0
+27024,RUBIO Einer Augusto,RUBIO REYES Einer Augusto,Frank,0,MOV,COL,25,0,20
 12193,SAGAN Peter,SAGAN Peter,Roy,5,TEN,SVK,33,0,0
 333,SANCHEZ Luis Leon,SANCHEZ GIL Luis Leon,Albert,1,AST,ESP,40,0,0
 21267,SARREAU Marc,SARREAU Marc,Roy,1,ACT,FRA,30,0,0
@@ -186,7 +186,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 19903,SENECHAL Florian,SENECHAL Florian,Wijnand,5,SOQ,FRA,30,0,0
 25671,SERRANO Gonzalo,SERRANO RODRIGUEZ Gonzalo,Harry,2,MOV,ESP,29,0,0
 31598,SHEFFIELD Magnus,SHEFFIELD Magnus,Jan,6,IGD,USA,21,0.5,20
-30666,SIMMONS Quinn,SIMMONS Quinn,Bram,1,TFS,USA,22,0.3,0
+30666,SIMMONS Quinn,SIMMONS Quinn,Bram,1,TFS,USA,22,0.3,8
 7834,SIMON Julien,SIMON Julien,Jan,1,TEN,FRA,38,0,0
 24934,SIVAKOV Pavel,SIVAKOV Pavel,Paul,7,IGD,FRA,26,0,0
 30166,SKJELMOSE Mattias,SKJELMOSE JENSEN Mattias,Kaspar,7,TFS,DEN,23,0,0
@@ -245,7 +245,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28509,WALLS Matthew,WALLS Matthew,PB,1,BOH,GBR,25,0,0
 19646,WALSCHEID Maximilian,WALSCHEID Maximilian,PB,1,COF,GER,30,0,0
 16722,WELLENS Tim,WELLENS Tim,Albert,5,UAD,BEL,32,0,0
-23517,WELSFORD Samuel,WELSFORD Samuel,PB,1,DSM,AUS,27,0.3,0
+23517,WELSFORD Samuel,WELSFORD Samuel,PB,1,DSM,AUS,27,0.6,0
 20257,WOODS Michael,WOODS Michael,Albert,2,IPT,CAN,37,0,0
 28446,WRIGHT Fred,WRIGHT Fred,Jan,5,TBV,GBR,24,0,0
 18975,YATES Adam,YATES Adam,Paul,12,UAD,GBR,31,0,0
