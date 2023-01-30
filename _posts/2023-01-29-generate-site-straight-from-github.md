@@ -14,4 +14,19 @@ What we want, is that the process of scraping and the processing of points, are 
 How do we do that?
 
 First, we create a new branch on which we can run the workflow.
+We call this branch _workflow_.
 
+On this workflow branch, we create a new workflow, called _generate_ranking.yaml_.
+
+Parts of the workflow we need to get working:
+
+1. Run the workflow on a schedule
+2. checkout the existing code
+3. set up python
+4. install dependencies
+5. run python file(s)
+6. commit changed files
+
+We also want to find out how to create different jobs, that depend on eachother.
+If there are no new results to scrape, we want the workflow to stop: there is nothing to do.
+ 
