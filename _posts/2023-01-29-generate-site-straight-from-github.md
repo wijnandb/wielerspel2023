@@ -30,3 +30,4 @@ Parts of the workflow we need to get working:
 We also want to find out how to create different jobs, that depend on eachother.
 If there are no new results to scrape, we want the workflow to stop: there is nothing to do.
  
+So, starting at the first point, run the workflow at a schedule:
