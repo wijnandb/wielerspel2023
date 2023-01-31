@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.1s,"Saudi Tour, Stage 2 : Winter Park - Shalal (prov.)",40889,MILAN Jonathan,29359,0.0,0
 1,2.1s,"Saudi Tour, Stage 1 : Al Ula - Khaybar (prov.)",40888,GROENEWEGEN Dylan,19238,0.0,0
 1,1.WT3,Cadel Evans Great Ocean Road Race,40904,MAYRHOFER Marius,29192,0.0,0
 2,1.WT3,Cadel Evans Great Ocean Road Race,40904,PAGE Hugo,30663,0.0,0
@@ -38,8 +39,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 2,1.1,Trofeo Serra de Tramuntana,40900,VAN EETVELT Lennert,32225,0.0,0
 3,1.1,Trofeo Serra de Tramuntana,40900,VAN WILDER Ilan,29828,0.0,0
 1,2.1s,"La Tropicale Amissa Bongo, Stage 6 : Port Gentil - Port Gentil",40885,LAUK Karl Patrick,25669,0.0,0
-1,NC5,National Championships Lesotho R.R.,40918,MAKATILE Kabelo,33573,0.0,0
-1,2.PSs,"Vuelta a San Juan, Stage 5 : Plaza de Chimbas - Alto del Colorado",40870,LOPEZ MORENO Miguel Angel,23334,0.0,0
-1,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,GOOSSENS Kobe,23771,0.0,0
-2,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,SANCHEZ MAYO Pelayo,31655,0.0,0
-3,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,VAN EETVELT Lennert,32225,0.0,0
