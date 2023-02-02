@@ -47,7 +47,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 3448,CAVENDISH Mark,CAVENDISH Mark,Kaspar,4,???,GBR,38,0,0
 27153,CHAMPOUSSIN Clément,CHAMPOUSSIN Clément,Jan,1,ARK,FRA,25,0,0
 16941,CHAVES Jhoan,CHAVES RUBIO Jhoan Esteban,Jan,1,EFE,COL,33,0,0
-21812,CICCONE Giulio,CICCONE Giulio,Nicky,4,TFS,ITA,29,0,0
+21812,CICCONE Giulio,CICCONE Giulio,Nicky,4,TFS,ITA,29,0.3,0
 3366,CLARKE Simon,CLARKE Simon,PB,0,IPT,AUS,37,1,25
 26277,CONCI Nicola,CONCI Nicola,Frank,1,ADC,ITA,26,0,0
 22681,CONSONNI Simone,CONSONNI Simone,Vel,1,COF,ITA,29,0,0
@@ -84,7 +84,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 19238,GROENEWEGEN Dylan,GROENEWEGEN Dylan,Frank,14,JAY,NED,30,0.2,0
 19548,GROSSSCHARTNER Felix,GROSSSCHARTNER Felix,Albert,1,UAD,AUT,30,0,0
 26637,GROVES Kaden,GROVES Kaden,Vel,4,ADC,AUS,25,0,0
-22683,GUERREIRO Ruben,GUERREIRO Ruben Antonio Almeida,Jan,1,MOV,POR,29,0,0
+22683,GUERREIRO Ruben,GUERREIRO Ruben Antonio Almeida,Jan,1,MOV,POR,29,0.2,0
 21212,HAIG Jack,HAIG Jack,Paul,1,TBV,AUS,30,0,0
 15281,HALLER Marco,HALLER Marco,Harry,1,BOH,AUT,32,0,0
 25289,HAMILTON Lucas,HAMILTON Lucas,Albert,1,JAY,AUS,27,0,0
