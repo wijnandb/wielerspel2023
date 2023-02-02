@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/wijnandb/wielerspel2023/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/wijnandb/wielerspel2023/actions/workflows/pages/pages-build-deployment)
+
 # wielerspel2023
 Stand van het wielerspel, automatisch gegenereerd
 
