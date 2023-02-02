@@ -21,6 +21,10 @@ jobs:
         run: |
          git config --global user.email "wb@retta.nl"
          git config --global user.name "wijnandb"
+
+      - name: pull latest changes
+        run: git pull
+
       - name: check for changes
         run: git status
       - name: stage changed files
