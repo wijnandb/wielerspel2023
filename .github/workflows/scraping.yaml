@@ -1,0 +1,53 @@
+on:
+  schedule:
+    # UTC time, so one hour later here. 5 and 35 past 17 and 18
+    - cron: '5,35 4,16,17 * * *'
+
+jobs:
+  scraping:
+    runs-on: ubuntu-latest
+    permissions: write-all
+
+    steps:
+      - uses: actions/checkout@v3.3.0
+      - name: install dependencies
+        run: pip install requests bs4
+      - name: run scraper
+        run: python generate_ranking/scraping.py
+      - name: set user
+        run: |
+         git config --global user.email "wb@retta.nl"
+         git config --global user.name "wijnandb"
+      - name: check for changes
+        run: git status
+      - name: stage changed files
+        run: git add .
+      - name: commit changed files
+        run: git commit -m "New results at $(date +'%Y-%m-%dT%H:%M:%S')"
+      - name: fetch from master
+        run: git fetch origin main
+      - name: push code to master
+        run: git push origin HEAD:main
+        
+  processing:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    needs: scraping
+    steps:
+      - uses: actions/checkout@v3.3.0
+      - name: process-points
+        run: python generate_ranking/processing.py
+      - name: set user
+        run: |
+         git config --global user.email "wb@retta.nl"
+         git config --global user.name "wijnandb"
+      - name: check for changes
+        run: git status
+      - name: stage changed files
+        run: git add .
+      - name: commit changed files
+        run: git commit -m "Points processed at $(date +'%Y-%m-%dT%H:%M:%S')"
+      - name: fetch from master
+        run: git fetch origin main
+      - name: push code to master
+        run: git push origin HEAD:main
