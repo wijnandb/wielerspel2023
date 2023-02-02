@@ -57,7 +57,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28298,COVI Alessandro,COVI Alessandro,Jan,3,UAD,ITA,25,0,0
 26965,DAINESE Alberto,DAINESE Alberto,Vel,3,DSM,ITA,25,0,0
 4557,DE GENDT Thomas,DE GENDT Thomas,Roy,1,LTD,BEL,37,0,0
-32221,DE LIE Arnaud,DE LIE Arnaud,Wijnand,14,LTD,BEL,21,2,0
+32221,DE LIE Arnaud,DE LIE Arnaud,Wijnand,14,LTD,BEL,21,2.2,0
 9851,DEGENKOLB John,DEGENKOLB John,Kaspar,1,DSM,GER,34,0,0
 27083,DEKKER David,DEKKER David,Wijnand,1,ARK,NED,25,0,0
 16653,DEMARE Arnaud,DEMARE Arnaud,Wijnand,13,GFC,FRA,32,0,0
@@ -79,7 +79,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24255,GAUDU David,GAUDU David,Nicky,9,GFC,FRA,27,0,0
 20777,GAVIRIA Fernando,GAVIRIA RENDON Fernando,Albert,3,MOV,COL,29,0.3,0
 22018,GEOGHEGAN HART Tao,GEOGHEGAN HART Tao,Paul,2,IGD,GBR,28,0,0
-29474,GIRMAY Biniam,GIRMAY HAILU Biniam,Nicky,19,ICW,ERI,23,0.4,0
+29474,GIRMAY Biniam,GIRMAY HAILU Biniam,Nicky,19,ICW,ERI,23,0.7,0
 31449,GLOAG Thomas,GLOAG Thomas,Frank,1,TJV,GBR,22,0,0
 19238,GROENEWEGEN Dylan,GROENEWEGEN Dylan,Frank,14,JAY,NED,30,0.2,0
 19548,GROSSSCHARTNER Felix,GROSSSCHARTNER Felix,Albert,1,UAD,AUT,30,0,0
