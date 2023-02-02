@@ -2,7 +2,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Novelda - Alto de Pinos (prov.)",40955,CICCONE Giulio,21812,0.3,0,Nicky
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Bagard - Aubais (prov.)",40949,no result,13543,0.2,0,niet verkocht
 1,2.1s,"Saudi Tour, Stage 4 : Maraya - Harrat Uwayrid (prov.)",40891,GUERREIRO Ruben Antonio Almeida,22683,0.2,0,Jan
-1,NCT2,National Championships Colombia (Bucaramanga) I.T.T. (prov.),40919,LOPEZ MORENO Miguel Angel,23334,1,0,Nicky
+1,NCT2,National Championships Colombia (Bucaramanga) I.T.T. (prov.),40919,LOPEZ MORENO Miguel Angel,23334,2,0,Nicky
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Orihuela - Altea (prov.)",40954,GIRMAY HAILU Biniam,29474,0.3,0,Nicky
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 1 : Bellegarde - Bellegarde (prov.)",40948,DE LIE Arnaud,32221,0.2,0,Wijnand
 1,2.1s,"Saudi Tour, Stage 3 : Al Ula - Abu Rakah (prov.)",40890,WAERENSKJOLD Søren,29187,0.2,0,niet verkocht
@@ -39,21 +39,21 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 2,1.1,Trofeo Playa de Palma,40902,GIRMAY HAILU Biniam,29474,0.3,0,Nicky
 3,1.1,Trofeo Playa de Palma,40902,VAN DE PAAR Jarne,29798,0.1,0,niet verkocht
 1,2.1s,"La Tropicale Amissa Bongo, Stage 7 : Cap Esterias - Libreville",40886,SALBY Alexander,26419,0.2,0,niet verkocht
-1,NC4,National Championships Thailand (Thong Pha Phum) R.R.,40908,KLAHAN Noppachai,31282,0.0,0,niet verkocht
-1,NC5,National Championships Namibia (Windhoek) R.R.,40906,DE LANGE Tristan,28491,0.0,0,niet verkocht
+1,NC4,National Championships Thailand (Thong Pha Phum) R.R.,40908,KLAHAN Noppachai,31282,1,0,niet verkocht
+1,NC5,National Championships Namibia (Windhoek) R.R.,40906,DE LANGE Tristan,28491,1,0,niet verkocht
 1,2.PSs,"Vuelta a San Juan, Stage 6 : San Juan - San Juan",40871,WELSFORD Samuel,23517,0.3,0,PB
 1,1.1,Trofeo Serra de Tramuntana,40900,GOOSSENS Kobe,23771,2,0,niet verkocht
 2,1.1,Trofeo Serra de Tramuntana,40900,VAN EETVELT Lennert,32225,0.3,0,niet verkocht
 3,1.1,Trofeo Serra de Tramuntana,40900,VAN WILDER Ilan,29828,0.1,0,Wijnand
 1,2.1s,"La Tropicale Amissa Bongo, Stage 6 : Port Gentil - Port Gentil",40885,LAUK Karl Patrick,25669,0.2,0,niet verkocht
-1,NC5,National Championships Lesotho R.R.,40918,MAKATILE Kabelo,33573,0.0,0,niet verkocht
+1,NC5,National Championships Lesotho R.R.,40918,MAKATILE Kabelo,33573,1,0,niet verkocht
 1,2.PSs,"Vuelta a San Juan, Stage 5 : Plaza de Chimbas - Alto del Colorado",40870,LOPEZ MORENO Miguel Angel,23334,0.3,0,Nicky
 1,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,GOOSSENS Kobe,23771,2,0,niet verkocht
 2,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,SANCHEZ MAYO Pelayo,31655,0.3,0,niet verkocht
 3,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,VAN EETVELT Lennert,32225,0.1,0,niet verkocht
 1,2.1s,"La Tropicale Amissa Bongo, Stage 5 : Kango - Angondje",40884,FERNANDEZ RUIZ Miguel Angel,26985,0.2,0,niet verkocht
-1,NCT4,National Championships Thailand (Thong Pha Phum) I.T.T.,40907,CHAWCHIANGKWANG Peerapol,11810,0.0,0,niet verkocht
-1,NCT5,National Championships Namibia (Windhoek) I.T.T.,40905,COETZEE Drikus,26844,0.0,0,niet verkocht
+1,NCT4,National Championships Thailand (Thong Pha Phum) I.T.T.,40907,CHAWCHIANGKWANG Peerapol,11810,0.5,0,niet verkocht
+1,NCT5,National Championships Namibia (Windhoek) I.T.T.,40905,COETZEE Drikus,26844,0.5,0,niet verkocht
 1,1.1,Trofeo Ses Salines - Alcudia,40899,VAN DEN BERG Marijn,27674,2,0,niet verkocht
 2,1.1,Trofeo Ses Salines - Alcudia,40899,VERNON Ethan,30035,0.3,0,Arjan
 3,1.1,Trofeo Ses Salines - Alcudia,40899,GIRMAY HAILU Biniam,29474,0.1,0,Nicky
