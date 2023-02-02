@@ -37,13 +37,13 @@ jobs:
     permissions: write-all
     needs: scraping
     steps:
+      - uses: actions/checkout@v3.3.0
       - name: set user
         run: |
          git config --global user.email "wb@retta.nl"
          git config --global user.name "wijnandb"
       - name: pull latest changes
         run: git pull
-      - uses: actions/checkout@v3.3.0
       - name: process-points
         run: python generate_ranking/processing.py
       - name: check for changes
