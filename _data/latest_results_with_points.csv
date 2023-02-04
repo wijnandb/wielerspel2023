@@ -1,16 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : Bétera - Sagunto (prov.)",40956,VELASCO Simone,22662,0.3,0,niet verkocht
-1,2.1,"Saudi Tour, General classification (prov.)",40893,GUERREIRO Ruben Antonio Almeida,22683,2,0,Jan
-2,2.1,"Saudi Tour, General classification (prov.)",40893,FORMOLO Davide,18749,0.3,0,Nicky
-3,2.1,"Saudi Tour, General classification (prov.)",40893,BUITRAGO SANCHEZ Santiago,29699,0.1,0,Jan
+1,2.1,"Saudi Tour, General classification",40893,GUERREIRO Ruben Antonio Almeida,22683,2,0,Jan
+2,2.1,"Saudi Tour, General classification",40893,FORMOLO Davide,18749,0.3,0,Nicky
+3,2.1,"Saudi Tour, General classification",40893,BUITRAGO SANCHEZ Santiago,29699,0.1,0,Jan
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges (prov.)",40950,DE LIE Arnaud,32221,0.2,0,Wijnand
-1,2.1s,"Saudi Tour, Stage 5 : Al Ula - Maraya (prov.)",40892,CONSONNI Simone,22681,0.2,0,Vel
+1,2.1s,"Saudi Tour, Stage 5 : Al Ula - Maraya",40892,CONSONNI Simone,22681,0.2,0,Vel
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Novelda - Alto de Pinos (prov.)",40955,CICCONE Giulio,21812,0.3,0,Nicky
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Bagard - Aubais (prov.)",40949,no result,13543,0.2,0,niet verkocht
-1,2.1s,"Saudi Tour, Stage 4 : Maraya - Harrat Uwayrid (prov.)",40891,GUERREIRO Ruben Antonio Almeida,22683,0.2,0,Jan
+1,2.1s,"Saudi Tour, Stage 4 : Maraya - Harrat Uwayrid",40891,GUERREIRO Ruben Antonio Almeida,22683,0.2,0,Jan
 1,NCT2,National Championships Colombia (Bucaramanga) I.T.T.,40919,LOPEZ MORENO Miguel Angel,23334,2,0,Nicky
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Orihuela - Altea (prov.)",40954,GIRMAY HAILU Biniam,29474,0.3,0,Nicky
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 1 : Bellegarde - Bellegarde (prov.)",40948,DE LIE Arnaud,32221,0.2,0,Wijnand
-1,2.1s,"Saudi Tour, Stage 3 : Al Ula - Abu Rakah (prov.)",40890,WAERENSKJOLD Søren,29187,0.2,0,niet verkocht
-1,2.1s,"Saudi Tour, Stage 2 : Winter Park - Shalal (prov.)",40889,MILAN Jonathan,29359,0.2,0,Bram
-1,2.1s,"Saudi Tour, Stage 1 : Al Ula - Khaybar (prov.)",40888,GROENEWEGEN Dylan,19238,0.2,0,Frank
+1,2.1s,"Saudi Tour, Stage 3 : Al Ula - Abu Rakah",40890,WAERENSKJOLD Søren,29187,0.2,0,niet verkocht
+1,2.1s,"Saudi Tour, Stage 2 : Winter Park - Shalal",40889,MILAN Jonathan,29359,0.2,0,Bram
