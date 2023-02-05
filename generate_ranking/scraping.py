@@ -110,7 +110,7 @@ def get_results():
                     rider = tds[4].text.split(".")[1]
                     rider_id = tds[4].a['href'].split("=")[1]
 
-                    if (category[-1] == 's' or category[-1] == 'r' or category[:2] == 'NC') and (category[:3] not in ['1.2','2.2']):
+                    if (category[-1] == 's' or category[-1] == 'r') and (category[:3] not in ['1.2','2.2']):
                         #print("add race to new results")
                         new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP)])
                     else:
@@ -129,7 +129,7 @@ def get_results_per_race(race_id, race_name, category):
     (and is causing another problem, where I only have the rsults of the last race...)
     """
     if category not in ['1.2',['2.2']]:
-        if category[-1] == "s" or category[-1] == "r" or category in ['NC2','NC3','NC4','NC5'] or category[:3] == 'NCT':
+        if category[-1] == "s" or category[-1] == "r" or category in ['NC3','NC4','NC5'] or category[:3] == 'NCT':
             # stage, mountains/points, national championships only get winner (and sometimes also leader)
             rankings = 2 
         elif category in ['1.1', '2.1']:
