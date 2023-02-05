@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
+1,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,COSTA Rui Alberto Faria,6807,4,50,niet verkocht
+2,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,CICCONE Giulio,21812,1,35,Nicky
+3,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.5,25,Jan
+4,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,GLOAG Thomas,31449,0,20,Frank
+5,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,LANDA MEANA Mikel,14319,0,18,Harry
+6,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,ARANBURU DEBA Alexander,23940,0,16,Jan
+7,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,RODRIGUEZ CANO Carlos,30836,0,14,Roy
+8,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,MCNULTY Brandon,26508,0,12,Kees
+9,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,ULISSI Diego,10023,0,10,Paul
+10,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,GEOGHEGAN HART Tao,22018,0,8,Paul
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 5 : Paterna - Valencia (prov.)",40958,COSTA Rui Alberto Faria,6807,0.3,0,niet verkocht
 1,2.1,"Etoile de Bessèges / Tour du Gard, General classification (prov.)",40953,POWLESS Neilson,24902,2,0,Harry
 2,2.1,"Etoile de Bessèges / Tour du Gard, General classification (prov.)",40953,SKJELMOSE JENSEN Mattias,30166,0.3,0,Kaspar
 3,2.1,"Etoile de Bessèges / Tour du Gard, General classification (prov.)",40953,LATOUR Pierre,20156,0.1,0,Kaspar
@@ -14,5 +25,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Novelda - Alto de Pinos (prov.)",40955,CICCONE Giulio,21812,0.3,0,Nicky
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Bagard - Aubais (prov.)",40949,no result,13543,0.2,0,niet verkocht
 1,2.1s,"Saudi Tour, Stage 4 : Maraya - Harrat Uwayrid",40891,GUERREIRO Ruben Antonio Almeida,22683,0.2,0,Jan
-1,NCT2,National Championships Colombia (Bucaramanga) I.T.T.,40919,LOPEZ MORENO Miguel Angel,23334,2,0,Nicky
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Orihuela - Altea (prov.)",40954,GIRMAY HAILU Biniam,29474,0.3,0,Nicky
