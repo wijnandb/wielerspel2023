@@ -1,39 +1,29 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,COSTA Rui Alberto Faria,6807,0.0,0
-2,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,CICCONE Giulio,21812,0.0,0
-3,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,GEOGHEGAN HART Tao,22018,0.0,0
-4,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0
-5,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,VLASOV Aleksandr,24316,0.0,0
-6,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,GLOAG Thomas,31449,0.0,0
-7,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,LANDA MEANA Mikel,14319,0.0,0
-8,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,MCNULTY Brandon,26508,0.0,0
-9,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,ARANBURU DEBA Alexander,23940,0.0,0
-10,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,RODRIGUEZ CANO Carlos,30836,0.0,0
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 5 : Paterna - Valencia",40958,COSTA Rui Alberto Faria,6807,0.0,0
-1,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,POWLESS Neilson,24902,0.0,0
-2,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,SKJELMOSE JENSEN Mattias,30166,0.0,0
-3,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,LATOUR Pierre,20156,0.0,0
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 5 : Alès - Alès I.T.T.",40952,PEDERSEN Mads,21992,0.0,0
-1,NC2,National Championships Colombia (Bucaramanga) R.R. (prov.),40920,CHAVES RUBIO Jhoan Esteban,16941,0.0,0
-2,NC2,National Championships Colombia (Bucaramanga) R.R. (prov.),40920,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0
-3,NC2,National Championships Colombia (Bucaramanga) R.R. (prov.),40920,QUINTANA ROJAS Nairo Alexander,12843,0.0,0
-4,NC2,National Championships Colombia (Bucaramanga) R.R. (prov.),40920,MERCHAN CARDONA Didier Norberto,30957,0.0,0
-5,NC2,National Championships Colombia (Bucaramanga) R.R. (prov.),40920,JAMAICA MEJIA Javier Ernesto,31178,0.0,0
-6,NC2,National Championships Colombia (Bucaramanga) R.R. (prov.),40920,FLOREZ LOPEZ Miguel Eduardo,24812,0.0,0
-7,NC2,National Championships Colombia (Bucaramanga) R.R. (prov.),40920,HENAO MONTOYA Sergio Luis,7006,0.0,0
-8,NC2,National Championships Colombia (Bucaramanga) R.R. (prov.),40920,RUBIO REYES Einer Augusto,27024,0.0,0
-9,NC2,National Championships Colombia (Bucaramanga) R.R. (prov.),40920,CAMARGO PINEDA Diego Andres,28187,0.0,0
-10,NC2,National Championships Colombia (Bucaramanga) R.R. (prov.),40920,CHAPARRO LOPEZ Didier Alonso,19463,0.0,0
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 4 : Burriana - Alto la Cova Santo",40957,GEOGHEGAN HART Tao,22018,0.0,0
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Saint Christol Lèz Alès - Le Mont Bouquet",40951,SKJELMOSE JENSEN Mattias,30166,0.0,0
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : Bétera - Sagunto",40956,VELASCO Simone,22662,0.0,0
+1,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,COSTA Rui Alberto Faria,6807,0.0,0
+2,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,CICCONE Giulio,21812,0.0,0
+3,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,GEOGHEGAN HART Tao,22018,0.0,0
+4,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0
+5,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,VLASOV Aleksandr,24316,0.0,0
+6,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,GLOAG Thomas,31449,0.0,0
+7,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,LANDA MEANA Mikel,14319,0.0,0
+8,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,MCNULTY Brandon,26508,0.0,0
+9,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,ARANBURU DEBA Alexander,23940,0.0,0
+10,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,RODRIGUEZ CANO Carlos,30836,0.0,0
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 5 : Paterna - Valencia (prov.)",40958,COSTA Rui Alberto Faria,6807,0.0,0
+1,2.1,"Etoile de Bessèges / Tour du Gard, General classification (prov.)",40953,POWLESS Neilson,24902,0.0,0
+2,2.1,"Etoile de Bessèges / Tour du Gard, General classification (prov.)",40953,SKJELMOSE JENSEN Mattias,30166,0.0,0
+3,2.1,"Etoile de Bessèges / Tour du Gard, General classification (prov.)",40953,LATOUR Pierre,20156,0.0,0
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 5 : Alès - Alès I.T.T. (prov.)",40952,PEDERSEN Mads,21992,0.0,0
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 4 : Burriana - Alto la Cova Santo (prov.)",40957,GEOGHEGAN HART Tao,22018,0.0,0
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Saint Christol Lèz Alès - Le Mont Bouquet (prov.)",40951,SKJELMOSE JENSEN Mattias,30166,0.0,0
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : Bétera - Sagunto (prov.)",40956,VELASCO Simone,22662,0.0,0
 1,2.1,"Saudi Tour, General classification",40893,GUERREIRO Ruben Antonio Almeida,22683,0.0,0
 2,2.1,"Saudi Tour, General classification",40893,FORMOLO Davide,18749,0.0,0
 3,2.1,"Saudi Tour, General classification",40893,BUITRAGO SANCHEZ Santiago,29699,0.0,0
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges",40950,DE LIE Arnaud,32221,0.0,0
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges (prov.)",40950,DE LIE Arnaud,32221,0.0,0
 1,2.1s,"Saudi Tour, Stage 5 : Al Ula - Maraya",40892,CONSONNI Simone,22681,0.0,0
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Novelda - Alto de Pinos",40955,CICCONE Giulio,21812,0.0,0
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Bagard - Aubais",40949,no result,13543,0.0,0
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Novelda - Alto de Pinos (prov.)",40955,CICCONE Giulio,21812,0.0,0
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Bagard - Aubais (prov.)",40949,no result,13543,0.0,0
 1,2.1s,"Saudi Tour, Stage 4 : Maraya - Harrat Uwayrid",40891,GUERREIRO Ruben Antonio Almeida,22683,0.0,0
 1,NCT2,National Championships Colombia (Bucaramanga) I.T.T.,40919,LOPEZ MORENO Miguel Angel,23334,0.0,0
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Orihuela - Altea (prov.)",40954,GIRMAY HAILU Biniam,29474,0.0,0
