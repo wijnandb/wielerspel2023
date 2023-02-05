@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,COSTA Rui Alberto Faria,6807,0.0,0
+2,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,CICCONE Giulio,21812,0.0,0
+3,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0
+4,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,GLOAG Thomas,31449,0.0,0
+5,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,LANDA MEANA Mikel,14319,0.0,0
+6,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,ARANBURU DEBA Alexander,23940,0.0,0
+7,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,RODRIGUEZ CANO Carlos,30836,0.0,0
+8,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,MCNULTY Brandon,26508,0.0,0
+9,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,ULISSI Diego,10023,0.0,0
+10,2.PS,"Volta a la Comunitat Valenciana, General classification (prov.)",40959,GEOGHEGAN HART Tao,22018,0.0,0
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 5 : Paterna - Valencia (prov.)",40958,COSTA Rui Alberto Faria,6807,0.0,0
 1,2.1,"Etoile de Bessèges / Tour du Gard, General classification (prov.)",40953,POWLESS Neilson,24902,0.0,0
 2,2.1,"Etoile de Bessèges / Tour du Gard, General classification (prov.)",40953,SKJELMOSE JENSEN Mattias,30166,0.0,0
 3,2.1,"Etoile de Bessèges / Tour du Gard, General classification (prov.)",40953,LATOUR Pierre,20156,0.0,0
@@ -14,5 +25,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Novelda - Alto de Pinos (prov.)",40955,CICCONE Giulio,21812,0.0,0
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Bagard - Aubais (prov.)",40949,no result,13543,0.0,0
 1,2.1s,"Saudi Tour, Stage 4 : Maraya - Harrat Uwayrid",40891,GUERREIRO Ruben Antonio Almeida,22683,0.0,0
-1,NCT2,National Championships Colombia (Bucaramanga) I.T.T.,40919,LOPEZ MORENO Miguel Angel,23334,0.0,0
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Orihuela - Altea (prov.)",40954,GIRMAY HAILU Biniam,29474,0.0,0
