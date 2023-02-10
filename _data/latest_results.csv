@@ -1,4 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,1.1,Muscat Classic (prov.),40911,BIERMANS Jenthe,22010,0.0,0
+2,1.1,Muscat Classic (prov.),40911,WARLOP Jordi,24239,0.0,0
+3,1.1,Muscat Classic (prov.),40911,VENDRAME Andrea,22170,0.0,0
+1,NCT3,National Championships New Zealand (Takoroa) I.T.T. (prov.),40921,CURRIE Logan,30604,0.0,0
+2,NCT3,National Championships New Zealand (Takoroa) I.T.T. (prov.),40921,PITHIE Laurence,31638,0.0,0
+1,NCT3,National Championships South Africa (Oudtshoorn) I.T.T. (prov.),40925,DE BOD Stefan,23888,0.0,0
+2,NCT3,National Championships South Africa (Oudtshoorn) I.T.T. (prov.),40925,HATHERLY Alan,34593,0.0,0
 1,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,KAGIMU Charles,24714,0.0,0
 2,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,MUGISHA Moise,28740,0.0,0
 3,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,MULUBRHAN Henok,28186,0.0,0
@@ -37,8 +44,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 4 : Burriana - Alto la Cova Santo",40957,GEOGHEGAN HART Tao,22018,0.0,0
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Saint Christol Lèz Alès - Le Mont Bouquet",40951,SKJELMOSE JENSEN Mattias,30166,0.0,0
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : Bétera - Sagunto",40956,VELASCO Simone,22662,0.0,0
-1,2.1,"Saudi Tour, General classification",40893,GUERREIRO Ruben Antonio Almeida,22683,0.0,0
-2,2.1,"Saudi Tour, General classification",40893,FORMOLO Davide,18749,0.0,0
-3,2.1,"Saudi Tour, General classification",40893,BUITRAGO SANCHEZ Santiago,29699,0.0,0
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges",40950,DE LIE Arnaud,32221,0.0,0
-1,2.1s,"Saudi Tour, Stage 5 : Al Ula - Maraya",40892,CONSONNI Simone,22681,0.0,0
