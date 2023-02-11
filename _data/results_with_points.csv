@@ -1,21 +1,21 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
-1,1.1,Muscat Classic (prov.),40911,BIERMANS Jenthe,22010,2,0,niet verkocht
-2,1.1,Muscat Classic (prov.),40911,WARLOP Jordi,24239,0.3,0,niet verkocht
-3,1.1,Muscat Classic (prov.),40911,VENDRAME Andrea,22170,0.1,0,niet verkocht
-1,NCT3,National Championships New Zealand (Tokoroa) I.T.T. (prov.),40921,CURRIE Logan,30604,1,0,niet verkocht
-2,NCT3,National Championships New Zealand (Tokoroa) I.T.T. (prov.),40921,PITHIE Laurence,31638,0.0,0,niet verkocht
-1,NCT3,National Championships South Africa (Oudtshoorn) I.T.T. (prov.),40925,DE BOD Stefan,23888,1,0,niet verkocht
-2,NCT3,National Championships South Africa (Oudtshoorn) I.T.T. (prov.),40925,HATHERLY Alan,34593,0.0,0,niet verkocht
-1,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,KAGIMU Charles,24714,0.0,0,niet verkocht
-2,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,MUGISHA Moise,28740,0.0,0,niet verkocht
-3,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,MULUBRHAN Henok,28186,0.0,0,niet verkocht
-4,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,ROGORA Kiya,33542,0.0,0,niet verkocht
-5,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,ROUGIER-LAGANE Christopher,24393,0.0,0,niet verkocht
-6,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,AREFAYNE Aklilu,34890,0.0,0,niet verkocht
-7,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,MAYER Alexandre,27291,0.0,0,niet verkocht
-8,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,AMARI Hamza,32533,0.0,0,niet verkocht
-9,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,CHINGUI Euclides,27268,0.0,0,niet verkocht
-10,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,DAUMONT Paul,28198,0.0,0,niet verkocht
+1,1.1,Muscat Classic,40911,BIERMANS Jenthe,22010,2,0,niet verkocht
+2,1.1,Muscat Classic,40911,WARLOP Jordi,24239,0.3,0,niet verkocht
+3,1.1,Muscat Classic,40911,VENDRAME Andrea,22170,0.1,0,niet verkocht
+1,NCT3,National Championships New Zealand (Tokoroa) I.T.T.,40921,CURRIE Logan,30604,1,0,niet verkocht
+2,NCT3,National Championships New Zealand (Tokoroa) I.T.T.,40921,PITHIE Laurence,31638,0.0,0,niet verkocht
+1,NCT3,National Championships South Africa (Oudtshoorn) I.T.T.,40925,DE BOD Stefan,23888,1,0,niet verkocht
+2,NCT3,National Championships South Africa (Oudtshoorn) I.T.T.,40925,HATHERLY Alan,34593,0.0,0,niet verkocht
+1,CCT2,African Cycling Championships (Accra) I.T.T.,41031,KAGIMU Charles,24714,0.0,0,niet verkocht
+2,CCT2,African Cycling Championships (Accra) I.T.T.,41031,MUGISHA Moise,28740,0.0,0,niet verkocht
+3,CCT2,African Cycling Championships (Accra) I.T.T.,41031,MULUBRHAN Henok,28186,0.0,0,niet verkocht
+4,CCT2,African Cycling Championships (Accra) I.T.T.,41031,ROGORA Kiya,33542,0.0,0,niet verkocht
+5,CCT2,African Cycling Championships (Accra) I.T.T.,41031,ROUGIER-LAGANE Christopher,24393,0.0,0,niet verkocht
+6,CCT2,African Cycling Championships (Accra) I.T.T.,41031,AREFAYNE Aklilu,34890,0.0,0,niet verkocht
+7,CCT2,African Cycling Championships (Accra) I.T.T.,41031,MAYER Alexandre,27291,0.0,0,niet verkocht
+8,CCT2,African Cycling Championships (Accra) I.T.T.,41031,AMARI Hamza,32533,0.0,0,niet verkocht
+9,CCT2,African Cycling Championships (Accra) I.T.T.,41031,CHINGUI Euclides,27268,0.0,0,niet verkocht
+10,CCT2,African Cycling Championships (Accra) I.T.T.,41031,DAUMONT Paul,28198,0.0,0,niet verkocht
 1,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,COSTA Rui Alberto Faria,6807,4,50,niet verkocht
 2,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,CICCONE Giulio,21812,1,35,Nicky
 3,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,GEOGHEGAN HART Tao,22018,0.5,25,Paul
