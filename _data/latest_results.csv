@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,1.PS,Clasica de Almeria (prov.),40940,MOSCHETTI Matteo,27126,0.0,0
+2,1.PS,Clasica de Almeria (prov.),40940,DE LIE Arnaud,32221,0.0,0
+3,1.PS,Clasica de Almeria (prov.),40940,MEEUS Jordi,26421,0.0,0
+4,1.PS,Clasica de Almeria (prov.),40940,KRISTOFF Alexander,4179,0.0,0
+5,1.PS,Clasica de Almeria (prov.),40940,NIZZOLO Giacomo,13863,0.0,0
+6,1.PS,Clasica de Almeria (prov.),40940,WALSCHEID Maximilian,19646,0.0,0
+7,1.PS,Clasica de Almeria (prov.),40940,GAVIRIA RENDON Fernando,20777,0.0,0
+8,1.PS,Clasica de Almeria (prov.),40940,TESSON Jason,29883,0.0,0
+9,1.PS,Clasica de Almeria (prov.),40940,PENHOËT Paul,30686,0.0,0
+10,1.PS,Clasica de Almeria (prov.),40940,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
 1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat (prov.)",40978,HERRADA LOPEZ Jesus,17534,0.0,0
 1,2.1,"Tour of Antalya, General classification",40976,no result,13543,0.0,0
 1,1.1,Figueira Champions Classic (prov.),41033,PEDERSEN Casper Phillip,23429,0.0,0
@@ -48,13 +58,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 2,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,SKJELMOSE JENSEN Mattias,30166,0.0,0
 3,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,LATOUR Pierre,20156,0.0,0
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 5 : Alès - Alès I.T.T.",40952,PEDERSEN Mads,21992,0.0,0
-1,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,CHAVES RUBIO Jhoan Esteban,16941,0.0,0
-2,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0
-3,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,QUINTANA ROJAS Nairo Alexander,12843,0.0,0
-4,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,MERCHAN CARDONA Didier Norberto,30957,0.0,0
-5,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,JAMAICA MEJIA Javier Ernesto,31178,0.0,0
-6,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,FLOREZ LOPEZ Miguel Eduardo,24812,0.0,0
-7,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,HENAO MONTOYA Sergio Luis,7006,0.0,0
-8,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,RUBIO REYES Einer Augusto,27024,0.0,0
-9,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,CAMARGO PINEDA Diego Andres,28187,0.0,0
-10,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,CHAPARRO LOPEZ Didier Alonso,19463,0.0,0
