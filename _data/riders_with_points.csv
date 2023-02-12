@@ -57,7 +57,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28298,COVI Alessandro,COVI Alessandro,Jan,3,UAD,ITA,25,0,0
 26965,DAINESE Alberto,DAINESE Alberto,Vel,3,DSM,ITA,25,0,0
 4557,DE GENDT Thomas,DE GENDT Thomas,Roy,1,LTD,BEL,37,0,0
-32221,DE LIE Arnaud,DE LIE Arnaud,Wijnand,14,LTD,BEL,21,2.4,0
+32221,DE LIE Arnaud,DE LIE Arnaud,Wijnand,14,LTD,BEL,21,3.4,35
 9851,DEGENKOLB John,DEGENKOLB John,Kaspar,1,DSM,GER,34,0,0
 27083,DEKKER David,DEKKER David,Wijnand,1,ARK,NED,25,0,0
 16653,DEMARE Arnaud,DEMARE Arnaud,Wijnand,13,GFC,FRA,32,0,0
@@ -77,7 +77,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24057,GANNA Filippo,GANNA Filippo,Jan,16,IGD,ITA,27,1,35
 23497,GARCIA CORTINA Ivan,GARCIA CORTINA Ivan,PB,1,MOV,ESP,28,0,0
 24255,GAUDU David,GAUDU David,Nicky,9,GFC,FRA,27,0,0
-20777,GAVIRIA Fernando,GAVIRIA RENDON Fernando,Albert,3,MOV,COL,29,0.3,0
+20777,GAVIRIA Fernando,GAVIRIA RENDON Fernando,Albert,3,MOV,COL,29,0.3,14
 22018,GEOGHEGAN HART Tao,GEOGHEGAN HART Tao,Paul,2,IGD,GBR,28,0.8,25
 29474,GIRMAY Biniam,GIRMAY HAILU Biniam,Nicky,19,ICW,ERI,23,0.7,0
 31449,GLOAG Thomas,GLOAG Thomas,Frank,1,TJV,GBR,22,0,16
@@ -111,7 +111,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 15171,KELDERMAN Wilco,KELDERMAN Wilco,Albert,2,TJV,NED,32,0,0
 16058,KONRAD Patrick,KONRAD Patrick,Albert,1,BOH,AUT,32,0,0
 30643,KOOIJ Olav,KOOIJ Olav,Albert,13,TJV,NED,22,0,0
-4179,KRISTOFF Alexander,KRISTOFF Alexander,Nicky,7,UXT,NOR,36,0,0
+4179,KRISTOFF Alexander,KRISTOFF Alexander,Nicky,7,UXT,NOR,36,0,20
 26420,KRON Andreas,KRON Andreas Lorentz,Paul,1,LTD,DEN,25,0,0
 20960,KÜNG Stefan,KÜNG Stefan,PB,11,GFC,SUI,30,0,0
 25653,KUSS Sepp,KUSS Sepp,Nicky,3,TJV,USA,29,0,0
@@ -140,19 +140,19 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 20535,MASNADA Fausto,MASNADA Fausto,Paul,2,SOQ,ITA,30,0,0
 13066,MATTHEWS Michael,MATTHEWS Michael,Bram,12,JAY,AUS,33,0.0,20
 26508,MCNULTY Brandon,MCNULTY Brandon,Kees,7,UAD,USA,25,0,12
-26421,MEEUS Jordi,MEEUS Jordi,Vel,5,BOH,BEL,25,0.1,0
+26421,MEEUS Jordi,MEEUS Jordi,Vel,5,BOH,BEL,25,0.6,25
 18413,MEINTJES Louis,MEINTJES Louis,Wijnand,1,ICW,RSA,31,0,0
 17988,MERLIER Tim,MERLIER Tim,Wijnand,14,SOQ,BEL,31,0.3,0
 32946,MIHKELS Madis,MIHKELS Madis,Albert,1,ICW,EST,20,0,0
 29359,MILAN Jonathan,MILAN Jonathan,Bram,2,TBV,ITA,23,0.2,0
 21145,MOHORIC Matej,MOHORIC Matej,Frank,16,TBV,SLO,29,0,0
-23463,MOLANO Juan,MOLANO BENAVIDES Juan Sebastian,PB,1,UAD,COL,29,0,0
+23463,MOLANO Juan,MOLANO BENAVIDES Juan Sebastian,PB,1,UAD,COL,29,0,8
 5139,MOLLEMA Bauke,MOLLEMA Bauke,Roy,2,TFS,NED,37,0,0
 22676,MOSCON Gianni,MOSCON Gianni,PB,2,AST,ITA,29,0,0
 28037,MOZZATO Luca,MOZZATO Luca,Nicky,2,ARK,ITA,25,0,0
 21392,NAESEN Oliver,NAESEN Oliver,Harry,1,ACT,BEL,33,0,0
 25157,NARVAEZ Jhonatan,NARVAEZ PRADO Jhonatan Manuel,Nicky,1,IGD,ECU,26,0,0
-13863,NIZZOLO Giacomo,NIZZOLO Giacomo,PB,1,IPT,ITA,34,0,0
+13863,NIZZOLO Giacomo,NIZZOLO Giacomo,PB,1,IPT,ITA,34,0,18
 27072,OLDANI Stefano,OLDANI Stefano,Frank,1,ADC,ITA,25,0,0
 21931,OOMEN Sam,OOMEN Sam,Harry,1,TJV,NED,28,0,0
 23763,O'CONNOR Ben,O'CONNOR Ben,Harry,7,ACT,AUS,28,0,16
@@ -202,7 +202,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 18233,STUYVEN Jasper,STUYVEN Jasper,PB,6,TFS,BEL,31,0,0
 26437,SWIFT Connor,SWIFT Connor,PB,1,IGD,GBR,28,0,0
 28234,TESFATSION Natnael,TESFATSION Natnael Ocbit,Kaspar,3,TFS,ERI,24,0,0
-29883,TESSON Jason,TESSON Jason,Jan,1,TEN,FRA,25,0.4,0
+29883,TESSON Jason,TESSON Jason,Jan,1,TEN,FRA,25,0.4,12
 19165,TEUNISSEN Mike,TEUNISSEN Mike,Albert,2,ICW,NED,31,0,0
 17908,TEUNS Dylan,TEUNS Dylan,Harry,4,IPT,BEL,31,0,0
 16697,THEUNS Edward,THEUNS Edward,Harry,0,TFS,BEL,32,0,0
@@ -243,7 +243,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 13240,VIVIANI Elia,VIVIANI Elia,Paul,3,IGD,ITA,34,0,0
 24316,VLASOV Aleksandr,VLASOV Aleksandr,Harry,19,BOH,RUS,27,0,18
 28509,WALLS Matthew,WALLS Matthew,PB,1,BOH,GBR,25,0,0
-19646,WALSCHEID Maximilian,WALSCHEID Maximilian,PB,1,COF,GER,30,0,0
+19646,WALSCHEID Maximilian,WALSCHEID Maximilian,PB,1,COF,GER,30,0,16
 16722,WELLENS Tim,WELLENS Tim,Albert,5,UAD,BEL,32,0,0
 23517,WELSFORD Samuel,WELSFORD Samuel,PB,1,DSM,AUS,27,0.6,0
 20257,WOODS Michael,WOODS Michael,Albert,2,IPT,CAN,37,0,0
