@@ -1,10 +1,21 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat (prov.)",40978,HERRADA LOPEZ Jesus,17534,0.0,0
+1,2.1,"Tour of Antalya, General classification",40976,no result,13543,0.0,0
+1,1.1,Figueira Champions Classic (prov.),41033,PEDERSEN Casper Phillip,23429,0.0,0
+2,1.1,Figueira Champions Classic (prov.),41033,HERREGODTS Rune,28392,0.0,0
+3,1.1,Figueira Champions Classic (prov.),41033,VAN DEN BERG Marijn,27674,0.0,0
+1,NC3,National Championships South Africa (Oudtshoorn) R.R.,40926,STEDMAN Travis,32107,0.0,0
+2,NC3,National Championships South Africa (Oudtshoorn) R.R.,40926,JANSE VAN RENSBURG Reinardt,10039,0.0,0
+1,NC3,National Championships New Zealand (Tokoroa) R.R.,40922,ORAM James,19829,0.0,0
+2,NC3,National Championships New Zealand (Tokoroa) R.R.,40922,CHRISTENSEN Ryan,23872,0.0,0
 1,2.PSs,"Tour of Oman, Stage 1 : Al Rustaq Fort - Muscat (prov.)",40977,MERLIER Tim,17988,0.0,0
-1,1.1,Vuelta a Murcia (prov.),40939,TURNER Benjamin,27923,0.0,0
-2,1.1,Vuelta a Murcia (prov.),40939,CLARKE Simon,3366,0.0,0
-3,1.1,Vuelta a Murcia (prov.),40939,MEEUS Jordi,26421,0.0,0
-1,NCT3,National Championships Ecuador (Tulcan) I.T.T. (prov.),40923,CAICEDO CEPEDA Jonathan Klever,22631,0.0,0
-2,NCT3,National Championships Ecuador (Tulcan) I.T.T. (prov.),40923,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0.0,0
+1,1.1,Vuelta a Murcia,40939,TURNER Ben,27923,0.0,0
+2,1.1,Vuelta a Murcia,40939,CLARKE Simon,3366,0.0,0
+3,1.1,Vuelta a Murcia,40939,MEEUS Jordi,26421,0.0,0
+1,NCT3,National Championships Ecuador (Tulcan) I.T.T.,40923,CAICEDO CEPEDA Jonathan Klever,22631,0.0,0
+2,NCT3,National Championships Ecuador (Tulcan) I.T.T.,40923,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0.0,0
+1,NCT4,National Championships Uruguay (Paysandu) I.T.T.,40927,FAGUNDEZ LIMA Eric Antonio,28445,0.0,0
+2,NCT4,National Championships Uruguay (Paysandu) I.T.T.,40927,MOREIRA GUARINO Federico Agustin,19743,0.0,0
 1,1.1,Muscat Classic,40911,BIERMANS Jenthe,22010,0.0,0
 2,1.1,Muscat Classic,40911,WARLOP Jordi,24239,0.0,0
 3,1.1,Muscat Classic,40911,VENDRAME Andrea,22170,0.0,0
@@ -47,5 +58,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 8,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,RUBIO REYES Einer Augusto,27024,0.0,0
 9,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,CAMARGO PINEDA Diego Andres,28187,0.0,0
 10,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,CHAPARRO LOPEZ Didier Alonso,19463,0.0,0
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 4 : Burriana - Alto la Cova Santo",40957,GEOGHEGAN HART Tao,22018,0.0,0
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Saint Christol Lèz Alès - Le Mont Bouquet",40951,SKJELMOSE JENSEN Mattias,30166,0.0,0
