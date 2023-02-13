@@ -1,5 +1,5 @@
 from decimal import *
-import process_files
+import process_files, count_riders
 
 def add_points_to_results(input, output):
     """

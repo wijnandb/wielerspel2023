@@ -7,7 +7,7 @@ I am struggling to remove doubles, so why not add the lists together and make a 
 """
 import requests
 from bs4 import BeautifulSoup
-import process_files
+import process_files, count_riders
 from datetime import datetime
 # from operator import itemgetter
 
@@ -77,7 +77,7 @@ def get_results():
     with existing results
     If there are results missing, get them by running get_results_per_race.
 
-    WIP: there is a (prov.) aftre the racename, to indicate provisional results.
+    WIP: there is a (prov.) after the racename, to indicate provisional results.
     Store these and re-visit, until (prov.) or (provisional) disclaimer is gone.
     """
     if check_if_new_results():
@@ -104,24 +104,28 @@ def get_results():
                 category = tds[1].text
                 #print(category)
                 if not category[:3] in ['1.2','2.2']:
-                    #country = tds[2].text
+                    country = tds[2].find('img').get('title').upper()
+                    print(country)
                     race_name = tds[3].text
                     race_id = tds[3].a['href'].split("=")[1]
                     rider = tds[4].text.split(".")[1]
                     rider_id = tds[4].a['href'].split("=")[1]
 
-                    if (category[-1] == 's' or category[-1] == 'r') and (category[:3] not in ['1.2','2.2']):
-                        #print("add race to new results")
+                    if (category[-1] == 's' or category[-1] == 'r' or category[:3] == 'NCT' or category[:3] == 'CCT') and (category[:3] not in ['1.2','2.2']):
+                        print("add race to new results")
+                        if category[:3] == 'NCT':
+                            category = count_riders.change_category_NCTT(country)
+                            print(f"New category for {race_name}, changed to {category}")
                         new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP)])
                     else:
-                        get_results_per_race(race_id, race_name, category)
+                        get_results_per_race(race_id, race_name, category, country)
                 # else:
                 #     #print("skip this category")
             except:
                 print("Something went wrong scraping latest results")
 
 
-def get_results_per_race(race_id, race_name, category):
+def get_results_per_race(race_id, race_name, category, country=None):
     """
     WIP:
     Appending results can lead to double results.
@@ -129,17 +133,23 @@ def get_results_per_race(race_id, race_name, category):
     (and is causing another problem, where I only have the rsults of the last race...)
     """
     if category not in ['1.2',['2.2']]:
-        if category[-1] == "s" or category[-1] == "r" or category in ['NC3','NC4','NC5'] or category[:3] == 'NCT':
-            # stage, mountains/points, national championships only get winner (and sometimes also leader)
-            rankings = 2 
+        if category[-1] == "s" or category[-1] == "r":
+            # stage, mountains/points only get winner (and sometimes also leader)
+            rankings = 1 
         elif category in ['1.1', '2.1']:
             # only get top 3
             rankings = 3
         elif category in ['GT1', 'GT2']:
             # grandtour, get top 15 or top 20
             rankings = 20
+        elif category[:3] == 'NCT':
+            # count riders of country being sold
+            rankings = count_riders.get_timetrial(country)
+        elif category[:2] == 'NC':
+            # count riders of country being sold
+            rankings = count_riders.get_roadrace(country)
         else:
-            # all others have top 10 for JPP (expec)
+            # all others have top 10 for JPP
             rankings = 10
         
         base_result_url = "https://cqranking.com/men/asp/gen/race.asp?raceid="
@@ -163,6 +173,11 @@ def get_results_per_race(race_id, race_name, category):
                     rank = tds[1].text.split(".")[0]
                 rider_id = tds[5].a['href'].split("=")[1]
                 rider = tds[5].text
+                # replace category for NC and NCT races
+                if category[:3] == 'NCT':
+                    category = count_riders.change_category_NCTT(country)
+                elif category[:2] == 'NC':
+                    category = count_riders.change_category_NCRR(country)
                 new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP)])
                 #print("Added new result")
             except:
@@ -193,7 +208,7 @@ for r in results[1:]:
 
 full_results.insert(0,['rank','category','racename','race_id','rider_name','rider_id','points','jpp'])
 
-# Now store the rsults in a CSV file
+# Now store the results in a CSV file
 process_files.write_csv_file('all_results.csv', full_results)
 # and store the new_results is another CSV file
 # add header row first
