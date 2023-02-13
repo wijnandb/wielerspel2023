@@ -14,10 +14,14 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,1.1,Figueira Champions Classic (prov.),41033,PEDERSEN Casper Phillip,23429,0.0,0
 2,1.1,Figueira Champions Classic (prov.),41033,HERREGODTS Rune,28392,0.0,0
 3,1.1,Figueira Champions Classic (prov.),41033,VAN DEN BERG Marijn,27674,0.0,0
+1,NC3,National Championships Ecuador (Tulcan) R.R. (prov.),40924,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0
+2,NC3,National Championships Ecuador (Tulcan) R.R. (prov.),40924,CEPEDA HERNANDEZ Jefferson Alveiro,23549,0.0,0
 1,NC3,National Championships South Africa (Oudtshoorn) R.R.,40926,STEDMAN Travis,32107,0.0,0
 2,NC3,National Championships South Africa (Oudtshoorn) R.R.,40926,JANSE VAN RENSBURG Reinardt,10039,0.0,0
 1,NC3,National Championships New Zealand (Tokoroa) R.R.,40922,ORAM James,19829,0.0,0
 2,NC3,National Championships New Zealand (Tokoroa) R.R.,40922,CHRISTENSEN Ryan,23872,0.0,0
+1,NC4,National Championships Uruguay (Paysandu) R.R. (prov.),40928,RODRIGUEZ RAMOS Diego Leonel,29716,0.0,0
+2,NC4,National Championships Uruguay (Paysandu) R.R. (prov.),40928,MENDEZ GARCIA Fernando Augusto,9805,0.0,0
 1,2.PSs,"Tour of Oman, Stage 1 : Al Rustaq Fort - Muscat (prov.)",40977,MERLIER Tim,17988,0.0,0
 1,1.1,Vuelta a Murcia,40939,TURNER Ben,27923,0.0,0
 2,1.1,Vuelta a Murcia,40939,CLARKE Simon,3366,0.0,0
@@ -54,7 +58,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 9,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,ARANBURU DEBA Alexander,23940,0.0,0
 10,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,RODRIGUEZ CANO Carlos,30836,0.0,0
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 5 : Paterna - Valencia",40958,COSTA Rui Alberto Faria,6807,0.0,0
-1,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,POWLESS Neilson,24902,0.0,0
-2,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,SKJELMOSE JENSEN Mattias,30166,0.0,0
-3,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,LATOUR Pierre,20156,0.0,0
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 5 : Alès - Alès I.T.T.",40952,PEDERSEN Mads,21992,0.0,0
