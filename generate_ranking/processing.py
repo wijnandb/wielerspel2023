@@ -26,12 +26,6 @@ results.csv
 6 - points
 7 - JPP
 """
-# def read_csv_file(filename):
-#     file = '_data/'+str(filename)
-#     with open(file, newline='') as f:
-#         readresults = csv.reader(f)
-#         csvfile = list(readresults)
-#     return csvfile
 
 """
 points.csv:
@@ -41,37 +35,7 @@ points.csv:
 3 - jpp
 """
 
-# def add_points_to_results():
-#     points = process_files.read_csv_file('points.csv')
-#     results = process_files.read_csv_file('all_results.csv')
-
-#     for result in results[1:]: # skip the header row
-#         for point in points[1:]:
-#             if (int(result[0]) == int(point[1])) and (result[1] == point[0]):
-#                 result[6] = Decimal(point[2])
-#                 result[7] = int(point[3])
-#         #print(result)
-#     """
-#     Instead of writing the results to a file, I can also return the list with results to further process
-#     """
-#     process_files.write_csv_file('results_with_points.csv', results)
-#     return True
-
-
-# def write_csv_file(filename, results):
-#     file = '_data/'+str(filename)
-#     with open(file, 'w', newline='') as f:
-#         write = csv.writer(f)
-#         write.writerows(results)
-
 teamcaptains = process_files.read_csv_file("teamcaptains.csv")
-# def get_teamcaptains(sold_riders):
-#     teamcaptains = []
-#     for sr in sold_riders[1:]:
-#         if sr[3] not in teamcaptains:
-#             teamcaptains.append(sr[3])
-#     return teamcaptains
-
 
 """
 ploegen.csv

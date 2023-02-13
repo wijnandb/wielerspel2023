@@ -19,14 +19,13 @@ def add_full_name(shortcode):
             return tc[1]
 
 
-
 def add_teamcaptain(infile, outfile=None):
     """
     This looks up a rider from a result, then looks up the corresponding teamcaptain
     and adds the teamcaptain to the result.
     This will be the shortname of the teamcaptain, which functions as the key.
 
-    Chnaged function so infile gets read, processed and re-written.
+    Changed function so infile gets read, processed and re-written.
     Can also have a different infile and outfile
     """
     results = process_files.read_csv_file(infile)
@@ -43,32 +42,5 @@ def add_teamcaptain(infile, outfile=None):
                 # add the shortcode of the teamcaptain
                 result[-1]=(rider[3])
                 break
-    print(results)
 
     process_files.write_csv_file(infile, results)
-"""
-results.csv
-0 - rank
-1 - category
-2 - racename
-3 - race_id
-4 - rider_name
-5 - rider_rider_id
-6 - points
-7 - JPP
-"""
-"""
-ploegen.csv
-0 - renner_id
-1 - rider_name
-2 - rider_full_name
-3 - teamcaptain
-4 - price
-5 - team
-6 - nationality
-7 - age
-8 - points
-9 - JPP
-"""
-
-
