@@ -1,21 +1,37 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
-1,1.1,Muscat Classic (prov.),40911,BIERMANS Jenthe,22010,2,0,niet verkocht
-2,1.1,Muscat Classic (prov.),40911,WARLOP Jordi,24239,0.3,0,niet verkocht
-3,1.1,Muscat Classic (prov.),40911,VENDRAME Andrea,22170,0.1,0,niet verkocht
-1,NCT3,National Championships New Zealand (Tokoroa) I.T.T. (prov.),40921,CURRIE Logan,30604,1,0,niet verkocht
-2,NCT3,National Championships New Zealand (Tokoroa) I.T.T. (prov.),40921,PITHIE Laurence,31638,0.0,0,niet verkocht
-1,NCT3,National Championships South Africa (Oudtshoorn) I.T.T. (prov.),40925,DE BOD Stefan,23888,1,0,niet verkocht
-2,NCT3,National Championships South Africa (Oudtshoorn) I.T.T. (prov.),40925,HATHERLY Alan,34593,0.0,0,niet verkocht
-1,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,KAGIMU Charles,24714,0.0,0,niet verkocht
-2,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,MUGISHA Moise,28740,0.0,0,niet verkocht
-3,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,MULUBRHAN Henok,28186,0.0,0,niet verkocht
-4,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,ROGORA Kiya,33542,0.0,0,niet verkocht
-5,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,ROUGIER-LAGANE Christopher,24393,0.0,0,niet verkocht
-6,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,AREFAYNE Aklilu,34890,0.0,0,niet verkocht
-7,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,MAYER Alexandre,27291,0.0,0,niet verkocht
-8,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,AMARI Hamza,32533,0.0,0,niet verkocht
-9,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,CHINGUI Euclides,27268,0.0,0,niet verkocht
-10,CCT2,African Cycling Championships (Accra) I.T.T. (prov.),41031,DAUMONT Paul,28198,0.0,0,niet verkocht
+1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Jabal Haat (prov.)",40979,JORGENSON Matteo,28057,0.3,0,Albert
+1,CC2,African Cycling Championships (Accra) R.R. (prov.),41029,MULUBRHAN Henok,28186,1,0,niet verkocht
+1,1.PS,Clasica de Almeria (prov.),40940,MOSCHETTI Matteo,27126,4,50,niet verkocht
+2,1.PS,Clasica de Almeria (prov.),40940,DE LIE Arnaud,32221,1,35,Wijnand
+3,1.PS,Clasica de Almeria (prov.),40940,MEEUS Jordi,26421,0.5,25,Vel
+4,1.PS,Clasica de Almeria (prov.),40940,KRISTOFF Alexander,4179,0,20,Nicky
+5,1.PS,Clasica de Almeria (prov.),40940,NIZZOLO Giacomo,13863,0,18,PB
+6,1.PS,Clasica de Almeria (prov.),40940,WALSCHEID Maximilian,19646,0,16,PB
+7,1.PS,Clasica de Almeria (prov.),40940,GAVIRIA RENDON Fernando,20777,0,14,Albert
+8,1.PS,Clasica de Almeria (prov.),40940,TESSON Jason,29883,0,12,Jan
+9,1.PS,Clasica de Almeria (prov.),40940,PENHOËT Paul,30686,0,10,niet verkocht
+10,1.PS,Clasica de Almeria (prov.),40940,MOLANO BENAVIDES Juan Sebastian,23463,0,8,PB
+1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat (prov.)",40978,HERRADA LOPEZ Jesus,17534,0.3,0,Paul
+1,2.1,"Tour of Antalya, General classification",40976,no result,13543,2,0,niet verkocht
+1,1.1,Figueira Champions Classic (prov.),41033,PEDERSEN Casper Phillip,23429,2,0,niet verkocht
+2,1.1,Figueira Champions Classic (prov.),41033,HERREGODTS Rune,28392,0.3,0,niet verkocht
+3,1.1,Figueira Champions Classic (prov.),41033,VAN DEN BERG Marijn,27674,0.1,0,niet verkocht
+1,NC5,National Championships Ecuador (Tulcan) R.R. (prov.),40924,CARAPAZ MONTENEGRO Richard Antonio,21342,1,0,Wijnand
+1,NC5,National Championships South Africa (Oudtshoorn) R.R.,40926,STEDMAN Travis,32107,1,0,niet verkocht
+1,NC5,National Championships New Zealand (Tokoroa) R.R.,40922,ORAM James,19829,1,0,niet verkocht
+1,NC5,National Championships Uruguay (Paysandu) R.R. (prov.),40928,RODRIGUEZ RAMOS Diego Leonel,29716,1,0,niet verkocht
+1,2.PSs,"Tour of Oman, Stage 1 : Al Rustaq Fort - Muscat (prov.)",40977,MERLIER Tim,17988,0.3,0,Wijnand
+1,1.1,Vuelta a Murcia,40939,TURNER Ben,27923,2,0,Arjan
+2,1.1,Vuelta a Murcia,40939,CLARKE Simon,3366,0.3,0,PB
+3,1.1,Vuelta a Murcia,40939,MEEUS Jordi,26421,0.1,0,Vel
+1,NCT5,National Championships Ecuador (Tulcan) I.T.T.,40923,CAICEDO CEPEDA Jonathan Klever,22631,0.5,0,niet verkocht
+1,NCT5,National Championships Uruguay (Paysandu) I.T.T.,40927,FAGUNDEZ LIMA Eric Antonio,28445,0.5,0,niet verkocht
+1,1.1,Muscat Classic,40911,BIERMANS Jenthe,22010,2,0,niet verkocht
+2,1.1,Muscat Classic,40911,WARLOP Jordi,24239,0.3,0,niet verkocht
+3,1.1,Muscat Classic,40911,VENDRAME Andrea,22170,0.1,0,niet verkocht
+1,NCT5,National Championships New Zealand (Tokoroa) I.T.T.,40921,CURRIE Logan,30604,0.5,0,niet verkocht
+1,NCT5,National Championships South Africa (Oudtshoorn) I.T.T.,40925,DE BOD Stefan,23888,0.5,0,niet verkocht
+1,CCT2,African Cycling Championships (Accra) I.T.T.,41031,KAGIMU Charles,24714,0.5,0,niet verkocht
 1,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,COSTA Rui Alberto Faria,6807,4,50,niet verkocht
 2,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,CICCONE Giulio,21812,1,35,Nicky
 3,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,GEOGHEGAN HART Tao,22018,0.5,25,Paul
@@ -31,16 +47,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 2,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,SKJELMOSE JENSEN Mattias,30166,0.3,0,Kaspar
 3,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,LATOUR Pierre,20156,0.1,0,Kaspar
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 5 : Alès - Alès I.T.T.",40952,PEDERSEN Mads,21992,0.2,0,Harry
-1,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,CHAVES RUBIO Jhoan Esteban,16941,5,50,Jan
-2,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,MARTINEZ POVEDA Daniel Felipe,23503,2,35,Bram
-3,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,QUINTANA ROJAS Nairo Alexander,12843,1,25,Roy
-4,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,MERCHAN CARDONA Didier Norberto,30957,0,20,niet verkocht
-5,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,JAMAICA MEJIA Javier Ernesto,31178,0,18,niet verkocht
-6,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,FLOREZ LOPEZ Miguel Eduardo,24812,0,16,niet verkocht
-7,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,HENAO MONTOYA Sergio Luis,7006,0,14,niet verkocht
-8,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,RUBIO REYES Einer Augusto,27024,0,12,Frank
-9,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,CAMARGO PINEDA Diego Andres,28187,0,10,niet verkocht
-10,NC2,National Championships Colombia (Bucaramanga) R.R.,40920,CHAPARRO LOPEZ Didier Alonso,19463,0,8,niet verkocht
+1,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,CHAVES RUBIO Jhoan Esteban,16941,5,50,Jan
+2,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,MARTINEZ POVEDA Daniel Felipe,23503,2,35,Bram
+3,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,QUINTANA ROJAS Nairo Alexander,12843,1,25,Roy
+4,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,MERCHAN CARDONA Didier Norberto,30957,0,20,niet verkocht
+5,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,JAMAICA MEJIA Javier Ernesto,31178,0,18,niet verkocht
+6,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,FLOREZ LOPEZ Miguel Eduardo,24812,0,16,niet verkocht
+7,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,HENAO MONTOYA Sergio Luis,7006,0,14,niet verkocht
+8,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,RUBIO REYES Einer Augusto,27024,0,12,Frank
+9,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,CAMARGO PINEDA Diego Andres,28187,0,10,niet verkocht
+10,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,CHAPARRO LOPEZ Didier Alonso,19463,0,8,niet verkocht
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 4 : Burriana - Alto la Cova Santo",40957,GEOGHEGAN HART Tao,22018,0.3,0,Paul
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Saint Christol Lèz Alès - Le Mont Bouquet",40951,SKJELMOSE JENSEN Mattias,30166,0.2,0,Kaspar
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : Bétera - Sagunto",40956,VELASCO Simone,22662,0.3,0,niet verkocht
@@ -52,7 +68,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Novelda - Alto de Pinos",40955,CICCONE Giulio,21812,0.3,0,Nicky
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Bagard - Aubais",40949,no result,13543,0.2,0,niet verkocht
 1,2.1s,"Saudi Tour, Stage 4 : Maraya - Harrat Uwayrid",40891,GUERREIRO Ruben Antonio Almeida,22683,0.2,0,Jan
-1,NCT2,National Championships Colombia (Bucaramanga) I.T.T.,40919,LOPEZ MORENO Miguel Angel,23334,2,0,Nicky
+1,NCT2,National Championships Colombia (Bucaramanga) I.T.T.,40919,LOPEZ MORENO Miguel Angel,23334,0.0,0,Nicky
 1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Orihuela - Altea (prov.)",40954,GIRMAY HAILU Biniam,29474,0.3,0,Nicky
 1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 1 : Bellegarde - Bellegarde (prov.)",40948,DE LIE Arnaud,32221,0.2,0,Wijnand
 1,2.1s,"Saudi Tour, Stage 3 : Al Ula - Abu Rakah",40890,WAERENSKJOLD Søren,29187,0.2,0,niet verkocht
@@ -89,7 +105,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 2,1.1,Trofeo Playa de Palma,40902,GIRMAY HAILU Biniam,29474,0.3,0,Nicky
 3,1.1,Trofeo Playa de Palma,40902,VAN DE PAAR Jarne,29798,0.1,0,niet verkocht
 1,2.1s,"La Tropicale Amissa Bongo, Stage 7 : Cap Esterias - Libreville",40886,SALBY Alexander,26419,0.2,0,niet verkocht
-1,NC4,National Championships Thailand (Thong Pha Phum) R.R.,40908,KLAHAN Noppachai,31282,1,0,niet verkocht
+1,NC5,National Championships Thailand (Thong Pha Phum) R.R.,40908,KLAHAN Noppachai,31282,1,0,niet verkocht
 1,NC5,National Championships Namibia (Windhoek) R.R.,40906,DE LANGE Tristan,28491,1,0,niet verkocht
 1,2.PSs,"Vuelta a San Juan, Stage 6 : San Juan - San Juan",40871,WELSFORD Samuel,23517,0.3,0,PB
 1,1.1,Trofeo Serra de Tramuntana,40900,GOOSSENS Kobe,23771,2,0,niet verkocht
@@ -102,7 +118,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 2,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,SANCHEZ MAYO Pelayo,31655,0.3,0,niet verkocht
 3,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,VAN EETVELT Lennert,32225,0.1,0,niet verkocht
 1,2.1s,"La Tropicale Amissa Bongo, Stage 5 : Kango - Angondje",40884,FERNANDEZ RUIZ Miguel Angel,26985,0.2,0,niet verkocht
-1,NCT4,National Championships Thailand (Thong Pha Phum) I.T.T.,40907,CHAWCHIANGKWANG Peerapol,11810,0.5,0,niet verkocht
+1,NCT5,National Championships Thailand (Thong Pha Phum) I.T.T.,40907,CHAWCHIANGKWANG Peerapol,11810,0.5,0,niet verkocht
 1,NCT5,National Championships Namibia (Windhoek) I.T.T.,40905,COETZEE Drikus,26844,0.5,0,niet verkocht
 1,1.1,Trofeo Ses Salines - Alcudia,40899,VAN DEN BERG Marijn,27674,2,0,niet verkocht
 2,1.1,Trofeo Ses Salines - Alcudia,40899,VERNON Ethan,30035,0.3,0,Arjan
