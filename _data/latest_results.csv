@@ -1,21 +1,30 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Jabal Haat (prov.)",40979,JORGENSON Matteo,28057,0.0,0
 1,CC2,African Cycling Championships (Accra) R.R. (prov.),41029,MULUBRHAN Henok,28186,0.0,0
-1,1.PS,Clasica de Almeria (prov.),40940,MOSCHETTI Matteo,27126,0.0,0
-2,1.PS,Clasica de Almeria (prov.),40940,DE LIE Arnaud,32221,0.0,0
-3,1.PS,Clasica de Almeria (prov.),40940,MEEUS Jordi,26421,0.0,0
-4,1.PS,Clasica de Almeria (prov.),40940,KRISTOFF Alexander,4179,0.0,0
-5,1.PS,Clasica de Almeria (prov.),40940,NIZZOLO Giacomo,13863,0.0,0
-6,1.PS,Clasica de Almeria (prov.),40940,WALSCHEID Maximilian,19646,0.0,0
-7,1.PS,Clasica de Almeria (prov.),40940,GAVIRIA RENDON Fernando,20777,0.0,0
-8,1.PS,Clasica de Almeria (prov.),40940,TESSON Jason,29883,0.0,0
-9,1.PS,Clasica de Almeria (prov.),40940,PENHOËT Paul,30686,0.0,0
-10,1.PS,Clasica de Almeria (prov.),40940,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
+2,CC2,African Cycling Championships (Accra) R.R. (prov.),41029,HAMZA Yacine,25483,0.0,0
+3,CC2,African Cycling Championships (Accra) R.R. (prov.),41029,ED DOGHMY Achraf,30073,0.0,0
+4,CC2,African Cycling Championships (Accra) R.R. (prov.),41029,SAIDI Nassim,21188,0.0,0
+5,CC2,African Cycling Championships (Accra) R.R. (prov.),41029,BDADOU Youssef,29667,0.0,0
+6,CC2,African Cycling Championships (Accra) R.R. (prov.),41029,ROUGIER-LAGANE Christopher,24393,0.0,0
+7,CC2,African Cycling Championships (Accra) R.R. (prov.),41029,KAGIMU Charles,24714,0.0,0
+8,CC2,African Cycling Championships (Accra) R.R. (prov.),41029,UHIRIWE Byiza Renus,31098,0.0,0
+9,CC2,African Cycling Championships (Accra) R.R. (prov.),41029,DAUMONT Paul,28198,0.0,0
+10,CC2,African Cycling Championships (Accra) R.R. (prov.),41029,AREFAYNE Aklilu,34890,0.0,0
+1,1.PS,Clasica de Almeria,40940,MOSCHETTI Matteo,27126,0.0,0
+2,1.PS,Clasica de Almeria,40940,DE LIE Arnaud,32221,0.0,0
+3,1.PS,Clasica de Almeria,40940,MEEUS Jordi,26421,0.0,0
+4,1.PS,Clasica de Almeria,40940,KRISTOFF Alexander,4179,0.0,0
+5,1.PS,Clasica de Almeria,40940,NIZZOLO Giacomo,13863,0.0,0
+6,1.PS,Clasica de Almeria,40940,WALSCHEID Maximilian,19646,0.0,0
+7,1.PS,Clasica de Almeria,40940,GAVIRIA RENDON Fernando,20777,0.0,0
+8,1.PS,Clasica de Almeria,40940,TESSON Jason,29883,0.0,0
+9,1.PS,Clasica de Almeria,40940,PENHOËT Paul,30686,0.0,0
+10,1.PS,Clasica de Almeria,40940,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
 1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat (prov.)",40978,HERRADA LOPEZ Jesus,17534,0.0,0
 1,2.1,"Tour of Antalya, General classification",40976,no result,13543,0.0,0
-1,1.1,Figueira Champions Classic (prov.),41033,PEDERSEN Casper Phillip,23429,0.0,0
-2,1.1,Figueira Champions Classic (prov.),41033,HERREGODTS Rune,28392,0.0,0
-3,1.1,Figueira Champions Classic (prov.),41033,VAN DEN BERG Marijn,27674,0.0,0
+1,1.1,Figueira Champions Classic,41033,PEDERSEN Casper Phillip,23429,0.0,0
+2,1.1,Figueira Champions Classic,41033,HERREGODTS Rune,28392,0.0,0
+3,1.1,Figueira Champions Classic,41033,VAN DEN BERG Marijn,27674,0.0,0
 1,NC5,National Championships Ecuador (Tulcan) R.R. (prov.),40924,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0
 1,NC5,National Championships South Africa (Oudtshoorn) R.R.,40926,STEDMAN Travis,32107,0.0,0
 1,NC5,National Championships New Zealand (Tokoroa) R.R.,40922,ORAM James,19829,0.0,0
