@@ -167,7 +167,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29787,PLAPP Lucas,PLAPP Lucas,Vel,5,IGD,AUS,23,0,0
 29528,PLOWRIGHT Jensen,PLOWRIGHT Jensen,Frank,1,ADC,AUS,23,0,0
 7751,POELS Wout,POELS Wout,Roy,1,TBV,NED,36,0,0
-26526,POGACAR Tadej,POGACAR Tadej,Kees,83,UAD,SLO,25,0,0
+26526,POGACAR Tadej,POGACAR Tadej,Kees,83,UAD,SLO,25,2,0
 17940,POLANC Jan,POLANC Jan,Vel,1,UAD,SLO,31,0,0
 20847,POLITT Nils,POLITT Nils,Albert,3,BOH,GER,29,0,0
 24902,POWLESS Neilson,POWLESS Neilson,Harry,6,EFE,USA,27,4,0
@@ -214,7 +214,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 13270,TRENTIN Matteo,TRENTIN Matteo,Nicky,4,UAD,ITA,34,0,0
 30630,TULETT Ben,TULETT Ben,Albert,3,IGD,GBR,22,0,0
 21312,TURGIS Anthony,TURGIS Anthony,Vel,3,TEN,FRA,29,0,0
-27923,TURNER Benjamin,TURNER Benjamin,Arjan,1,IGD,GBR,24,2,0
+27923,TURNER Benjamin,TURNER Benjamin,Arjan,1,IGD,GBR,24,2.3,0
 31803,UIJTDEBROEKS Cian,UIJTDEBROEKS Cian,Vel,2,BOH,BEL,20,0,0
 10023,ULISSI Diego,ULISSI Diego,Paul,2,UAD,ITA,34,0,0
 4099,URAN URAN Rigoberto,URAN URAN Rigoberto,Bram,4,EFE,COL,36,0,0
@@ -244,7 +244,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24316,VLASOV Aleksandr,VLASOV Aleksandr,Harry,19,BOH,RUS,27,0,18
 28509,WALLS Matthew,WALLS Matthew,PB,1,BOH,GBR,25,0,0
 19646,WALSCHEID Maximilian,WALSCHEID Maximilian,PB,1,COF,GER,30,0,16
-16722,WELLENS Tim,WELLENS Tim,Albert,5,UAD,BEL,32,0,0
+16722,WELLENS Tim,WELLENS Tim,Albert,5,UAD,BEL,32,0.1,0
 23517,WELSFORD Samuel,WELSFORD Samuel,PB,1,DSM,AUS,27,0.6,0
 20257,WOODS Michael,WOODS Michael,Albert,2,IPT,CAN,37,0,0
 28446,WRIGHT Fred,WRIGHT Fred,Jan,5,TBV,GBR,24,0,0
