@@ -1,8 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 4 : Olvera - Iznajar (prov.)",40993,POGACAR Tadej,26526,0.0,0
+1,2.PSs,"Volta ao Algarve, Stage 4 : Albufeira - Malhao (prov.)",40987,PIDCOCK Thomas,27708,0.0,0
+1,2.1s,"Tour des Alpes-Maritimes et du Var, Stage 2 : Mandelieu - Antibes (prov.)",40997,SKJELMOSE JENSEN Mattias,30166,0.0,0
 1,2.PSs,"Volta ao Algarve, Stage 3 : Faro - Tavira (prov.)",40986,CORT NIELSEN Magnus,19448,0.0,0
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 3 : Alcala de Guadaira - Alcala de los Gazules (prov.)",40992,WELLENS Tim,16722,0.0,0
 1,2.1s,"Tour des Alpes-Maritimes et du Var, Stage 1 : Saint Raphaël - Ramatuelle (prov.)",40996,VAUQUELIN Kévin,31264,0.0,0
-1,NCT5,National Championships Pakistan (Peshawar) I.T.T. (prov.),40929,ALI Shahwali,30608,0.0,0
+1,NCT5,National Championships Pakistan (Peshawar) I.T.T.,40929,ALI Shahwali,30608,0.0,0
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 2 : Diezma - Alcala la Real (prov.)",40991,POGACAR Tadej,26526,0.0,0
 1,2.PSs,"Volta ao Algarve, Stage 2 : Sagres - Foia (prov.)",40985,CORT NIELSEN Magnus,19448,0.0,0
 1,2.PS,"Tour of Oman, General classification",40983,JORGENSON Matteo,28057,0.0,0
@@ -45,8 +48,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 10,1.PS,Clasica de Almeria,40940,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
 1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat",40978,HERRADA LOPEZ Jesus,17534,0.0,0
 1,2.1,"Tour of Antalya, General classification",40976,no result,13543,0.0,0
-1,1.1,Figueira Champions Classic,41033,PEDERSEN Casper Phillip,23429,0.0,0
-2,1.1,Figueira Champions Classic,41033,HERREGODTS Rune,28392,0.0,0
-3,1.1,Figueira Champions Classic,41033,VAN DEN BERG Marijn,27674,0.0,0
-1,NC5,National Championships Ecuador (Tulcan) R.R.,40924,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0
-1,NC5,National Championships South Africa (Oudtshoorn) R.R.,40926,STEDMAN Travis,32107,0.0,0
