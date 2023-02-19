@@ -1,6 +1,33 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 4 : Olvera - Iznajar (prov.)",40993,POGACAR Tadej,26526,0.0,0
+1,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",40995,POGACAR Tadej,26526,0.0,0
+2,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",40995,LANDA MEANA Mikel,14319,0.0,0
+3,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",40995,BUITRAGO SANCHEZ Santiago,29699,0.0,0
+4,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",40995,RODRIGUEZ CANO Carlos,30836,0.0,0
+5,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",40995,MAS NICOLAU Enric,22794,0.0,0
+6,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",40995,GEOGHEGAN HART Tao,22018,0.0,0
+7,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",40995,CARUSO Damiano,6177,0.0,0
+8,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",40995,ROTA Lorenzo,21958,0.0,0
+9,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",40995,KRON Andreas Lorentz,26420,0.0,0
+10,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification (prov.)",40995,SIVAKOV Pavel,24934,0.0,0
+1,2.PS,"Volta ao Algarve, General classification (prov.)",40989,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0
+2,2.PS,"Volta ao Algarve, General classification (prov.)",40989,GANNA Filippo,24057,0.0,0
+3,2.PS,"Volta ao Algarve, General classification (prov.)",40989,VAN WILDER Ilan,29828,0.0,0
+4,2.PS,"Volta ao Algarve, General classification (prov.)",40989,FOSS Tobias Svendsen,24873,0.0,0
+5,2.PS,"Volta ao Algarve, General classification (prov.)",40989,KÜNG Stefan,20960,0.0,0
+6,2.PS,"Volta ao Algarve, General classification (prov.)",40989,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0
+7,2.PS,"Volta ao Algarve, General classification (prov.)",40989,PIDCOCK Thomas,27708,0.0,0
+8,2.PS,"Volta ao Algarve, General classification (prov.)",40989,MOLLEMA Bauke,5139,0.0,0
+9,2.PS,"Volta ao Algarve, General classification (prov.)",40989,CORT NIELSEN Magnus,19448,0.0,0
+10,2.PS,"Volta ao Algarve, General classification (prov.)",40989,COSTA Rui Alberto Faria,6807,0.0,0
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 5 : Otura - Alhaurin de la Torre (prov.)",40994,FRAILE MATARRANZ Omar,19335,0.0,0
+1,2.PSs,"Volta ao Algarve, Stage 5 : Lagoa - Lagoa I.T.T. (prov.)",40988,KÜNG Stefan,20960,0.0,0
+1,2.1,"Tour des Alpes-Maritimes et du Var, General classification (prov.)",40999,VAUQUELIN Kévin,31264,0.0,0
+2,2.1,"Tour des Alpes-Maritimes et du Var, General classification (prov.)",40999,PARET-PEINTRE Aurélien,24110,0.0,0
+3,2.1,"Tour des Alpes-Maritimes et du Var, General classification (prov.)",40999,POWLESS Neilson,24902,0.0,0
+1,2.1s,"Tour des Alpes-Maritimes et du Var, Stage 3 : Villefranche-sur-Mer - Vence (prov.)",40998,PARET-PEINTRE Aurélien,24110,0.0,0
+1,2.1s,"Tour du Rwanda, Stage 1 : Kigali - Rwamagana (prov.)",41000,VERNON Ethan,30035,0.0,0
 1,2.PSs,"Volta ao Algarve, Stage 4 : Albufeira - Malhao (prov.)",40987,PIDCOCK Thomas,27708,0.0,0
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 4 : Olvera - Iznajar (prov.)",40993,POGACAR Tadej,26526,0.0,0
 1,2.1s,"Tour des Alpes-Maritimes et du Var, Stage 2 : Mandelieu - Antibes (prov.)",40997,SKJELMOSE JENSEN Mattias,30166,0.0,0
 1,2.PSs,"Volta ao Algarve, Stage 3 : Faro - Tavira (prov.)",40986,CORT NIELSEN Magnus,19448,0.0,0
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 3 : Alcala de Guadaira - Alcala de los Gazules (prov.)",40992,WELLENS Tim,16722,0.0,0
@@ -21,30 +48,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,2.PSs,"Volta ao Algarve, Stage 1 : Portimao - Lagos (prov.)",40984,KRISTOFF Alexander,4179,0.0,0
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 1 : Puente de Genave - Santiago de la Espada (prov.)",40990,POGACAR Tadej,26526,0.0,0
 1,2.PSs,"Tour of Oman, Stage 5 : Samail - Jabal Al Akhdar",40981,VANSEVENANT Mauri,28580,0.0,0
-1,2.PSs,"Tour of Oman, Stage 4 : Izki - Yitti Hills",40980,ULISSI Diego,10023,0.0,0
-1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Jabal Haat",40979,JORGENSON Matteo,28057,0.0,0
-1,1.1,Jaén Paraíso Interior,40941,POGACAR Tadej,26526,0.0,0
-2,1.1,Jaén Paraíso Interior,40941,TURNER Ben,27923,0.0,0
-3,1.1,Jaén Paraíso Interior,40941,WELLENS Tim,16722,0.0,0
-1,CC2,African Cycling Championships (Accra) R.R.,41029,MULUBRHAN Henok,28186,0.0,0
-2,CC2,African Cycling Championships (Accra) R.R.,41029,HAMZA Yacine,25483,0.0,0
-3,CC2,African Cycling Championships (Accra) R.R.,41029,ED DOGHMY Achraf,30073,0.0,0
-4,CC2,African Cycling Championships (Accra) R.R.,41029,SAIDI Nassim,21188,0.0,0
-5,CC2,African Cycling Championships (Accra) R.R.,41029,BDADOU Youssef,29667,0.0,0
-6,CC2,African Cycling Championships (Accra) R.R.,41029,ROUGIER-LAGANE Christopher,24393,0.0,0
-7,CC2,African Cycling Championships (Accra) R.R.,41029,KAGIMU Charles,24714,0.0,0
-8,CC2,African Cycling Championships (Accra) R.R.,41029,UHIRIWE Byiza Renus,31098,0.0,0
-9,CC2,African Cycling Championships (Accra) R.R.,41029,DAUMONT Paul,28198,0.0,0
-10,CC2,African Cycling Championships (Accra) R.R.,41029,AREFAYNE Aklilu,34890,0.0,0
-1,1.PS,Clasica de Almeria,40940,MOSCHETTI Matteo,27126,0.0,0
-2,1.PS,Clasica de Almeria,40940,DE LIE Arnaud,32221,0.0,0
-3,1.PS,Clasica de Almeria,40940,MEEUS Jordi,26421,0.0,0
-4,1.PS,Clasica de Almeria,40940,KRISTOFF Alexander,4179,0.0,0
-5,1.PS,Clasica de Almeria,40940,NIZZOLO Giacomo,13863,0.0,0
-6,1.PS,Clasica de Almeria,40940,WALSCHEID Maximilian,19646,0.0,0
-7,1.PS,Clasica de Almeria,40940,GAVIRIA RENDON Fernando,20777,0.0,0
-8,1.PS,Clasica de Almeria,40940,TESSON Jason,29883,0.0,0
-9,1.PS,Clasica de Almeria,40940,PENHOËT Paul,30686,0.0,0
-10,1.PS,Clasica de Almeria,40940,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
-1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat",40978,HERRADA LOPEZ Jesus,17534,0.0,0
-1,2.1,"Tour of Antalya, General classification",40976,no result,13543,0.0,0
