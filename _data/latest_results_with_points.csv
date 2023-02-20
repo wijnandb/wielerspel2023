@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
+1,2.WT3s,"UAE Tour, Stage 1 : Al Dhafra Castle - Al Mirfa (prov.)",41009,MERLIER Tim,17988,0.5,0,Wijnand
+1,2.1s,"Tour du Rwanda, Stage 2 : Kigali - Gisagara (prov.)",41001,VERNON Ethan,30035,0.2,0,Arjan
 1,2.PS,"Volta ao Algarve, General classification",40989,MARTINEZ POVEDA Daniel Felipe,23503,4,50,Bram
 2,2.PS,"Volta ao Algarve, General classification",40989,GANNA Filippo,24057,1,35,Jan
 3,2.PS,"Volta ao Algarve, General classification",40989,VAN WILDER Ilan,29828,0.5,25,Wijnand
@@ -46,5 +48,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 9,2.PS,"Tour of Oman, General classification",40983,UIJTDEBROEKS Cian,31803,0,10,Vel
 10,2.PS,"Tour of Oman, General classification",40983,VERONA QUINTANILLA Carlos,17994,0,8,niet verkocht
 1,2.PSs,"Volta ao Algarve, Stage 1 : Portimao - Lagos",40984,KRISTOFF Alexander,4179,0.3,0,Nicky
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 1 : Puente de Genave - Santiago de la Espada",40990,POGACAR Tadej,26526,0.3,0,Kees
-1,2.PSs,"Tour of Oman, Stage 5 : Samail - Jabal Al Akhdar",40981,VANSEVENANT Mauri,28580,0.3,0,Wijnand
