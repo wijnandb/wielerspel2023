@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.WT3s,"UAE Tour, Stage 3 : Fujairah - Jebel Jais (prov.)",41011,RUBIO REYES Einer Augusto,27024,0.0,0
+1,2.1s,"Tour du Rwanda, Stage 4 : Musanze - Karongi (prov.)",41003,BONNET Thomas,32240,0.0,0
 1,2.1s,"Tour du Rwanda, Stage 3 : Huye - Musanze (prov.)",41002,MULUBRHAN Henok,28186,0.0,0
 1,2.WT3s,"UAE Tour, Stage 1 : Al Dhafra Castle - Al Mirfa (prov.)",41009,MERLIER Tim,17988,0.0,0
 1,2.1s,"Tour du Rwanda, Stage 2 : Kigali - Gisagara (prov.)",41001,VERNON Ethan,30035,0.0,0
@@ -36,5 +38,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 3 : Alcala de Guadaira - Alcala de los Gazules",40992,WELLENS Tim,16722,0.0,0
 1,2.1s,"Tour des Alpes-Maritimes et du Var, Stage 1 : Saint Raphaël - Ramatuelle",40996,VAUQUELIN Kévin,31264,0.0,0
 1,NCT5,National Championships Pakistan (Peshawar) I.T.T.,40929,ALI Shahwali,30608,0.0,0
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 2 : Diezma - Alcala la Real",40991,POGACAR Tadej,26526,0.0,0
-1,2.PSs,"Volta ao Algarve, Stage 2 : Sagres - Foia",40985,CORT NIELSEN Magnus,19448,0.0,0
