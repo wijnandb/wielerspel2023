@@ -69,49 +69,48 @@ def get_results():
     WIP: there is a (prov.) after the racename, to indicate provisional results.
     Store these and re-visit, until (prov.) or (provisional) disclaimer is gone.
     """
-    if check_if_new_results():
-        print("OK, checking new results")
-        base_result_url = "https://cqranking.com/men/asp/gen/start.asp"
-        b = base_result_url
-        r = requests.get(b)
-        soup = BeautifulSoup(r.text, "html.parser")
-        result_table =  soup.find("table", ["borderNoOpac"])
-        row_tags = result_table.find_all('tr')[1:] # skipping the header rows
-        for row_tag in row_tags:
-            try:
-                tds = row_tag.find_all('td')
-                """
-                0 - date (Not using this yet.. I should!)
-                1 - category
-                2 - country
-                3 - Name race + href full results
-                4 - rank + name rider + href rider
-                """
-                points = 0
-                JPP = 0
-                rank = tds[4].text.split(".")[0]
-                category = tds[1].text
-                #print(category)
-                if not category[:3] in ['1.2','2.2']:
-                    country = tds[2].find('img').get('title').upper()
-                    print(country)
-                    race_name = tds[3].text
-                    race_id = tds[3].a['href'].split("=")[1]
-                    rider = tds[4].text.split(".")[1]
-                    rider_id = tds[4].a['href'].split("=")[1]
+    print("OK, checking new results")
+    base_result_url = "https://cqranking.com/men/asp/gen/start.asp"
+    b = base_result_url
+    r = requests.get(b)
+    soup = BeautifulSoup(r.text, "html.parser")
+    result_table =  soup.find("table", ["borderNoOpac"])
+    row_tags = result_table.find_all('tr')[1:] # skipping the header rows
+    for row_tag in row_tags:
+        try:
+            tds = row_tag.find_all('td')
+            """
+            0 - date (Not using this yet.. I should!)
+            1 - category
+            2 - country
+            3 - Name race + href full results
+            4 - rank + name rider + href rider
+            """
+            points = 0
+            JPP = 0
+            rank = tds[4].text.split(".")[0]
+            category = tds[1].text
+            #print(category)
+            if not category[:3] in ['1.2','2.2']:
+                country = tds[2].find('img').get('title').upper()
+                # print(country)
+                race_name = tds[3].text
+                race_id = tds[3].a['href'].split("=")[1]
+                rider = tds[4].text.split(".")[1]
+                rider_id = tds[4].a['href'].split("=")[1]
 
-                    if (category[-1] == 's' or category[-1] == 'r' or category[:3] == 'NCT' or category[:3] == 'CCT') and (category[:3] not in ['1.2','2.2']):
-                        print("add race to new results")
-                        if category[:3] == 'NCT':
-                            category = count_riders.change_category_NCTT(country)
-                            print(f"New category for {race_name}, changed to {category}")
-                        new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP)])
-                    else:
-                        get_results_per_race(race_id, race_name, category, country)
-                # else:
-                #     #print("skip this category")
-            except:
-                print("Something went wrong scraping latest results")
+                if (category[-1] == 's' or category[-1] == 'r' or category[:3] == 'NCT' or category[:3] == 'CCT') and (category[:3] not in ['1.2','2.2']):
+                    print("add race to new results")
+                    if category[:3] == 'NCT':
+                        category = count_riders.change_category_NCTT(country)
+                        print(f"New category for {race_name}, changed to {category}")
+                    new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP)])
+                else:
+                    get_results_per_race(race_id, race_name, category, country)
+            # else:
+            #     #print("skip this category")
+        except:
+            print("Something went wrong scraping latest results")
 
 
 def get_results_per_race(race_id, race_name, category, country=None):
