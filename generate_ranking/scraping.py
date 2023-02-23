@@ -69,7 +69,6 @@ def check_if_new_results():
     return True
 
 
-
 def get_results():
     """
     Check https://cqranking.com/men/asp/gen/start.asp to see if there are new results.
