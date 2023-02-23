@@ -2,8 +2,9 @@
 I am getting the existing results from a CSV, scrape new results, compare which new results
 are actually new (don't exist in results) and write the whole (updated) collection of results to the CSV
 
-Update:
-I am struggling to remove doubles, so why not add the lists together and make a set out of it?
+After scraping, I run processing.py to add points to results and riders.
+Then I add up all points for all the teamcaptains.
+
 """
 import requests
 from bs4 import BeautifulSoup
@@ -32,40 +33,29 @@ new_results = []
                 # 'points',
                 # 'JPP']]
 
-def check_if_new_results():
+def check_if_new_results(new_result):
     """
     We don't want the scraper to run if there are no new results. 
-    We visit CQranking, check teh latest result(s). 
+    We visit CQranking, check the latest result(s). 
     If we already have that result, we cancel.
     Otherwise, we scrape.
-    We could/(should?) run the normal scraper once a day regardless?
     """
-    # base_result_url = "https://cqranking.com/men/asp/gen/start.asp"
-    # b = base_result_url
-    # r = requests.get(b)
-    # soup = BeautifulSoup(r.text, "html.parser")
-    # result_table =  soup.find("table", ["borderNoOpac"])
-    # row_tags = result_table.find_all('tr')[1:2] # just first result, skipping header row
-    # for row_tag in row_tags:
-    #     try:
-    #         tds = row_tag.find_all('td')
-    #         """
-    #         0 - date (Not using this yet.. I should!)
-    #         1 - category
-    #         2 - country
-    #         3 - Name race + href full results
-    #         4 - rank + name rider + href rider
-    #         """
-    #         rank = tds[4].text.split(".")[0]
-    #         race_id = tds[3].a['href'].split("=")[1]
-    #         print(f"Check resultaat, {tds[3].text}")
-    #         for result in results:
-    #             if (int(rank) == int(result[0]) and int(race_id) == int(result[3])):
-    #                 print(f"{race_id} already exists with rank {rank}")
-    #         return True
-    #     except:
-    #         print("Something went wrong scraping latest results")
-    #         return False
+    # loop over results (these are the results you already have)
+    # check if the new result exists in the results
+    # if that is the case, we're not doen yet
+    # we want to know if we have all the results from that race
+    # and we want to know if the (prov.) is gone, so if the results are final
+    # First thing is that we want to scrae as long as (prov.) is in there
+    # Is prov. gone?
+    # do we have enough results?
+
+
+    """
+    Another option coud be to check which races we need to have (be careful, cancelled race!)
+    
+    """
+
+
     return True
 
 
