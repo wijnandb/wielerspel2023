@@ -15,9 +15,9 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 22683,GUERREIRO Ruben,GUERREIRO Ruben Antonio Almeida,Jan,1,MOV,POR,29,2.2,0
 27025,HAYTER Ethan,HAYTER Ethan,Jan,19,IGD,GBR,25,0,0
 23427,KÄMNA Lennard,KÄMNA Lennard,Jan,5,BOH,GER,27,0,0
-26197,LAFAY Victor,LAFAY Victor,Jan,2,COF,FRA,27,0,0
+26197,LAFAY Victor,LAFAY Victor,Jan,2,COF,FRA,27,0,20
 31621,LAURANCE Axel,LAURANCE Axel,Jan,1,ADD,FRA,22,0,0
-19994,MARTIN Guillaume,MARTIN Guillaume,Jan,4,COF,FRA,30,0,0
+19994,MARTIN Guillaume,MARTIN Guillaume,Jan,4,COF,FRA,30,0,12
 29214,SCHMID Mauro,SCHMID Mauro,Jan,4,SOQ,SUI,24,0.2,18
 31598,SHEFFIELD Magnus,SHEFFIELD Magnus,Jan,6,IGD,USA,21,0.5,20
 7834,SIMON Julien,SIMON Julien,Jan,1,TEN,FRA,38,0,0
@@ -27,5 +27,5 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 19242,VAN POPPEL Danny,VAN POPPEL Danny,Jan,1,BOH,NED,30,0,0
 28579,VAN TRICHT Stan,VAN TRICHT Stan,Jan,1,SOQ,BEL,24,0,0
 30636,VAN UDEN Casper,VAN UDEN Casper,Jan,1,DSM,NED,22,0,0
-7728,VANMARCKE Sep,VANMARCKE Sep,Jan,1,IPT,BEL,35,0,0
+7728,VANMARCKE Sep,VANMARCKE Sep,Jan,1,IPT,BEL,35,0,8
 28446,WRIGHT Fred,WRIGHT Fred,Jan,5,TBV,GBR,24,0,0
