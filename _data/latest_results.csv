@@ -1,56 +1,70 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,1.WT3,Omloop Het Nieuwsblad (prov.),40942,VAN BAARLE Dylan,17794,0.0,0
-2,1.WT3,Omloop Het Nieuwsblad (prov.),40942,DE LIE Arnaud,32221,0.0,0
-3,1.WT3,Omloop Het Nieuwsblad (prov.),40942,LAPORTE Christophe,19953,0.0,0
-4,1.WT3,Omloop Het Nieuwsblad (prov.),40942,KRISTOFF Alexander,4179,0.0,0
-5,1.WT3,Omloop Het Nieuwsblad (prov.),40942,PIDCOCK Thomas,27708,0.0,0
-6,1.WT3,Omloop Het Nieuwsblad (prov.),40942,BALLERINI Davide,22020,0.0,0
-7,1.WT3,Omloop Het Nieuwsblad (prov.),40942,POLITT Nils,20847,0.0,0
-8,1.WT3,Omloop Het Nieuwsblad (prov.),40942,PASQUALON Andrea,10220,0.0,0
-9,1.WT3,Omloop Het Nieuwsblad (prov.),40942,OLIVEIRA Rui Filipe Alves,24030,0.0,0
-10,1.WT3,Omloop Het Nieuwsblad (prov.),40942,VANMARCKE Sep,7728,0.0,0
+1,2.WT3,"UAE Tour, General classification (prov.)",41016,EVENEPOEL Remco,28377,0.0,0
+2,2.WT3,"UAE Tour, General classification (prov.)",41016,PLAPP Lucas,29787,0.0,0
+3,2.WT3,"UAE Tour, General classification (prov.)",41016,YATES Adam,18975,0.0,0
+4,2.WT3,"UAE Tour, General classification (prov.)",41016,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0
+5,2.WT3,"UAE Tour, General classification (prov.)",41016,KUSS Sepp,25653,0.0,0
+6,2.WT3,"UAE Tour, General classification (prov.)",41016,POELS Wout,7751,0.0,0
+7,2.WT3,"UAE Tour, General classification (prov.)",41016,TIBERI Antonio,30649,0.0,0
+8,2.WT3,"UAE Tour, General classification (prov.)",41016,ZWIEHOFF Ben,31491,0.0,0
+9,2.WT3,"UAE Tour, General classification (prov.)",41016,BUCHMANN Emanuel,18739,0.0,0
+10,2.WT3,"UAE Tour, General classification (prov.)",41016,VANHOUCKE Harm,25652,0.0,0
+1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet (prov.)",41015,YATES Adam,18975,0.0,0
+1,2.WT3r,"UAE Tour, Points classification (prov.)",41017,MERLIER Tim,17988,0.0,0
+1,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,BENOOT Tiesj,21244,0.0,0
+2,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,VAN HOOYDONCK Nathan,22015,0.0,0
+3,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,MOHORIC Matej,21145,0.0,0
+4,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,VAN DER HOORN Taco,19897,0.0,0
+5,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,WELLENS Tim,16722,0.0,0
+6,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,LAPORTE Christophe,19953,0.0,0
+7,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,DE LIE Arnaud,32221,0.0,0
+8,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,MEEUS Jordi,26421,0.0,0
+9,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,JAKOBSEN Fabio,23426,0.0,0
+10,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,STUYVEN Jasper,18233,0.0,0
+1,1.PS,Faun Drôme Classic (prov.),40945,PEREZ Anthony,17632,0.0,0
+2,1.PS,Faun Drôme Classic (prov.),40945,COSTA Rui Alberto Faria,6807,0.0,0
+3,1.PS,Faun Drôme Classic (prov.),40945,BAGIOLI Andrea,28452,0.0,0
+4,1.PS,Faun Drôme Classic (prov.),40945,GAUDU David,24255,0.0,0
+5,1.PS,Faun Drôme Classic (prov.),40945,SIMMONS Quinn,30666,0.0,0
+6,1.PS,Faun Drôme Classic (prov.),40945,SKJELMOSE JENSEN Mattias,30166,0.0,0
+7,1.PS,Faun Drôme Classic (prov.),40945,ZIMMERMANN Georg,25165,0.0,0
+8,1.PS,Faun Drôme Classic (prov.),40945,CLARKE Simon,3366,0.0,0
+9,1.PS,Faun Drôme Classic (prov.),40945,STRONG Corbin,29492,0.0,0
+10,1.PS,Faun Drôme Classic (prov.),40945,GODON Dorian,25704,0.0,0
+1,2.1,"O Gran Camiño, General classification (prov.)",41022,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
+2,2.1,"O Gran Camiño, General classification (prov.)",41022,HERRADA LOPEZ Jesus,17534,0.0,0
+3,2.1,"O Gran Camiño, General classification (prov.)",41022,GUERREIRO Ruben Antonio Almeida,22683,0.0,0
+1,2.1,"Tour du Rwanda, General classification (prov.)",41008,MULUBRHAN Henok,28186,0.0,0
+2,2.1,"Tour du Rwanda, General classification (prov.)",41008,CALZONI Walter,32557,0.0,0
+3,2.1,"Tour du Rwanda, General classification (prov.)",41008,LECERF William Junior,32229,0.0,0
+1,2.1s,"O Gran Camiño, Stage 4 : Novo Milladoiro - Santiago de Compostela I.T.T. (prov.)",41021,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
+1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali (prov.)",41007,MULUBRHAN Henok,28186,0.0,0
+1,1.WT3,Omloop Het Nieuwsblad,40942,VAN BAARLE Dylan,17794,0.0,0
+2,1.WT3,Omloop Het Nieuwsblad,40942,DE LIE Arnaud,32221,0.0,0
+3,1.WT3,Omloop Het Nieuwsblad,40942,LAPORTE Christophe,19953,0.0,0
+4,1.WT3,Omloop Het Nieuwsblad,40942,KRISTOFF Alexander,4179,0.0,0
+5,1.WT3,Omloop Het Nieuwsblad,40942,PIDCOCK Thomas,27708,0.0,0
+6,1.WT3,Omloop Het Nieuwsblad,40942,BALLERINI Davide,22020,0.0,0
+7,1.WT3,Omloop Het Nieuwsblad,40942,POLITT Nils,20847,0.0,0
+8,1.WT3,Omloop Het Nieuwsblad,40942,PASQUALON Andrea,10220,0.0,0
+9,1.WT3,Omloop Het Nieuwsblad,40942,OLIVEIRA Rui Filipe Alves,24030,0.0,0
+10,1.WT3,Omloop Het Nieuwsblad,40942,VANMARCKE Sep,7728,0.0,0
 1,2.WT3s,"UAE Tour, Stage 6 : Abu Dhabi - Abu Dhabi (prov.)",41014,MERLIER Tim,17988,0.0,0
-1,1.PS,Faun Drôme Classic (prov.),40945,ALAPHILIPPE Julian,18610,0.0,0
-2,1.PS,Faun Drôme Classic (prov.),40945,GAUDU David,24255,0.0,0
-3,1.PS,Faun Drôme Classic (prov.),40945,SKJELMOSE JENSEN Mattias,30166,0.0,0
-4,1.PS,Faun Drôme Classic (prov.),40945,LAFAY Victor,26197,0.0,0
-5,1.PS,Faun Drôme Classic (prov.),40945,GREGOIRE Romain,32766,0.0,0
-6,1.PS,Faun Drôme Classic (prov.),40945,GALEDO Mark John Lexer Guevarra,14351,0.0,0
-7,1.PS,Faun Drôme Classic (prov.),40945,ROTA Lorenzo,21958,0.0,0
-8,1.PS,Faun Drôme Classic (prov.),40945,MARTIN Guillaume,19994,0.0,0
-9,1.PS,Faun Drôme Classic (prov.),40945,COSTA Rui Alberto Faria,6807,0.0,0
-10,1.PS,Faun Drôme Classic (prov.),40945,LATOUR Pierre,20156,0.0,0
-1,2.1s,"O Gran Camiño, Stage 3 : Esgos -Rubia (prov.)",41020,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
+1,1.PS,Faun Ardèche Classic,40944,ALAPHILIPPE Julian,18610,0.0,0
+2,1.PS,Faun Ardèche Classic,40944,GAUDU David,24255,0.0,0
+3,1.PS,Faun Ardèche Classic,40944,SKJELMOSE JENSEN Mattias,30166,0.0,0
+4,1.PS,Faun Ardèche Classic,40944,LAFAY Victor,26197,0.0,0
+5,1.PS,Faun Ardèche Classic,40944,GREGOIRE Romain,32766,0.0,0
+6,1.PS,Faun Ardèche Classic,40944,GALL Felix,26383,0.0,0
+7,1.PS,Faun Ardèche Classic,40944,ROTA Lorenzo,21958,0.0,0
+8,1.PS,Faun Ardèche Classic,40944,MARTIN Guillaume,19994,0.0,0
+9,1.PS,Faun Ardèche Classic,40944,COSTA Rui Alberto Faria,6807,0.0,0
+10,1.PS,Faun Ardèche Classic,40944,LATOUR Pierre,20156,0.0,0
 1,2.1s,"Tour du Rwanda, Stage 7 : Nyamata - Mont Kigali (prov.)",41006,TAROZZI Manuele,29884,0.0,0
+1,2.1s,"O Gran Camiño, Stage 3 : Esgos -Rubia (prov.)",41020,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
+1,NCT5,National Championships United Arab Emirates (Nazwa) I.T.T. (prov.),40931,ALKAABI Saif Mayouf,26445,0.0,0
 1,2.WT3s,"UAE Tour, Stage 5 : Al Marjan Island - Umm Al Quwain (prov.)",41013,GROENEWEGEN Dylan,19238,0.0,0
 1,2.1s,"O Gran Camiño, Stage 2 : Tui - A Guarda (prov.)",41019,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
 1,2.1s,"Tour du Rwanda, Stage 6 : Rubavu - Gicumbi (prov.)",41005,BADILATTI Matteo,24246,0.0,0
 1,2.WT3s,"UAE Tour, Stage 4 : Al Shindagha - Dubai Harbour (prov.)",41012,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
 1,2.1s,"O Gran Camiño, Stage 1 : Muralla de Lugo - Sarria (prov.)",41018,no result,13543,0.0,0
-1,2.1s,"Tour du Rwanda, Stage 5 : Rusizi - Rubavu (prov.)",41004,ORMISTON Callum,29773,0.0,0
-1,2.WT3s,"UAE Tour, Stage 3 : Fujairah - Jebel Jais (prov.)",41011,RUBIO REYES Einer Augusto,27024,0.0,0
-1,2.1s,"Tour du Rwanda, Stage 4 : Musanze - Karongi (prov.)",41003,BONNET Thomas,32240,0.0,0
-1,2.1s,"Tour du Rwanda, Stage 3 : Huye - Musanze (prov.)",41002,MULUBRHAN Henok,28186,0.0,0
-1,2.WT3s,"UAE Tour, Stage 1 : Al Dhafra Castle - Al Mirfa (prov.)",41009,MERLIER Tim,17988,0.0,0
-1,2.1s,"Tour du Rwanda, Stage 2 : Kigali - Gisagara (prov.)",41001,VERNON Ethan,30035,0.0,0
-1,2.PS,"Volta ao Algarve, General classification",40989,MARTINEZ POVEDA Daniel Felipe,23503,0.0,0
-2,2.PS,"Volta ao Algarve, General classification",40989,GANNA Filippo,24057,0.0,0
-3,2.PS,"Volta ao Algarve, General classification",40989,VAN WILDER Ilan,29828,0.0,0
-4,2.PS,"Volta ao Algarve, General classification",40989,FOSS Tobias Svendsen,24873,0.0,0
-5,2.PS,"Volta ao Algarve, General classification",40989,KÜNG Stefan,20960,0.0,0
-6,2.PS,"Volta ao Algarve, General classification",40989,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0
-7,2.PS,"Volta ao Algarve, General classification",40989,PIDCOCK Thomas,27708,0.0,0
-8,2.PS,"Volta ao Algarve, General classification",40989,MOLLEMA Bauke,5139,0.0,0
-9,2.PS,"Volta ao Algarve, General classification",40989,CORT NIELSEN Magnus,19448,0.0,0
-10,2.PS,"Volta ao Algarve, General classification",40989,COSTA Rui Alberto Faria,6807,0.0,0
-1,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,POGACAR Tadej,26526,0.0,0
-2,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,LANDA MEANA Mikel,14319,0.0,0
-3,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,BUITRAGO SANCHEZ Santiago,29699,0.0,0
-4,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,RODRIGUEZ CANO Carlos,30836,0.0,0
-5,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,MAS NICOLAU Enric,22794,0.0,0
-6,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,GEOGHEGAN HART Tao,22018,0.0,0
-7,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,CARUSO Damiano,6177,0.0,0
-8,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,ROTA Lorenzo,21958,0.0,0
-9,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,KRON Andreas Lorentz,26420,0.0,0
-10,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,SIVAKOV Pavel,24934,0.0,0
-1,2.PSs,"Volta ao Algarve, Stage 5 : Lagoa - Lagoa I.T.T.",40988,KÜNG Stefan,20960,0.0,0
