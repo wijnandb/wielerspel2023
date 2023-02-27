@@ -1,44 +1,44 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
-1,2.WT3,"UAE Tour, General classification (prov.)",41016,EVENEPOEL Remco,28377,5,50,Roy
-2,2.WT3,"UAE Tour, General classification (prov.)",41016,PLAPP Lucas,29787,2,35,Vel
-3,2.WT3,"UAE Tour, General classification (prov.)",41016,YATES Adam,18975,0.5,25,Paul
-4,2.WT3,"UAE Tour, General classification (prov.)",41016,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,20,Jan
-5,2.WT3,"UAE Tour, General classification (prov.)",41016,KUSS Sepp,25653,0,18,Nicky
-6,2.WT3,"UAE Tour, General classification (prov.)",41016,POELS Wout,7751,0,16,Roy
-7,2.WT3,"UAE Tour, General classification (prov.)",41016,TIBERI Antonio,30649,0,14,niet verkocht
-8,2.WT3,"UAE Tour, General classification (prov.)",41016,ZWIEHOFF Ben,31491,0,12,niet verkocht
-9,2.WT3,"UAE Tour, General classification (prov.)",41016,BUCHMANN Emanuel,18739,0,10,PB
-10,2.WT3,"UAE Tour, General classification (prov.)",41016,VANHOUCKE Harm,25652,0,8,niet verkocht
-1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet (prov.)",41015,YATES Adam,18975,0.5,0,Paul
-1,2.WT3r,"UAE Tour, Points classification (prov.)",41017,MERLIER Tim,17988,0.0,0,Wijnand
-1,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,BENOOT Tiesj,21244,4,50,Paul
-2,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,VAN HOOYDONCK Nathan,22015,1,35,niet verkocht
-3,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,MOHORIC Matej,21145,0.5,25,Frank
-4,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,VAN DER HOORN Taco,19897,0,20,Nicky
-5,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,WELLENS Tim,16722,0,18,Albert
-6,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,LAPORTE Christophe,19953,0,16,Kaspar
-7,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,DE LIE Arnaud,32221,0,14,Wijnand
-8,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,MEEUS Jordi,26421,0,12,Vel
-9,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,JAKOBSEN Fabio,23426,0,10,Kaspar
-10,1.PS,Kuurne - Brussel - Kuurne (prov.),40943,STUYVEN Jasper,18233,0,8,PB
-1,1.PS,Faun Drôme Classic (prov.),40945,PEREZ Anthony,17632,4,50,niet verkocht
-2,1.PS,Faun Drôme Classic (prov.),40945,COSTA Rui Alberto Faria,6807,1,35,niet verkocht
-3,1.PS,Faun Drôme Classic (prov.),40945,BAGIOLI Andrea,28452,0.5,25,Albert
-4,1.PS,Faun Drôme Classic (prov.),40945,GAUDU David,24255,0,20,Nicky
-5,1.PS,Faun Drôme Classic (prov.),40945,SIMMONS Quinn,30666,0,18,Bram
-6,1.PS,Faun Drôme Classic (prov.),40945,SKJELMOSE JENSEN Mattias,30166,0,16,Kaspar
-7,1.PS,Faun Drôme Classic (prov.),40945,ZIMMERMANN Georg,25165,0,14,niet verkocht
-8,1.PS,Faun Drôme Classic (prov.),40945,CLARKE Simon,3366,0,12,PB
-9,1.PS,Faun Drôme Classic (prov.),40945,STRONG Corbin,29492,0,10,PB
-10,1.PS,Faun Drôme Classic (prov.),40945,GODON Dorian,25704,0,8,niet verkocht
-1,2.1,"O Gran Camiño, General classification (prov.)",41022,VINGEGAARD RASMUSSEN Jonas,25740,2,0,Arjan
-2,2.1,"O Gran Camiño, General classification (prov.)",41022,HERRADA LOPEZ Jesus,17534,0.3,0,Paul
-3,2.1,"O Gran Camiño, General classification (prov.)",41022,GUERREIRO Ruben Antonio Almeida,22683,0.1,0,Jan
-1,2.1,"Tour du Rwanda, General classification (prov.)",41008,MULUBRHAN Henok,28186,2,0,niet verkocht
-2,2.1,"Tour du Rwanda, General classification (prov.)",41008,CALZONI Walter,32557,0.3,0,niet verkocht
-3,2.1,"Tour du Rwanda, General classification (prov.)",41008,LECERF William Junior,32229,0.1,0,niet verkocht
-1,2.1s,"O Gran Camiño, Stage 4 : Novo Milladoiro - Santiago de Compostela I.T.T. (prov.)",41021,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,Arjan
-1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali (prov.)",41007,MULUBRHAN Henok,28186,0.2,0,niet verkocht
+1,2.WT3,"UAE Tour, General classification",41016,EVENEPOEL Remco,28377,5,50,Roy
+2,2.WT3,"UAE Tour, General classification",41016,PLAPP Lucas,29787,2,35,Vel
+3,2.WT3,"UAE Tour, General classification",41016,YATES Adam,18975,0.5,25,Paul
+4,2.WT3,"UAE Tour, General classification",41016,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,20,Jan
+5,2.WT3,"UAE Tour, General classification",41016,KUSS Sepp,25653,0,18,Nicky
+6,2.WT3,"UAE Tour, General classification",41016,POELS Wout,7751,0,16,Roy
+7,2.WT3,"UAE Tour, General classification",41016,TIBERI Antonio,30649,0,14,niet verkocht
+8,2.WT3,"UAE Tour, General classification",41016,ZWIEHOFF Ben,31491,0,12,niet verkocht
+9,2.WT3,"UAE Tour, General classification",41016,BUCHMANN Emanuel,18739,0,10,PB
+10,2.WT3,"UAE Tour, General classification",41016,VANHOUCKE Harm,25652,0,8,niet verkocht
+1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet",41015,YATES Adam,18975,0.5,0,Paul
+1,2.WT3r,"UAE Tour, Points classification",41017,MERLIER Tim,17988,0.0,0,Wijnand
+1,1.PS,Faun Drôme Classic,40945,PEREZ Anthony,17632,4,50,niet verkocht
+2,1.PS,Faun Drôme Classic,40945,COSTA Rui Alberto Faria,6807,1,35,niet verkocht
+3,1.PS,Faun Drôme Classic,40945,BAGIOLI Andrea,28452,0.5,25,Albert
+4,1.PS,Faun Drôme Classic,40945,GAUDU David,24255,0,20,Nicky
+5,1.PS,Faun Drôme Classic,40945,SIMMONS Quinn,30666,0,18,Bram
+6,1.PS,Faun Drôme Classic,40945,SKJELMOSE JENSEN Mattias,30166,0,16,Kaspar
+7,1.PS,Faun Drôme Classic,40945,ZIMMERMANN Georg,25165,0,14,niet verkocht
+8,1.PS,Faun Drôme Classic,40945,CLARKE Simon,3366,0,12,PB
+9,1.PS,Faun Drôme Classic,40945,STRONG Corbin,29492,0,10,PB
+10,1.PS,Faun Drôme Classic,40945,GODON Dorian,25704,0,8,niet verkocht
+1,1.PS,Kuurne - Brussel - Kuurne,40943,BENOOT Tiesj,21244,4,50,Paul
+2,1.PS,Kuurne - Brussel - Kuurne,40943,VAN HOOYDONCK Nathan,22015,1,35,niet verkocht
+3,1.PS,Kuurne - Brussel - Kuurne,40943,MOHORIC Matej,21145,0.5,25,Frank
+4,1.PS,Kuurne - Brussel - Kuurne,40943,VAN DER HOORN Taco,19897,0,20,Nicky
+5,1.PS,Kuurne - Brussel - Kuurne,40943,WELLENS Tim,16722,0,18,Albert
+6,1.PS,Kuurne - Brussel - Kuurne,40943,LAPORTE Christophe,19953,0,16,Kaspar
+7,1.PS,Kuurne - Brussel - Kuurne,40943,DE LIE Arnaud,32221,0,14,Wijnand
+8,1.PS,Kuurne - Brussel - Kuurne,40943,MEEUS Jordi,26421,0,12,Vel
+9,1.PS,Kuurne - Brussel - Kuurne,40943,JAKOBSEN Fabio,23426,0,10,Kaspar
+10,1.PS,Kuurne - Brussel - Kuurne,40943,STUYVEN Jasper,18233,0,8,PB
+1,2.1,"O Gran Camiño, General classification",41022,VINGEGAARD RASMUSSEN Jonas,25740,2,0,Arjan
+2,2.1,"O Gran Camiño, General classification",41022,HERRADA LOPEZ Jesus,17534,0.3,0,Paul
+3,2.1,"O Gran Camiño, General classification",41022,GUERREIRO Ruben Antonio Almeida,22683,0.1,0,Jan
+1,2.1,"Tour du Rwanda, General classification",41008,MULUBRHAN Henok,28186,2,0,niet verkocht
+2,2.1,"Tour du Rwanda, General classification",41008,CALZONI Walter,32557,0.3,0,niet verkocht
+3,2.1,"Tour du Rwanda, General classification",41008,LECERF William Junior,32229,0.1,0,niet verkocht
+1,2.1s,"O Gran Camiño, Stage 4 : Novo Milladoiro - Santiago de Compostela I.T.T.",41021,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,Arjan
+1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali",41007,MULUBRHAN Henok,28186,0.2,0,niet verkocht
 1,1.WT3,Omloop Het Nieuwsblad,40942,VAN BAARLE Dylan,17794,5,50,Nicky
 2,1.WT3,Omloop Het Nieuwsblad,40942,DE LIE Arnaud,32221,2,35,Wijnand
 3,1.WT3,Omloop Het Nieuwsblad,40942,LAPORTE Christophe,19953,1,25,Kaspar
@@ -49,7 +49,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 8,1.WT3,Omloop Het Nieuwsblad,40942,PASQUALON Andrea,10220,0,12,niet verkocht
 9,1.WT3,Omloop Het Nieuwsblad,40942,OLIVEIRA Rui Filipe Alves,24030,0,10,niet verkocht
 10,1.WT3,Omloop Het Nieuwsblad,40942,VANMARCKE Sep,7728,0,8,Jan
-1,2.WT3s,"UAE Tour, Stage 6 : Abu Dhabi - Abu Dhabi (prov.)",41014,MERLIER Tim,17988,0.5,0,Wijnand
+1,2.WT3s,"UAE Tour, Stage 6 : Abu Dhabi - Abu Dhabi",41014,MERLIER Tim,17988,0.5,0,Wijnand
 1,1.PS,Faun Ardèche Classic,40944,ALAPHILIPPE Julian,18610,4,50,Arjan
 2,1.PS,Faun Ardèche Classic,40944,GAUDU David,24255,1,35,Nicky
 3,1.PS,Faun Ardèche Classic,40944,SKJELMOSE JENSEN Mattias,30166,0.5,25,Kaspar
@@ -60,14 +60,14 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 8,1.PS,Faun Ardèche Classic,40944,MARTIN Guillaume,19994,0,12,Jan
 9,1.PS,Faun Ardèche Classic,40944,COSTA Rui Alberto Faria,6807,0,10,niet verkocht
 10,1.PS,Faun Ardèche Classic,40944,LATOUR Pierre,20156,0,8,Kaspar
-1,2.1s,"Tour du Rwanda, Stage 7 : Nyamata - Mont Kigali (prov.)",41006,TAROZZI Manuele,29884,0.2,0,niet verkocht
-1,2.1s,"O Gran Camiño, Stage 3 : Esgos -Rubia (prov.)",41020,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,Arjan
+1,2.1s,"Tour du Rwanda, Stage 7 : Nyamata - Mont Kigali",41006,TAROZZI Manuele,29884,0.2,0,niet verkocht
+1,2.1s,"O Gran Camiño, Stage 3 : Esgos -Rubia",41020,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,Arjan
 1,NCT5,National Championships United Arab Emirates (Nazwa) I.T.T. (prov.),40931,ALKAABI Saif Mayouf,26445,0.5,0,niet verkocht
-1,2.WT3s,"UAE Tour, Stage 5 : Al Marjan Island - Umm Al Quwain (prov.)",41013,GROENEWEGEN Dylan,19238,0.5,0,Frank
-1,2.1s,"O Gran Camiño, Stage 2 : Tui - A Guarda (prov.)",41019,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,Arjan
-1,2.1s,"Tour du Rwanda, Stage 6 : Rubavu - Gicumbi (prov.)",41005,BADILATTI Matteo,24246,0.2,0,niet verkocht
-1,2.WT3s,"UAE Tour, Stage 4 : Al Shindagha - Dubai Harbour (prov.)",41012,MOLANO BENAVIDES Juan Sebastian,23463,0.5,0,PB
-1,2.1s,"O Gran Camiño, Stage 1 : Muralla de Lugo - Sarria (prov.)",41018,no result,13543,0.2,0,niet verkocht
+1,2.WT3s,"UAE Tour, Stage 5 : Al Marjan Island - Umm Al Quwain",41013,GROENEWEGEN Dylan,19238,0.5,0,Frank
+1,2.1s,"O Gran Camiño, Stage 2 : Tui - A Guarda",41019,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,Arjan
+1,2.1s,"Tour du Rwanda, Stage 6 : Rubavu - Gicumbi",41005,BADILATTI Matteo,24246,0.2,0,niet verkocht
+1,2.WT3s,"UAE Tour, Stage 4 : Al Shindagha - Dubai Harbour",41012,MOLANO BENAVIDES Juan Sebastian,23463,0.5,0,PB
+1,2.1s,"O Gran Camiño, Stage 1 : Muralla de Lugo - Sarria",41018,no result,13543,0.2,0,niet verkocht
 1,2.1s,"Tour du Rwanda, Stage 5 : Rusizi - Rubavu (prov.)",41004,ORMISTON Callum,29773,0.2,0,niet verkocht
 1,2.WT3s,"UAE Tour, Stage 3 : Fujairah - Jebel Jais (prov.)",41011,RUBIO REYES Einer Augusto,27024,0.5,0,Frank
 1,2.1s,"Tour du Rwanda, Stage 4 : Musanze - Karongi (prov.)",41003,BONNET Thomas,32240,0.2,0,niet verkocht
