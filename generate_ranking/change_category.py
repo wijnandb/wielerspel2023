@@ -26,7 +26,7 @@ I send the racename to this function, and then return the (new) category.
 """
 
 def new_category(racename,category):
-  if racename in ['Omloop het Nieuwsblad','Strade Bianche']:
+  if racename in ['Omloop Het Nieuwsblad','Strade Bianche']:
     category = '1.WT2'
   if racename in ['Amstel Gold Race']:
     category = '1.WT1'
