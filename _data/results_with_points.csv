@@ -42,16 +42,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 3,2.1,"Tour du Rwanda, General classification",41008,LECERF William Junior,32229,0.1,0,niet verkocht
 1,2.1s,"O Gran Camiño, Stage 4 : Novo Milladoiro - Santiago de Compostela I.T.T.",41021,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,Arjan
 1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali",41007,MULUBRHAN Henok,28186,0.2,0,niet verkocht
-1,1.WT3,Omloop Het Nieuwsblad,40942,VAN BAARLE Dylan,17794,5,50,Nicky
-2,1.WT3,Omloop Het Nieuwsblad,40942,DE LIE Arnaud,32221,2,35,Wijnand
-3,1.WT3,Omloop Het Nieuwsblad,40942,LAPORTE Christophe,19953,1,25,Kaspar
-4,1.WT3,Omloop Het Nieuwsblad,40942,KRISTOFF Alexander,4179,0,20,Nicky
-5,1.WT3,Omloop Het Nieuwsblad,40942,PIDCOCK Thomas,27708,0,18,Albert
-6,1.WT3,Omloop Het Nieuwsblad,40942,BALLERINI Davide,22020,0,16,Harry
-7,1.WT3,Omloop Het Nieuwsblad,40942,POLITT Nils,20847,0,14,Albert
-8,1.WT3,Omloop Het Nieuwsblad,40942,PASQUALON Andrea,10220,0,12,niet verkocht
-9,1.WT3,Omloop Het Nieuwsblad,40942,OLIVEIRA Rui Filipe Alves,24030,0,10,niet verkocht
-10,1.WT3,Omloop Het Nieuwsblad,40942,VANMARCKE Sep,7728,0,8,Jan
+1,1.WT2,Omloop Het Nieuwsblad,40942,VAN BAARLE Dylan,17794,10,50,Nicky
+2,1.WT2,Omloop Het Nieuwsblad,40942,DE LIE Arnaud,32221,3,35,Wijnand
+3,1.WT2,Omloop Het Nieuwsblad,40942,LAPORTE Christophe,19953,1,25,Kaspar
+4,1.WT2,Omloop Het Nieuwsblad,40942,KRISTOFF Alexander,4179,0.5,20,Nicky
+5,1.WT2,Omloop Het Nieuwsblad,40942,PIDCOCK Thomas,27708,0.2,18,Albert
+6,1.WT2,Omloop Het Nieuwsblad,40942,BALLERINI Davide,22020,0,16,Harry
+7,1.WT2,Omloop Het Nieuwsblad,40942,POLITT Nils,20847,0,14,Albert
+8,1.WT2,Omloop Het Nieuwsblad,40942,PASQUALON Andrea,10220,0,12,niet verkocht
+9,1.WT2,Omloop Het Nieuwsblad,40942,OLIVEIRA Rui Filipe Alves,24030,0,10,niet verkocht
+10,1.WT2,Omloop Het Nieuwsblad,40942,VANMARCKE Sep,7728,0,8,Jan
 1,2.WT3s,"UAE Tour, Stage 6 : Abu Dhabi - Abu Dhabi",41014,MERLIER Tim,17988,0.5,0,Wijnand
 1,1.PS,Faun Ardèche Classic,40944,ALAPHILIPPE Julian,18610,4,50,Arjan
 2,1.PS,Faun Ardèche Classic,40944,GAUDU David,24255,1,35,Nicky

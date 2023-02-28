@@ -57,7 +57,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28298,COVI Alessandro,COVI Alessandro,Jan,3,UAD,ITA,25,0,0
 26965,DAINESE Alberto,DAINESE Alberto,Vel,3,DSM,ITA,25,0,0
 4557,DE GENDT Thomas,DE GENDT Thomas,Roy,1,LTD,BEL,37,0,0
-32221,DE LIE Arnaud,DE LIE Arnaud,Wijnand,14,LTD,BEL,21,5.4,84
+32221,DE LIE Arnaud,DE LIE Arnaud,Wijnand,14,LTD,BEL,21,6.4,84
 9851,DEGENKOLB John,DEGENKOLB John,Kaspar,1,DSM,GER,34,0,0
 27083,DEKKER David,DEKKER David,Wijnand,1,ARK,NED,25,0,0
 16653,DEMARE Arnaud,DEMARE Arnaud,Wijnand,13,GFC,FRA,32,0,0
@@ -111,7 +111,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 15171,KELDERMAN Wilco,KELDERMAN Wilco,Albert,2,TJV,NED,32,0,0
 16058,KONRAD Patrick,KONRAD Patrick,Albert,1,BOH,AUT,32,0,0
 30643,KOOIJ Olav,KOOIJ Olav,Albert,13,TJV,NED,22,0,0
-4179,KRISTOFF Alexander,KRISTOFF Alexander,Nicky,7,UXT,NOR,36,0.3,40
+4179,KRISTOFF Alexander,KRISTOFF Alexander,Nicky,7,UXT,NOR,36,0.8,40
 26420,KRON Andreas,KRON Andreas Lorentz,Paul,1,LTD,DEN,25,0,10
 20960,KÜNG Stefan,KÜNG Stefan,PB,11,GFC,SUI,30,0.3,18
 25653,KUSS Sepp,KUSS Sepp,Nicky,3,TJV,USA,29,0,18
@@ -162,7 +162,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 21992,PEDERSEN Mads,PEDERSEN Mads,Harry,18,TFS,DEN,28,0.2,0
 26392,PHILIPSEN Jasper,PHILIPSEN Jasper,Nicky,11,ADC,BEL,25,0,0
 30648,PICCOLO Andrea,PICCOLO Andrea,Albert,3,EFE,ITA,22,0,0
-27708,PIDCOCK Thomas,PIDCOCK Thomas,Albert,20,IGD,GBR,24,0.3,32
+27708,PIDCOCK Thomas,PIDCOCK Thomas,Albert,20,IGD,GBR,24,0.5,32
 13080,PINOT Thibaut,PINOT Thibaut,Nicky,4,GFC,FRA,33,0,0
 29787,PLAPP Lucas,PLAPP Lucas,Vel,5,IGD,AUS,23,2,35
 29528,PLOWRIGHT Jensen,PLOWRIGHT Jensen,Frank,1,ADC,AUS,23,0,0
@@ -222,7 +222,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 27198,VALTER Attila,VALTER Attila,Kees,2,TJV,HUN,25,0,0
 20730,VAN AERT Wout,VAN AERT Wout,Frank,61,TJV,BEL,29,0,0
 3333,VAN AVERMAET Greg,VAN AVERMAET Greg,Albert,1,ACT,BEL,38,0,0
-17794,VAN BAARLE Dylan,VAN BAARLE Dylan,Nicky,7,TJV,NED,31,5,50
+17794,VAN BAARLE Dylan,VAN BAARLE Dylan,Nicky,7,TJV,NED,31,10,50
 19897,VAN DER HOORN Taco,VAN DER HOORN Taco,Nicky,1,ICW,NED,30,0,20
 21971,VAN DER POEL Mathieu,VAN DER POEL Mathieu,Vel,40,ADC,NED,28,0,0
 30641,VAN DIJKE Mick,VAN DIJKE Mick,Arjan,2,TJV,NED,23,0,0
