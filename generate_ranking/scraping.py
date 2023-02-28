@@ -8,7 +8,7 @@ Then I add up all points for all the teamcaptains.
 """
 import requests
 from bs4 import BeautifulSoup
-import process_files, count_riders
+import process_files, count_riders, change_category
 from datetime import datetime
 # from operator import itemgetter
 
@@ -106,6 +106,8 @@ def get_results():
                         print(f"New category for {race_name}, changed to {category}")
                     new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP)])
                 else:
+                    if category[:4]=='1.WT' or category[:4]=='2.WT':
+                        category = change_category.new_category(race_name, category)
                     get_results_per_race(race_id, race_name, category, country)
             # else:
             #     #print("skip this category")
@@ -118,7 +120,7 @@ def get_results_per_race(race_id, race_name, category, country=None):
     WIP:
     Appending results can lead to double results.
     Writing results means getting all results every day again, which is unnecessary
-    (and is causing another problem, where I only have the rsults of the last race...)
+    (and is causing another problem, where I only have the results of the last race...)
     """
     if category not in ['1.2',['2.2']]:
         if category[-1] == "s" or category[-1] == "r":
