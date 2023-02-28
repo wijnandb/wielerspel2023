@@ -25,7 +25,7 @@ Let's go for finding the name.
 I send the racename to this function, and then return the (new) category.
 """
 
-def new_category(racename):
+def new_category(racename,category):
   if racename in ['Omloop het Nieuwsblad','Strade Bianche']:
     category = '1.WT2'
   if racename in ['Amstel Gold Race']:
