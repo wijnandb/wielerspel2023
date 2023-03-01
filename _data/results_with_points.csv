@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
+1,1.PS,Trofeo Laigueglia,41034,PETERS Nans,22703,4,50,niet verkocht
+2,1.PS,Trofeo Laigueglia,41034,VENDRAME Andrea,22170,1,35,niet verkocht
+3,1.PS,Trofeo Laigueglia,41034,COVI Alessandro,28298,0.5,25,Jan
+4,1.PS,Trofeo Laigueglia,41034,ROTA Lorenzo,21958,0,20,Paul
+5,1.PS,Trofeo Laigueglia,41034,CHAMPOUSSIN Clément,27153,0,18,Jan
+6,1.PS,Trofeo Laigueglia,41034,GREGOIRE Romain,32766,0,16,niet verkocht
+7,1.PS,Trofeo Laigueglia,41034,CEPEDA ORTIZ Jefferson Alexander,26775,0,14,niet verkocht
+8,1.PS,Trofeo Laigueglia,41034,COSNEFROY Benoît,24189,0,12,PB
+9,1.PS,Trofeo Laigueglia,41034,ULISSI Diego,10023,0,10,Paul
+10,1.PS,Trofeo Laigueglia,41034,ZIMMERMANN Georg,25165,0,8,niet verkocht
 1,1.1,Le Samyn,40947,MENTEN Milan,24180,2,0,niet verkocht
 2,1.1,Le Samyn,40947,HOFSTETTER Hugo,22702,0.3,0,Albert
 3,1.1,Le Samyn,40947,THEUNS Edward,16697,0.1,0,Harry

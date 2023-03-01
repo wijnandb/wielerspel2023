@@ -45,7 +45,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 16936,CATTANEO Mattia,CATTANEO Mattia,Albert,1,SOQ,ITA,33,0,0
 22910,CAVAGNA Rémi,CAVAGNA Rémi,Harry,4,SOQ,FRA,28,0,0
 3448,CAVENDISH Mark,CAVENDISH Mark,Kaspar,4,???,GBR,38,0,0
-27153,CHAMPOUSSIN Clément,CHAMPOUSSIN Clément,Jan,1,ARK,FRA,25,0,0
+27153,CHAMPOUSSIN Clément,CHAMPOUSSIN Clément,Jan,1,ARK,FRA,25,0,18
 16941,CHAVES Jhoan,CHAVES RUBIO Jhoan Esteban,Jan,1,EFE,COL,33,5,50
 21812,CICCONE Giulio,CICCONE Giulio,Nicky,4,TFS,ITA,29,1.3,35
 3366,CLARKE Simon,CLARKE Simon,PB,0,IPT,AUS,37,1.3,37
@@ -53,8 +53,8 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 22681,CONSONNI Simone,CONSONNI Simone,Vel,1,COF,ITA,29,0.2,0
 18714,COQUARD Bryan,COQUARD Bryan,Jan,2,COF,FRA,31,1,8
 19448,CORT NIELSEN Magnus,CORT NIELSEN Magnus,Vel,4,EFE,DEN,30,0.6,10
-24189,COSNEFROY Benoît,COSNEFROY Benoît,PB,17,ACT,FRA,28,0,0
-28298,COVI Alessandro,COVI Alessandro,Jan,3,UAD,ITA,25,0,0
+24189,COSNEFROY Benoît,COSNEFROY Benoît,PB,17,ACT,FRA,28,0,12
+28298,COVI Alessandro,COVI Alessandro,Jan,3,UAD,ITA,25,0.5,25
 26965,DAINESE Alberto,DAINESE Alberto,Vel,3,DSM,ITA,25,0,0
 4557,DE GENDT Thomas,DE GENDT Thomas,Roy,1,LTD,BEL,37,0,0
 32221,DE LIE Arnaud,DE LIE Arnaud,Wijnand,14,LTD,BEL,21,6.4,84
@@ -174,7 +174,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 12843,QUINTANA Nairo,QUINTANA ROJAS Nairo Alexander,Roy,5,???,COL,33,1,25
 30836,RODRIGUEZ Carlos,RODRIGUEZ CANO Carlos,Roy,12,IGD,ESP,22,0,28
 20719,ROGLIC Primoz,ROGLIC Primoz,Bram,38,TJV,SLO,34,0,0
-21958,ROTA Lorenzo,ROTA Lorenzo,Paul,3,ICW,ITA,28,0,26
+21958,ROTA Lorenzo,ROTA Lorenzo,Paul,3,ICW,ITA,28,0,46
 13229,ROWE Luke,ROWE Luke,Arjan,0,IGD,GBR,33,0,0
 27024,RUBIO Einer Augusto,RUBIO REYES Einer Augusto,Frank,0,MOV,COL,25,0.5,32
 12193,SAGAN Peter,SAGAN Peter,Roy,5,TEN,SVK,33,0,0
@@ -216,7 +216,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 21312,TURGIS Anthony,TURGIS Anthony,Vel,3,TEN,FRA,29,0,0
 27923,TURNER Benjamin,TURNER Benjamin,Arjan,1,IGD,GBR,24,2.3,0
 31803,UIJTDEBROEKS Cian,UIJTDEBROEKS Cian,Vel,2,BOH,BEL,20,0,10
-10023,ULISSI Diego,ULISSI Diego,Paul,2,UAD,ITA,34,0.3,18
+10023,ULISSI Diego,ULISSI Diego,Paul,2,UAD,ITA,34,0.3,28
 4099,URAN URAN Rigoberto,URAN URAN Rigoberto,Bram,4,EFE,COL,36,0,0
 18123,VALGREN Michael,VALGREN HUNDAHL (ANDERSEN) Michael,Harry,1,EFD,DEN,31,0,0
 27198,VALTER Attila,VALTER Attila,Kees,2,TJV,HUN,25,0,0
