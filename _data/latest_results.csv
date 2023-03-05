@@ -1,18 +1,22 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,1.WT2,Strade Bianche (prov.),41039,PIDCOCK Thomas,27708,0.0,0
-2,1.WT2,Strade Bianche (prov.),41039,MADOUAS Valentin,24758,0.0,0
-3,1.WT2,Strade Bianche (prov.),41039,BENOOT Tiesj,21244,0.0,0
-4,1.WT2,Strade Bianche (prov.),41039,COSTA Rui Alberto Faria,6807,0.0,0
-5,1.WT2,Strade Bianche (prov.),41039,VALTER Attila,27198,0.0,0
-6,1.WT2,Strade Bianche (prov.),41039,MOHORIC Matej,21145,0.0,0
-7,1.WT2,Strade Bianche (prov.),41039,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0
-8,1.WT2,Strade Bianche (prov.),41039,GREGOIRE Romain,32766,0.0,0
-9,1.WT2,Strade Bianche (prov.),41039,FORMOLO Davide,18749,0.0,0
-10,1.WT2,Strade Bianche (prov.),41039,KRON Andreas Lorentz,26420,0.0,0
-1,1.1,GP Criquielion (prov.),41037,WELSFORD Samuel,23517,0.0,0
-2,1.1,GP Criquielion (prov.),41037,MENTEN Milan,24180,0.0,0
-3,1.1,GP Criquielion (prov.),41037,HALVORSEN Kristoffer,23425,0.0,0
-1,NC5,National Championships United Arab Emirates R.R. (prov.),40932,ALMANSOORI Ahmed,19635,0.0,0
+1,2.WT1s,"Paris - Nice, Stage 1 : La Verrière - La Verrière (prov.)",41077,MERLIER Tim,17988,0.0,0
+1,1.1,GP Jean-Pierre Monseré (prov.),41042,THIJSSEN Gerben,27085,0.0,0
+2,1.1,GP Jean-Pierre Monseré (prov.),41042,EWAN Caleb,19651,0.0,0
+3,1.1,GP Jean-Pierre Monseré (prov.),41042,WELSFORD Samuel,23517,0.0,0
+1,1.WT2,Strade Bianche,41039,PIDCOCK Thomas,27708,0.0,0
+2,1.WT2,Strade Bianche,41039,MADOUAS Valentin,24758,0.0,0
+3,1.WT2,Strade Bianche,41039,BENOOT Tiesj,21244,0.0,0
+4,1.WT2,Strade Bianche,41039,COSTA Rui Alberto Faria,6807,0.0,0
+5,1.WT2,Strade Bianche,41039,VALTER Attila,27198,0.0,0
+6,1.WT2,Strade Bianche,41039,MOHORIC Matej,21145,0.0,0
+7,1.WT2,Strade Bianche,41039,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0
+8,1.WT2,Strade Bianche,41039,GREGOIRE Romain,32766,0.0,0
+9,1.WT2,Strade Bianche,41039,FORMOLO Davide,18749,0.0,0
+10,1.WT2,Strade Bianche,41039,KRON Andreas Lorentz,26420,0.0,0
+1,1.1,GP Criquielion,41037,WELSFORD Samuel,23517,0.0,0
+2,1.1,GP Criquielion,41037,MENTEN Milan,24180,0.0,0
+3,1.1,GP Criquielion,41037,HALVORSEN Kristoffer,23425,0.0,0
+1,NC5,National Championships United Arab Emirates (Kalba) R.R. (prov.),40932,ALMANSOORI Ahmed,19635,0.0,0
 1,1.PS,Trofeo Laigueglia,41034,PETERS Nans,22703,0.0,0
 2,1.PS,Trofeo Laigueglia,41034,VENDRAME Andrea,22170,0.0,0
 3,1.PS,Trofeo Laigueglia,41034,COVI Alessandro,28298,0.0,0
@@ -58,21 +62,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 8,1.PS,Kuurne - Brussel - Kuurne,40943,MEEUS Jordi,26421,0.0,0
 9,1.PS,Kuurne - Brussel - Kuurne,40943,JAKOBSEN Fabio,23426,0.0,0
 10,1.PS,Kuurne - Brussel - Kuurne,40943,STUYVEN Jasper,18233,0.0,0
-1,2.1,"O Gran Camiño, General classification",41022,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
-2,2.1,"O Gran Camiño, General classification",41022,HERRADA LOPEZ Jesus,17534,0.0,0
-3,2.1,"O Gran Camiño, General classification",41022,GUERREIRO Ruben Antonio Almeida,22683,0.0,0
-1,2.1,"Tour du Rwanda, General classification",41008,MULUBRHAN Henok,28186,0.0,0
-2,2.1,"Tour du Rwanda, General classification",41008,CALZONI Walter,32557,0.0,0
-3,2.1,"Tour du Rwanda, General classification",41008,LECERF William Junior,32229,0.0,0
-1,2.1s,"O Gran Camiño, Stage 4 : Novo Milladoiro - Santiago de Compostela I.T.T.",41021,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
-1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali",41007,MULUBRHAN Henok,28186,0.0,0
-1,1.WT2,Omloop Het Nieuwsblad,40942,VAN BAARLE Dylan,17794,0.0,0
-2,1.WT2,Omloop Het Nieuwsblad,40942,DE LIE Arnaud,32221,0.0,0
-3,1.WT2,Omloop Het Nieuwsblad,40942,LAPORTE Christophe,19953,0.0,0
-4,1.WT2,Omloop Het Nieuwsblad,40942,KRISTOFF Alexander,4179,0.0,0
-5,1.WT2,Omloop Het Nieuwsblad,40942,PIDCOCK Thomas,27708,0.0,0
-6,1.WT2,Omloop Het Nieuwsblad,40942,BALLERINI Davide,22020,0.0,0
-7,1.WT2,Omloop Het Nieuwsblad,40942,POLITT Nils,20847,0.0,0
-8,1.WT2,Omloop Het Nieuwsblad,40942,PASQUALON Andrea,10220,0.0,0
-9,1.WT2,Omloop Het Nieuwsblad,40942,OLIVEIRA Rui Filipe Alves,24030,0.0,0
-10,1.WT2,Omloop Het Nieuwsblad,40942,VANMARCKE Sep,7728,0.0,0
