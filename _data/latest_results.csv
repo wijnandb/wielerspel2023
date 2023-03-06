@@ -1,8 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.WT1s,"Paris - Nice, Stage 2 : Bazainville - Fontainebleau (prov.)",41078,PEDERSEN Mads,21992,0.0,0
+1,2.WT1s,"Tirreno - Adriatico, Stage 1 : Lido di Camaiore I.T.T. (prov.)",41088,GANNA Filippo,24057,0.0,0
 1,2.WT1s,"Paris - Nice, Stage 1 : La Verrière - La Verrière (prov.)",41077,MERLIER Tim,17988,0.0,0
-1,1.1,GP Jean-Pierre Monseré (prov.),41042,THIJSSEN Gerben,27085,0.0,0
-2,1.1,GP Jean-Pierre Monseré (prov.),41042,EWAN Caleb,19651,0.0,0
-3,1.1,GP Jean-Pierre Monseré (prov.),41042,WELSFORD Samuel,23517,0.0,0
+1,1.1,GP Jean-Pierre Monseré,41042,THIJSSEN Gerben,27085,0.0,0
+2,1.1,GP Jean-Pierre Monseré,41042,EWAN Caleb,19651,0.0,0
+3,1.1,GP Jean-Pierre Monseré,41042,WELSFORD Samuel,23517,0.0,0
 1,1.WT2,Strade Bianche,41039,PIDCOCK Thomas,27708,0.0,0
 2,1.WT2,Strade Bianche,41039,MADOUAS Valentin,24758,0.0,0
 3,1.WT2,Strade Bianche,41039,BENOOT Tiesj,21244,0.0,0
@@ -41,24 +43,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 9,2.WT3,"UAE Tour, General classification",41016,BUCHMANN Emanuel,18739,0.0,0
 10,2.WT3,"UAE Tour, General classification",41016,VANHOUCKE Harm,25652,0.0,0
 1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet",41015,YATES Adam,18975,0.0,0
-1,2.WT3r,"UAE Tour, Points classification",41017,MERLIER Tim,17988,0.0,0
-1,1.PS,Faun Drôme Classic,40945,PEREZ Anthony,17632,0.0,0
-2,1.PS,Faun Drôme Classic,40945,COSTA Rui Alberto Faria,6807,0.0,0
-3,1.PS,Faun Drôme Classic,40945,BAGIOLI Andrea,28452,0.0,0
-4,1.PS,Faun Drôme Classic,40945,GAUDU David,24255,0.0,0
-5,1.PS,Faun Drôme Classic,40945,SIMMONS Quinn,30666,0.0,0
-6,1.PS,Faun Drôme Classic,40945,SKJELMOSE JENSEN Mattias,30166,0.0,0
-7,1.PS,Faun Drôme Classic,40945,ZIMMERMANN Georg,25165,0.0,0
-8,1.PS,Faun Drôme Classic,40945,CLARKE Simon,3366,0.0,0
-9,1.PS,Faun Drôme Classic,40945,STRONG Corbin,29492,0.0,0
-10,1.PS,Faun Drôme Classic,40945,GODON Dorian,25704,0.0,0
-1,1.PS,Kuurne - Brussel - Kuurne,40943,BENOOT Tiesj,21244,0.0,0
-2,1.PS,Kuurne - Brussel - Kuurne,40943,VAN HOOYDONCK Nathan,22015,0.0,0
-3,1.PS,Kuurne - Brussel - Kuurne,40943,MOHORIC Matej,21145,0.0,0
-4,1.PS,Kuurne - Brussel - Kuurne,40943,VAN DER HOORN Taco,19897,0.0,0
-5,1.PS,Kuurne - Brussel - Kuurne,40943,WELLENS Tim,16722,0.0,0
-6,1.PS,Kuurne - Brussel - Kuurne,40943,LAPORTE Christophe,19953,0.0,0
-7,1.PS,Kuurne - Brussel - Kuurne,40943,DE LIE Arnaud,32221,0.0,0
-8,1.PS,Kuurne - Brussel - Kuurne,40943,MEEUS Jordi,26421,0.0,0
-9,1.PS,Kuurne - Brussel - Kuurne,40943,JAKOBSEN Fabio,23426,0.0,0
-10,1.PS,Kuurne - Brussel - Kuurne,40943,STUYVEN Jasper,18233,0.0,0

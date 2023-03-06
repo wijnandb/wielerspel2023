@@ -1,10 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,2.WT1s,"Paris - Nice, Stage 2 : Bazainville - Fontainebleau (prov.)",41078,PEDERSEN Mads,21992,0.0,0
-1,2.WT1s,"Tirreno - Adriatico, Stage 1 : Lido di Camaiore I.T.T. (prov.)",41088,GANNA Filippo,24057,0.0,0
 1,2.WT1s,"Paris - Nice, Stage 1 : La Verrière - La Verrière (prov.)",41077,MERLIER Tim,17988,0.0,0
-1,1.1,GP Jean-Pierre Monseré,41042,THIJSSEN Gerben,27085,0.0,0
-2,1.1,GP Jean-Pierre Monseré,41042,EWAN Caleb,19651,0.0,0
-3,1.1,GP Jean-Pierre Monseré,41042,WELSFORD Samuel,23517,0.0,0
+1,1.1,GP Jean-Pierre Monseré (prov.),41042,THIJSSEN Gerben,27085,0.0,0
+2,1.1,GP Jean-Pierre Monseré (prov.),41042,EWAN Caleb,19651,0.0,0
+3,1.1,GP Jean-Pierre Monseré (prov.),41042,WELSFORD Samuel,23517,0.0,0
 1,1.WT2,Strade Bianche,41039,PIDCOCK Thomas,27708,0.0,0
 2,1.WT2,Strade Bianche,41039,MADOUAS Valentin,24758,0.0,0
 3,1.WT2,Strade Bianche,41039,BENOOT Tiesj,21244,0.0,0
