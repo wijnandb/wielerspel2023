@@ -1,6 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,2.WT1s,"Paris - Nice, Stage 2 : Bazainville - Fontainebleau (prov.)",41078,PEDERSEN Mads,21992,0.0,0
+1,2.WT1s,"Tirreno - Adriatico, Stage 2 : Camaiore - Follonica (prov.)",41089,JAKOBSEN Fabio,23426,0.0,0
 1,2.WT1s,"Tirreno - Adriatico, Stage 1 : Lido di Camaiore I.T.T. (prov.)",41088,GANNA Filippo,24057,0.0,0
+1,2.WT1s,"Paris - Nice, Stage 2 : Bazainville - Fontainebleau (prov.)",41078,PEDERSEN Mads,21992,0.0,0
 1,2.WT1s,"Paris - Nice, Stage 1 : La Verrière - La Verrière (prov.)",41077,MERLIER Tim,17988,0.0,0
 1,1.1,GP Jean-Pierre Monseré,41042,THIJSSEN Gerben,27085,0.0,0
 2,1.1,GP Jean-Pierre Monseré,41042,EWAN Caleb,19651,0.0,0
@@ -32,14 +33,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,1.1,Le Samyn,40947,MENTEN Milan,24180,0.0,0
 2,1.1,Le Samyn,40947,HOFSTETTER Hugo,22702,0.0,0
 3,1.1,Le Samyn,40947,THEUNS Edward,16697,0.0,0
-1,2.WT3,"UAE Tour, General classification",41016,EVENEPOEL Remco,28377,0.0,0
-2,2.WT3,"UAE Tour, General classification",41016,PLAPP Lucas,29787,0.0,0
-3,2.WT3,"UAE Tour, General classification",41016,YATES Adam,18975,0.0,0
-4,2.WT3,"UAE Tour, General classification",41016,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0
-5,2.WT3,"UAE Tour, General classification",41016,KUSS Sepp,25653,0.0,0
-6,2.WT3,"UAE Tour, General classification",41016,POELS Wout,7751,0.0,0
-7,2.WT3,"UAE Tour, General classification",41016,TIBERI Antonio,30649,0.0,0
-8,2.WT3,"UAE Tour, General classification",41016,ZWIEHOFF Ben,31491,0.0,0
-9,2.WT3,"UAE Tour, General classification",41016,BUCHMANN Emanuel,18739,0.0,0
-10,2.WT3,"UAE Tour, General classification",41016,VANHOUCKE Harm,25652,0.0,0
-1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet",41015,YATES Adam,18975,0.0,0
