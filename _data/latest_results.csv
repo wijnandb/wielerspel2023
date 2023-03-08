@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.WT1s,"Paris - Nice, Stage 4 : Saint-Amand-Montrond - La Loge des Gardes (prov.)",41080,POGACAR Tadej,26526,0.0,0
+1,2.WT1s,"Tirreno - Adriatico, Stage 3 : Follonica - Foligno (prov.)",41090,PHILIPSEN Jasper,26392,0.0,0
 1,2.WT1s,"Tirreno - Adriatico, Stage 2 : Camaiore - Follonica (prov.)",41089,JAKOBSEN Fabio,23426,0.0,0
 1,2.WT1s,"Tirreno - Adriatico, Stage 1 : Lido di Camaiore I.T.T. (prov.)",41088,GANNA Filippo,24057,0.0,0
 1,2.WT1s,"Paris - Nice, Stage 2 : Bazainville - Fontainebleau (prov.)",41078,PEDERSEN Mads,21992,0.0,0
@@ -20,16 +22,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 2,1.1,GP Criquielion,41037,MENTEN Milan,24180,0.0,0
 3,1.1,GP Criquielion,41037,HALVORSEN Kristoffer,23425,0.0,0
 1,NC5,National Championships United Arab Emirates (Kalba) R.R. (prov.),40932,ALMANSOORI Ahmed,19635,0.0,0
-1,1.PS,Trofeo Laigueglia,41034,PETERS Nans,22703,0.0,0
-2,1.PS,Trofeo Laigueglia,41034,VENDRAME Andrea,22170,0.0,0
-3,1.PS,Trofeo Laigueglia,41034,COVI Alessandro,28298,0.0,0
-4,1.PS,Trofeo Laigueglia,41034,ROTA Lorenzo,21958,0.0,0
-5,1.PS,Trofeo Laigueglia,41034,CHAMPOUSSIN Clément,27153,0.0,0
-6,1.PS,Trofeo Laigueglia,41034,GREGOIRE Romain,32766,0.0,0
-7,1.PS,Trofeo Laigueglia,41034,CEPEDA ORTIZ Jefferson Alexander,26775,0.0,0
-8,1.PS,Trofeo Laigueglia,41034,COSNEFROY Benoît,24189,0.0,0
-9,1.PS,Trofeo Laigueglia,41034,ULISSI Diego,10023,0.0,0
-10,1.PS,Trofeo Laigueglia,41034,ZIMMERMANN Georg,25165,0.0,0
-1,1.1,Le Samyn,40947,MENTEN Milan,24180,0.0,0
-2,1.1,Le Samyn,40947,HOFSTETTER Hugo,22702,0.0,0
-3,1.1,Le Samyn,40947,THEUNS Edward,16697,0.0,0
