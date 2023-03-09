@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.WT1s,"Tirreno - Adriatico, Stage 4 : Greccio - Tortoreto (prov.)",41091,ROGLIC Primoz,20719,0.0,0
 1,2.WT1s,"Paris - Nice, Stage 4 : Saint-Amand-Montrond - La Loge des Gardes (prov.)",41080,POGACAR Tadej,26526,0.0,0
 1,2.WT1s,"Tirreno - Adriatico, Stage 3 : Follonica - Foligno (prov.)",41090,PHILIPSEN Jasper,26392,0.0,0
 1,2.WT1s,"Tirreno - Adriatico, Stage 2 : Camaiore - Follonica (prov.)",41089,JAKOBSEN Fabio,23426,0.0,0
@@ -21,4 +22,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,1.1,GP Criquielion,41037,WELSFORD Samuel,23517,0.0,0
 2,1.1,GP Criquielion,41037,MENTEN Milan,24180,0.0,0
 3,1.1,GP Criquielion,41037,HALVORSEN Kristoffer,23425,0.0,0
-1,NC5,National Championships United Arab Emirates (Kalba) R.R. (prov.),40932,ALMANSOORI Ahmed,19635,0.0,0
