@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.WT1s,"Tirreno - Adriatico, Stage 5 : Morro d'Oro - Sarnano-Sassotetto (prov.)",41092,ROGLIC Primoz,20719,0.0,0
+1,2.WT1s,"Paris - Nice, Stage 5 : Saint-Symphorien-sur-Coise - Saint-Paul-Trois-Châteaux (prov.)",41081,KOOIJ Olav,30643,0.0,0
 1,2.WT1s,"Tirreno - Adriatico, Stage 4 : Greccio - Tortoreto (prov.)",41091,ROGLIC Primoz,20719,0.0,0
 1,2.WT1s,"Paris - Nice, Stage 4 : Saint-Amand-Montrond - La Loge des Gardes (prov.)",41080,POGACAR Tadej,26526,0.0,0
 1,2.WT1s,"Tirreno - Adriatico, Stage 3 : Follonica - Foligno (prov.)",41090,PHILIPSEN Jasper,26392,0.0,0
@@ -9,16 +11,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,1.1,GP Jean-Pierre Monseré,41042,THIJSSEN Gerben,27085,0.0,0
 2,1.1,GP Jean-Pierre Monseré,41042,EWAN Caleb,19651,0.0,0
 3,1.1,GP Jean-Pierre Monseré,41042,WELSFORD Samuel,23517,0.0,0
-1,1.WT2,Strade Bianche,41039,PIDCOCK Thomas,27708,0.0,0
-2,1.WT2,Strade Bianche,41039,MADOUAS Valentin,24758,0.0,0
-3,1.WT2,Strade Bianche,41039,BENOOT Tiesj,21244,0.0,0
-4,1.WT2,Strade Bianche,41039,COSTA Rui Alberto Faria,6807,0.0,0
-5,1.WT2,Strade Bianche,41039,VALTER Attila,27198,0.0,0
-6,1.WT2,Strade Bianche,41039,MOHORIC Matej,21145,0.0,0
-7,1.WT2,Strade Bianche,41039,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0
-8,1.WT2,Strade Bianche,41039,GREGOIRE Romain,32766,0.0,0
-9,1.WT2,Strade Bianche,41039,FORMOLO Davide,18749,0.0,0
-10,1.WT2,Strade Bianche,41039,KRON Andreas Lorentz,26420,0.0,0
-1,1.1,GP Criquielion,41037,WELSFORD Samuel,23517,0.0,0
-2,1.1,GP Criquielion,41037,MENTEN Milan,24180,0.0,0
-3,1.1,GP Criquielion,41037,HALVORSEN Kristoffer,23425,0.0,0
