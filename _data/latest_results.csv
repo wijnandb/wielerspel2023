@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.WT1s,"Tirreno - Adriatico, Stage 6 : Osimo Stazione - Osimo (prov.)",41093,ROGLIC Primoz,20719,0.0,0
+1,2.WT1s,"Paris - Nice, Stage 7 : Nice - Col de la Couillole (prov.)",41083,POGACAR Tadej,26526,0.0,0
+1,2.WT1s,"Paris - Nice, Stage 6 : Tourves - La Colle-sur-Loup (prov.)",41082,no result,13543,0.0,0
 1,2.WT1s,"Tirreno - Adriatico, Stage 5 : Morro d'Oro - Sarnano-Sassotetto (prov.)",41092,ROGLIC Primoz,20719,0.0,0
 1,2.WT1s,"Paris - Nice, Stage 5 : Saint-Symphorien-sur-Coise - Saint-Paul-Trois-Châteaux (prov.)",41081,KOOIJ Olav,30643,0.0,0
 1,2.WT1s,"Tirreno - Adriatico, Stage 4 : Greccio - Tortoreto (prov.)",41091,ROGLIC Primoz,20719,0.0,0
@@ -7,7 +10,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,2.WT1s,"Tirreno - Adriatico, Stage 2 : Camaiore - Follonica (prov.)",41089,JAKOBSEN Fabio,23426,0.0,0
 1,2.WT1s,"Tirreno - Adriatico, Stage 1 : Lido di Camaiore I.T.T. (prov.)",41088,GANNA Filippo,24057,0.0,0
 1,2.WT1s,"Paris - Nice, Stage 2 : Bazainville - Fontainebleau (prov.)",41078,PEDERSEN Mads,21992,0.0,0
-1,2.WT1s,"Paris - Nice, Stage 1 : La Verrière - La Verrière (prov.)",41077,MERLIER Tim,17988,0.0,0
-1,1.1,GP Jean-Pierre Monseré,41042,THIJSSEN Gerben,27085,0.0,0
-2,1.1,GP Jean-Pierre Monseré,41042,EWAN Caleb,19651,0.0,0
-3,1.1,GP Jean-Pierre Monseré,41042,WELSFORD Samuel,23517,0.0,0
