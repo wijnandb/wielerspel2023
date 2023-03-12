@@ -1,12 +1,33 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
+1,2.WT1,"Tirreno - Adriatico, General classification (prov.)",41095,ROGLIC Primoz,20719,10,50,Bram
+2,2.WT1,"Tirreno - Adriatico, General classification (prov.)",41095,ALMEIDA Joao Pedro Gonçalves,26482,3,35,Wijnand
+3,2.WT1,"Tirreno - Adriatico, General classification (prov.)",41095,GEOGHEGAN HART Tao,22018,1,25,Paul
+4,2.WT1,"Tirreno - Adriatico, General classification (prov.)",41095,KÄMNA Lennard,23427,0.5,20,Jan
+5,2.WT1,"Tirreno - Adriatico, General classification (prov.)",41095,CICCONE Giulio,21812,0.2,18,Nicky
+6,2.WT1,"Tirreno - Adriatico, General classification (prov.)",41095,MAS NICOLAU Enric,22794,0,16,PB
+7,2.WT1,"Tirreno - Adriatico, General classification (prov.)",41095,LANDA MEANA Mikel,14319,0,14,Harry
+8,2.WT1,"Tirreno - Adriatico, General classification (prov.)",41095,CARTHY Hugh,21014,0,12,Bram
+9,2.WT1,"Tirreno - Adriatico, General classification (prov.)",41095,VLASOV Aleksandr,24316,0,10,Harry
+10,2.WT1,"Tirreno - Adriatico, General classification (prov.)",41095,PINOT Thibaut,13080,0,8,Nicky
+1,2.WT1,"Paris - Nice, General classification",41085,POGACAR Tadej,26526,10,50,Kees
+2,2.WT1,"Paris - Nice, General classification",41085,GAUDU David,24255,3,35,Nicky
+3,2.WT1,"Paris - Nice, General classification",41085,VINGEGAARD RASMUSSEN Jonas,25740,1,25,Arjan
+4,2.WT1,"Paris - Nice, General classification",41085,YATES Simon,17893,0.5,20,PB
+5,2.WT1,"Paris - Nice, General classification",41085,MÄDER Gino,26271,0.2,18,Bram
+6,2.WT1,"Paris - Nice, General classification",41085,POWLESS Neilson,24902,0,16,Harry
+7,2.WT1,"Paris - Nice, General classification",41085,BARDET Romain,13566,0,14,Jan
+8,2.WT1,"Paris - Nice, General classification",41085,JORGENSON Matteo,28057,0,12,Albert
+9,2.WT1,"Paris - Nice, General classification",41085,SIVAKOV Pavel,24934,0,10,Paul
+10,2.WT1,"Paris - Nice, General classification",41085,HAIG Jack,21212,0,8,Paul
+1,2.WT1s,"Tirreno - Adriatico, Stage 7 : San Benedetto del Tronto - San Benedetto del Tronto (prov.)",41094,PHILIPSEN Jasper,26392,1,0,Nicky
+1,2.WT1s,"Paris - Nice, Stage 8 : Nice - Nice",41084,POGACAR Tadej,26526,1,0,Kees
+1,2.WT1r,"Paris - Nice, Points classification",41086,POGACAR Tadej,26526,0.0,0,Kees
+1,2.WT1r,"Paris - Nice, Mountains classification",41087,GREGAARD WILSLY Jonas,23437,0.0,0,niet verkocht
+1,1.1,Ronde van Drenthe (prov.),41044,HAGENES Per Strand,30442,2,0,niet verkocht
+2,1.1,Ronde van Drenthe (prov.),41044,LUND ANDRESEN Tobias,31657,0.3,0,niet verkocht
+3,1.1,Ronde van Drenthe (prov.),41044,DE VOS Adam,20291,0.1,0,niet verkocht
+1,2.1s,"Tour de Taiwan, Stage 1 : Taipei - Taipei (prov.)",41114,EEFTING-BLOEM Roy,19243,0.2,0,niet verkocht
+1,2.WT1s,"Paris - Nice, Stage 7 : Nice - Col de la Couillole",41083,POGACAR Tadej,26526,1,0,Kees
 1,2.WT1s,"Tirreno - Adriatico, Stage 6 : Osimo Stazione - Osimo (prov.)",41093,ROGLIC Primoz,20719,1,0,Bram
-1,2.WT1s,"Paris - Nice, Stage 7 : Nice - Col de la Couillole (prov.)",41083,POGACAR Tadej,26526,1,0,Kees
-1,2.WT1s,"Paris - Nice, Stage 6 : Tourves - La Colle-sur-Loup (prov.)",41082,no result,13543,1,0,niet verkocht
+1,2.WT1s,"Paris - Nice, Stage 6 : Tourves - La Colle-sur-Loup",41082,no result,13543,1,0,niet verkocht
 1,2.WT1s,"Tirreno - Adriatico, Stage 5 : Morro d'Oro - Sarnano-Sassotetto (prov.)",41092,ROGLIC Primoz,20719,1,0,Bram
-1,2.WT1s,"Paris - Nice, Stage 5 : Saint-Symphorien-sur-Coise - Saint-Paul-Trois-Châteaux (prov.)",41081,KOOIJ Olav,30643,1,0,Albert
-1,2.WT1s,"Tirreno - Adriatico, Stage 4 : Greccio - Tortoreto (prov.)",41091,ROGLIC Primoz,20719,1,0,Bram
-1,2.WT1s,"Paris - Nice, Stage 4 : Saint-Amand-Montrond - La Loge des Gardes (prov.)",41080,POGACAR Tadej,26526,1,0,Kees
-1,2.WT1s,"Tirreno - Adriatico, Stage 3 : Follonica - Foligno (prov.)",41090,PHILIPSEN Jasper,26392,1,0,Nicky
-1,2.WT1s,"Tirreno - Adriatico, Stage 2 : Camaiore - Follonica (prov.)",41089,JAKOBSEN Fabio,23426,1,0,Kaspar
-1,2.WT1s,"Tirreno - Adriatico, Stage 1 : Lido di Camaiore I.T.T. (prov.)",41088,GANNA Filippo,24057,1,0,Jan
-1,2.WT1s,"Paris - Nice, Stage 2 : Bazainville - Fontainebleau (prov.)",41078,PEDERSEN Mads,21992,1,0,Harry

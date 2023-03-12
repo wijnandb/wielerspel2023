@@ -2,9 +2,9 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 23558,ASGREEN Kasper,ASGREEN Kasper,Nicky,10,SOQ,DEN,28,0,0
 17627,BARGUIL Warren,BARGUIL Warren,Nicky,3,ARK,FRA,32,0,0
 12254,BENNETT George,BENNETT George,Nicky,1,UAD,NZL,33,0,10
-21812,CICCONE Giulio,CICCONE Giulio,Nicky,4,TFS,ITA,29,1.3,35
+21812,CICCONE Giulio,CICCONE Giulio,Nicky,4,TFS,ITA,29,1.5,53
 18749,FORMOLO Davide,FORMOLO Davide,Nicky,2,UAD,ITA,31,0.3,10
-24255,GAUDU David,GAUDU David,Nicky,9,GFC,FRA,27,1,55
+24255,GAUDU David,GAUDU David,Nicky,9,GFC,FRA,27,4,90
 29474,GIRMAY Biniam,GIRMAY HAILU Biniam,Nicky,19,ICW,ERI,23,0.7,0
 4179,KRISTOFF Alexander,KRISTOFF Alexander,Nicky,7,UXT,NOR,36,0.8,40
 25653,KUSS Sepp,KUSS Sepp,Nicky,3,TJV,USA,29,0,18
@@ -12,8 +12,8 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28037,MOZZATO Luca,MOZZATO Luca,Nicky,2,ARK,ITA,25,0,0
 25157,NARVAEZ Jhonatan,NARVAEZ PRADO Jhonatan Manuel,Nicky,1,IGD,ECU,26,0,0
 24110,PARET-PEINTRE Aurélien,PARET-PEINTRE Aurélien,Nicky,0,ACT,FRA,27,0.5,0
-26392,PHILIPSEN Jasper,PHILIPSEN Jasper,Nicky,11,ADC,BEL,25,1,0
-13080,PINOT Thibaut,PINOT Thibaut,Nicky,4,GFC,FRA,33,0,0
+26392,PHILIPSEN Jasper,PHILIPSEN Jasper,Nicky,11,ADC,BEL,25,2,0
+13080,PINOT Thibaut,PINOT Thibaut,Nicky,4,GFC,FRA,33,0,8
 26378,SOSA Ivan Ramiro,SOSA CUERVO Ivan Ramiro,Nicky,7,MOV,COL,26,0,0
 13270,TRENTIN Matteo,TRENTIN Matteo,Nicky,4,UAD,ITA,34,0,0
 17794,VAN BAARLE Dylan,VAN BAARLE Dylan,Nicky,7,TJV,NED,31,10,50
