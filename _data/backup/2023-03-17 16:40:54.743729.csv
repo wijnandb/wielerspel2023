@@ -1,28 +1,18 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,1.PS,Bredene Koksijde Classic (prov.),41050,THIJSSEN Gerben,27085,0.0,0
-2,1.PS,Bredene Koksijde Classic (prov.),41050,ACKERMANN Pascal,20917,0.0,0
-3,1.PS,Bredene Koksijde Classic (prov.),41050,WELSFORD Samuel,23517,0.0,0
-4,1.PS,Bredene Koksijde Classic (prov.),41050,TAMINIAUX Lionel,23416,0.0,0
-5,1.PS,Bredene Koksijde Classic (prov.),41050,MARECZKO Jakub,22713,0.0,0
-6,1.PS,Bredene Koksijde Classic (prov.),41050,SELIG Rüdiger,10954,0.0,0
-7,1.PS,Bredene Koksijde Classic (prov.),41050,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
-8,1.PS,Bredene Koksijde Classic (prov.),41050,FLYNN Sean,29931,0.0,0
-9,1.PS,Bredene Koksijde Classic (prov.),41050,HALVORSEN Kristoffer,23425,0.0,0
-10,1.PS,Bredene Koksijde Classic (prov.),41050,THEUNS Edward,16697,0.0,0
-1,1.PS,GP de Denain - Porte du Hainaut,41048,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
-2,1.PS,GP de Denain - Porte du Hainaut,41048,VAN DIJKE Tim,30642,0.0,0
-3,1.PS,GP de Denain - Porte du Hainaut,41048,KIELICH Timo,28189,0.0,0
-4,1.PS,GP de Denain - Porte du Hainaut,41048,BOASSON HAGEN Edvald,4377,0.0,0
-5,1.PS,GP de Denain - Porte du Hainaut,41048,BJERG Mikkel,26388,0.0,0
-6,1.PS,GP de Denain - Porte du Hainaut,41048,WATSON Samuel,32161,0.0,0
-7,1.PS,GP de Denain - Porte du Hainaut,41048,MENTEN Milan,24180,0.0,0
-8,1.PS,GP de Denain - Porte du Hainaut,41048,VAN DER HOORN Taco,19897,0.0,0
-9,1.PS,GP de Denain - Porte du Hainaut,41048,GACHIGNARD Thomas,32640,0.0,0
-10,1.PS,GP de Denain - Porte du Hainaut,41048,LAPEIRA Paul,30615,0.0,0
-1,2.1,"Tour de Taiwan, General classification",41119,MEIJERS Jeroen,21376,0.0,0
-2,2.1,"Tour de Taiwan, General classification",41119,LOPEZ CARAVACA Jordi,31278,0.0,0
-3,2.1,"Tour de Taiwan, General classification",41119,PRADES REVERTER Benjami,8745,0.0,0
-1,2.1s,"Tour de Taiwan, Stage 5 : Kaohsiung - Kaohsiung",41118,ZANONCELLO Enrico,28364,0.0,0
+1,1.PS,GP de Denain - Porte du Hainaut (prov.),41048,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
+2,1.PS,GP de Denain - Porte du Hainaut (prov.),41048,VAN DIJKE Tim,30642,0.0,0
+3,1.PS,GP de Denain - Porte du Hainaut (prov.),41048,KIELICH Timo,28189,0.0,0
+4,1.PS,GP de Denain - Porte du Hainaut (prov.),41048,BOASSON HAGEN Edvald,4377,0.0,0
+5,1.PS,GP de Denain - Porte du Hainaut (prov.),41048,BJERG Mikkel,26388,0.0,0
+6,1.PS,GP de Denain - Porte du Hainaut (prov.),41048,WATSON Samuel,32161,0.0,0
+7,1.PS,GP de Denain - Porte du Hainaut (prov.),41048,MENTEN Milan,24180,0.0,0
+8,1.PS,GP de Denain - Porte du Hainaut (prov.),41048,VAN DER HOORN Taco,19897,0.0,0
+9,1.PS,GP de Denain - Porte du Hainaut (prov.),41048,GACHIGNARD Thomas,32640,0.0,0
+10,1.PS,GP de Denain - Porte du Hainaut (prov.),41048,LAPEIRA Paul,30615,0.0,0
+1,2.1,"Tour de Taiwan, General classification (prov.)",41119,MEIJERS Jeroen,21376,0.0,0
+2,2.1,"Tour de Taiwan, General classification (prov.)",41119,LOPEZ CARAVACA Jordi,31278,0.0,0
+3,2.1,"Tour de Taiwan, General classification (prov.)",41119,PRADES REVERTER Benjami,8745,0.0,0
+1,2.1s,"Tour de Taiwan, Stage 5 : Kaohsiung - Kaohsiung (prov.)",41118,ZANONCELLO Enrico,28364,0.0,0
 1,1.PS,Nokere Koerse,41047,MERLIER Tim,17988,0.0,0
 2,1.PS,Nokere Koerse,41047,THEUNS Edward,16697,0.0,0
 3,1.PS,Nokere Koerse,41047,MENTEN Milan,24180,0.0,0
@@ -43,9 +33,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 8,1.PS,Milano - Torino,41046,VENDRAME Andrea,22170,0.0,0
 9,1.PS,Milano - Torino,41046,ABERASTURI IZAGA Jon,15286,0.0,0
 10,1.PS,Milano - Torino,41046,GROENEWEGEN Dylan,19238,0.0,0
-1,2.1s,"Tour de Taiwan, Stage 4 : Nantou - Sun Moon Lake",41117,MEIJERS Jeroen,21376,0.0,0
-1,2.1s,"Tour de Taiwan, Stage 3 : Guangming - Taichung",41116,DE DECKER Tijl,33297,0.0,0
-1,2.1s,"Tour de Taiwan, Stage 2 : Taoyuan - Jiabonshan Park",41115,LOPEZ CARAVACA Jordi,31278,0.0,0
+1,2.1s,"Tour de Taiwan, Stage 4 : Nantou - Sun Moon Lake (prov.)",41117,MEIJERS Jeroen,21376,0.0,0
+1,2.1s,"Tour de Taiwan, Stage 3 : Guangming - Taichung (prov.)",41116,DE DECKER Tijl,33297,0.0,0
+1,2.1s,"Tour de Taiwan, Stage 2 : Taoyuan - Jiabonshan Park (prov.)",41115,LOPEZ CARAVACA Jordi,31278,0.0,0
 1,2.WT1,"Tirreno - Adriatico, General classification",41095,ROGLIC Primoz,20719,0.0,0
 2,2.WT1,"Tirreno - Adriatico, General classification",41095,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0
 3,2.WT1,"Tirreno - Adriatico, General classification",41095,GEOGHEGAN HART Tao,22018,0.0,0
