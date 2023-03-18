@@ -1,24 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,1.WT1,Milano - Sanremo (prov.),41053,VAN DER POEL Mathieu,21971,0.0,0
-2,1.WT1,Milano - Sanremo (prov.),41053,GANNA Filippo,24057,0.0,0
-3,1.WT1,Milano - Sanremo (prov.),41053,VAN AERT Wout,20730,0.0,0
-4,1.WT1,Milano - Sanremo (prov.),41053,POGACAR Tadej,26526,0.0,0
-5,1.WT1,Milano - Sanremo (prov.),41053,ANDERSEN Søren Kragh,20793,0.0,0
-6,1.WT1,Milano - Sanremo (prov.),41053,PEDERSEN Mads,21992,0.0,0
-7,1.WT1,Milano - Sanremo (prov.),41053,POWLESS Neilson,24902,0.0,0
-8,1.WT1,Milano - Sanremo (prov.),41053,MOHORIC Matej,21145,0.0,0
-9,1.WT1,Milano - Sanremo (prov.),41053,TURGIS Anthony,21312,0.0,0
-10,1.WT1,Milano - Sanremo (prov.),41053,STUYVEN Jasper,18233,0.0,0
-1,1.PS,Bredene Koksijde Classic,41050,THIJSSEN Gerben,27085,0.0,0
-2,1.PS,Bredene Koksijde Classic,41050,ACKERMANN Pascal,20917,0.0,0
-3,1.PS,Bredene Koksijde Classic,41050,WELSFORD Samuel,23517,0.0,0
-4,1.PS,Bredene Koksijde Classic,41050,TAMINIAUX Lionel,23416,0.0,0
-5,1.PS,Bredene Koksijde Classic,41050,MARECZKO Jakub,22713,0.0,0
-6,1.PS,Bredene Koksijde Classic,41050,SELIG Rüdiger,10954,0.0,0
-7,1.PS,Bredene Koksijde Classic,41050,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
-8,1.PS,Bredene Koksijde Classic,41050,FLYNN Sean,29931,0.0,0
-9,1.PS,Bredene Koksijde Classic,41050,HALVORSEN Kristoffer,23425,0.0,0
-10,1.PS,Bredene Koksijde Classic,41050,THEUNS Edward,16697,0.0,0
+1,1.PS,Bredene Koksijde Classic (prov.),41050,THIJSSEN Gerben,27085,0.0,0
+2,1.PS,Bredene Koksijde Classic (prov.),41050,ACKERMANN Pascal,20917,0.0,0
+3,1.PS,Bredene Koksijde Classic (prov.),41050,WELSFORD Samuel,23517,0.0,0
+4,1.PS,Bredene Koksijde Classic (prov.),41050,TAMINIAUX Lionel,23416,0.0,0
+5,1.PS,Bredene Koksijde Classic (prov.),41050,MARECZKO Jakub,22713,0.0,0
+6,1.PS,Bredene Koksijde Classic (prov.),41050,SELIG Rüdiger,10954,0.0,0
+7,1.PS,Bredene Koksijde Classic (prov.),41050,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
+8,1.PS,Bredene Koksijde Classic (prov.),41050,FLYNN Sean,29931,0.0,0
+9,1.PS,Bredene Koksijde Classic (prov.),41050,HALVORSEN Kristoffer,23425,0.0,0
+10,1.PS,Bredene Koksijde Classic (prov.),41050,THEUNS Edward,16697,0.0,0
 1,1.PS,GP de Denain - Porte du Hainaut,41048,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
 2,1.PS,GP de Denain - Porte du Hainaut,41048,VAN DIJKE Tim,30642,0.0,0
 3,1.PS,GP de Denain - Porte du Hainaut,41048,KIELICH Timo,28189,0.0,0
