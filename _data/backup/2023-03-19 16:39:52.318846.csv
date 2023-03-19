@@ -1,21 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,1.1,GP Cholet - Pays de Loire (prov.),41055,PITHIE Laurence,31638,0.0,0
-2,1.1,GP Cholet - Pays de Loire (prov.),41055,PEREZ Anthony,17632,0.0,0
-3,1.1,GP Cholet - Pays de Loire (prov.),41055,MANZIN Lorrenzo,21343,0.0,0
-1,1.WT1,Milano - Sanremo,41053,VAN DER POEL Mathieu,21971,0.0,0
-2,1.WT1,Milano - Sanremo,41053,GANNA Filippo,24057,0.0,0
-3,1.WT1,Milano - Sanremo,41053,VAN AERT Wout,20730,0.0,0
-4,1.WT1,Milano - Sanremo,41053,POGACAR Tadej,26526,0.0,0
-5,1.WT1,Milano - Sanremo,41053,ANDERSEN Søren Kragh,20793,0.0,0
-6,1.WT1,Milano - Sanremo,41053,PEDERSEN Mads,21992,0.0,0
-7,1.WT1,Milano - Sanremo,41053,POWLESS Neilson,24902,0.0,0
-8,1.WT1,Milano - Sanremo,41053,MOHORIC Matej,21145,0.0,0
-9,1.WT1,Milano - Sanremo,41053,TURGIS Anthony,21312,0.0,0
-10,1.WT1,Milano - Sanremo,41053,STUYVEN Jasper,18233,0.0,0
-1,1.1,Classic Loire Atlantique,41052,ZINGLE Axel,31263,0.0,0
-2,1.1,Classic Loire Atlantique,41052,PITHIE Laurence,31638,0.0,0
-3,1.1,Classic Loire Atlantique,41052,ZIJLAARD Maikel,27649,0.0,0
-1,NC5,National Championships Qatar (Al Thakira) R.R.,41294,ELBOURDAINY Ahmed Bassam,12959,0.0,0
+1,1.WT1,Milano - Sanremo (prov.),41053,VAN DER POEL Mathieu,21971,0.0,0
+2,1.WT1,Milano - Sanremo (prov.),41053,GANNA Filippo,24057,0.0,0
+3,1.WT1,Milano - Sanremo (prov.),41053,VAN AERT Wout,20730,0.0,0
+4,1.WT1,Milano - Sanremo (prov.),41053,POGACAR Tadej,26526,0.0,0
+5,1.WT1,Milano - Sanremo (prov.),41053,ANDERSEN Søren Kragh,20793,0.0,0
+6,1.WT1,Milano - Sanremo (prov.),41053,PEDERSEN Mads,21992,0.0,0
+7,1.WT1,Milano - Sanremo (prov.),41053,POWLESS Neilson,24902,0.0,0
+8,1.WT1,Milano - Sanremo (prov.),41053,MOHORIC Matej,21145,0.0,0
+9,1.WT1,Milano - Sanremo (prov.),41053,TURGIS Anthony,21312,0.0,0
+10,1.WT1,Milano - Sanremo (prov.),41053,STUYVEN Jasper,18233,0.0,0
 1,1.PS,Bredene Koksijde Classic,41050,THIJSSEN Gerben,27085,0.0,0
 2,1.PS,Bredene Koksijde Classic,41050,ACKERMANN Pascal,20917,0.0,0
 3,1.PS,Bredene Koksijde Classic,41050,WELSFORD Samuel,23517,0.0,0
