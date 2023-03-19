@@ -1,14 +1,21 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
-1,1.WT1,Milano - Sanremo (prov.),41053,VAN DER POEL Mathieu,21971,15,50,Vel
-2,1.WT1,Milano - Sanremo (prov.),41053,GANNA Filippo,24057,3,35,Jan
-3,1.WT1,Milano - Sanremo (prov.),41053,VAN AERT Wout,20730,2,25,Frank
-4,1.WT1,Milano - Sanremo (prov.),41053,POGACAR Tadej,26526,1,20,Kees
-5,1.WT1,Milano - Sanremo (prov.),41053,ANDERSEN Søren Kragh,20793,0.5,18,Vel
-6,1.WT1,Milano - Sanremo (prov.),41053,PEDERSEN Mads,21992,0,16,Harry
-7,1.WT1,Milano - Sanremo (prov.),41053,POWLESS Neilson,24902,0,14,Harry
-8,1.WT1,Milano - Sanremo (prov.),41053,MOHORIC Matej,21145,0,12,Frank
-9,1.WT1,Milano - Sanremo (prov.),41053,TURGIS Anthony,21312,0,10,Vel
-10,1.WT1,Milano - Sanremo (prov.),41053,STUYVEN Jasper,18233,0,8,PB
+1,1.1,GP Cholet - Pays de Loire (prov.),41055,PITHIE Laurence,31638,2,0,niet verkocht
+2,1.1,GP Cholet - Pays de Loire (prov.),41055,PEREZ Anthony,17632,0.3,0,niet verkocht
+3,1.1,GP Cholet - Pays de Loire (prov.),41055,MANZIN Lorrenzo,21343,0.1,0,niet verkocht
+1,1.WT1,Milano - Sanremo,41053,VAN DER POEL Mathieu,21971,15,50,Vel
+2,1.WT1,Milano - Sanremo,41053,GANNA Filippo,24057,3,35,Jan
+3,1.WT1,Milano - Sanremo,41053,VAN AERT Wout,20730,2,25,Frank
+4,1.WT1,Milano - Sanremo,41053,POGACAR Tadej,26526,1,20,Kees
+5,1.WT1,Milano - Sanremo,41053,ANDERSEN Søren Kragh,20793,0.5,18,Vel
+6,1.WT1,Milano - Sanremo,41053,PEDERSEN Mads,21992,0,16,Harry
+7,1.WT1,Milano - Sanremo,41053,POWLESS Neilson,24902,0,14,Harry
+8,1.WT1,Milano - Sanremo,41053,MOHORIC Matej,21145,0,12,Frank
+9,1.WT1,Milano - Sanremo,41053,TURGIS Anthony,21312,0,10,Vel
+10,1.WT1,Milano - Sanremo,41053,STUYVEN Jasper,18233,0,8,PB
+1,1.1,Classic Loire Atlantique,41052,ZINGLE Axel,31263,2,0,Paul
+2,1.1,Classic Loire Atlantique,41052,PITHIE Laurence,31638,0.3,0,niet verkocht
+3,1.1,Classic Loire Atlantique,41052,ZIJLAARD Maikel,27649,0.1,0,niet verkocht
+1,NC5,National Championships Qatar (Al Thakira) R.R.,41294,ELBOURDAINY Ahmed Bassam,12959,1,0,niet verkocht
 1,1.PS,Bredene Koksijde Classic,41050,THIJSSEN Gerben,27085,4,50,Albert
 2,1.PS,Bredene Koksijde Classic,41050,ACKERMANN Pascal,20917,1,35,Vel
 3,1.PS,Bredene Koksijde Classic,41050,WELSFORD Samuel,23517,0.5,25,PB
@@ -43,16 +50,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 8,1.PS,Nokere Koerse,41047,PITHIE Laurence,31638,0,12,niet verkocht
 9,1.PS,Nokere Koerse,41047,NOPPE Christophe,22615,0,10,niet verkocht
 10,1.PS,Nokere Koerse,41047,BAX Sjoerd,23306,0,8,PB
-1,1.PS,Milano - Torino,41046,DE KLEIJN Arvid,22596,4,50,niet verkocht
-2,1.PS,Milano - Torino,41046,GAVIRIA RENDON Fernando,20777,1,35,Albert
-3,1.PS,Milano - Torino,41046,VAN UDEN Casper,30636,0.5,25,Jan
-4,1.PS,Milano - Torino,41046,EINHORN Itamar,27315,0,20,niet verkocht
-5,1.PS,Milano - Torino,41046,MOSCHETTI Matteo,27126,0,18,niet verkocht
-6,1.PS,Milano - Torino,41046,BOUHANNI Nacer,16881,0,16,Paul
-7,1.PS,Milano - Torino,41046,MEEUS Jordi,26421,0,14,Vel
-8,1.PS,Milano - Torino,41046,VENDRAME Andrea,22170,0,12,niet verkocht
-9,1.PS,Milano - Torino,41046,ABERASTURI IZAGA Jon,15286,0,10,niet verkocht
-10,1.PS,Milano - Torino,41046,GROENEWEGEN Dylan,19238,0,8,Frank
-1,2.1s,"Tour de Taiwan, Stage 4 : Nantou - Sun Moon Lake",41117,MEIJERS Jeroen,21376,0.2,0,niet verkocht
-1,2.1s,"Tour de Taiwan, Stage 3 : Guangming - Taichung",41116,DE DECKER Tijl,33297,0.2,0,niet verkocht
-1,2.1s,"Tour de Taiwan, Stage 2 : Taoyuan - Jiabonshan Park",41115,LOPEZ CARAVACA Jordi,31278,0.2,0,niet verkocht
