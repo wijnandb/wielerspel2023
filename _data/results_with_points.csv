@@ -1,7 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
-1,1.1,GP Cholet - Pays de Loire (prov.),41055,PITHIE Laurence,31638,2,0,niet verkocht
-2,1.1,GP Cholet - Pays de Loire (prov.),41055,PEREZ Anthony,17632,0.3,0,niet verkocht
-3,1.1,GP Cholet - Pays de Loire (prov.),41055,MANZIN Lorrenzo,21343,0.1,0,niet verkocht
+1,2.WT2s,"Volta a Catalunya, Stage 1 : Sant Feliu de Guíxols - Sant Feliu de Guíxols (prov.)",41134,ROGLIC Primoz,20719,0.5,0,Bram
+1,1.1,Per Sempre Alfredo,41054,ENGELHARDT Felix,29297,2,0,niet verkocht
+2,1.1,Per Sempre Alfredo,41054,STEWART Mark,23644,0.3,0,niet verkocht
+3,1.1,Per Sempre Alfredo,41054,FOLDAGER Anders,31400,0.1,0,niet verkocht
+1,1.1,GP Cholet - Pays de Loire,41055,PITHIE Laurence,31638,2,0,niet verkocht
+2,1.1,GP Cholet - Pays de Loire,41055,PEREZ Anthony,17632,0.3,0,niet verkocht
+3,1.1,GP Cholet - Pays de Loire,41055,MANZIN Lorrenzo,21343,0.1,0,niet verkocht
 1,1.WT1,Milano - Sanremo,41053,VAN DER POEL Mathieu,21971,15,50,Vel
 2,1.WT1,Milano - Sanremo,41053,GANNA Filippo,24057,3,35,Jan
 3,1.WT1,Milano - Sanremo,41053,VAN AERT Wout,20730,2,25,Frank
