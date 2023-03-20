@@ -1,7 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,1.1,GP Cholet - Pays de Loire (prov.),41055,PITHIE Laurence,31638,0.0,0
-2,1.1,GP Cholet - Pays de Loire (prov.),41055,PEREZ Anthony,17632,0.0,0
-3,1.1,GP Cholet - Pays de Loire (prov.),41055,MANZIN Lorrenzo,21343,0.0,0
+1,2.WT2s,"Volta a Catalunya, Stage 1 : Sant Feliu de Guíxols - Sant Feliu de Guíxols (prov.)",41134,ROGLIC Primoz,20719,0.0,0
+1,1.1,Per Sempre Alfredo,41054,ENGELHARDT Felix,29297,0.0,0
+2,1.1,Per Sempre Alfredo,41054,STEWART Mark,23644,0.0,0
+3,1.1,Per Sempre Alfredo,41054,FOLDAGER Anders,31400,0.0,0
+1,1.1,GP Cholet - Pays de Loire,41055,PITHIE Laurence,31638,0.0,0
+2,1.1,GP Cholet - Pays de Loire,41055,PEREZ Anthony,17632,0.0,0
+3,1.1,GP Cholet - Pays de Loire,41055,MANZIN Lorrenzo,21343,0.0,0
 1,1.WT1,Milano - Sanremo,41053,VAN DER POEL Mathieu,21971,0.0,0
 2,1.WT1,Milano - Sanremo,41053,GANNA Filippo,24057,0.0,0
 3,1.WT1,Milano - Sanremo,41053,VAN AERT Wout,20730,0.0,0
@@ -40,13 +44,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 2,2.1,"Tour de Taiwan, General classification",41119,LOPEZ CARAVACA Jordi,31278,0.0,0
 3,2.1,"Tour de Taiwan, General classification",41119,PRADES REVERTER Benjami,8745,0.0,0
 1,2.1s,"Tour de Taiwan, Stage 5 : Kaohsiung - Kaohsiung",41118,ZANONCELLO Enrico,28364,0.0,0
-1,1.PS,Nokere Koerse,41047,MERLIER Tim,17988,0.0,0
-2,1.PS,Nokere Koerse,41047,THEUNS Edward,16697,0.0,0
-3,1.PS,Nokere Koerse,41047,MENTEN Milan,24180,0.0,0
-4,1.PS,Nokere Koerse,41047,KIELICH Timo,28189,0.0,0
-5,1.PS,Nokere Koerse,41047,ASKEY Lewis,30685,0.0,0
-6,1.PS,Nokere Koerse,41047,VANMARCKE Sep,7728,0.0,0
-7,1.PS,Nokere Koerse,41047,BLOUWE Louis,29120,0.0,0
-8,1.PS,Nokere Koerse,41047,PITHIE Laurence,31638,0.0,0
-9,1.PS,Nokere Koerse,41047,NOPPE Christophe,22615,0.0,0
-10,1.PS,Nokere Koerse,41047,BAX Sjoerd,23306,0.0,0
