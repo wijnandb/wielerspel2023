@@ -32,6 +32,6 @@ def new_category(racename,category):
     category = '1.WT1'
   if racename in ['Volta a Catalunya','Itzulia Basque Country','Tour de Pologne','Benelux Tour']:
     category = '2.WT1'
-  elif racename[:11] in ['Volta a Cata','Itzulia Basq','Tour de Polo','Benelux Tour']:
+  elif racename[:12] in ['Volta a Cata','Itzulia Basq','Tour de Polo','Benelux Tour']:
     category = '2.WT1s'
   return category
