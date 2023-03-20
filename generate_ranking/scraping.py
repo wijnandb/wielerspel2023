@@ -105,7 +105,7 @@ def get_results():
 
                 if (category[-1] == 's' or category[-1] == 'r' or category[:3] == 'NCT' or category[:3] == 'CCT') and (category[:3] not in ['1.2','2.2']):
                     print("add race to new results")
-                    if category=='2.WTs':
+                    if category=='2.WT2s':
                         category = change_category.new_category(race_name, category)
                     if category[:3] == 'NCT':
                         category = count_riders.change_category_NCTT(country)
