@@ -119,3 +119,4 @@ if process_points.add_points_to_results("all_results.csv", "results_with_points.
         print("Adding teamcaptains to results")
         add_teamcaptains.add_teamcaptain("results_with_points.csv")
         add_teamcaptains.add_teamcaptain("latest_results_with_points.csv")
+
