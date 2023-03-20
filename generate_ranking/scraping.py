@@ -22,7 +22,7 @@ now =  datetime.now()
 # print(filename)
 # process_files.write_csv_file(filename, results)
 file1 = open("processed.txt", "a")  # append mode
-file1.write("Resultaten gecheckt: " + now +"\n")
+file1.write(f"Resultaten gecheckt: {{ now }} \n")
 file1.close()
 
 
