@@ -1,4 +1,16 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.WT1s,"Volta a Catalunya, Stage 4 : Llívia - Sabadell (prov.)",41137,GROVES Kaden,26637,0.0,0
+1,2.1s,"Settimana Coppi e Bartali, Stage 3 : Forli - Forli (prov.)",41146,HEALY Ben,28846,0.0,0
+1,1.WT3,Classic Brugge - De Panne,41059,PHILIPSEN Jasper,26392,0.0,0
+2,1.WT3,Classic Brugge - De Panne,41059,KOOIJ Olav,30643,0.0,0
+3,1.WT3,Classic Brugge - De Panne,41059,LAMPAERT Yves,19941,0.0,0
+4,1.WT3,Classic Brugge - De Panne,41059,FRISON Frederik,20643,0.0,0
+5,1.WT3,Classic Brugge - De Panne,41059,JAKOBSEN Fabio,23426,0.0,0
+6,1.WT3,Classic Brugge - De Panne,41059,RICKAERT Jonas,21374,0.0,0
+7,1.WT3,Classic Brugge - De Panne,41059,BEULLENS Cédric,25580,0.0,0
+8,1.WT3,Classic Brugge - De Panne,41059,EDVARDSEN-FREDHEIM Stian,32797,0.0,0
+9,1.WT3,Classic Brugge - De Panne,41059,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
+10,1.WT3,Classic Brugge - De Panne,41059,VAN DEN BERG Marijn,27674,0.0,0
 1,2.WT1s,"Volta a Catalunya, Stage 3 : Olost - La Molina (prov.)",41136,EVENEPOEL Remco,28377,0.0,0
 1,2.1s,"Settimana Coppi e Bartali, Stage 2 : Riccione - Longiano (prov.)",41145,QUINN Sean,29331,0.0,0
 1,2.WT1s,"Volta a Catalunya, Stage 2 : Mataró - Vallter (prov.)",41135,CICCONE Giulio,21812,0.0,0
@@ -23,14 +35,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,1.1,Classic Loire Atlantique,41052,ZINGLE Axel,31263,0.0,0
 2,1.1,Classic Loire Atlantique,41052,PITHIE Laurence,31638,0.0,0
 3,1.1,Classic Loire Atlantique,41052,ZIJLAARD Maikel,27649,0.0,0
-1,NC5,National Championships Qatar (Al Thakira) R.R.,41294,ELBOURDAINY Ahmed Bassam,12959,0.0,0
-1,1.PS,Bredene Koksijde Classic,41050,THIJSSEN Gerben,27085,0.0,0
-2,1.PS,Bredene Koksijde Classic,41050,ACKERMANN Pascal,20917,0.0,0
-3,1.PS,Bredene Koksijde Classic,41050,WELSFORD Samuel,23517,0.0,0
-4,1.PS,Bredene Koksijde Classic,41050,TAMINIAUX Lionel,23416,0.0,0
-5,1.PS,Bredene Koksijde Classic,41050,MARECZKO Jakub,22713,0.0,0
-6,1.PS,Bredene Koksijde Classic,41050,SELIG Rüdiger,10954,0.0,0
-7,1.PS,Bredene Koksijde Classic,41050,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
-8,1.PS,Bredene Koksijde Classic,41050,FLYNN Sean,29931,0.0,0
-9,1.PS,Bredene Koksijde Classic,41050,HALVORSEN Kristoffer,23425,0.0,0
-10,1.PS,Bredene Koksijde Classic,41050,THEUNS Edward,16697,0.0,0
