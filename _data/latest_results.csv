@@ -1,9 +1,33 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.WT1s,"Volta a Catalunya, General classification (prov.)",41141,ROGLIC Primoz,20719,0.0,0
+1,1.WT2,Gent - Wevelgem (prov.),41062,LAPORTE Christophe,19953,0.0,0
+2,1.WT2,Gent - Wevelgem (prov.),41062,VAN AERT Wout,20730,0.0,0
+3,1.WT2,Gent - Wevelgem (prov.),41062,VANMARCKE Sep,7728,0.0,0
+4,1.WT2,Gent - Wevelgem (prov.),41062,FRISON Frederik,20643,0.0,0
+5,1.WT2,Gent - Wevelgem (prov.),41062,PEDERSEN Mads,21992,0.0,0
+6,1.WT2,Gent - Wevelgem (prov.),41062,BJERG Mikkel,26388,0.0,0
+7,1.WT2,Gent - Wevelgem (prov.),41062,RENARD Alexis,29969,0.0,0
+8,1.WT2,Gent - Wevelgem (prov.),41062,KOOIJ Olav,30643,0.0,0
+9,1.WT2,Gent - Wevelgem (prov.),41062,VAN POPPEL Danny,19242,0.0,0
+10,1.WT2,Gent - Wevelgem (prov.),41062,MCLAY Daniel,18498,0.0,0
+1,2.WT1s,"Volta a Catalunya, Stage 7 : Barcelona - Barcelona (prov.)",41140,EVENEPOEL Remco,28377,0.0,0
+1,2.WT2r,"Volta a Catalunya, Points classification (prov.)",41142,ROGLIC Primoz,20719,0.0,0
+1,2.WT2r,"Volta a Catalunya, Mountains classification (prov.)",41143,EVENEPOEL Remco,28377,0.0,0
+1,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,HEALY Ben,28846,0.0,0
+2,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,GEBREIGZABHIER Amanuel Werkilul,21482,0.0,0
+3,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,STEWART Mark,23644,0.0,0
+4,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,TESFATSION Natnael Ocbit,28234,0.0,0
+5,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,ULISSI Diego,10023,0.0,0
+6,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,GROSSSCHARTNER Felix,19548,0.0,0
+7,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,TIZZA Marco,19237,0.0,0
+8,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,GALLOPIN Tony,7838,0.0,0
+9,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,SCARONI Christian,27002,0.0,0
+10,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,STEINHAUSER Georg,30721,0.0,0
 1,2.WT1s,"Volta a Catalunya, Stage 6 : Martorell - Molins de Rei (prov.)",41139,GROVES Kaden,26637,0.0,0
-1,2.1,"Settimana Coppi e Bartali, General classification (prov.)",41149,SCHMID Mauro,29214,0.0,0
-2,2.1,"Settimana Coppi e Bartali, General classification (prov.)",41149,SHAW James,24546,0.0,0
-3,2.1,"Settimana Coppi e Bartali, General classification (prov.)",41149,HEALY Ben,28846,0.0,0
-1,2.1s,"Settimana Coppi e Bartali, Stage 5 : Carpi - Carpi I.T.T. (prov.)",41148,CAVAGNA Rémi,22910,0.0,0
+1,2.1,"Settimana Coppi e Bartali, General classification",41149,SCHMID Mauro,29214,0.0,0
+2,2.1,"Settimana Coppi e Bartali, General classification",41149,SHAW James,24546,0.0,0
+3,2.1,"Settimana Coppi e Bartali, General classification",41149,HEALY Ben,28846,0.0,0
+1,2.1s,"Settimana Coppi e Bartali, Stage 5 : Carpi - Carpi I.T.T.",41148,CAVAGNA Rémi,22910,0.0,0
 1,1.WT2,E3 Harelbeke,41060,VAN AERT Wout,20730,0.0,0
 2,1.WT2,E3 Harelbeke,41060,VAN DER POEL Mathieu,21971,0.0,0
 3,1.WT2,E3 Harelbeke,41060,POGACAR Tadej,26526,0.0,0
@@ -15,18 +39,4 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 9,1.WT2,E3 Harelbeke,41060,ANDERSEN Søren Kragh,20793,0.0,0
 10,1.WT2,E3 Harelbeke,41060,GANNA Filippo,24057,0.0,0
 1,2.WT1s,"Volta a Catalunya, Stage 5 : Tortosa - Lo Port (prov.)",41138,ROGLIC Primoz,20719,0.0,0
-1,2.1s,"Settimana Coppi e Bartali, Stage 4 : Fiorano Modenese - Fiorano Modenese (prov.)",41147,GUERIN Alexis,20155,0.0,0
-1,2.WT1s,"Volta a Catalunya, Stage 4 : Llívia - Sabadell (prov.)",41137,GROVES Kaden,26637,0.0,0
-1,2.1s,"Settimana Coppi e Bartali, Stage 3 : Forli - Forli (prov.)",41146,HEALY Ben,28846,0.0,0
-1,1.WT3,Classic Brugge - De Panne,41059,PHILIPSEN Jasper,26392,0.0,0
-2,1.WT3,Classic Brugge - De Panne,41059,KOOIJ Olav,30643,0.0,0
-3,1.WT3,Classic Brugge - De Panne,41059,LAMPAERT Yves,19941,0.0,0
-4,1.WT3,Classic Brugge - De Panne,41059,FRISON Frederik,20643,0.0,0
-5,1.WT3,Classic Brugge - De Panne,41059,JAKOBSEN Fabio,23426,0.0,0
-6,1.WT3,Classic Brugge - De Panne,41059,RICKAERT Jonas,21374,0.0,0
-7,1.WT3,Classic Brugge - De Panne,41059,BEULLENS Cédric,25580,0.0,0
-8,1.WT3,Classic Brugge - De Panne,41059,EDVARDSEN-FREDHEIM Stian,32797,0.0,0
-9,1.WT3,Classic Brugge - De Panne,41059,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0
-10,1.WT3,Classic Brugge - De Panne,41059,VAN DEN BERG Marijn,27674,0.0,0
-1,2.WT1s,"Volta a Catalunya, Stage 3 : Olost - La Molina (prov.)",41136,EVENEPOEL Remco,28377,0.0,0
-1,2.1s,"Settimana Coppi e Bartali, Stage 2 : Riccione - Longiano (prov.)",41145,QUINN Sean,29331,0.0,0
+1,2.1s,"Settimana Coppi e Bartali, Stage 4 : Fiorano Modenese - Fiorano Modenese",41147,GUERIN Alexis,20155,0.0,0
