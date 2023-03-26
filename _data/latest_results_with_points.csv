@@ -1,29 +1,41 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
-1,2.WT1s,"Volta a Catalunya, General classification (prov.)",41141,ROGLIC Primoz,20719,1,0,Bram
-1,1.WT2,Gent - Wevelgem (prov.),41062,LAPORTE Christophe,19953,10,50,Kaspar
-2,1.WT2,Gent - Wevelgem (prov.),41062,VAN AERT Wout,20730,3,35,Frank
-3,1.WT2,Gent - Wevelgem (prov.),41062,VANMARCKE Sep,7728,1,25,Jan
-4,1.WT2,Gent - Wevelgem (prov.),41062,FRISON Frederik,20643,0.5,20,niet verkocht
-5,1.WT2,Gent - Wevelgem (prov.),41062,PEDERSEN Mads,21992,0.2,18,Harry
-6,1.WT2,Gent - Wevelgem (prov.),41062,BJERG Mikkel,26388,0,16,Kees
-7,1.WT2,Gent - Wevelgem (prov.),41062,RENARD Alexis,29969,0,14,niet verkocht
-8,1.WT2,Gent - Wevelgem (prov.),41062,KOOIJ Olav,30643,0,12,Albert
-9,1.WT2,Gent - Wevelgem (prov.),41062,VAN POPPEL Danny,19242,0,10,Jan
-10,1.WT2,Gent - Wevelgem (prov.),41062,MCLAY Daniel,18498,0,8,niet verkocht
-1,2.WT1s,"Volta a Catalunya, Stage 7 : Barcelona - Barcelona (prov.)",41140,EVENEPOEL Remco,28377,1,0,Roy
-1,2.WT2r,"Volta a Catalunya, Points classification (prov.)",41142,ROGLIC Primoz,20719,0.0,0,Bram
-1,2.WT2r,"Volta a Catalunya, Mountains classification (prov.)",41143,EVENEPOEL Remco,28377,0.0,0,Roy
-1,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,HEALY Ben,28846,4,50,niet verkocht
-2,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,GEBREIGZABHIER Amanuel Werkilul,21482,1,35,niet verkocht
-3,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,STEWART Mark,23644,0.5,25,niet verkocht
-4,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,TESFATSION Natnael Ocbit,28234,0,20,Kaspar
-5,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,ULISSI Diego,10023,0,18,Paul
-6,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,GROSSSCHARTNER Felix,19548,0,16,Albert
-7,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,TIZZA Marco,19237,0,14,niet verkocht
-8,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,GALLOPIN Tony,7838,0,12,niet verkocht
-9,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,SCARONI Christian,27002,0,10,niet verkocht
-10,1.PS,GP Industria & Artigianato - Larciano (prov.),41065,STEINHAUSER Georg,30721,0,8,niet verkocht
-1,2.WT1s,"Volta a Catalunya, Stage 6 : Martorell - Molins de Rei (prov.)",41139,GROVES Kaden,26637,1,0,Vel
+1,2.WT1,"Volta a Catalunya, General classification",41141,ROGLIC Primoz,20719,10,50,Bram
+2,2.WT1,"Volta a Catalunya, General classification",41141,EVENEPOEL Remco,28377,3,35,Roy
+3,2.WT1,"Volta a Catalunya, General classification",41141,ALMEIDA Joao Pedro Gonçalves,26482,1,25,Wijnand
+4,2.WT1,"Volta a Catalunya, General classification",41141,SOLER GIMENEZ Marc,23299,0.5,20,Vel
+5,2.WT1,"Volta a Catalunya, General classification",41141,LANDA MEANA Mikel,14319,0.2,18,Harry
+6,2.WT1,"Volta a Catalunya, General classification",41141,WOODS Michael,20257,0,16,Albert
+7,2.WT1,"Volta a Catalunya, General classification",41141,CICCONE Giulio,21812,0,14,Nicky
+8,2.WT1,"Volta a Catalunya, General classification",41141,HINDLEY Jai,23948,0,12,Kaspar
+9,2.WT1,"Volta a Catalunya, General classification",41141,UIJTDEBROEKS Cian,31803,0,10,Vel
+10,2.WT1,"Volta a Catalunya, General classification",41141,URAN URAN Rigoberto,4099,0,8,Bram
+1,1.WT2,Gent - Wevelgem,41062,LAPORTE Christophe,19953,10,50,Kaspar
+2,1.WT2,Gent - Wevelgem,41062,VAN AERT Wout,20730,3,35,Frank
+3,1.WT2,Gent - Wevelgem,41062,VANMARCKE Sep,7728,1,25,Jan
+4,1.WT2,Gent - Wevelgem,41062,FRISON Frederik,20643,0.5,20,niet verkocht
+5,1.WT2,Gent - Wevelgem,41062,PEDERSEN Mads,21992,0.2,18,Harry
+6,1.WT2,Gent - Wevelgem,41062,BJERG Mikkel,26388,0,16,Kees
+7,1.WT2,Gent - Wevelgem,41062,RENARD Alexis,29969,0,14,niet verkocht
+8,1.WT2,Gent - Wevelgem,41062,KOOIJ Olav,30643,0,12,Albert
+9,1.WT2,Gent - Wevelgem,41062,VAN POPPEL Danny,19242,0,10,Jan
+10,1.WT2,Gent - Wevelgem,41062,MCLAY Daniel,18498,0,8,niet verkocht
+1,2.WT1s,"Volta a Catalunya, Stage 7 : Barcelona - Barcelona",41140,EVENEPOEL Remco,28377,1,0,Roy
+1,2.WT2r,"Volta a Catalunya, Points classification",41142,ROGLIC Primoz,20719,0.0,0,Bram
+1,2.WT2r,"Volta a Catalunya, Mountains classification",41143,EVENEPOEL Remco,28377,0.0,0,Roy
+1,1.PS,GP Industria & Artigianato - Larciano,41065,HEALY Ben,28846,4,50,niet verkocht
+2,1.PS,GP Industria & Artigianato - Larciano,41065,GEBREIGZABHIER Amanuel Werkilul,21482,1,35,niet verkocht
+3,1.PS,GP Industria & Artigianato - Larciano,41065,STEWART Mark,23644,0.5,25,niet verkocht
+4,1.PS,GP Industria & Artigianato - Larciano,41065,TESFATSION Natnael Ocbit,28234,0,20,Kaspar
+5,1.PS,GP Industria & Artigianato - Larciano,41065,ULISSI Diego,10023,0,18,Paul
+6,1.PS,GP Industria & Artigianato - Larciano,41065,GROSSSCHARTNER Felix,19548,0,16,Albert
+7,1.PS,GP Industria & Artigianato - Larciano,41065,TIZZA Marco,19237,0,14,niet verkocht
+8,1.PS,GP Industria & Artigianato - Larciano,41065,GALLOPIN Tony,7838,0,12,niet verkocht
+9,1.PS,GP Industria & Artigianato - Larciano,41065,SCARONI Christian,27002,0,10,niet verkocht
+10,1.PS,GP Industria & Artigianato - Larciano,41065,STEINHAUSER Georg,30721,0,8,niet verkocht
+1,1.1,La Roue Tourangelle,41066,TOWNSEND Rory,25102,2,0,niet verkocht
+2,1.1,La Roue Tourangelle,41066,THIJSSEN Gerben,27085,0.3,0,Albert
+3,1.1,La Roue Tourangelle,41066,BARBIER Pierre,25501,0.1,0,niet verkocht
+1,2.WT1s,"Volta a Catalunya, Stage 6 : Martorell - Molins de Rei",41139,GROVES Kaden,26637,1,0,Vel
 1,2.1,"Settimana Coppi e Bartali, General classification",41149,SCHMID Mauro,29214,2,0,Jan
 2,2.1,"Settimana Coppi e Bartali, General classification",41149,SHAW James,24546,0.3,0,niet verkocht
 3,2.1,"Settimana Coppi e Bartali, General classification",41149,HEALY Ben,28846,0.1,0,niet verkocht
@@ -38,5 +50,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 8,1.WT2,E3 Harelbeke,41060,MADOUAS Valentin,24758,0,12,PB
 9,1.WT2,E3 Harelbeke,41060,ANDERSEN Søren Kragh,20793,0,10,Vel
 10,1.WT2,E3 Harelbeke,41060,GANNA Filippo,24057,0,8,Jan
-1,2.WT1s,"Volta a Catalunya, Stage 5 : Tortosa - Lo Port (prov.)",41138,ROGLIC Primoz,20719,1,0,Bram
-1,2.1s,"Settimana Coppi e Bartali, Stage 4 : Fiorano Modenese - Fiorano Modenese",41147,GUERIN Alexis,20155,0.2,0,niet verkocht
