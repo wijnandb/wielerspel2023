@@ -1,14 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
-1,1.WT3,Dwars door Vlaanderen (prov.),41067,LAPORTE Christophe,19953,5,50,Kaspar
-2,1.WT3,Dwars door Vlaanderen (prov.),41067,LAZKANO LOPEZ Oier,30595,2,35,niet verkocht
-3,1.WT3,Dwars door Vlaanderen (prov.),41067,POWLESS Neilson,24902,1,25,Harry
-4,1.WT3,Dwars door Vlaanderen (prov.),41067,PHILIPSEN Jasper,26392,0,20,Nicky
-5,1.WT3,Dwars door Vlaanderen (prov.),41067,PEDERSEN Mads,21992,0,18,Harry
-6,1.WT3,Dwars door Vlaanderen (prov.),41067,DE LIE Arnaud,32221,0,16,Wijnand
-7,1.WT3,Dwars door Vlaanderen (prov.),41067,BALLERINI Davide,22020,0,14,Harry
-8,1.WT3,Dwars door Vlaanderen (prov.),41067,PASQUALON Andrea,10220,0,12,niet verkocht
-9,1.WT3,Dwars door Vlaanderen (prov.),41067,BOIVIN Guillaume,10856,0,10,niet verkocht
-10,1.WT3,Dwars door Vlaanderen (prov.),41067,POLITT Nils,20847,0,8,Albert
+1,1.WT3,Dwars door Vlaanderen,41067,LAPORTE Christophe,19953,5,50,Kaspar
+2,1.WT3,Dwars door Vlaanderen,41067,LAZKANO LOPEZ Oier,30595,2,35,niet verkocht
+3,1.WT3,Dwars door Vlaanderen,41067,POWLESS Neilson,24902,1,25,Harry
+4,1.WT3,Dwars door Vlaanderen,41067,PHILIPSEN Jasper,26392,0,20,Nicky
+5,1.WT3,Dwars door Vlaanderen,41067,PEDERSEN Mads,21992,0,18,Harry
+6,1.WT3,Dwars door Vlaanderen,41067,DE LIE Arnaud,32221,0,16,Wijnand
+7,1.WT3,Dwars door Vlaanderen,41067,BALLERINI Davide,22020,0,14,Harry
+8,1.WT3,Dwars door Vlaanderen,41067,PASQUALON Andrea,10220,0,12,niet verkocht
+9,1.WT3,Dwars door Vlaanderen,41067,BOIVIN Guillaume,10856,0,10,niet verkocht
+10,1.WT3,Dwars door Vlaanderen,41067,POLITT Nils,20847,0,8,Albert
 1,2.WT1,"Volta a Catalunya, General classification",41141,ROGLIC Primoz,20719,10,50,Bram
 2,2.WT1,"Volta a Catalunya, General classification",41141,EVENEPOEL Remco,28377,3,35,Roy
 3,2.WT1,"Volta a Catalunya, General classification",41141,ALMEIDA Joao Pedro Gonçalves,26482,1,25,Wijnand
@@ -49,6 +49,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 1,NC5,National Championships Argentina () R.R.,41299,DURAN Alejandro Antonio,22729,1,0,niet verkocht
 1,NC5,National Championships Chile () R.R.,41297,LIRA EGUIGUREN Manuel Jose,32631,1,0,niet verkocht
 1,2.WT1s,"Volta a Catalunya, Stage 6 : Martorell - Molins de Rei",41139,GROVES Kaden,26637,1,0,Vel
-1,2.1,"Settimana Coppi e Bartali, General classification",41149,SCHMID Mauro,29214,2,0,Jan
-2,2.1,"Settimana Coppi e Bartali, General classification",41149,SHAW James,24546,0.3,0,niet verkocht
-3,2.1,"Settimana Coppi e Bartali, General classification",41149,HEALY Ben,28846,0.1,0,niet verkocht
