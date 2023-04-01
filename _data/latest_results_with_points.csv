@@ -1,7 +1,32 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
-1,1.1,Route Adélie de Vitré (prov.),41068,DVERSNES Fredrik,28553,2,0,niet verkocht
-2,1.1,Route Adélie de Vitré (prov.),41068,VAUQUELIN Kévin,31264,0.3,0,Albert
-3,1.1,Route Adélie de Vitré (prov.),41068,BARRE Louis,30055,0.1,0,niet verkocht
+1,1.PS,GP Miguel Indurain (prov.),41170,IZAGIRRE INSAUSTI Ion,14321,4,50,Harry
+2,1.PS,GP Miguel Indurain (prov.),41170,HIGUITA GARCIA Sergio Andres,25026,1,35,Kaspar
+3,1.PS,GP Miguel Indurain (prov.),41170,SKJELMOSE JENSEN Mattias,30166,0.5,25,Kaspar
+4,1.PS,GP Miguel Indurain (prov.),41170,KRON Andreas Lorentz,26420,0,20,Paul
+5,1.PS,GP Miguel Indurain (prov.),41170,ADRIA OLIVERAS Roger,27469,0,18,niet verkocht
+6,1.PS,GP Miguel Indurain (prov.),41170,ARANBURU DEBA Alexander,23940,0,16,Jan
+7,1.PS,GP Miguel Indurain (prov.),41170,STRONG Corbin,29492,0,14,PB
+8,1.PS,GP Miguel Indurain (prov.),41170,GESBERT Elie,22912,0,12,niet verkocht
+9,1.PS,GP Miguel Indurain (prov.),41170,GALL Felix,26383,0,10,niet verkocht
+10,1.PS,GP Miguel Indurain (prov.),41170,SCARONI Christian,27002,0,8,niet verkocht
+1,1.1,Volta Limburg Classic (prov.),41169,GROVES Kaden,26637,2,0,Vel
+2,1.1,Volta Limburg Classic (prov.),41169,VAN GILS Maxim,28521,0.3,0,niet verkocht
+3,1.1,Volta Limburg Classic (prov.),41169,EENKHOORN Pascal,24932,0.1,0,Harry
+1,2.1s,"Tour of Thailand, Stage 1 : Kanchanaburi - Kanchanaburi (prov.)",41197,BATSAIKHAN Tegshbayar,27699,0.2,0,niet verkocht
+1,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),41190,WALSH Liam,30946,1,0,niet verkocht
+2,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),41190,GILMORE Brady,33579,0.0,0,niet verkocht
+3,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),41190,SEXTON Tom,31893,0.0,0,niet verkocht
+4,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),41190,TREZISE Declan,31910,0.0,0,niet verkocht
+5,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),41190,MCKENZIE Hamish,34714,0.0,0,niet verkocht
+6,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),41190,JACKSON George,31889,0.0,0,niet verkocht
+7,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),41190,VILLANI Jordan,29553,0.0,0,niet verkocht
+8,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),41190,MOREY Drew,25476,0.0,0,niet verkocht
+9,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),41190,HEFFERNAN William,34631,0.0,0,niet verkocht
+10,CC2,Oceania Cycling Championships (Brisbane) R.R. (prov.),41190,FLEMING Riley,30958,0.0,0,niet verkocht
+1,1.1,Route Adélie de Vitré,41068,DVERSNES Fredrik,28553,2,0,niet verkocht
+2,1.1,Route Adélie de Vitré,41068,VAUQUELIN Kévin,31264,0.3,0,Albert
+3,1.1,Route Adélie de Vitré,41068,BARRE Louis,30055,0.1,0,niet verkocht
+1,CCT2,Oceania Cycling Championships (Burbank) I.T.T.,41189,GILMORE Brady,33579,0.5,0,niet verkocht
 1,1.WT3,Dwars door Vlaanderen,41067,LAPORTE Christophe,19953,5,50,Kaspar
 2,1.WT3,Dwars door Vlaanderen,41067,LAZKANO LOPEZ Oier,30595,2,35,niet verkocht
 3,1.WT3,Dwars door Vlaanderen,41067,POWLESS Neilson,24902,1,25,Harry
