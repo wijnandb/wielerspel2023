@@ -1,14 +1,16 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,1.WT1,Ronde van Vlaanderen (prov.),41171,POGACAR Tadej,26526,0.0,0
-2,1.WT1,Ronde van Vlaanderen (prov.),41171,VAN DER POEL Mathieu,21971,0.0,0
-3,1.WT1,Ronde van Vlaanderen (prov.),41171,PEDERSEN Mads,21992,0.0,0
-4,1.WT1,Ronde van Vlaanderen (prov.),41171,VAN AERT Wout,20730,0.0,0
-5,1.WT1,Ronde van Vlaanderen (prov.),41171,POWLESS Neilson,24902,0.0,0
-6,1.WT1,Ronde van Vlaanderen (prov.),41171,KÜNG Stefan,20960,0.0,0
-7,1.WT1,Ronde van Vlaanderen (prov.),41171,ASGREEN Kasper,23558,0.0,0
-8,1.WT1,Ronde van Vlaanderen (prov.),41171,WRIGHT Fred,28446,0.0,0
-9,1.WT1,Ronde van Vlaanderen (prov.),41171,JORGENSON Matteo,28057,0.0,0
-10,1.WT1,Ronde van Vlaanderen (prov.),41171,TRENTIN Matteo,13270,0.0,0
+1,2.WT1s,"Itzulia Basque Country, Stage 1 : Vitoria - Labastida (prov.)",41204,HAYTER Ethan,27025,0.0,0
+1,2.1s,"Tour of Thailand, Stage 3 : Phra Nakhon Sri Ayutthaya - Khao Yai (prov.)",41199,KUZMIN Anton,24277,0.0,0
+1,1.WT1,Ronde van Vlaanderen,41171,POGACAR Tadej,26526,0.0,0
+2,1.WT1,Ronde van Vlaanderen,41171,VAN DER POEL Mathieu,21971,0.0,0
+3,1.WT1,Ronde van Vlaanderen,41171,PEDERSEN Mads,21992,0.0,0
+4,1.WT1,Ronde van Vlaanderen,41171,VAN AERT Wout,20730,0.0,0
+5,1.WT1,Ronde van Vlaanderen,41171,POWLESS Neilson,24902,0.0,0
+6,1.WT1,Ronde van Vlaanderen,41171,KÜNG Stefan,20960,0.0,0
+7,1.WT1,Ronde van Vlaanderen,41171,ASGREEN Kasper,23558,0.0,0
+8,1.WT1,Ronde van Vlaanderen,41171,WRIGHT Fred,28446,0.0,0
+9,1.WT1,Ronde van Vlaanderen,41171,JORGENSON Matteo,28057,0.0,0
+10,1.WT1,Ronde van Vlaanderen,41171,TRENTIN Matteo,13270,0.0,0
 1,2.1s,"Tour of Thailand, Stage 2 : Kanchanaburi - Phra Nakhon Sri Ayutthaya (prov.)",41198,SUNDERLAND Dylan,23947,0.0,0
 1,1.PS,GP Miguel Indurain,41170,IZAGIRRE INSAUSTI Ion,14321,0.0,0
 2,1.PS,GP Miguel Indurain,41170,HIGUITA GARCIA Sergio Andres,25026,0.0,0
@@ -68,19 +70,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 8,1.WT2,Gent - Wevelgem,41062,KOOIJ Olav,30643,0.0,0
 9,1.WT2,Gent - Wevelgem,41062,VAN POPPEL Danny,19242,0.0,0
 10,1.WT2,Gent - Wevelgem,41062,MCLAY Daniel,18498,0.0,0
-1,2.WT1s,"Volta a Catalunya, Stage 7 : Barcelona - Barcelona",41140,EVENEPOEL Remco,28377,0.0,0
-1,2.WT2r,"Volta a Catalunya, Points classification",41142,ROGLIC Primoz,20719,0.0,0
-1,2.WT2r,"Volta a Catalunya, Mountains classification",41143,EVENEPOEL Remco,28377,0.0,0
-1,1.PS,GP Industria & Artigianato - Larciano,41065,HEALY Ben,28846,0.0,0
-2,1.PS,GP Industria & Artigianato - Larciano,41065,GEBREIGZABHIER Amanuel Werkilul,21482,0.0,0
-3,1.PS,GP Industria & Artigianato - Larciano,41065,STEWART Mark,23644,0.0,0
-4,1.PS,GP Industria & Artigianato - Larciano,41065,TESFATSION Natnael Ocbit,28234,0.0,0
-5,1.PS,GP Industria & Artigianato - Larciano,41065,ULISSI Diego,10023,0.0,0
-6,1.PS,GP Industria & Artigianato - Larciano,41065,GROSSSCHARTNER Felix,19548,0.0,0
-7,1.PS,GP Industria & Artigianato - Larciano,41065,TIZZA Marco,19237,0.0,0
-8,1.PS,GP Industria & Artigianato - Larciano,41065,GALLOPIN Tony,7838,0.0,0
-9,1.PS,GP Industria & Artigianato - Larciano,41065,SCARONI Christian,27002,0.0,0
-10,1.PS,GP Industria & Artigianato - Larciano,41065,STEINHAUSER Georg,30721,0.0,0
-1,1.1,La Roue Tourangelle,41066,TOWNSEND Rory,25102,0.0,0
-2,1.1,La Roue Tourangelle,41066,THIJSSEN Gerben,27085,0.0,0
-3,1.1,La Roue Tourangelle,41066,BARBIER Pierre,25501,0.0,0
