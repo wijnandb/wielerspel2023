@@ -1,14 +1,16 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
-1,1.WT1,Ronde van Vlaanderen (prov.),41171,POGACAR Tadej,26526,15,50,Kees
-2,1.WT1,Ronde van Vlaanderen (prov.),41171,VAN DER POEL Mathieu,21971,3,35,Vel
-3,1.WT1,Ronde van Vlaanderen (prov.),41171,PEDERSEN Mads,21992,2,25,Harry
-4,1.WT1,Ronde van Vlaanderen (prov.),41171,VAN AERT Wout,20730,1,20,Frank
-5,1.WT1,Ronde van Vlaanderen (prov.),41171,POWLESS Neilson,24902,0.5,18,Harry
-6,1.WT1,Ronde van Vlaanderen (prov.),41171,KÜNG Stefan,20960,0,16,PB
-7,1.WT1,Ronde van Vlaanderen (prov.),41171,ASGREEN Kasper,23558,0,14,Nicky
-8,1.WT1,Ronde van Vlaanderen (prov.),41171,WRIGHT Fred,28446,0,12,Jan
-9,1.WT1,Ronde van Vlaanderen (prov.),41171,JORGENSON Matteo,28057,0,10,Albert
-10,1.WT1,Ronde van Vlaanderen (prov.),41171,TRENTIN Matteo,13270,0,8,Nicky
+1,2.WT1s,"Itzulia Basque Country, Stage 1 : Vitoria - Labastida (prov.)",41204,HAYTER Ethan,27025,1,0,Jan
+1,2.1s,"Tour of Thailand, Stage 3 : Phra Nakhon Sri Ayutthaya - Khao Yai (prov.)",41199,KUZMIN Anton,24277,0.2,0,niet verkocht
+1,1.WT1,Ronde van Vlaanderen,41171,POGACAR Tadej,26526,15,50,Kees
+2,1.WT1,Ronde van Vlaanderen,41171,VAN DER POEL Mathieu,21971,3,35,Vel
+3,1.WT1,Ronde van Vlaanderen,41171,PEDERSEN Mads,21992,2,25,Harry
+4,1.WT1,Ronde van Vlaanderen,41171,VAN AERT Wout,20730,1,20,Frank
+5,1.WT1,Ronde van Vlaanderen,41171,POWLESS Neilson,24902,0.5,18,Harry
+6,1.WT1,Ronde van Vlaanderen,41171,KÜNG Stefan,20960,0,16,PB
+7,1.WT1,Ronde van Vlaanderen,41171,ASGREEN Kasper,23558,0,14,Nicky
+8,1.WT1,Ronde van Vlaanderen,41171,WRIGHT Fred,28446,0,12,Jan
+9,1.WT1,Ronde van Vlaanderen,41171,JORGENSON Matteo,28057,0,10,Albert
+10,1.WT1,Ronde van Vlaanderen,41171,TRENTIN Matteo,13270,0,8,Nicky
 1,2.1s,"Tour of Thailand, Stage 2 : Kanchanaburi - Phra Nakhon Sri Ayutthaya (prov.)",41198,SUNDERLAND Dylan,23947,0.2,0,niet verkocht
 1,1.PS,GP Miguel Indurain,41170,IZAGIRRE INSAUSTI Ion,14321,4,50,Harry
 2,1.PS,GP Miguel Indurain,41170,HIGUITA GARCIA Sergio Andres,25026,1,35,Kaspar
