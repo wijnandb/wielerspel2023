@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.WT1s,"Itzulia Basque Country, Stage 2 : Viana - Leitza (prov.)",41205,SCHELLING Ide,26301,0.0,0
+1,2.1s,"Région Pays de la Loire Tour, Stage 1 : Saint-Nazaire - Saint-Gilles-Croix-de-Vie (prov.)",41213,COQUARD Bryan,18714,0.0,0
+1,2.1s,"Tour of Thailand, Stage 4 : Khao Yai - Aranyaprathet (prov.)",41200,KUSUMA Terry,33545,0.0,0
 1,2.WT1s,"Itzulia Basque Country, Stage 1 : Vitoria - Labastida (prov.)",41204,HAYTER Ethan,27025,0.0,0
 1,2.1s,"Tour of Thailand, Stage 3 : Phra Nakhon Sri Ayutthaya - Khao Yai (prov.)",41199,KUZMIN Anton,24277,0.0,0
 1,1.WT1,Ronde van Vlaanderen,41171,POGACAR Tadej,26526,0.0,0
@@ -50,23 +53,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 8,1.WT3,Dwars door Vlaanderen,41067,PASQUALON Andrea,10220,0.0,0
 9,1.WT3,Dwars door Vlaanderen,41067,BOIVIN Guillaume,10856,0.0,0
 10,1.WT3,Dwars door Vlaanderen,41067,POLITT Nils,20847,0.0,0
-1,2.WT1,"Volta a Catalunya, General classification",41141,ROGLIC Primoz,20719,0.0,0
-2,2.WT1,"Volta a Catalunya, General classification",41141,EVENEPOEL Remco,28377,0.0,0
-3,2.WT1,"Volta a Catalunya, General classification",41141,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0
-4,2.WT1,"Volta a Catalunya, General classification",41141,SOLER GIMENEZ Marc,23299,0.0,0
-5,2.WT1,"Volta a Catalunya, General classification",41141,LANDA MEANA Mikel,14319,0.0,0
-6,2.WT1,"Volta a Catalunya, General classification",41141,WOODS Michael,20257,0.0,0
-7,2.WT1,"Volta a Catalunya, General classification",41141,CICCONE Giulio,21812,0.0,0
-8,2.WT1,"Volta a Catalunya, General classification",41141,HINDLEY Jai,23948,0.0,0
-9,2.WT1,"Volta a Catalunya, General classification",41141,UIJTDEBROEKS Cian,31803,0.0,0
-10,2.WT1,"Volta a Catalunya, General classification",41141,URAN URAN Rigoberto,4099,0.0,0
-1,1.WT2,Gent - Wevelgem,41062,LAPORTE Christophe,19953,0.0,0
-2,1.WT2,Gent - Wevelgem,41062,VAN AERT Wout,20730,0.0,0
-3,1.WT2,Gent - Wevelgem,41062,VANMARCKE Sep,7728,0.0,0
-4,1.WT2,Gent - Wevelgem,41062,FRISON Frederik,20643,0.0,0
-5,1.WT2,Gent - Wevelgem,41062,PEDERSEN Mads,21992,0.0,0
-6,1.WT2,Gent - Wevelgem,41062,BJERG Mikkel,26388,0.0,0
-7,1.WT2,Gent - Wevelgem,41062,RENARD Alexis,29969,0.0,0
-8,1.WT2,Gent - Wevelgem,41062,KOOIJ Olav,30643,0.0,0
-9,1.WT2,Gent - Wevelgem,41062,VAN POPPEL Danny,19242,0.0,0
-10,1.WT2,Gent - Wevelgem,41062,MCLAY Daniel,18498,0.0,0
