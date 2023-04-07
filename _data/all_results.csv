@@ -1,9 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.WT1s,"Itzulia Basque Country, Stage 5 : Amorebieta - Amorebieta (prov.)",41208,HIGUITA GARCIA Sergio Andres,25026,0.0,0
+1,2.1,"Région Pays de la Loire Tour, General classification (prov.)",41217,KAMP Alexander,19391,0.0,0
+2,2.1,"Région Pays de la Loire Tour, General classification (prov.)",41217,DVERSNES Fredrik,28553,0.0,0
+3,2.1,"Région Pays de la Loire Tour, General classification (prov.)",41217,FERRON Valentin,28375,0.0,0
+1,2.1s,"Région Pays de la Loire Tour, Stage 4 : Sablé-sur-Sarthe - Le Mans (prov.)",41216,DVERSNES Fredrik,28553,0.0,0
 1,2.WT1s,"Itzulia Basque Country, Stage 4 : Santurizi - Santurizi (prov.)",41207,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
-1,2.1,"Tour of Thailand, General classification (prov.)",41203,BATSAIKHAN Tegshbayar,27699,0.0,0
-2,2.1,"Tour of Thailand, General classification (prov.)",41203,SAINBAYAR Jambaljamts,24289,0.0,0
-3,2.1,"Tour of Thailand, General classification (prov.)",41203,KOISHI Yuma,21852,0.0,0
-1,2.1s,"Tour of Thailand, Stage 6 : Chanthaburi - Rayong (prov.)",41202,SIRIRONNACHAI Sarawut,18945,0.0,0
+1,2.1,"Tour of Thailand, General classification",41203,BATSAIKHAN Tegshbayar,27699,0.0,0
+2,2.1,"Tour of Thailand, General classification",41203,SAINBAYAR Jambaljamts,24289,0.0,0
+3,2.1,"Tour of Thailand, General classification",41203,KOISHI Yuma,21852,0.0,0
+1,2.1s,"Région Pays de la Loire Tour, Stage 3 : Baugé-en-Anjou - Mayenne (prov.)",41215,COQUARD Bryan,18714,0.0,0
+1,2.1s,"Tour of Thailand, Stage 6 : Chanthaburi - Rayong",41202,SIRIRONNACHAI Sarawut,18945,0.0,0
 1,2.WT1s,"Itzulia Basque Country, Stage 3 : Errenteria - Villabona (prov.)",41206,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
 1,1.PS,Scheldeprijs,41172,PHILIPSEN Jasper,26392,0.0,0
 2,1.PS,Scheldeprijs,41172,WELSFORD Samuel,23517,0.0,0
@@ -16,12 +22,12 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 9,1.PS,Scheldeprijs,41172,EINHORN Itamar,27315,0.0,0
 10,1.PS,Scheldeprijs,41172,NIZZOLO Giacomo,13863,0.0,0
 1,2.1s,"Région Pays de la Loire Tour, Stage 2 : Clisson - Le Lion-dAngers (prov.)",41214,BLIKRA Erlend Jordbrekk,25761,0.0,0
-1,2.1s,"Tour of Thailand, Stage 5 : Aranyaprathet - Chanthaburi (prov.)",41201,JANG Kyung-gu,12885,0.0,0
+1,2.1s,"Tour of Thailand, Stage 5 : Aranyaprathet - Chanthaburi",41201,JANG Kyung-gu,12885,0.0,0
 1,2.WT1s,"Itzulia Basque Country, Stage 2 : Viana - Leitza (prov.)",41205,SCHELLING Ide,26301,0.0,0
 1,2.1s,"Région Pays de la Loire Tour, Stage 1 : Saint-Nazaire - Saint-Gilles-Croix-de-Vie (prov.)",41213,COQUARD Bryan,18714,0.0,0
-1,2.1s,"Tour of Thailand, Stage 4 : Khao Yai - Aranyaprathet (prov.)",41200,KUSUMA Terry,33545,0.0,0
+1,2.1s,"Tour of Thailand, Stage 4 : Khao Yai - Aranyaprathet",41200,KUSUMA Terry,33545,0.0,0
 1,2.WT1s,"Itzulia Basque Country, Stage 1 : Vitoria - Labastida (prov.)",41204,HAYTER Ethan,27025,0.0,0
-1,2.1s,"Tour of Thailand, Stage 3 : Phra Nakhon Sri Ayutthaya - Khao Yai (prov.)",41199,KUZMIN Anton,24277,0.0,0
+1,2.1s,"Tour of Thailand, Stage 3 : Phra Nakhon Sri Ayutthaya - Khao Yai",41199,KUZMIN Anton,24277,0.0,0
 1,1.WT1,Ronde van Vlaanderen,41171,POGACAR Tadej,26526,0.0,0
 2,1.WT1,Ronde van Vlaanderen,41171,VAN DER POEL Mathieu,21971,0.0,0
 3,1.WT1,Ronde van Vlaanderen,41171,PEDERSEN Mads,21992,0.0,0
@@ -32,7 +38,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 8,1.WT1,Ronde van Vlaanderen,41171,WRIGHT Fred,28446,0.0,0
 9,1.WT1,Ronde van Vlaanderen,41171,JORGENSON Matteo,28057,0.0,0
 10,1.WT1,Ronde van Vlaanderen,41171,TRENTIN Matteo,13270,0.0,0
-1,2.1s,"Tour of Thailand, Stage 2 : Kanchanaburi - Phra Nakhon Sri Ayutthaya (prov.)",41198,SUNDERLAND Dylan,23947,0.0,0
+1,2.1s,"Tour of Thailand, Stage 2 : Kanchanaburi - Phra Nakhon Sri Ayutthaya",41198,SUNDERLAND Dylan,23947,0.0,0
 1,1.PS,GP Miguel Indurain,41170,IZAGIRRE INSAUSTI Ion,14321,0.0,0
 2,1.PS,GP Miguel Indurain,41170,HIGUITA GARCIA Sergio Andres,25026,0.0,0
 3,1.PS,GP Miguel Indurain,41170,SKJELMOSE JENSEN Mattias,30166,0.0,0
