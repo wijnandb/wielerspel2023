@@ -8,7 +8,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24189,COSNEFROY Benoît,COSNEFROY Benoît,PB,17,ACT,FRA,28,0,12
 29309,FEDOROV Yevgeniy,FEDOROV Yevgeniy,PB,1,AST,KAZ,23,0,0
 23497,GARCIA CORTINA Ivan,GARCIA CORTINA Ivan,PB,1,MOV,ESP,28,0.2,18
-20960,KÜNG Stefan,KÜNG Stefan,PB,11,GFC,SUI,30,0.3,50
+20960,KÜNG Stefan,KÜNG Stefan,PB,11,GFC,SUI,30,0.8,68
 27132,LOPEZ Juan Pedro,LOPEZ PEREZ Juan Pedro,PB,1,TFS,ESP,26,0,0
 24758,MADOUAS Valentin,MADOUAS Valentin,PB,6,GFC,FRA,27,3,47
 22794,MAS NICOLAU Enric,MAS NICOLAU Enric,PB,17,MOV,ESP,28,0.2,52
@@ -21,6 +21,6 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 26437,SWIFT Connor,SWIFT Connor,PB,1,IGD,GBR,28,0,0
 25623,TILLER Rasmus Fossum,TILLER Rasmus Fossum,PB,1,UXT,NOR,27,0,0
 28509,WALLS Matthew,WALLS Matthew,PB,1,BOH,GBR,25,0,0
-19646,WALSCHEID Maximilian,WALSCHEID Maximilian,PB,1,COF,GER,30,0,28
+19646,WALSCHEID Maximilian,WALSCHEID Maximilian,PB,1,COF,GER,30,0,40
 23517,WELSFORD Samuel,WELSFORD Samuel,PB,1,DSM,AUS,27,4.2,60
 17893,YATES Simon,YATES Simon,PB,13,JAY,GBR,31,4.5,65
