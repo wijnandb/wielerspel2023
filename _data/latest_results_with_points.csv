@@ -1,14 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
-1,1.WT1,Paris - Roubaix (prov.),41173,VAN DER POEL Mathieu,21971,15,50,Vel
-2,1.WT1,Paris - Roubaix (prov.),41173,PHILIPSEN Jasper,26392,3,35,Nicky
-3,1.WT1,Paris - Roubaix (prov.),41173,VAN AERT Wout,20730,2,25,Frank
-4,1.WT1,Paris - Roubaix (prov.),41173,PEDERSEN Mads,21992,1,20,Harry
-5,1.WT1,Paris - Roubaix (prov.),41173,KÜNG Stefan,20960,0.5,18,PB
-6,1.WT1,Paris - Roubaix (prov.),41173,GANNA Filippo,24057,0,16,Jan
-7,1.WT1,Paris - Roubaix (prov.),41173,DEGENKOLB John,9851,0,14,Kaspar
-8,1.WT1,Paris - Roubaix (prov.),41173,WALSCHEID Maximilian,19646,0,12,PB
-9,1.WT1,Paris - Roubaix (prov.),41173,REX Laurenz,28442,0,10,niet verkocht
-10,1.WT1,Paris - Roubaix (prov.),41173,LAPORTE Christophe,19953,0,8,Kaspar
+1,1.WT1,Paris - Roubaix,41173,VAN DER POEL Mathieu,21971,15,50,Vel
+2,1.WT1,Paris - Roubaix,41173,PHILIPSEN Jasper,26392,3,35,Nicky
+3,1.WT1,Paris - Roubaix,41173,VAN AERT Wout,20730,2,25,Frank
+4,1.WT1,Paris - Roubaix,41173,PEDERSEN Mads,21992,1,20,Harry
+5,1.WT1,Paris - Roubaix,41173,KÜNG Stefan,20960,0.5,18,PB
+6,1.WT1,Paris - Roubaix,41173,GANNA Filippo,24057,0,16,Jan
+7,1.WT1,Paris - Roubaix,41173,DEGENKOLB John,9851,0,14,Kaspar
+8,1.WT1,Paris - Roubaix,41173,WALSCHEID Maximilian,19646,0,12,PB
+9,1.WT1,Paris - Roubaix,41173,REX Laurenz,28442,0,10,niet verkocht
+10,1.WT1,Paris - Roubaix,41173,LAPORTE Christophe,19953,0,8,Kaspar
 1,2.WT1,"Itzulia Basque Country, General classification",41210,VINGEGAARD RASMUSSEN Jonas,25740,10,50,Arjan
 2,2.WT1,"Itzulia Basque Country, General classification",41210,LANDA MEANA Mikel,14319,3,35,Harry
 3,2.WT1,"Itzulia Basque Country, General classification",41210,IZAGIRRE INSAUSTI Ion,14321,1,25,Harry
