@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
+1,2.1s,"Giro di Sicilia , Stage 3 : Enna - Termini Imerse (prov.)",41225,SUTER Joël,27256,0.2,0,niet verkocht
 1,1.PS,Brabantse Pijl (prov.),41175,GODON Dorian,25704,4,50,niet verkocht
 2,1.PS,Brabantse Pijl (prov.),41175,HEALY Ben,28846,1,35,niet verkocht
 3,1.PS,Brabantse Pijl (prov.),41175,COSNEFROY Benoît,24189,0.5,25,PB
@@ -42,4 +43,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 2,2.1,"Région Pays de la Loire Tour, General classification",41217,DVERSNES Fredrik,28553,0.3,0,niet verkocht
 3,2.1,"Région Pays de la Loire Tour, General classification",41217,FERRON Valentin,28375,0.1,0,niet verkocht
 1,2.1s,"Région Pays de la Loire Tour, Stage 4 : Sablé-sur-Sarthe - Le Mans",41216,DVERSNES Fredrik,28553,0.2,0,niet verkocht
-1,2.WT1s,"Itzulia Basque Country, Stage 4 : Santurizi - Santurizi",41207,VINGEGAARD RASMUSSEN Jonas,25740,1,0,Arjan
