@@ -2,7 +2,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 20917,ACKERMANN Pascal,ACKERMANN Pascal,Vel,5,UAD,GER,29,1,35
 24794,AFFINI Edoardo,AFFINI Edoardo,Paul,3,TJV,ITA,27,0,0
 18610,ALAPHILIPPE Julian,ALAPHILIPPE Julian,Arjan,40,SOQ,FRA,31,4,50
-24139,ALBANESE Vincenzo,ALBANESE Vincenzo,Harry,1,EOK,ITA,27,0,0
+24139,ALBANESE Vincenzo,ALBANESE Vincenzo,Harry,1,EOK,ITA,27,0.1,0
 28451,ALEOTTI Giovanni,ALEOTTI Giovanni,Wijnand,1,BOH,ITA,24,0,0
 22616,ALLEGAERT Piet,ALLEGAERT Piet,Vel,0,COF,BEL,28,0,0
 26482,ALMEIDA Joao,ALMEIDA Joao Pedro Gonçalves,Wijnand,14,UAD,POR,25,4,76
@@ -116,7 +116,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 20960,KÜNG Stefan,KÜNG Stefan,PB,11,GFC,SUI,30,0.8,68
 25653,KUSS Sepp,KUSS Sepp,Nicky,3,TJV,USA,29,0,18
 12923,KWIATKOWSKI Michal,KWIATKOWSKI Michal,Harry,5,IGD,POL,33,0,0
-26197,LAFAY Victor,LAFAY Victor,Jan,2,COF,FRA,27,0,20
+26197,LAFAY Victor,LAFAY Victor,Jan,2,COF,FRA,27,2,20
 19941,LAMPAERT Yves,LAMPAERT Yves,Harry,1,SOQ,BEL,32,1,25
 14319,LANDA Mikel,LANDA MEANA Mikel,Harry,10,TBV,ESP,34,4.2,116
 19953,LAPORTE Christophe,LAPORTE Christophe,Kaspar,15,TJV,FRA,31,16,149
@@ -127,7 +127,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 27132,LOPEZ Juan Pedro,LOPEZ PEREZ Juan Pedro,PB,1,TFS,ESP,26,0,0
 23334,LOPEZ Miguel Angel,LOPEZ MORENO Miguel Angel,Nicky,5,???,COL,29,6.3,50
 29982,LOUVEL Matis,LOUVEL Matis,Paul,3,ARK,FRA,24,0,0
-18455,LUTSENKO Alexey,LUTSENKO Alexey,Vel,6,AST,KAZ,31,0,0
+18455,LUTSENKO Alexey,LUTSENKO Alexey,Vel,6,AST,KAZ,31,2.2,0
 26271,MÄDER Gino,MÄDER Gino,Bram,5,TBV,SUI,26,0.2,18
 24758,MADOUAS Valentin,MADOUAS Valentin,PB,6,GFC,FRA,27,3,47
 14310,MAJKA Rafal,MAJKA Rafal,Kees,1,UAD,POL,34,0,0
@@ -135,13 +135,13 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28641,MARIT Arne,MARIT Arne,Wijnand,0,ICW,BEL,24,0,0
 19994,MARTIN Guillaume,MARTIN Guillaume,Jan,4,COF,FRA,30,0,12
 23503,MARTINEZ Daniel,MARTINEZ POVEDA Daniel Felipe,Bram,12,IGD,COL,27,6,85
-32721,MARTINEZ Lenny,MARTINEZ Lenny,Kees,1,GFC,FRA,20,0,0
+32721,MARTINEZ Lenny,MARTINEZ Lenny,Kees,1,GFC,FRA,20,0.3,0
 22794,MAS NICOLAU Enric,MAS NICOLAU Enric,PB,17,MOV,ESP,28,0.2,52
 20535,MASNADA Fausto,MASNADA Fausto,Paul,2,SOQ,ITA,30,0,0
 13066,MATTHEWS Michael,MATTHEWS Michael,Bram,12,JAY,AUS,33,0.0,20
 26508,MCNULTY Brandon,MCNULTY Brandon,Kees,7,UAD,USA,25,0,26
 26421,MEEUS Jordi,MEEUS Jordi,Vel,5,BOH,BEL,25,0.6,51
-18413,MEINTJES Louis,MEINTJES Louis,Wijnand,1,ICW,RSA,31,0,0
+18413,MEINTJES Louis,MEINTJES Louis,Wijnand,1,ICW,RSA,31,0.3,0
 17988,MERLIER Tim,MERLIER Tim,Wijnand,14,SOQ,BEL,31,6.3,50
 32946,MIHKELS Madis,MIHKELS Madis,Albert,1,ICW,EST,20,0,0
 29359,MILAN Jonathan,MILAN Jonathan,Bram,2,TBV,ITA,23,0.2,0
