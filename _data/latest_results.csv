@@ -1,20 +1,27 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,2.1s,"Giro di Sicilia , Stage 3 : Enna - Termini Imerse (prov.)",41225,SUTER Joël,27256,0.0,0
-1,1.PS,Brabantse Pijl (prov.),41175,GODON Dorian,25704,0.0,0
-2,1.PS,Brabantse Pijl (prov.),41175,HEALY Ben,28846,0.0,0
-3,1.PS,Brabantse Pijl (prov.),41175,COSNEFROY Benoît,24189,0.0,0
-4,1.PS,Brabantse Pijl (prov.),41175,CAVAGNA Rémi,22910,0.0,0
-5,1.PS,Brabantse Pijl (prov.),41175,ZINGLE Axel,31263,0.0,0
-6,1.PS,Brabantse Pijl (prov.),41175,KAMP Alexander,19391,0.0,0
-7,1.PS,Brabantse Pijl (prov.),41175,DE LIE Arnaud,32221,0.0,0
-8,1.PS,Brabantse Pijl (prov.),41175,BAGIOLI Andrea,28452,0.0,0
-9,1.PS,Brabantse Pijl (prov.),41175,SKUJINS Toms,16739,0.0,0
-10,1.PS,Brabantse Pijl (prov.),41175,HEIDUK Kim,29436,0.0,0
-1,2.1s,"Giro di Sicilia , Stage 2 : Canicatti - Vittoria (prov.)",41224,BONIFAZIO Niccolo,20102,0.0,0
-1,1.1,Paris - Camembert (prov.),41174,FERRON Valentin,28375,0.0,0
-2,1.1,Paris - Camembert (prov.),41174,COSTIOU Ewen,32834,0.0,0
-3,1.1,Paris - Camembert (prov.),41174,DVERSNES Fredrik,28553,0.0,0
-1,2.1s,"Giro di Sicilia , Stage 1 : Marsala - Agrigento (prov.)",41223,FISHER-BLACK Finn,30562,0.0,0
+1,2.1,"Giro di Sicilia , General classification",41227,LUTSENKO Alexey,18455,0.0,0
+2,2.1,"Giro di Sicilia , General classification",41227,MEINTJES Louis,18413,0.0,0
+3,2.1,"Giro di Sicilia , General classification",41227,ALBANESE Vincenzo,24139,0.0,0
+1,1.1,Classic Grand Besançon Doubs,41176,LAFAY Victor,26197,0.0,0
+2,1.1,Classic Grand Besançon Doubs,41176,MARTINEZ Lenny,32721,0.0,0
+3,1.1,Classic Grand Besançon Doubs,41176,ADRIA OLIVERAS Roger,27469,0.0,0
+1,2.1s,"Giro di Sicilia , Stage 4 : Barcellona Pozzo di Gotto - Giarre",41226,LUTSENKO Alexey,18455,0.0,0
+1,2.1s,"Giro di Sicilia , Stage 3 : Enna - Termini Imerse",41225,SUTER Joël,27256,0.0,0
+1,1.PS,Brabantse Pijl,41175,GODON Dorian,25704,0.0,0
+2,1.PS,Brabantse Pijl,41175,HEALY Ben,28846,0.0,0
+3,1.PS,Brabantse Pijl,41175,COSNEFROY Benoît,24189,0.0,0
+4,1.PS,Brabantse Pijl,41175,CAVAGNA Rémi,22910,0.0,0
+5,1.PS,Brabantse Pijl,41175,ZINGLE Axel,31263,0.0,0
+6,1.PS,Brabantse Pijl,41175,KAMP Alexander,19391,0.0,0
+7,1.PS,Brabantse Pijl,41175,DE LIE Arnaud,32221,0.0,0
+8,1.PS,Brabantse Pijl,41175,BAGIOLI Andrea,28452,0.0,0
+9,1.PS,Brabantse Pijl,41175,SKUJINS Toms,16739,0.0,0
+10,1.PS,Brabantse Pijl,41175,HEIDUK Kim,29436,0.0,0
+1,2.1s,"Giro di Sicilia , Stage 2 : Canicatti - Vittoria",41224,BONIFAZIO Niccolo,20102,0.0,0
+1,1.1,Paris - Camembert,41174,FERRON Valentin,28375,0.0,0
+2,1.1,Paris - Camembert,41174,COSTIOU Ewen,32834,0.0,0
+3,1.1,Paris - Camembert,41174,DVERSNES Fredrik,28553,0.0,0
+1,2.1s,"Giro di Sicilia , Stage 1 : Marsala - Agrigento",41223,FISHER-BLACK Finn,30562,0.0,0
 1,1.WT1,Paris - Roubaix,41173,VAN DER POEL Mathieu,21971,0.0,0
 2,1.WT1,Paris - Roubaix,41173,PHILIPSEN Jasper,26392,0.0,0
 3,1.WT1,Paris - Roubaix,41173,VAN AERT Wout,20730,0.0,0
@@ -38,8 +45,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,2.WT1s,"Itzulia Basque Country, Stage 6 : Eibar - Eibar",41209,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
 1,2.WT2r,"Itzulia Basque Country, Mountains classification",41212,BARRENETXEA GOLZARRI Jon,31685,0.0,0
 1,2.WT2r,"Itzulia Basque Country, Points classification",41211,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
-1,2.WT1s,"Itzulia Basque Country, Stage 5 : Amorebieta - Amorebieta",41208,HIGUITA GARCIA Sergio Andres,25026,0.0,0
-1,2.1,"Région Pays de la Loire Tour, General classification",41217,KAMP Alexander,19391,0.0,0
-2,2.1,"Région Pays de la Loire Tour, General classification",41217,DVERSNES Fredrik,28553,0.0,0
-3,2.1,"Région Pays de la Loire Tour, General classification",41217,FERRON Valentin,28375,0.0,0
-1,2.1s,"Région Pays de la Loire Tour, Stage 4 : Sablé-sur-Sarthe - Le Mans",41216,DVERSNES Fredrik,28553,0.0,0
