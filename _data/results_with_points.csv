@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
+1,1.1,Tour du Jura (prov.),41177,VAUQUELIN Kévin,31264,2,0,Albert
+2,1.1,Tour du Jura (prov.),41177,PINOT Thibaut,13080,0.3,0,Nicky
+3,1.1,Tour du Jura (prov.),41177,MARTIN Guillaume,19994,0.1,0,Jan
 1,2.1,"Giro di Sicilia , General classification",41227,LUTSENKO Alexey,18455,2,0,Vel
 2,2.1,"Giro di Sicilia , General classification",41227,MEINTJES Louis,18413,0.3,0,Wijnand
 3,2.1,"Giro di Sicilia , General classification",41227,ALBANESE Vincenzo,24139,0.1,0,Harry

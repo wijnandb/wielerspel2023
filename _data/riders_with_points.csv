@@ -133,7 +133,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 14310,MAJKA Rafal,MAJKA Rafal,Kees,1,UAD,POL,34,0,0
 22713,MARECZKO Jakub,MARECZKO Jakub,Harry,1,ADC,ITA,29,0,18
 28641,MARIT Arne,MARIT Arne,Wijnand,0,ICW,BEL,24,0,0
-19994,MARTIN Guillaume,MARTIN Guillaume,Jan,4,COF,FRA,30,0,12
+19994,MARTIN Guillaume,MARTIN Guillaume,Jan,4,COF,FRA,30,0.1,12
 23503,MARTINEZ Daniel,MARTINEZ POVEDA Daniel Felipe,Bram,12,IGD,COL,27,6,85
 32721,MARTINEZ Lenny,MARTINEZ Lenny,Kees,1,GFC,FRA,20,0.3,0
 22794,MAS NICOLAU Enric,MAS NICOLAU Enric,PB,17,MOV,ESP,28,0.2,52
@@ -163,7 +163,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 26392,PHILIPSEN Jasper,PHILIPSEN Jasper,Nicky,11,ADC,BEL,25,14,155
 30648,PICCOLO Andrea,PICCOLO Andrea,Albert,3,EFE,ITA,22,0,0
 27708,PIDCOCK Thomas,PIDCOCK Thomas,Albert,20,IGD,GBR,24,10.5,82
-13080,PINOT Thibaut,PINOT Thibaut,Nicky,4,GFC,FRA,33,0,8
+13080,PINOT Thibaut,PINOT Thibaut,Nicky,4,GFC,FRA,33,0.3,8
 29787,PLAPP Lucas,PLAPP Lucas,Vel,5,IGD,AUS,23,2,35
 29528,PLOWRIGHT Jensen,PLOWRIGHT Jensen,Frank,1,ADC,AUS,23,0,0
 7751,POELS Wout,POELS Wout,Roy,1,TBV,NED,36,0,16
@@ -234,7 +234,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29828,VAN WILDER Ilan,VAN WILDER Ilan,Wijnand,1,SOQ,BEL,23,0.6,25
 7728,VANMARCKE Sep,VANMARCKE Sep,Jan,1,IPT,BEL,35,1,49
 28580,VANSEVENANT Mauri,VANSEVENANT Mauri,Wijnand,2,SOQ,BEL,24,1.3,35
-31264,VAUQUELIN Kévin,VAUQUELIN Kévin,Albert,2,ARK,FRA,22,2.5,0
+31264,VAUQUELIN Kévin,VAUQUELIN Kévin,Albert,2,ARK,FRA,22,4.5,0
 28127,VERMEERSCH Florian,VERMEERSCH Florian,Albert,2,LTD,BEL,24,0,0
 18247,VERMEERSCH Gianni,VERMEERSCH Gianni,Paul,0,ADC,BEL,31,0,0
 30035,VERNON Ethan,VERNON Ethan,Arjan,1,SOQ,GBR,23,2.7,0
