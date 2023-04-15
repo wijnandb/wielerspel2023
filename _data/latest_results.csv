@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,1.1,Tour du Jura (prov.),41177,VAUQUELIN Kévin,31264,0.0,0
+2,1.1,Tour du Jura (prov.),41177,PINOT Thibaut,13080,0.0,0
+3,1.1,Tour du Jura (prov.),41177,MARTIN Guillaume,19994,0.0,0
 1,2.1,"Giro di Sicilia , General classification",41227,LUTSENKO Alexey,18455,0.0,0
 2,2.1,"Giro di Sicilia , General classification",41227,MEINTJES Louis,18413,0.0,0
 3,2.1,"Giro di Sicilia , General classification",41227,ALBANESE Vincenzo,24139,0.0,0
@@ -32,16 +35,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 8,1.WT1,Paris - Roubaix,41173,WALSCHEID Maximilian,19646,0.0,0
 9,1.WT1,Paris - Roubaix,41173,REX Laurenz,28442,0.0,0
 10,1.WT1,Paris - Roubaix,41173,LAPORTE Christophe,19953,0.0,0
-1,2.WT1,"Itzulia Basque Country, General classification",41210,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
-2,2.WT1,"Itzulia Basque Country, General classification",41210,LANDA MEANA Mikel,14319,0.0,0
-3,2.WT1,"Itzulia Basque Country, General classification",41210,IZAGIRRE INSAUSTI Ion,14321,0.0,0
-4,2.WT1,"Itzulia Basque Country, General classification",41210,GAUDU David,24255,0.0,0
-5,2.WT1,"Itzulia Basque Country, General classification",41210,MAS NICOLAU Enric,22794,0.0,0
-6,2.WT1,"Itzulia Basque Country, General classification",41210,HIGUITA GARCIA Sergio Andres,25026,0.0,0
-7,2.WT1,"Itzulia Basque Country, General classification",41210,MCNULTY Brandon,26508,0.0,0
-8,2.WT1,"Itzulia Basque Country, General classification",41210,KNOX James,23403,0.0,0
-9,2.WT1,"Itzulia Basque Country, General classification",41210,YATES Simon,17893,0.0,0
-10,2.WT1,"Itzulia Basque Country, General classification",41210,GALL Felix,26383,0.0,0
-1,2.WT1s,"Itzulia Basque Country, Stage 6 : Eibar - Eibar",41209,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
-1,2.WT2r,"Itzulia Basque Country, Mountains classification",41212,BARRENETXEA GOLZARRI Jon,31685,0.0,0
-1,2.WT2r,"Itzulia Basque Country, Points classification",41211,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0
