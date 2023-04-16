@@ -30,7 +30,7 @@ def new_category(racename,category):
   print(racename[:12])
   if racename in ['Omloop Het Nieuwsblad','Strade Bianche']:
     category = '1.WT2'
-  if racename[:15] in ['Amstel Gold Race']:
+  if racename[:16] in ['Amstel Gold Race']:
     category = '1.WT1'
   # if racename in ['Volta a Catalunya','Itzulia Basque Country','Tour de Pologne','Benelux Tour']:
   #   category = '2.WT1'
