@@ -28,7 +28,7 @@ I send the racename to this function, and then return the (new) category.
 def new_category(racename,category):
   print(racename)
   print(racename[:12])
-  if racename in ['Omloop Het Nieuwsblad','Strade Bianche']:
+  if racename[:14] in ['Omloop Het Nie','Strade Bianche']:
     category = '1.WT2'
   if racename[:16] in ['Amstel Gold Race']:
     category = '1.WT1'
