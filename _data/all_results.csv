@@ -1,20 +1,20 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,1.WT2,Amstel Gold Race (prov.),41179,POGACAR Tadej,26526,0.0,0
-2,1.WT2,Amstel Gold Race (prov.),41179,HEALY Ben,28846,0.0,0
-3,1.WT2,Amstel Gold Race (prov.),41179,PIDCOCK Thomas,27708,0.0,0
-4,1.WT2,Amstel Gold Race (prov.),41179,KRON Andreas Lorentz,26420,0.0,0
-5,1.WT2,Amstel Gold Race (prov.),41179,LUTSENKO Alexey,18455,0.0,0
-6,1.WT2,Amstel Gold Race (prov.),41179,BAGIOLI Andrea,28452,0.0,0
-7,1.WT2,Amstel Gold Race (prov.),41179,VAN GILS Maxim,28521,0.0,0
-8,1.WT2,Amstel Gold Race (prov.),41179,SKJELMOSE JENSEN Mattias,30166,0.0,0
-9,1.WT2,Amstel Gold Race (prov.),41179,KAMP Alexander,19391,0.0,0
-10,1.WT2,Amstel Gold Race (prov.),41179,ZINGLE Axel,31263,0.0,0
-1,1.1,Tour du Doubs (prov.),41180,HERRADA LOPEZ Jesus,17534,0.0,0
-2,1.1,Tour du Doubs (prov.),41180,PINOT Thibaut,13080,0.0,0
-3,1.1,Tour du Doubs (prov.),41180,PETERS Nans,22703,0.0,0
-1,1.1,Giro di Reggio Calabria (prov.),41448,RESTREPO VALENCIA Jhonatan,24720,0.0,0
-2,1.1,Giro di Reggio Calabria (prov.),41448,TIVANI PEREZ German Nicolas,22472,0.0,0
-3,1.1,Giro di Reggio Calabria (prov.),41448,MAESTRI Mirco,20073,0.0,0
+1,1.WT2,Amstel Gold Race,41179,POGACAR Tadej,26526,0.0,0
+2,1.WT2,Amstel Gold Race,41179,HEALY Ben,28846,0.0,0
+3,1.WT2,Amstel Gold Race,41179,PIDCOCK Thomas,27708,0.0,0
+4,1.WT2,Amstel Gold Race,41179,KRON Andreas Lorentz,26420,0.0,0
+5,1.WT2,Amstel Gold Race,41179,LUTSENKO Alexey,18455,0.0,0
+6,1.WT2,Amstel Gold Race,41179,BAGIOLI Andrea,28452,0.0,0
+7,1.WT2,Amstel Gold Race,41179,VAN GILS Maxim,28521,0.0,0
+8,1.WT2,Amstel Gold Race,41179,SKJELMOSE JENSEN Mattias,30166,0.0,0
+9,1.WT2,Amstel Gold Race,41179,KAMP Alexander,19391,0.0,0
+10,1.WT2,Amstel Gold Race,41179,ZINGLE Axel,31263,0.0,0
+1,1.1,Giro di Reggio Calabria,41448,RESTREPO VALENCIA Jhonatan,24720,0.0,0
+2,1.1,Giro di Reggio Calabria,41448,TIVANI PEREZ German Nicolas,22472,0.0,0
+3,1.1,Giro di Reggio Calabria,41448,MAESTRI Mirco,20073,0.0,0
+1,1.1,Tour du Doubs,41180,HERRADA LOPEZ Jesus,17534,0.0,0
+2,1.1,Tour du Doubs,41180,PINOT Thibaut,13080,0.0,0
+3,1.1,Tour du Doubs,41180,PETERS Nans,22703,0.0,0
 1,1.1,Tour du Jura,41177,VAUQUELIN Kévin,31264,0.0,0
 2,1.1,Tour du Jura,41177,PINOT Thibaut,13080,0.0,0
 3,1.1,Tour du Jura,41177,MARTIN Guillaume,19994,0.0,0
