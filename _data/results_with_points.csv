@@ -1,20 +1,20 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
-1,1.WT2,Amstel Gold Race (prov.),41179,POGACAR Tadej,26526,10,50,Kees
-2,1.WT2,Amstel Gold Race (prov.),41179,HEALY Ben,28846,3,35,niet verkocht
-3,1.WT2,Amstel Gold Race (prov.),41179,PIDCOCK Thomas,27708,1,25,Albert
-4,1.WT2,Amstel Gold Race (prov.),41179,KRON Andreas Lorentz,26420,0.5,20,Paul
-5,1.WT2,Amstel Gold Race (prov.),41179,LUTSENKO Alexey,18455,0.2,18,Vel
-6,1.WT2,Amstel Gold Race (prov.),41179,BAGIOLI Andrea,28452,0,16,Albert
-7,1.WT2,Amstel Gold Race (prov.),41179,VAN GILS Maxim,28521,0,14,niet verkocht
-8,1.WT2,Amstel Gold Race (prov.),41179,SKJELMOSE JENSEN Mattias,30166,0,12,Kaspar
-9,1.WT2,Amstel Gold Race (prov.),41179,KAMP Alexander,19391,0,10,niet verkocht
-10,1.WT2,Amstel Gold Race (prov.),41179,ZINGLE Axel,31263,0,8,Paul
-1,1.1,Tour du Doubs (prov.),41180,HERRADA LOPEZ Jesus,17534,2,0,Paul
-2,1.1,Tour du Doubs (prov.),41180,PINOT Thibaut,13080,0.3,0,Nicky
-3,1.1,Tour du Doubs (prov.),41180,PETERS Nans,22703,0.1,0,niet verkocht
-1,1.1,Giro di Reggio Calabria (prov.),41448,RESTREPO VALENCIA Jhonatan,24720,2,0,niet verkocht
-2,1.1,Giro di Reggio Calabria (prov.),41448,TIVANI PEREZ German Nicolas,22472,0.3,0,niet verkocht
-3,1.1,Giro di Reggio Calabria (prov.),41448,MAESTRI Mirco,20073,0.1,0,niet verkocht
+1,1.WT2,Amstel Gold Race,41179,POGACAR Tadej,26526,10,50,Kees
+2,1.WT2,Amstel Gold Race,41179,HEALY Ben,28846,3,35,niet verkocht
+3,1.WT2,Amstel Gold Race,41179,PIDCOCK Thomas,27708,1,25,Albert
+4,1.WT2,Amstel Gold Race,41179,KRON Andreas Lorentz,26420,0.5,20,Paul
+5,1.WT2,Amstel Gold Race,41179,LUTSENKO Alexey,18455,0.2,18,Vel
+6,1.WT2,Amstel Gold Race,41179,BAGIOLI Andrea,28452,0,16,Albert
+7,1.WT2,Amstel Gold Race,41179,VAN GILS Maxim,28521,0,14,niet verkocht
+8,1.WT2,Amstel Gold Race,41179,SKJELMOSE JENSEN Mattias,30166,0,12,Kaspar
+9,1.WT2,Amstel Gold Race,41179,KAMP Alexander,19391,0,10,niet verkocht
+10,1.WT2,Amstel Gold Race,41179,ZINGLE Axel,31263,0,8,Paul
+1,1.1,Giro di Reggio Calabria,41448,RESTREPO VALENCIA Jhonatan,24720,2,0,niet verkocht
+2,1.1,Giro di Reggio Calabria,41448,TIVANI PEREZ German Nicolas,22472,0.3,0,niet verkocht
+3,1.1,Giro di Reggio Calabria,41448,MAESTRI Mirco,20073,0.1,0,niet verkocht
+1,1.1,Tour du Doubs,41180,HERRADA LOPEZ Jesus,17534,2,0,Paul
+2,1.1,Tour du Doubs,41180,PINOT Thibaut,13080,0.3,0,Nicky
+3,1.1,Tour du Doubs,41180,PETERS Nans,22703,0.1,0,niet verkocht
 1,1.1,Tour du Jura,41177,VAUQUELIN Kévin,31264,2,0,Albert
 2,1.1,Tour du Jura,41177,PINOT Thibaut,13080,0.3,0,Nicky
 3,1.1,Tour du Jura,41177,MARTIN Guillaume,19994,0.1,0,Jan
