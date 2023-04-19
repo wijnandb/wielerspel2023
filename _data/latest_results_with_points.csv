@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
+1,1.WT2,Flèche Wallonne (prov.),41181,POGACAR Tadej,26526,10,50,Kees
+2,1.WT2,Flèche Wallonne (prov.),41181,SKJELMOSE JENSEN Mattias,30166,3,35,Kaspar
+3,1.WT2,Flèche Wallonne (prov.),41181,LANDA MEANA Mikel,14319,1,25,Harry
+4,1.WT2,Flèche Wallonne (prov.),41181,WOODS Michael,20257,0.5,20,Albert
+5,1.WT2,Flèche Wallonne (prov.),41181,CICCONE Giulio,21812,0.2,18,Nicky
+6,1.WT2,Flèche Wallonne (prov.),41181,LAFAY Victor,26197,0,16,Jan
+7,1.WT2,Flèche Wallonne (prov.),41181,BENOOT Tiesj,21244,0,14,Paul
+8,1.WT2,Flèche Wallonne (prov.),41181,VAN GILS Maxim,28521,0,12,niet verkocht
+9,1.WT2,Flèche Wallonne (prov.),41181,BARDET Romain,13566,0,10,Jan
+10,1.WT2,Flèche Wallonne (prov.),41181,BARGUIL Warren,17627,0,8,Nicky
+1,2.PSs,"Tour of the Alps, Stage 3 : Ritten - Brentonico San Valentino (prov.)",41236,KÄMNA Lennard,23427,0.3,0,Jan
 1,2.PSs,"Tour of the Alps, Stage 2 : Reith im Alpbachtal - Ritten (prov.)",41235,GEOGHEGAN HART Tao,22018,0.3,0,Paul
 1,2.PSs,"Tour of the Alps, Stage 1 : Rattenberg - Alpbach (prov.)",41234,GEOGHEGAN HART Tao,22018,0.3,0,Paul
 1,1.WT1,Amstel Gold Race,41179,POGACAR Tadej,26526,15,50,Kees
@@ -27,4 +38,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 2,1.1,Classic Grand Besançon Doubs,41176,MARTINEZ Lenny,32721,0.3,0,Kees
 3,1.1,Classic Grand Besançon Doubs,41176,ADRIA OLIVERAS Roger,27469,0.1,0,niet verkocht
 1,2.1s,"Giro di Sicilia , Stage 4 : Barcellona Pozzo di Gotto - Giarre",41226,LUTSENKO Alexey,18455,0.2,0,Vel
-1,2.1s,"Giro di Sicilia , Stage 3 : Enna - Termini Imerse",41225,SUTER Joël,27256,0.2,0,niet verkocht
