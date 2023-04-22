@@ -1,16 +1,16 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,2.PS,"Tour of the Alps, General classification (prov.)",41239,GEOGHEGAN HART Tao,22018,0.0,0
-2,2.PS,"Tour of the Alps, General classification (prov.)",41239,CARTHY Hugh,21014,0.0,0
-3,2.PS,"Tour of the Alps, General classification (prov.)",41239,HAIG Jack,21212,0.0,0
-4,2.PS,"Tour of the Alps, General classification (prov.)",41239,CEPEDA ORTIZ Jefferson Alexander,26775,0.0,0
-5,2.PS,"Tour of the Alps, General classification (prov.)",41239,FORTUNATO Lorenzo,25552,0.0,0
-6,2.PS,"Tour of the Alps, General classification (prov.)",41239,KÄMNA Lennard,23427,0.0,0
-7,2.PS,"Tour of the Alps, General classification (prov.)",41239,SIVAKOV Pavel,24934,0.0,0
-8,2.PS,"Tour of the Alps, General classification (prov.)",41239,BUITRAGO SANCHEZ Santiago,29699,0.0,0
-9,2.PS,"Tour of the Alps, General classification (prov.)",41239,GALL Felix,26383,0.0,0
-10,2.PS,"Tour of the Alps, General classification (prov.)",41239,TRAEEN Torstein,24068,0.0,0
-1,2.PSs,"Tour of the Alps, Stage 5 : Cavalese - Brunico (prov.)",41238,CARR Simon,30010,0.0,0
-1,2.PSs,"Tour of the Alps, Stage 4 : Rovereto - Predazzo (prov.)",41237,MÜHLBERGER Gregor,21128,0.0,0
+1,2.PS,"Tour of the Alps, General classification",41239,GEOGHEGAN HART Tao,22018,0.0,0
+2,2.PS,"Tour of the Alps, General classification",41239,CARTHY Hugh,21014,0.0,0
+3,2.PS,"Tour of the Alps, General classification",41239,HAIG Jack,21212,0.0,0
+4,2.PS,"Tour of the Alps, General classification",41239,CEPEDA ORTIZ Jefferson Alexander,26775,0.0,0
+5,2.PS,"Tour of the Alps, General classification",41239,FORTUNATO Lorenzo,25552,0.0,0
+6,2.PS,"Tour of the Alps, General classification",41239,KÄMNA Lennard,23427,0.0,0
+7,2.PS,"Tour of the Alps, General classification",41239,SIVAKOV Pavel,24934,0.0,0
+8,2.PS,"Tour of the Alps, General classification",41239,BUITRAGO SANCHEZ Santiago,29699,0.0,0
+9,2.PS,"Tour of the Alps, General classification",41239,GALL Felix,26383,0.0,0
+10,2.PS,"Tour of the Alps, General classification",41239,TRAEEN Torstein,24068,0.0,0
+1,2.PSs,"Tour of the Alps, Stage 5 : Cavalese - Brunico",41238,CARR Simon,30010,0.0,0
+1,2.PSs,"Tour of the Alps, Stage 4 : Rovereto - Predazzo",41237,MÜHLBERGER Gregor,21128,0.0,0
 1,1.WT2,Flèche Wallonne,41181,POGACAR Tadej,26526,0.0,0
 2,1.WT2,Flèche Wallonne,41181,SKJELMOSE JENSEN Mattias,30166,0.0,0
 3,1.WT2,Flèche Wallonne,41181,LANDA MEANA Mikel,14319,0.0,0
@@ -21,10 +21,10 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 8,1.WT2,Flèche Wallonne,41181,VAN GILS Maxim,28521,0.0,0
 9,1.WT2,Flèche Wallonne,41181,BARDET Romain,13566,0.0,0
 10,1.WT2,Flèche Wallonne,41181,BARGUIL Warren,17627,0.0,0
-1,2.PSs,"Tour of the Alps, Stage 3 : Ritten - Brentonico San Valentino (prov.)",41236,KÄMNA Lennard,23427,0.0,0
+1,2.PSs,"Tour of the Alps, Stage 3 : Ritten - Brentonico San Valentino",41236,KÄMNA Lennard,23427,0.0,0
 1,CCT2,Pan-American Championships (Panama) I.T.T.,41302,VARGAS ALZATE Walter Alejandro,23536,0.0,0
-1,2.PSs,"Tour of the Alps, Stage 2 : Reith im Alpbachtal - Ritten (prov.)",41235,GEOGHEGAN HART Tao,22018,0.0,0
-1,2.PSs,"Tour of the Alps, Stage 1 : Rattenberg - Alpbach (prov.)",41234,GEOGHEGAN HART Tao,22018,0.0,0
+1,2.PSs,"Tour of the Alps, Stage 2 : Reith im Alpbachtal - Ritten",41235,GEOGHEGAN HART Tao,22018,0.0,0
+1,2.PSs,"Tour of the Alps, Stage 1 : Rattenberg - Alpbach",41234,GEOGHEGAN HART Tao,22018,0.0,0
 1,1.WT1,Amstel Gold Race,41179,POGACAR Tadej,26526,0.0,0
 2,1.WT1,Amstel Gold Race,41179,HEALY Ben,28846,0.0,0
 3,1.WT1,Amstel Gold Race,41179,PIDCOCK Thomas,27708,0.0,0
@@ -41,6 +41,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 1,1.1,Tour du Doubs,41180,HERRADA LOPEZ Jesus,17534,0.0,0
 2,1.1,Tour du Doubs,41180,PINOT Thibaut,13080,0.0,0
 3,1.1,Tour du Doubs,41180,PETERS Nans,22703,0.0,0
-1,1.1,Tour du Jura,41177,VAUQUELIN Kévin,31264,0.0,0
-2,1.1,Tour du Jura,41177,PINOT Thibaut,13080,0.0,0
-3,1.1,Tour du Jura,41177,MARTIN Guillaume,19994,0.0,0
