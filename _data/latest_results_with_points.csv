@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
+1,2.WT1s,"Tour de Romandie, Stage 3 : Châtel-Saint-Denis - Châtel-Saint-Denis I.T.T. (prov.)",41258,AYUSO PESQUERA Juan,31654,1,0,Albert
+1,2.1s,"Vuelta a Asturias, Stage 1 : Oviedo - Pola de Lena (prov.)",41290,HOWSON Damien,18239,0.2,0,niet verkocht
 1,2.WT1s,"Tour de Romandie, Stage 2 : Morteau - La Chaux-de-Fonds (prov.)",41257,HAYTER Ethan,27025,1,0,Jan
 1,2.WT1s,"Tour de Romandie, Stage 1 : Crissier - Vallée de Joux (prov.)",41256,VERNON Ethan,30035,1,0,Arjan
 1,2.WT1s,"Tour de Romandie, Prologue : Le Bouveret I.T.T. (prov.)",41255,CERNY Josef,19783,1,0,niet verkocht
@@ -34,14 +36,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 10,2.PS,"Tour of the Alps, General classification",41239,TRAEEN Torstein,24068,0,8,niet verkocht
 1,2.PSs,"Tour of the Alps, Stage 5 : Cavalese - Brunico",41238,CARR Simon,30010,0.3,0,niet verkocht
 1,2.PSs,"Tour of the Alps, Stage 4 : Rovereto - Predazzo",41237,MÜHLBERGER Gregor,21128,0.3,0,niet verkocht
-1,1.WT2,Flèche Wallonne,41181,POGACAR Tadej,26526,10,50,Kees
-2,1.WT2,Flèche Wallonne,41181,SKJELMOSE JENSEN Mattias,30166,3,35,Kaspar
-3,1.WT2,Flèche Wallonne,41181,LANDA MEANA Mikel,14319,1,25,Harry
-4,1.WT2,Flèche Wallonne,41181,WOODS Michael,20257,0.5,20,Albert
-5,1.WT2,Flèche Wallonne,41181,CICCONE Giulio,21812,0.2,18,Nicky
-6,1.WT2,Flèche Wallonne,41181,LAFAY Victor,26197,0,16,Jan
-7,1.WT2,Flèche Wallonne,41181,BENOOT Tiesj,21244,0,14,Paul
-8,1.WT2,Flèche Wallonne,41181,VAN GILS Maxim,28521,0,12,niet verkocht
-9,1.WT2,Flèche Wallonne,41181,BARDET Romain,13566,0,10,Jan
-10,1.WT2,Flèche Wallonne,41181,BARGUIL Warren,17627,0,8,Nicky
-1,2.PSs,"Tour of the Alps, Stage 3 : Ritten - Brentonico San Valentino",41236,KÄMNA Lennard,23427,0.3,0,Jan
