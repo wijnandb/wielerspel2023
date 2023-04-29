@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
+1,2.WT1s,"Tour de Romandie, Stage 4 : Sion - Thyon 2000 (prov.)",41259,YATES Adam,18975,1,0,Paul
+1,2.1s,"Vuelta a Asturias, Stage 2 : Candas - Cangas del Narcea (prov.)",41291,FORTUNATO Lorenzo,25552,0.2,0,niet verkocht
 1,2.WT1s,"Tour de Romandie, Stage 3 : Châtel-Saint-Denis - Châtel-Saint-Denis I.T.T. (prov.)",41258,AYUSO PESQUERA Juan,31654,1,0,Albert
 1,2.1s,"Vuelta a Asturias, Stage 1 : Oviedo - Pola de Lena (prov.)",41290,HOWSON Damien,18239,0.2,0,niet verkocht
 1,2.WT1s,"Tour de Romandie, Stage 2 : Morteau - La Chaux-de-Fonds (prov.)",41257,HAYTER Ethan,27025,1,0,Jan
@@ -24,15 +26,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 8,CC2,Pan-American Championships (Panama) R.R.,41301,MONTERROSO MONTERROSO Dorian Javier,20143,0.0,0,niet verkocht
 9,CC2,Pan-American Championships (Panama) R.R.,41301,ROSA Cristian Egidio,10614,0.0,0,niet verkocht
 10,CC2,Pan-American Championships (Panama) R.R.,41301,PADILLA MIRANDA Julio Estuardo,19938,0.0,0,niet verkocht
-1,2.PS,"Tour of the Alps, General classification",41239,GEOGHEGAN HART Tao,22018,4,50,Paul
-2,2.PS,"Tour of the Alps, General classification",41239,CARTHY Hugh,21014,1,35,Bram
-3,2.PS,"Tour of the Alps, General classification",41239,HAIG Jack,21212,0.5,25,Paul
-4,2.PS,"Tour of the Alps, General classification",41239,CEPEDA ORTIZ Jefferson Alexander,26775,0,20,niet verkocht
-5,2.PS,"Tour of the Alps, General classification",41239,FORTUNATO Lorenzo,25552,0,18,niet verkocht
-6,2.PS,"Tour of the Alps, General classification",41239,KÄMNA Lennard,23427,0,16,Jan
-7,2.PS,"Tour of the Alps, General classification",41239,SIVAKOV Pavel,24934,0,14,Paul
-8,2.PS,"Tour of the Alps, General classification",41239,BUITRAGO SANCHEZ Santiago,29699,0,12,Jan
-9,2.PS,"Tour of the Alps, General classification",41239,GALL Felix,26383,0,10,niet verkocht
-10,2.PS,"Tour of the Alps, General classification",41239,TRAEEN Torstein,24068,0,8,niet verkocht
-1,2.PSs,"Tour of the Alps, Stage 5 : Cavalese - Brunico",41238,CARR Simon,30010,0.3,0,niet verkocht
-1,2.PSs,"Tour of the Alps, Stage 4 : Rovereto - Predazzo",41237,MÜHLBERGER Gregor,21128,0.3,0,niet verkocht
