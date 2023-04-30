@@ -1,28 +1,24 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.WT1,"Tour de Romandie, General classification (prov.)",41261,YATES Adam,18975,0.0,0
+2,2.WT1,"Tour de Romandie, General classification (prov.)",41261,JORGENSON Matteo,28057,0.0,0
+3,2.WT1,"Tour de Romandie, General classification (prov.)",41261,CARUSO Damiano,6177,0.0,0
+4,2.WT1,"Tour de Romandie, General classification (prov.)",41261,POOLE Max,32809,0.0,0
+5,2.WT1,"Tour de Romandie, General classification (prov.)",41261,PINOT Thibaut,13080,0.0,0
+6,2.WT1,"Tour de Romandie, General classification (prov.)",41261,UIJTDEBROEKS Cian,31803,0.0,0
+7,2.WT1,"Tour de Romandie, General classification (prov.)",41261,BARDET Romain,13566,0.0,0
+8,2.WT1,"Tour de Romandie, General classification (prov.)",41261,BERNAL GOMEZ Egan Arley,24926,0.0,0
+9,2.WT1,"Tour de Romandie, General classification (prov.)",41261,DUNBAR Eddie,23765,0.0,0
+10,2.WT1,"Tour de Romandie, General classification (prov.)",41261,MAJKA Rafal,14310,0.0,0
+1,2.WT1s,"Tour de Romandie, Stage 5 : Vufflens-la-Ville - Genève (prov.)",41260,GAVIRIA RENDON Fernando,20777,0.0,0
+1,2.WT1r,"Tour de Romandie, Points classification (prov.)",41262,HAYTER Ethan,27025,0.0,0
+1,2.WT1r,"Tour de Romandie, Mountains classification (prov.)",41263,BERNARD Julien,23357,0.0,0
+1,2.1,"Vuelta a Asturias, General classification (prov.)",41293,FORTUNATO Lorenzo,25552,0.0,0
+2,2.1,"Vuelta a Asturias, General classification (prov.)",41293,RUBIO REYES Einer Augusto,27024,0.0,0
+3,2.1,"Vuelta a Asturias, General classification (prov.)",41293,SOSA CUERVO Ivan Ramiro,26378,0.0,0
+1,2.1s,"Vuelta a Asturias, Stage 3 : Cangas del Narcea - Oviedo (prov.)",41292,SANCHEZ MAYO Pelayo,31655,0.0,0
 1,2.WT1s,"Tour de Romandie, Stage 4 : Sion - Thyon 2000 (prov.)",41259,YATES Adam,18975,0.0,0
 1,2.1s,"Vuelta a Asturias, Stage 2 : Candas - Cangas del Narcea (prov.)",41291,FORTUNATO Lorenzo,25552,0.0,0
 1,2.WT1s,"Tour de Romandie, Stage 3 : Châtel-Saint-Denis - Châtel-Saint-Denis I.T.T. (prov.)",41258,AYUSO PESQUERA Juan,31654,0.0,0
 1,2.1s,"Vuelta a Asturias, Stage 1 : Oviedo - Pola de Lena (prov.)",41290,HOWSON Damien,18239,0.0,0
 1,2.WT1s,"Tour de Romandie, Stage 2 : Morteau - La Chaux-de-Fonds (prov.)",41257,HAYTER Ethan,27025,0.0,0
 1,2.WT1s,"Tour de Romandie, Stage 1 : Crissier - Vallée de Joux (prov.)",41256,VERNON Ethan,30035,0.0,0
-1,2.WT1s,"Tour de Romandie, Prologue : Le Bouveret I.T.T. (prov.)",41255,CERNY Josef,19783,0.0,0
-1,1.WT1,Liège - Bastogne - Liège,41183,EVENEPOEL Remco,28377,0.0,0
-2,1.WT1,Liège - Bastogne - Liège,41183,PIDCOCK Thomas,27708,0.0,0
-3,1.WT1,Liège - Bastogne - Liège,41183,BUITRAGO SANCHEZ Santiago,29699,0.0,0
-4,1.WT1,Liège - Bastogne - Liège,41183,HEALY Ben,28846,0.0,0
-5,1.WT1,Liège - Bastogne - Liège,41183,MADOUAS Valentin,24758,0.0,0
-6,1.WT1,Liège - Bastogne - Liège,41183,MARTIN Guillaume,19994,0.0,0
-7,1.WT1,Liège - Bastogne - Liège,41183,BENOOT Tiesj,21244,0.0,0
-8,1.WT1,Liège - Bastogne - Liège,41183,KONRAD Patrick,16058,0.0,0
-9,1.WT1,Liège - Bastogne - Liège,41183,SKJELMOSE JENSEN Mattias,30166,0.0,0
-10,1.WT1,Liège - Bastogne - Liège,41183,HIRSCHI Marc,26509,0.0,0
-1,CC2,Pan-American Championships (Panama) R.R.,41301,COTE Pier-André,26176,0.0,0
-2,CC2,Pan-American Championships (Panama) R.R.,41301,TIVANI PEREZ German Nicolas,22472,0.0,0
-3,CC2,Pan-American Championships (Panama) R.R.,41301,CHRETIEN Charles-Etienne,27729,0.0,0
-4,CC2,Pan-American Championships (Panama) R.R.,41301,FAGUNDEZ LIMA Eric Antonio,28445,0.0,0
-5,CC2,Pan-American Championships (Panama) R.R.,41301,GUAMA DE LA CRUZ Bayron Patricio,5717,0.0,0
-6,CC2,Pan-American Championships (Panama) R.R.,41301,SESSLER Nicolas Mariotto,26198,0.0,0
-7,CC2,Pan-American Championships (Panama) R.R.,41301,BONILLA QUIROS Daniel Andres,23672,0.0,0
-8,CC2,Pan-American Championships (Panama) R.R.,41301,MONTERROSO MONTERROSO Dorian Javier,20143,0.0,0
-9,CC2,Pan-American Championships (Panama) R.R.,41301,ROSA Cristian Egidio,10614,0.0,0
-10,CC2,Pan-American Championships (Panama) R.R.,41301,PADILLA MIRANDA Julio Estuardo,19938,0.0,0
