@@ -14,7 +14,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 13,15,Aurélien Paret-Peintre,24110,AG2R Citroën Team,FRA,Nick Veenstra,Nicky,0
 13,16,Valentin Paret-Peintre,31495,AG2R Citroën Team,FRA,-,-,-
 13,17,Nicolas Prodhomme,27594,AG2R Citroën Team,FRA,-,-,-
-13,18,Lawrence Warbasse,,AG2R Citroën Team,USA,-,-,-
+13,18,Lawrence Warbasse,18463,AG2R Citroën Team,USA,-,-,-
 13,21,Stefano Oldani,27072,Alpecin-Deceuninck,ITA,Frank Rozemeijer,Frank,1
 13,22,Nicola Conci,26277,Alpecin-Deceuninck,ITA,Frank Rozemeijer,Frank,1
 13,23,Kaden Groves,26637,Alpecin-Deceuninck,AUS,Frank Vellinga,Vel,4
@@ -25,11 +25,11 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 13,28,Ramon Sinkeldam,9957,Alpecin-Deceuninck,NED,-,-,-
 13,31,Mark Cavendish,3448,Astana Qazaqstan Team,GBR,Kaspar Burghard,Kaspar,4
 13,32,Samuele Battistella,28450,Astana Qazaqstan Team,ITA,Frank Vellinga,Vel,2
-13,33,Joe Dombrowski,,Astana Qazaqstan Team,USA,-,-,-
+13,33,Joe Dombrowski,17665,Astana Qazaqstan Team,USA,-,-,-
 13,34,Gianni Moscon,22676,Astana Qazaqstan Team,ITA,Pieter-Bas de Bruijn,PB,2
 13,35,Vadim Pronskiy,26676,Astana Qazaqstan Team,KAZ,-,-,-
 13,36,Luis León Sánchez,333,Astana Qazaqstan Team,ESP,Albert Kraaij,Albert,1
-13,37,Cristian Scaroni,,Astana Qazaqstan Team,ITA,-,-,-
+13,37,Cristian Scaroni,27002,Astana Qazaqstan Team,ITA,-,-,-
 13,38,Simone Velasco,22662,Astana Qazaqstan Team,ITA,-,-,-
 13,41,Damiano Caruso,6177,Bahrain Victorious,ITA,Jan Versluys,Jan,1
 13,42,Santiago Buitrago,29699,Bahrain Victorious,COL,Jan Versluys,Jan,2
@@ -76,9 +76,9 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 13,93,Davide Gabburo,20196,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
 13,94,Filippo Magli,29779,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
 13,95,Martin Marcellusi,29845,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
-13,96,Alex Tolio,29321,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
+13,96,Henok Mulubrhan,28186,Green Project-Bardiani CSF-Faizanè,ERI,-,-,-
 13,97,Alessandro Tonelli,19901,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
-13,98,Enrico Zanoncello,28364,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
+13,98,Samuele Zoccarato,28600,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
 13,101,Thibaut Pinot,13080,Groupama-FDJ,FRA,Nick Veenstra,Nicky,4
 13,102,Bruno Armirail,22906,Groupama-FDJ,FRA,-,-,-
 13,103,Stefan Küng,20960,Groupama-FDJ,SUI,Pieter-Bas de Bruijn,PB,11
@@ -97,12 +97,12 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 13,118,Geraint Thomas,3891,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,9
 13,121,Lorenzo Rota,21958,Intermarché-Circus-Wanty,ITA,Paul van Doorn,Paul,3
 13,122,Sven Erik Bystrøm,18608,Intermarché-Circus-Wanty,NOR,-,-,-
-13,123,Rune Herregodts,28392,Intermarché-Circus-Wanty,BEL,-,-,-
+13,123,Niccolo Bonifazio,20102,Intermarché-Circus-Wanty,ITA,-,-,-
 13,124,Laurens Huys,27715,Intermarché-Circus-Wanty,BEL,-,-,-
 13,125,Arne Marit,28641,Intermarché-Circus-Wanty,BEL,Wijnand Baretta,Wijnand,0
 13,126,Simone Petilli,19902,Intermarché-Circus-Wanty,ITA,-,-,-
 13,127,Laurenz Rex,28442,Intermarché-Circus-Wanty,BEL,-,-,-
-13,128,Taco van der Hoorn,19897,Intermarché-Circus-Wanty,NED,Nick Veenstra,Nicky,1
+13,128,Rein Taaramäe,1646,Intermarché-Circus-Wanty,EST,-,-,-
 13,131,Sebastian Berwick,29490,Israel-Premier Tech,AUS,-,-,-
 13,132,Simon Clarke,3366,Israel-Premier Tech,AUS,Pieter-Bas de Bruijn,PB,0
 13,133,Marco Frigo,29320,Israel-Premier Tech,ITA,-,-,-
@@ -153,7 +153,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 13,188,Harm Vanhoucke,25652,Team DSM,BEL,-,-,-
 13,191,Michael Matthews,13066,Team Jayco-AlUla,AUS,Bram van Ommeren,Bram,12
 13,192,Alessandro De Marchi,7268,Team Jayco-AlUla,ITA,-,-,-
-13,193,Edward Dunbar,,Team Jayco-AlUla,IRL,-,-,-
+13,193,Edward Dunbar,23765,Team Jayco-AlUla,IRL,Paul van Doorn,Paul,2
 13,194,Michael Hepburn,16467,Team Jayco-AlUla,AUS,-,-,-
 13,195,Lukas Pöstlberger,18313,Team Jayco-AlUla,AUT,-,-,-
 13,196,Callum Scotson,25164,Team Jayco-AlUla,AUS,-,-,-
@@ -165,7 +165,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 13,204,Bauke Mollema,5139,Trek-Segafredo,NED,Roy Smits,Roy,2
 13,205,Mads Pedersen,21992,Trek-Segafredo,DEN,Harry Koene,Harry,18
 13,206,Toms Skujins,16739,Trek-Segafredo,LAT,Kees van Ommeren,Kees,0
-13,207,Natnael Tesfazion,,Trek-Segafredo,ERI,-,-,-
+13,207,Natnael Tesfazion,28234,Trek-Segafredo,ERI,Kaspar Burghard,Kaspar,3
 13,208,Otto Vergaerde,21288,Trek-Segafredo,BEL,-,-,-
 13,211,Joao Almeida,26482,UAE Team Emirates,POR,Wijnand Baretta,Wijnand,14
 13,212,Pascal Ackermann,20917,UAE Team Emirates,GER,Frank Vellinga,Vel,5

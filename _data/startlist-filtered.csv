@@ -39,7 +39,6 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 13,118,Geraint Thomas,3891,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,9
 13,121,Lorenzo Rota,21958,Intermarché-Circus-Wanty,ITA,Paul van Doorn,Paul,3
 13,125,Arne Marit,28641,Intermarché-Circus-Wanty,BEL,Wijnand Baretta,Wijnand,0
-13,128,Taco van der Hoorn,19897,Intermarché-Circus-Wanty,NED,Nick Veenstra,Nicky,1
 13,132,Simon Clarke,3366,Israel-Premier Tech,AUS,Pieter-Bas de Bruijn,PB,0
 13,141,Primoz Roglic,20719,Jumbo-Visma,SLO,Bram van Ommeren,Bram,38
 13,142,Edoardo Affini,24794,Jumbo-Visma,ITA,Paul van Doorn,Paul,3
@@ -55,10 +54,12 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 13,181,Andreas Leknessund,27653,Team DSM,NOR,Paul van Doorn,Paul,2
 13,187,Alberto Dainese,26965,Team DSM,ITA,Frank Vellinga,Vel,3
 13,191,Michael Matthews,13066,Team Jayco-AlUla,AUS,Bram van Ommeren,Bram,12
+13,193,Edward Dunbar,23765,Team Jayco-AlUla,IRL,Paul van Doorn,Paul,2
 13,198,Filippo Zana,27749,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2
 13,204,Bauke Mollema,5139,Trek-Segafredo,NED,Roy Smits,Roy,2
 13,205,Mads Pedersen,21992,Trek-Segafredo,DEN,Harry Koene,Harry,18
 13,206,Toms Skujins,16739,Trek-Segafredo,LAT,Kees van Ommeren,Kees,0
+13,207,Natnael Tesfazion,28234,Trek-Segafredo,ERI,Kaspar Burghard,Kaspar,3
 13,211,Joao Almeida,26482,UAE Team Emirates,POR,Wijnand Baretta,Wijnand,14
 13,212,Pascal Ackermann,20917,UAE Team Emirates,GER,Frank Vellinga,Vel,5
 13,213,Alessandro Covi,28298,UAE Team Emirates,ITA,Jan Versluys,Jan,3
