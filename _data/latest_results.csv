@@ -1,14 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
-1,1.WT3,Eschborn - Frankfurt (prov.),41307,ANDERSEN Søren Kragh,20793,0.0,0
-2,1.WT3,Eschborn - Frankfurt (prov.),41307,KONRAD Patrick,16058,0.0,0
-3,1.WT3,Eschborn - Frankfurt (prov.),41307,FEDELI Alessandro,24807,0.0,0
-4,1.WT3,Eschborn - Frankfurt (prov.),41307,HIRSCHI Marc,26509,0.0,0
-5,1.WT3,Eschborn - Frankfurt (prov.),41307,ROTA Lorenzo,21958,0.0,0
-6,1.WT3,Eschborn - Frankfurt (prov.),41307,STEINHAUSER Georg,30721,0.0,0
-7,1.WT3,Eschborn - Frankfurt (prov.),41307,ZIMMERMANN Georg,25165,0.0,0
-8,1.WT3,Eschborn - Frankfurt (prov.),41307,WILLIAMS Stephen,24346,0.0,0
-9,1.WT3,Eschborn - Frankfurt (prov.),41307,HERMANS Ben,4819,0.0,0
-10,1.WT3,Eschborn - Frankfurt (prov.),41307,MARCELLUSI Martin,29845,0.0,0
+1,2.1s,"Tour of Hellas, Prologue : Heraklion I.T.T. (prov.)",41337,GATE Aaron,13153,0.0,0
+1,1.WT3,Eschborn - Frankfurt,41307,ANDERSEN Søren Kragh,20793,0.0,0
+2,1.WT3,Eschborn - Frankfurt,41307,KONRAD Patrick,16058,0.0,0
+3,1.WT3,Eschborn - Frankfurt,41307,FEDELI Alessandro,24807,0.0,0
+4,1.WT3,Eschborn - Frankfurt,41307,HIRSCHI Marc,26509,0.0,0
+5,1.WT3,Eschborn - Frankfurt,41307,ROTA Lorenzo,21958,0.0,0
+6,1.WT3,Eschborn - Frankfurt,41307,STEINHAUSER Georg,30721,0.0,0
+7,1.WT3,Eschborn - Frankfurt,41307,ZIMMERMANN Georg,25165,0.0,0
+8,1.WT3,Eschborn - Frankfurt,41307,WILLIAMS Stephen,24346,0.0,0
+9,1.WT3,Eschborn - Frankfurt,41307,HERMANS Ben,4819,0.0,0
+10,1.WT3,Eschborn - Frankfurt,41307,MARCELLUSI Martin,29845,0.0,0
 1,2.WT1,"Tour de Romandie, General classification",41261,YATES Adam,18975,0.0,0
 2,2.WT1,"Tour de Romandie, General classification",41261,JORGENSON Matteo,28057,0.0,0
 3,2.WT1,"Tour de Romandie, General classification",41261,CARUSO Damiano,6177,0.0,0
