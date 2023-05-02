@@ -1,4 +1,4 @@
-race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id,prijs
+race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id,price
 13,1,Remco Evenepoel,28377,Soudal Quick-Step,BEL,Roy Smits,Roy,70
 13,2,Davide Ballerini,22020,Soudal Quick-Step,ITA,Harry Koene,Harry,3
 13,3,Mattia Cattaneo,16936,Soudal Quick-Step,ITA,Albert Kraaij,Albert,1
@@ -55,7 +55,6 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 13,181,Andreas Leknessund,27653,Team DSM,NOR,Paul van Doorn,Paul,2
 13,187,Alberto Dainese,26965,Team DSM,ITA,Frank Vellinga,Vel,3
 13,191,Michael Matthews,13066,Team Jayco-AlUla,AUS,Bram van Ommeren,Bram,12
-13,197,Matteo Sobrero,27033,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2
 13,198,Filippo Zana,27749,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2
 13,204,Bauke Mollema,5139,Trek-Segafredo,NED,Roy Smits,Roy,2
 13,205,Mads Pedersen,21992,Trek-Segafredo,DEN,Harry Koene,Harry,18
