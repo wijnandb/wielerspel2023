@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
+1,2.1s,"Tour of Hellas, Stage 3 : Costa Navarino - Kyparissia (prov.)",41340,LEITAO Iuri Gabriel Dantas,31829,0.2,0,niet verkocht
 1,2.1s,"Tour of Hellas, Stage 2 : Mycenae - Kalamata (prov.)",41339,DUPONT Timothy,7948,0.2,0,niet verkocht
 1,2.1s,"Tour of Hellas, Stage 1 : Heraklion - Heraklion (prov.)",41338,ANIOLKOWSKI Stanislaw,24940,0.2,0,niet verkocht
 1,2.1s,"Tour of Hellas, Prologue : Heraklion I.T.T. (prov.)",41337,GATE Aaron,13153,0.2,0,niet verkocht
@@ -23,8 +24,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,ploegleider
 9,2.WT1,"Tour de Romandie, General classification",41261,DUNBAR Eddie,23765,0,10,Paul
 10,2.WT1,"Tour de Romandie, General classification",41261,MAJKA Rafal,14310,0,8,Kees
 1,2.WT1s,"Tour de Romandie, Stage 5 : Vufflens-la-Ville - Genève",41260,GAVIRIA RENDON Fernando,20777,1,0,Albert
-1,2.WT1r,"Tour de Romandie, Points classification",41262,HAYTER Ethan,27025,0.0,0,Jan
-1,2.WT1r,"Tour de Romandie, Mountains classification",41263,BERNARD Julien,23357,0.0,0,niet verkocht
-1,2.1,"Vuelta a Asturias, General classification",41293,FORTUNATO Lorenzo,25552,2,0,niet verkocht
-2,2.1,"Vuelta a Asturias, General classification",41293,RUBIO REYES Einer Augusto,27024,0.3,0,Frank
-3,2.1,"Vuelta a Asturias, General classification",41293,SOSA CUERVO Ivan Ramiro,26378,0.1,0,Nicky
