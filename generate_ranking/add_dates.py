@@ -41,12 +41,8 @@ def get_date_for_result(race_id):
     r = requests.get(b)
     soup = BeautifulSoup(r.text, "html.parser")
     result_table =  soup.find("table", ["borderNoOpac"])
-    #print(result_table)
     date = result_table.find("td", ["textwhite"])
-    print(date.text)
-    date_object = datetime.datetime.strptime(date.text, "%Y%m%d").date()
-    print(date_object)
-    return date_object
+    return date.text
 
 # add_missing_date_to_results("all_results.csv")
 # get_date_for_result(41261)
