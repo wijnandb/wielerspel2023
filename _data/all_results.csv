@@ -1,15 +1,3 @@
-rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,GT2s,"Giro dItalia, Stage 1 : Fossacesia Marina - Ortona I.T.T. (prov.)",41349,EVENEPOEL Remco,28377,0.0,0,6/05/2023
-1,1.PS,GP de Plumelec-Morbihan (prov.),41310,DE LIE Arnaud,32221,0.0,0,6/05/2023
-2,1.PS,GP de Plumelec-Morbihan (prov.),41310,GREGOIRE Romain,32766,0.0,0,6/05/2023
-3,1.PS,GP de Plumelec-Morbihan (prov.),41310,TILLER Rasmus Fossum,25623,0.0,0,6/05/2023
-4,1.PS,GP de Plumelec-Morbihan (prov.),41310,AULAR SANABRIA Orluis Alberto,24326,0.0,0,6/05/2023
-5,1.PS,GP de Plumelec-Morbihan (prov.),41310,VENTURINI Clément,21428,0.0,0,6/05/2023
-6,1.PS,GP de Plumelec-Morbihan (prov.),41310,BURGAUDEAU Mathieu,27151,0.0,0,6/05/2023
-7,1.PS,GP de Plumelec-Morbihan (prov.),41310,FEDELI Alessandro,24807,0.0,0,6/05/2023
-8,1.PS,GP de Plumelec-Morbihan (prov.),41310,FINE Eddy,29886,0.0,0,6/05/2023
-9,1.PS,GP de Plumelec-Morbihan (prov.),41310,ZINGLE Axel,31263,0.0,0,6/05/2023
-10,1.PS,GP de Plumelec-Morbihan (prov.),41310,CARDIS Romain,19112,0.0,0,6/05/2023
 1,2.1,"Tour of Hellas, General classification (prov.)",41342,LEITAO Iuri Gabriel Dantas,31829,0.0,0,6/05/2023
 2,2.1,"Tour of Hellas, General classification (prov.)",41342,GATE Aaron,13153,0.0,0,6/05/2023
 3,2.1,"Tour of Hellas, General classification (prov.)",41342,ANIOLKOWSKI Stanislaw,24940,0.0,0,6/05/2023
