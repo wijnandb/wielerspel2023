@@ -92,7 +92,7 @@ def scrape_result(racename, jersey, year=2023):
         if tds[0].text not in ['01','1']:
             print(f"Did not find a number 1, in race { race_id } for year { year}")
         else:
-            name = tds[1].text.strip()
+            name = tds[3].text.strip()
             print(f"Found {name} as wearer of {jersey} jersey")
             link = tds[3].find('a').get('href').split('=')[1]
             fc_rider_id = link.split('&')[0]

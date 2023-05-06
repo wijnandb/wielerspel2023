@@ -104,16 +104,18 @@ def get_jersey_ranking(race_name, race_id, category, date):
     points = 0
     JPP = 0
     # WIP: get the year from date. Now using default year in first_cycling.scrape_result
+    rider_id, rider = first_cycling.scrape_result(race_name, 'sta')
+    if rider_id:
+        new_results.append([0, category, "Leiderstrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
     rider_id, rider = first_cycling.scrape_result(race_name, 'youth')
-    # print(f"rider_id: {rider_id}, rider: {rider}")
-
-    new_results.append(['J', category, "Jongerentrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+    if rider_id:
+        new_results.append([-1, category, "Jongerentrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
     rider_id, rider = first_cycling.scrape_result(race_name, 'point')
     if rider_id:
-        new_results.append(['P', category, "Puntentrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+        new_results.append([-2, category, "Puntentrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
     rider_id, rider = first_cycling.scrape_result(race_name, 'mountain')
     if rider_id:
-        new_results.append(['B', category, "Bergtrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+        new_results.append([-3, category, "Bergtrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
 
 # get_jersey_ranking('Tour de France, Stage 1 : Budapest - Visegrad (195 km)', 39757, 'GT1s', '06/05/2022')
 
