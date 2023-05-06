@@ -18,736 +18,732 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.1s,"Tour of Hellas, Stage 2 : Mycenae - Kalamata",41339,DUPONT Timothy,7948,0.2,0,4/05/2023,niet verkocht
 1,2.1s,"Tour of Hellas, Stage 1 : Heraklion - Heraklion",41338,ANIOLKOWSKI Stanislaw,24940,0.2,0,3/05/2023,niet verkocht
 1,2.1s,"Tour of Hellas, Prologue : Heraklion I.T.T.",41337,GATE Aaron,13153,0.2,0,2/05/2023,niet verkocht
-0,GT2s,"Leiderstrui na Giro dItalia, Stage 1 : Fossacesia Marina - Ortona I.T.T. (prov.)",41349,Evenepoel Remco,28377,1,0,6/05/2023,Roy
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 1 : Fossacesia Marina - Ortona I.T.T. (prov.)",41349,Evenepoel Remco,28377,0.1,0,6/05/2023,Roy
--2,GT2s,"Puntentrui na Giro dItalia, Stage 1 : Fossacesia Marina - Ortona I.T.T. (prov.)",41349,Evenepoel Remco,28377,0.2,0,6/05/2023,Roy
--3,GT2s,"Bergtrui na Giro dItalia, Stage 1 : Fossacesia Marina - Ortona I.T.T. (prov.)",41349,McNulty Brandon,26508,0.2,0,6/05/2023,Kees
-1,1.WT3,Eschborn - Frankfurt,41307,ANDERSEN Søren Kragh,20793,5,50,Vel
-2,1.WT3,Eschborn - Frankfurt,41307,KONRAD Patrick,16058,2,35,Albert
-3,1.WT3,Eschborn - Frankfurt,41307,FEDELI Alessandro,24807,1,25,niet verkocht
-4,1.WT3,Eschborn - Frankfurt,41307,HIRSCHI Marc,26509,0,20,Bram
-5,1.WT3,Eschborn - Frankfurt,41307,ROTA Lorenzo,21958,0,18,Paul
-6,1.WT3,Eschborn - Frankfurt,41307,STEINHAUSER Georg,30721,0,16,niet verkocht
-7,1.WT3,Eschborn - Frankfurt,41307,ZIMMERMANN Georg,25165,0,14,niet verkocht
-8,1.WT3,Eschborn - Frankfurt,41307,WILLIAMS Stephen,24346,0,12,niet verkocht
-9,1.WT3,Eschborn - Frankfurt,41307,HERMANS Ben,4819,0,10,Albert
-10,1.WT3,Eschborn - Frankfurt,41307,MARCELLUSI Martin,29845,0,8,niet verkocht
-1,2.WT1,"Tour de Romandie, General classification",41261,YATES Adam,18975,10,50,Paul
-2,2.WT1,"Tour de Romandie, General classification",41261,JORGENSON Matteo,28057,3,35,Albert
-3,2.WT1,"Tour de Romandie, General classification",41261,CARUSO Damiano,6177,1,25,Jan
-4,2.WT1,"Tour de Romandie, General classification",41261,POOLE Max,32809,0.5,20,niet verkocht
-5,2.WT1,"Tour de Romandie, General classification",41261,PINOT Thibaut,13080,0.2,18,Nicky
-6,2.WT1,"Tour de Romandie, General classification",41261,UIJTDEBROEKS Cian,31803,0,16,Vel
-7,2.WT1,"Tour de Romandie, General classification",41261,BARDET Romain,13566,0,14,Jan
-8,2.WT1,"Tour de Romandie, General classification",41261,BERNAL GOMEZ Egan Arley,24926,0,12,Paul
-9,2.WT1,"Tour de Romandie, General classification",41261,DUNBAR Eddie,23765,0,10,Paul
-10,2.WT1,"Tour de Romandie, General classification",41261,MAJKA Rafal,14310,0,8,Kees
-1,2.WT1s,"Tour de Romandie, Stage 5 : Vufflens-la-Ville - Genève",41260,GAVIRIA RENDON Fernando,20777,1,0,Albert
-1,2.WT1r,"Tour de Romandie, Points classification",41262,HAYTER Ethan,27025,0.0,0,Jan
-1,2.WT1r,"Tour de Romandie, Mountains classification",41263,BERNARD Julien,23357,0.0,0,niet verkocht
-1,2.1,"Vuelta a Asturias, General classification",41293,FORTUNATO Lorenzo,25552,2,0,niet verkocht
-2,2.1,"Vuelta a Asturias, General classification",41293,RUBIO REYES Einer Augusto,27024,0.3,0,Frank
-3,2.1,"Vuelta a Asturias, General classification",41293,SOSA CUERVO Ivan Ramiro,26378,0.1,0,Nicky
-1,2.1s,"Vuelta a Asturias, Stage 3 : Cangas del Narcea - Oviedo",41292,SANCHEZ MAYO Pelayo,31655,0.2,0,niet verkocht
-1,2.WT1s,"Tour de Romandie, Stage 4 : Sion - Thyon 2000",41259,YATES Adam,18975,1,0,Paul
-1,2.1s,"Vuelta a Asturias, Stage 2 : Candas - Cangas del Narcea",41291,FORTUNATO Lorenzo,25552,0.2,0,niet verkocht
-1,2.WT1s,"Tour de Romandie, Stage 3 : Châtel-Saint-Denis - Châtel-Saint-Denis I.T.T. (prov.)",41258,AYUSO PESQUERA Juan,31654,1,0,Albert
-1,2.1s,"Vuelta a Asturias, Stage 1 : Oviedo - Pola de Lena (prov.)",41290,HOWSON Damien,18239,0.2,0,niet verkocht
-1,2.WT1s,"Tour de Romandie, Stage 2 : Morteau - La Chaux-de-Fonds (prov.)",41257,HAYTER Ethan,27025,1,0,Jan
-1,2.WT1s,"Tour de Romandie, Stage 1 : Crissier - Vallée de Joux (prov.)",41256,VERNON Ethan,30035,1,0,Arjan
-1,2.WT1s,"Tour de Romandie, Prologue : Le Bouveret I.T.T. (prov.)",41255,CERNY Josef,19783,1,0,niet verkocht
-1,1.WT1,Liège - Bastogne - Liège,41183,EVENEPOEL Remco,28377,15,50,Roy
-2,1.WT1,Liège - Bastogne - Liège,41183,PIDCOCK Thomas,27708,3,35,Albert
-3,1.WT1,Liège - Bastogne - Liège,41183,BUITRAGO SANCHEZ Santiago,29699,2,25,Jan
-4,1.WT1,Liège - Bastogne - Liège,41183,HEALY Ben,28846,1,20,niet verkocht
-5,1.WT1,Liège - Bastogne - Liège,41183,MADOUAS Valentin,24758,0.5,18,PB
-6,1.WT1,Liège - Bastogne - Liège,41183,MARTIN Guillaume,19994,0,16,Jan
-7,1.WT1,Liège - Bastogne - Liège,41183,BENOOT Tiesj,21244,0,14,Paul
-8,1.WT1,Liège - Bastogne - Liège,41183,KONRAD Patrick,16058,0,12,Albert
-9,1.WT1,Liège - Bastogne - Liège,41183,SKJELMOSE JENSEN Mattias,30166,0,10,Kaspar
-10,1.WT1,Liège - Bastogne - Liège,41183,HIRSCHI Marc,26509,0,8,Bram
-1,CC2,Pan-American Championships (Panama) R.R.,41301,COTE Pier-André,26176,1,0,niet verkocht
-2,CC2,Pan-American Championships (Panama) R.R.,41301,TIVANI PEREZ German Nicolas,22472,0.0,0,niet verkocht
-3,CC2,Pan-American Championships (Panama) R.R.,41301,CHRETIEN Charles-Etienne,27729,0.0,0,niet verkocht
-4,CC2,Pan-American Championships (Panama) R.R.,41301,FAGUNDEZ LIMA Eric Antonio,28445,0.0,0,niet verkocht
-5,CC2,Pan-American Championships (Panama) R.R.,41301,GUAMA DE LA CRUZ Bayron Patricio,5717,0.0,0,niet verkocht
-6,CC2,Pan-American Championships (Panama) R.R.,41301,SESSLER Nicolas Mariotto,26198,0.0,0,niet verkocht
-7,CC2,Pan-American Championships (Panama) R.R.,41301,BONILLA QUIROS Daniel Andres,23672,0.0,0,niet verkocht
-8,CC2,Pan-American Championships (Panama) R.R.,41301,MONTERROSO MONTERROSO Dorian Javier,20143,0.0,0,niet verkocht
-9,CC2,Pan-American Championships (Panama) R.R.,41301,ROSA Cristian Egidio,10614,0.0,0,niet verkocht
-10,CC2,Pan-American Championships (Panama) R.R.,41301,PADILLA MIRANDA Julio Estuardo,19938,0.0,0,niet verkocht
-1,2.PS,"Tour of the Alps, General classification",41239,GEOGHEGAN HART Tao,22018,4,50,Paul
-2,2.PS,"Tour of the Alps, General classification",41239,CARTHY Hugh,21014,1,35,Bram
-3,2.PS,"Tour of the Alps, General classification",41239,HAIG Jack,21212,0.5,25,Paul
-4,2.PS,"Tour of the Alps, General classification",41239,CEPEDA ORTIZ Jefferson Alexander,26775,0,20,niet verkocht
-5,2.PS,"Tour of the Alps, General classification",41239,FORTUNATO Lorenzo,25552,0,18,niet verkocht
-6,2.PS,"Tour of the Alps, General classification",41239,KÄMNA Lennard,23427,0,16,Jan
-7,2.PS,"Tour of the Alps, General classification",41239,SIVAKOV Pavel,24934,0,14,Paul
-8,2.PS,"Tour of the Alps, General classification",41239,BUITRAGO SANCHEZ Santiago,29699,0,12,Jan
-9,2.PS,"Tour of the Alps, General classification",41239,GALL Felix,26383,0,10,niet verkocht
-10,2.PS,"Tour of the Alps, General classification",41239,TRAEEN Torstein,24068,0,8,niet verkocht
-1,2.PSs,"Tour of the Alps, Stage 5 : Cavalese - Brunico",41238,CARR Simon,30010,0.3,0,niet verkocht
-1,2.PSs,"Tour of the Alps, Stage 4 : Rovereto - Predazzo",41237,MÜHLBERGER Gregor,21128,0.3,0,niet verkocht
-1,1.WT2,Flèche Wallonne,41181,POGACAR Tadej,26526,10,50,Kees
-2,1.WT2,Flèche Wallonne,41181,SKJELMOSE JENSEN Mattias,30166,3,35,Kaspar
-3,1.WT2,Flèche Wallonne,41181,LANDA MEANA Mikel,14319,1,25,Harry
-4,1.WT2,Flèche Wallonne,41181,WOODS Michael,20257,0.5,20,Albert
-5,1.WT2,Flèche Wallonne,41181,CICCONE Giulio,21812,0.2,18,Nicky
-6,1.WT2,Flèche Wallonne,41181,LAFAY Victor,26197,0,16,Jan
-7,1.WT2,Flèche Wallonne,41181,BENOOT Tiesj,21244,0,14,Paul
-8,1.WT2,Flèche Wallonne,41181,VAN GILS Maxim,28521,0,12,niet verkocht
-9,1.WT2,Flèche Wallonne,41181,BARDET Romain,13566,0,10,Jan
-10,1.WT2,Flèche Wallonne,41181,BARGUIL Warren,17627,0,8,Nicky
-1,2.PSs,"Tour of the Alps, Stage 3 : Ritten - Brentonico San Valentino",41236,KÄMNA Lennard,23427,0.3,0,Jan
-1,CCT2,Pan-American Championships (Panama) I.T.T.,41302,VARGAS ALZATE Walter Alejandro,23536,0.5,0,niet verkocht
-1,2.PSs,"Tour of the Alps, Stage 2 : Reith im Alpbachtal - Ritten",41235,GEOGHEGAN HART Tao,22018,0.3,0,Paul
-1,2.PSs,"Tour of the Alps, Stage 1 : Rattenberg - Alpbach",41234,GEOGHEGAN HART Tao,22018,0.3,0,Paul
-1,NCT5,National Championships Zimbabwe (Bulawayo) I.T.T. (prov.),41454,SIBANDA Mthokozisi,23094,0.5,0,niet verkocht
-1,1.WT1,Amstel Gold Race,41179,POGACAR Tadej,26526,15,50,Kees
-2,1.WT1,Amstel Gold Race,41179,HEALY Ben,28846,3,35,niet verkocht
-3,1.WT1,Amstel Gold Race,41179,PIDCOCK Thomas,27708,2,25,Albert
-4,1.WT1,Amstel Gold Race,41179,KRON Andreas Lorentz,26420,1,20,Paul
-5,1.WT1,Amstel Gold Race,41179,LUTSENKO Alexey,18455,0.5,18,Vel
-6,1.WT1,Amstel Gold Race,41179,BAGIOLI Andrea,28452,0,16,Albert
-7,1.WT1,Amstel Gold Race,41179,VAN GILS Maxim,28521,0,14,niet verkocht
-8,1.WT1,Amstel Gold Race,41179,SKJELMOSE JENSEN Mattias,30166,0,12,Kaspar
-9,1.WT1,Amstel Gold Race,41179,KAMP Alexander,19391,0,10,niet verkocht
-10,1.WT1,Amstel Gold Race,41179,ZINGLE Axel,31263,0,8,Paul
-1,1.1,Giro di Reggio Calabria,41448,RESTREPO VALENCIA Jhonatan,24720,2,0,niet verkocht
-2,1.1,Giro di Reggio Calabria,41448,TIVANI PEREZ German Nicolas,22472,0.3,0,niet verkocht
-3,1.1,Giro di Reggio Calabria,41448,MAESTRI Mirco,20073,0.1,0,niet verkocht
-1,1.1,Tour du Doubs,41180,HERRADA LOPEZ Jesus,17534,2,0,Paul
-2,1.1,Tour du Doubs,41180,PINOT Thibaut,13080,0.3,0,Nicky
-3,1.1,Tour du Doubs,41180,PETERS Nans,22703,0.1,0,niet verkocht
-1,1.1,Tour du Jura,41177,VAUQUELIN Kévin,31264,2,0,Albert
-2,1.1,Tour du Jura,41177,PINOT Thibaut,13080,0.3,0,Nicky
-3,1.1,Tour du Jura,41177,MARTIN Guillaume,19994,0.1,0,Jan
-1,2.1,"Giro di Sicilia , General classification",41227,LUTSENKO Alexey,18455,2,0,Vel
-2,2.1,"Giro di Sicilia , General classification",41227,MEINTJES Louis,18413,0.3,0,Wijnand
-3,2.1,"Giro di Sicilia , General classification",41227,ALBANESE Vincenzo,24139,0.1,0,Harry
-1,1.1,Classic Grand Besançon Doubs,41176,LAFAY Victor,26197,2,0,Jan
-2,1.1,Classic Grand Besançon Doubs,41176,MARTINEZ Lenny,32721,0.3,0,Kees
-3,1.1,Classic Grand Besançon Doubs,41176,ADRIA OLIVERAS Roger,27469,0.1,0,niet verkocht
-1,2.1s,"Giro di Sicilia , Stage 4 : Barcellona Pozzo di Gotto - Giarre",41226,LUTSENKO Alexey,18455,0.2,0,Vel
-1,2.1s,"Giro di Sicilia , Stage 3 : Enna - Termini Imerse",41225,SUTER Joël,27256,0.2,0,niet verkocht
-1,1.PS,Brabantse Pijl,41175,GODON Dorian,25704,4,50,niet verkocht
-2,1.PS,Brabantse Pijl,41175,HEALY Ben,28846,1,35,niet verkocht
-3,1.PS,Brabantse Pijl,41175,COSNEFROY Benoît,24189,0.5,25,PB
-4,1.PS,Brabantse Pijl,41175,CAVAGNA Rémi,22910,0,20,Harry
-5,1.PS,Brabantse Pijl,41175,ZINGLE Axel,31263,0,18,Paul
-6,1.PS,Brabantse Pijl,41175,KAMP Alexander,19391,0,16,niet verkocht
-7,1.PS,Brabantse Pijl,41175,DE LIE Arnaud,32221,0,14,Wijnand
-8,1.PS,Brabantse Pijl,41175,BAGIOLI Andrea,28452,0,12,Albert
-9,1.PS,Brabantse Pijl,41175,SKUJINS Toms,16739,0,10,Kees
-10,1.PS,Brabantse Pijl,41175,HEIDUK Kim,29436,0,8,Albert
-1,2.1s,"Giro di Sicilia , Stage 2 : Canicatti - Vittoria",41224,BONIFAZIO Niccolo,20102,0.2,0,niet verkocht
-1,1.1,Paris - Camembert,41174,FERRON Valentin,28375,2,0,niet verkocht
-2,1.1,Paris - Camembert,41174,COSTIOU Ewen,32834,0.3,0,niet verkocht
-3,1.1,Paris - Camembert,41174,DVERSNES Fredrik,28553,0.1,0,niet verkocht
-1,2.1s,"Giro di Sicilia , Stage 1 : Marsala - Agrigento",41223,FISHER-BLACK Finn,30562,0.2,0,Jan
-1,1.WT1,Paris - Roubaix,41173,VAN DER POEL Mathieu,21971,15,50,Vel
-2,1.WT1,Paris - Roubaix,41173,PHILIPSEN Jasper,26392,3,35,Nicky
-3,1.WT1,Paris - Roubaix,41173,VAN AERT Wout,20730,2,25,Frank
-4,1.WT1,Paris - Roubaix,41173,PEDERSEN Mads,21992,1,20,Harry
-5,1.WT1,Paris - Roubaix,41173,KÜNG Stefan,20960,0.5,18,PB
-6,1.WT1,Paris - Roubaix,41173,GANNA Filippo,24057,0,16,Jan
-7,1.WT1,Paris - Roubaix,41173,DEGENKOLB John,9851,0,14,Kaspar
-8,1.WT1,Paris - Roubaix,41173,WALSCHEID Maximilian,19646,0,12,PB
-9,1.WT1,Paris - Roubaix,41173,REX Laurenz,28442,0,10,niet verkocht
-10,1.WT1,Paris - Roubaix,41173,LAPORTE Christophe,19953,0,8,Kaspar
-1,2.WT1,"Itzulia Basque Country, General classification",41210,VINGEGAARD RASMUSSEN Jonas,25740,10,50,Arjan
-2,2.WT1,"Itzulia Basque Country, General classification",41210,LANDA MEANA Mikel,14319,3,35,Harry
-3,2.WT1,"Itzulia Basque Country, General classification",41210,IZAGIRRE INSAUSTI Ion,14321,1,25,Harry
-4,2.WT1,"Itzulia Basque Country, General classification",41210,GAUDU David,24255,0.5,20,Nicky
-5,2.WT1,"Itzulia Basque Country, General classification",41210,MAS NICOLAU Enric,22794,0.2,18,PB
-6,2.WT1,"Itzulia Basque Country, General classification",41210,HIGUITA GARCIA Sergio Andres,25026,0,16,Kaspar
-7,2.WT1,"Itzulia Basque Country, General classification",41210,MCNULTY Brandon,26508,0,14,Kees
-8,2.WT1,"Itzulia Basque Country, General classification",41210,KNOX James,23403,0,12,niet verkocht
-9,2.WT1,"Itzulia Basque Country, General classification",41210,YATES Simon,17893,0,10,PB
-10,2.WT1,"Itzulia Basque Country, General classification",41210,GALL Felix,26383,0,8,niet verkocht
-1,2.WT1s,"Itzulia Basque Country, Stage 6 : Eibar - Eibar",41209,VINGEGAARD RASMUSSEN Jonas,25740,1,0,Arjan
-1,2.WT2r,"Itzulia Basque Country, Mountains classification",41212,BARRENETXEA GOLZARRI Jon,31685,0.0,0,niet verkocht
-1,2.WT2r,"Itzulia Basque Country, Points classification",41211,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0,Arjan
-1,2.WT1s,"Itzulia Basque Country, Stage 5 : Amorebieta - Amorebieta",41208,HIGUITA GARCIA Sergio Andres,25026,1,0,Kaspar
-1,2.1,"Région Pays de la Loire Tour, General classification",41217,KAMP Alexander,19391,2,0,niet verkocht
-2,2.1,"Région Pays de la Loire Tour, General classification",41217,DVERSNES Fredrik,28553,0.3,0,niet verkocht
-3,2.1,"Région Pays de la Loire Tour, General classification",41217,FERRON Valentin,28375,0.1,0,niet verkocht
-1,2.1s,"Région Pays de la Loire Tour, Stage 4 : Sablé-sur-Sarthe - Le Mans",41216,DVERSNES Fredrik,28553,0.2,0,niet verkocht
-1,2.WT1s,"Itzulia Basque Country, Stage 4 : Santurizi - Santurizi",41207,VINGEGAARD RASMUSSEN Jonas,25740,1,0,Arjan
-1,2.1,"Tour of Thailand, General classification",41203,BATSAIKHAN Tegshbayar,27699,2,0,niet verkocht
-2,2.1,"Tour of Thailand, General classification",41203,SAINBAYAR Jambaljamts,24289,0.3,0,niet verkocht
-3,2.1,"Tour of Thailand, General classification",41203,KOISHI Yuma,21852,0.1,0,niet verkocht
-1,2.1s,"Région Pays de la Loire Tour, Stage 3 : Baugé-en-Anjou - Mayenne",41215,COQUARD Bryan,18714,0.2,0,Jan
-1,2.1s,"Tour of Thailand, Stage 6 : Chanthaburi - Rayong",41202,SIRIRONNACHAI Sarawut,18945,0.2,0,niet verkocht
-1,2.WT1s,"Itzulia Basque Country, Stage 3 : Errenteria - Villabona",41206,VINGEGAARD RASMUSSEN Jonas,25740,1,0,Arjan
-1,1.PS,Scheldeprijs,41172,PHILIPSEN Jasper,26392,4,50,Nicky
-2,1.PS,Scheldeprijs,41172,WELSFORD Samuel,23517,1,35,PB
-3,1.PS,Scheldeprijs,41172,CAVENDISH Mark,3448,0.5,25,Kaspar
-4,1.PS,Scheldeprijs,41172,GROENEWEGEN Dylan,19238,0,20,Frank
-5,1.PS,Scheldeprijs,41172,THIJSSEN Gerben,27085,0,18,Albert
-6,1.PS,Scheldeprijs,41172,THEUNS Edward,16697,0,16,Harry
-7,1.PS,Scheldeprijs,41172,EWAN Caleb,19651,0,14,Paul
-8,1.PS,Scheldeprijs,41172,WALSCHEID Maximilian,19646,0,12,PB
-9,1.PS,Scheldeprijs,41172,EINHORN Itamar,27315,0,10,niet verkocht
-10,1.PS,Scheldeprijs,41172,NIZZOLO Giacomo,13863,0,8,PB
-1,2.1s,"Région Pays de la Loire Tour, Stage 2 : Clisson - Le Lion-dAngers",41214,BLIKRA Erlend Jordbrekk,25761,0.2,0,niet verkocht
-1,2.1s,"Tour of Thailand, Stage 5 : Aranyaprathet - Chanthaburi",41201,JANG Kyung-gu,12885,0.2,0,niet verkocht
-1,2.WT1s,"Itzulia Basque Country, Stage 2 : Viana - Leitza (prov.)",41205,SCHELLING Ide,26301,1,0,Harry
-1,2.1s,"Région Pays de la Loire Tour, Stage 1 : Saint-Nazaire - Saint-Gilles-Croix-de-Vie",41213,COQUARD Bryan,18714,0.2,0,Jan
-1,2.1s,"Tour of Thailand, Stage 4 : Khao Yai - Aranyaprathet",41200,KUSUMA Terry,33545,0.2,0,niet verkocht
-1,2.WT1s,"Itzulia Basque Country, Stage 1 : Vitoria - Labastida (prov.)",41204,HAYTER Ethan,27025,1,0,Jan
-1,2.1s,"Tour of Thailand, Stage 3 : Phra Nakhon Sri Ayutthaya - Khao Yai",41199,KUZMIN Anton,24277,0.2,0,niet verkocht
-1,1.WT1,Ronde van Vlaanderen,41171,POGACAR Tadej,26526,15,50,Kees
-2,1.WT1,Ronde van Vlaanderen,41171,VAN DER POEL Mathieu,21971,3,35,Vel
-3,1.WT1,Ronde van Vlaanderen,41171,PEDERSEN Mads,21992,2,25,Harry
-4,1.WT1,Ronde van Vlaanderen,41171,VAN AERT Wout,20730,1,20,Frank
-5,1.WT1,Ronde van Vlaanderen,41171,POWLESS Neilson,24902,0.5,18,Harry
-6,1.WT1,Ronde van Vlaanderen,41171,KÜNG Stefan,20960,0,16,PB
-7,1.WT1,Ronde van Vlaanderen,41171,ASGREEN Kasper,23558,0,14,Nicky
-8,1.WT1,Ronde van Vlaanderen,41171,WRIGHT Fred,28446,0,12,Jan
-9,1.WT1,Ronde van Vlaanderen,41171,JORGENSON Matteo,28057,0,10,Albert
-10,1.WT1,Ronde van Vlaanderen,41171,TRENTIN Matteo,13270,0,8,Nicky
-1,2.1s,"Tour of Thailand, Stage 2 : Kanchanaburi - Phra Nakhon Sri Ayutthaya",41198,SUNDERLAND Dylan,23947,0.2,0,niet verkocht
-1,1.PS,GP Miguel Indurain,41170,IZAGIRRE INSAUSTI Ion,14321,4,50,Harry
-2,1.PS,GP Miguel Indurain,41170,HIGUITA GARCIA Sergio Andres,25026,1,35,Kaspar
-3,1.PS,GP Miguel Indurain,41170,SKJELMOSE JENSEN Mattias,30166,0.5,25,Kaspar
-4,1.PS,GP Miguel Indurain,41170,KRON Andreas Lorentz,26420,0,20,Paul
-5,1.PS,GP Miguel Indurain,41170,ADRIA OLIVERAS Roger,27469,0,18,niet verkocht
-6,1.PS,GP Miguel Indurain,41170,ARANBURU DEBA Alexander,23940,0,16,Jan
-7,1.PS,GP Miguel Indurain,41170,STRONG Corbin,29492,0,14,PB
-8,1.PS,GP Miguel Indurain,41170,GESBERT Elie,22912,0,12,niet verkocht
-9,1.PS,GP Miguel Indurain,41170,GALL Felix,26383,0,10,niet verkocht
-10,1.PS,GP Miguel Indurain,41170,SCARONI Christian,27002,0,8,niet verkocht
-1,1.1,Volta Limburg Classic,41169,GROVES Kaden,26637,2,0,Vel
-2,1.1,Volta Limburg Classic,41169,VAN GILS Maxim,28521,0.3,0,niet verkocht
-3,1.1,Volta Limburg Classic,41169,EENKHOORN Pascal,24932,0.1,0,Harry
-1,2.1s,"Tour of Thailand, Stage 1 : Kanchanaburi - Kanchanaburi (prov.)",41197,BATSAIKHAN Tegshbayar,27699,0.2,0,niet verkocht
-1,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,WALSH Liam,30946,1,0,niet verkocht
-2,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,GILMORE Brady,33579,0.0,0,niet verkocht
-3,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,SEXTON Tom,31893,0.0,0,niet verkocht
-4,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,TREZISE Declan,31910,0.0,0,niet verkocht
-5,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,MCKENZIE Hamish,34714,0.0,0,niet verkocht
-6,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,JACKSON George,31889,0.0,0,niet verkocht
-7,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,VILLANI Jordan,29553,0.0,0,niet verkocht
-8,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,MOREY Drew,25476,0.0,0,niet verkocht
-9,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,HEFFERNAN William,34631,0.0,0,niet verkocht
-10,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,FLEMING Riley,30958,0.0,0,niet verkocht
-1,1.1,Route Adélie de Vitré,41068,DVERSNES Fredrik,28553,2,0,niet verkocht
-2,1.1,Route Adélie de Vitré,41068,VAUQUELIN Kévin,31264,0.3,0,Albert
-3,1.1,Route Adélie de Vitré,41068,BARRE Louis,30055,0.1,0,niet verkocht
-1,CCT2,Oceania Cycling Championships (Burbank) I.T.T.,41189,GILMORE Brady,33579,0.5,0,niet verkocht
-1,1.WT3,Dwars door Vlaanderen,41067,LAPORTE Christophe,19953,5,50,Kaspar
-2,1.WT3,Dwars door Vlaanderen,41067,LAZKANO LOPEZ Oier,30595,2,35,niet verkocht
-3,1.WT3,Dwars door Vlaanderen,41067,POWLESS Neilson,24902,1,25,Harry
-4,1.WT3,Dwars door Vlaanderen,41067,PHILIPSEN Jasper,26392,0,20,Nicky
-5,1.WT3,Dwars door Vlaanderen,41067,PEDERSEN Mads,21992,0,18,Harry
-6,1.WT3,Dwars door Vlaanderen,41067,DE LIE Arnaud,32221,0,16,Wijnand
-7,1.WT3,Dwars door Vlaanderen,41067,BALLERINI Davide,22020,0,14,Harry
-8,1.WT3,Dwars door Vlaanderen,41067,PASQUALON Andrea,10220,0,12,niet verkocht
-9,1.WT3,Dwars door Vlaanderen,41067,BOIVIN Guillaume,10856,0,10,niet verkocht
-10,1.WT3,Dwars door Vlaanderen,41067,POLITT Nils,20847,0,8,Albert
-1,2.WT1,"Volta a Catalunya, General classification",41141,ROGLIC Primoz,20719,10,50,Bram
-2,2.WT1,"Volta a Catalunya, General classification",41141,EVENEPOEL Remco,28377,3,35,Roy
-3,2.WT1,"Volta a Catalunya, General classification",41141,ALMEIDA Joao Pedro Gonçalves,26482,1,25,Wijnand
-4,2.WT1,"Volta a Catalunya, General classification",41141,SOLER GIMENEZ Marc,23299,0.5,20,Vel
-5,2.WT1,"Volta a Catalunya, General classification",41141,LANDA MEANA Mikel,14319,0.2,18,Harry
-6,2.WT1,"Volta a Catalunya, General classification",41141,WOODS Michael,20257,0,16,Albert
-7,2.WT1,"Volta a Catalunya, General classification",41141,CICCONE Giulio,21812,0,14,Nicky
-8,2.WT1,"Volta a Catalunya, General classification",41141,HINDLEY Jai,23948,0,12,Kaspar
-9,2.WT1,"Volta a Catalunya, General classification",41141,UIJTDEBROEKS Cian,31803,0,10,Vel
-10,2.WT1,"Volta a Catalunya, General classification",41141,URAN URAN Rigoberto,4099,0,8,Bram
-1,1.WT2,Gent - Wevelgem,41062,LAPORTE Christophe,19953,10,50,Kaspar
-2,1.WT2,Gent - Wevelgem,41062,VAN AERT Wout,20730,3,35,Frank
-3,1.WT2,Gent - Wevelgem,41062,VANMARCKE Sep,7728,1,25,Jan
-4,1.WT2,Gent - Wevelgem,41062,FRISON Frederik,20643,0.5,20,niet verkocht
-5,1.WT2,Gent - Wevelgem,41062,PEDERSEN Mads,21992,0.2,18,Harry
-6,1.WT2,Gent - Wevelgem,41062,BJERG Mikkel,26388,0,16,Kees
-7,1.WT2,Gent - Wevelgem,41062,RENARD Alexis,29969,0,14,niet verkocht
-8,1.WT2,Gent - Wevelgem,41062,KOOIJ Olav,30643,0,12,Albert
-9,1.WT2,Gent - Wevelgem,41062,VAN POPPEL Danny,19242,0,10,Jan
-10,1.WT2,Gent - Wevelgem,41062,MCLAY Daniel,18498,0,8,niet verkocht
-1,2.WT1s,"Volta a Catalunya, Stage 7 : Barcelona - Barcelona",41140,EVENEPOEL Remco,28377,1,0,Roy
-1,2.WT2r,"Volta a Catalunya, Points classification",41142,ROGLIC Primoz,20719,0.0,0,Bram
-1,2.WT2r,"Volta a Catalunya, Mountains classification",41143,EVENEPOEL Remco,28377,0.0,0,Roy
-1,1.PS,GP Industria & Artigianato - Larciano,41065,HEALY Ben,28846,4,50,niet verkocht
-2,1.PS,GP Industria & Artigianato - Larciano,41065,GEBREIGZABHIER Amanuel Werkilul,21482,1,35,niet verkocht
-3,1.PS,GP Industria & Artigianato - Larciano,41065,STEWART Mark,23644,0.5,25,niet verkocht
-4,1.PS,GP Industria & Artigianato - Larciano,41065,TESFATSION Natnael Ocbit,28234,0,20,Kaspar
-5,1.PS,GP Industria & Artigianato - Larciano,41065,ULISSI Diego,10023,0,18,Paul
-6,1.PS,GP Industria & Artigianato - Larciano,41065,GROSSSCHARTNER Felix,19548,0,16,Albert
-7,1.PS,GP Industria & Artigianato - Larciano,41065,TIZZA Marco,19237,0,14,niet verkocht
-8,1.PS,GP Industria & Artigianato - Larciano,41065,GALLOPIN Tony,7838,0,12,niet verkocht
-9,1.PS,GP Industria & Artigianato - Larciano,41065,SCARONI Christian,27002,0,10,niet verkocht
-10,1.PS,GP Industria & Artigianato - Larciano,41065,STEINHAUSER Georg,30721,0,8,niet verkocht
-1,1.1,La Roue Tourangelle,41066,TOWNSEND Rory,25102,2,0,niet verkocht
-2,1.1,La Roue Tourangelle,41066,THIJSSEN Gerben,27085,0.3,0,Albert
-3,1.1,La Roue Tourangelle,41066,BARBIER Pierre,25501,0.1,0,niet verkocht
-1,NC5,National Championships Argentina () R.R.,41299,DURAN Alejandro Antonio,22729,1,0,niet verkocht
-1,NC5,National Championships Chile () R.R.,41297,LIRA EGUIGUREN Manuel Jose,32631,1,0,niet verkocht
-1,2.WT1s,"Volta a Catalunya, Stage 6 : Martorell - Molins de Rei",41139,GROVES Kaden,26637,1,0,Vel
-1,2.1,"Settimana Coppi e Bartali, General classification",41149,SCHMID Mauro,29214,2,0,Jan
-2,2.1,"Settimana Coppi e Bartali, General classification",41149,SHAW James,24546,0.3,0,niet verkocht
-3,2.1,"Settimana Coppi e Bartali, General classification",41149,HEALY Ben,28846,0.1,0,niet verkocht
-1,2.1s,"Settimana Coppi e Bartali, Stage 5 : Carpi - Carpi I.T.T.",41148,CAVAGNA Rémi,22910,0.2,0,Harry
-1,1.WT2,E3 Harelbeke,41060,VAN AERT Wout,20730,10,50,Frank
-2,1.WT2,E3 Harelbeke,41060,VAN DER POEL Mathieu,21971,3,35,Vel
-3,1.WT2,E3 Harelbeke,41060,POGACAR Tadej,26526,1,25,Kees
-4,1.WT2,E3 Harelbeke,41060,JORGENSON Matteo,28057,0.5,20,Albert
-5,1.WT2,E3 Harelbeke,41060,GARCIA CORTINA Ivan,23497,0.2,18,PB
-6,1.WT2,E3 Harelbeke,41060,KÜNG Stefan,20960,0,16,PB
-7,1.WT2,E3 Harelbeke,41060,MOHORIC Matej,21145,0,14,Frank
-8,1.WT2,E3 Harelbeke,41060,MADOUAS Valentin,24758,0,12,PB
-9,1.WT2,E3 Harelbeke,41060,ANDERSEN Søren Kragh,20793,0,10,Vel
-10,1.WT2,E3 Harelbeke,41060,GANNA Filippo,24057,0,8,Jan
-1,2.WT1s,"Volta a Catalunya, Stage 5 : Tortosa - Lo Port (prov.)",41138,ROGLIC Primoz,20719,1,0,Bram
-1,2.1s,"Settimana Coppi e Bartali, Stage 4 : Fiorano Modenese - Fiorano Modenese",41147,GUERIN Alexis,20155,0.2,0,niet verkocht
-1,2.WT1s,"Volta a Catalunya, Stage 4 : Llívia - Sabadell (prov.)",41137,GROVES Kaden,26637,1,0,Vel
-1,2.1s,"Settimana Coppi e Bartali, Stage 3 : Forli - Forli (prov.)",41146,HEALY Ben,28846,0.2,0,niet verkocht
-1,1.WT3,Classic Brugge - De Panne,41059,PHILIPSEN Jasper,26392,5,50,Nicky
-2,1.WT3,Classic Brugge - De Panne,41059,KOOIJ Olav,30643,2,35,Albert
-3,1.WT3,Classic Brugge - De Panne,41059,LAMPAERT Yves,19941,1,25,Harry
-4,1.WT3,Classic Brugge - De Panne,41059,FRISON Frederik,20643,0,20,niet verkocht
-5,1.WT3,Classic Brugge - De Panne,41059,JAKOBSEN Fabio,23426,0,18,Kaspar
-6,1.WT3,Classic Brugge - De Panne,41059,RICKAERT Jonas,21374,0,16,niet verkocht
-7,1.WT3,Classic Brugge - De Panne,41059,BEULLENS Cédric,25580,0,14,niet verkocht
-8,1.WT3,Classic Brugge - De Panne,41059,EDVARDSEN-FREDHEIM Stian,32797,0,12,niet verkocht
-9,1.WT3,Classic Brugge - De Panne,41059,MOLANO BENAVIDES Juan Sebastian,23463,0,10,PB
-10,1.WT3,Classic Brugge - De Panne,41059,VAN DEN BERG Marijn,27674,0,8,niet verkocht
-1,2.WT1s,"Volta a Catalunya, Stage 3 : Olost - La Molina (prov.)",41136,EVENEPOEL Remco,28377,1,0,Roy
-1,2.1s,"Settimana Coppi e Bartali, Stage 2 : Riccione - Longiano (prov.)",41145,QUINN Sean,29331,0.2,0,niet verkocht
-1,2.WT1s,"Volta a Catalunya, Stage 2 : Mataró - Vallter (prov.)",41135,CICCONE Giulio,21812,1,0,Nicky
-1,2.1s,"Settimana Coppi e Bartali, Stage 1 : Riccione - Riccione (prov.)",41144,CAVAGNA Rémi,22910,0.2,0,Harry
-1,2.WT1s,"Volta a Catalunya, Stage 1 : Sant Feliu de Guíxols - Sant Feliu de Guíxols (prov.)",41134,ROGLIC Primoz,20719,1,0,Bram
-1,1.1,Per Sempre Alfredo,41054,ENGELHARDT Felix,29297,2,0,niet verkocht
-2,1.1,Per Sempre Alfredo,41054,STEWART Mark,23644,0.3,0,niet verkocht
-3,1.1,Per Sempre Alfredo,41054,FOLDAGER Anders,31400,0.1,0,niet verkocht
-1,1.1,GP Cholet - Pays de Loire,41055,PITHIE Laurence,31638,2,0,niet verkocht
-2,1.1,GP Cholet - Pays de Loire,41055,PEREZ Anthony,17632,0.3,0,niet verkocht
-3,1.1,GP Cholet - Pays de Loire,41055,MANZIN Lorrenzo,21343,0.1,0,niet verkocht
-1,1.WT1,Milano - Sanremo,41053,VAN DER POEL Mathieu,21971,15,50,Vel
-2,1.WT1,Milano - Sanremo,41053,GANNA Filippo,24057,3,35,Jan
-3,1.WT1,Milano - Sanremo,41053,VAN AERT Wout,20730,2,25,Frank
-4,1.WT1,Milano - Sanremo,41053,POGACAR Tadej,26526,1,20,Kees
-5,1.WT1,Milano - Sanremo,41053,ANDERSEN Søren Kragh,20793,0.5,18,Vel
-6,1.WT1,Milano - Sanremo,41053,PEDERSEN Mads,21992,0,16,Harry
-7,1.WT1,Milano - Sanremo,41053,POWLESS Neilson,24902,0,14,Harry
-8,1.WT1,Milano - Sanremo,41053,MOHORIC Matej,21145,0,12,Frank
-9,1.WT1,Milano - Sanremo,41053,TURGIS Anthony,21312,0,10,Vel
-10,1.WT1,Milano - Sanremo,41053,STUYVEN Jasper,18233,0,8,PB
-1,1.1,Classic Loire Atlantique,41052,ZINGLE Axel,31263,2,0,Paul
-2,1.1,Classic Loire Atlantique,41052,PITHIE Laurence,31638,0.3,0,niet verkocht
-3,1.1,Classic Loire Atlantique,41052,ZIJLAARD Maikel,27649,0.1,0,niet verkocht
-1,NC5,National Championships Qatar (Al Thakira) R.R.,41294,ELBOURDAINY Ahmed Bassam,12959,1,0,niet verkocht
-1,1.PS,Bredene Koksijde Classic,41050,THIJSSEN Gerben,27085,4,50,Albert
-2,1.PS,Bredene Koksijde Classic,41050,ACKERMANN Pascal,20917,1,35,Vel
-3,1.PS,Bredene Koksijde Classic,41050,WELSFORD Samuel,23517,0.5,25,PB
-4,1.PS,Bredene Koksijde Classic,41050,TAMINIAUX Lionel,23416,0,20,niet verkocht
-5,1.PS,Bredene Koksijde Classic,41050,MARECZKO Jakub,22713,0,18,Harry
-6,1.PS,Bredene Koksijde Classic,41050,SELIG Rüdiger,10954,0,16,niet verkocht
-7,1.PS,Bredene Koksijde Classic,41050,MOLANO BENAVIDES Juan Sebastian,23463,0,14,PB
-8,1.PS,Bredene Koksijde Classic,41050,FLYNN Sean,29931,0,12,niet verkocht
-9,1.PS,Bredene Koksijde Classic,41050,HALVORSEN Kristoffer,23425,0,10,niet verkocht
-10,1.PS,Bredene Koksijde Classic,41050,THEUNS Edward,16697,0,8,Harry
-1,1.PS,GP de Denain - Porte du Hainaut,41048,MOLANO BENAVIDES Juan Sebastian,23463,4,50,PB
-2,1.PS,GP de Denain - Porte du Hainaut,41048,VAN DIJKE Tim,30642,1,35,niet verkocht
-3,1.PS,GP de Denain - Porte du Hainaut,41048,KIELICH Timo,28189,0.5,25,niet verkocht
-4,1.PS,GP de Denain - Porte du Hainaut,41048,BOASSON HAGEN Edvald,4377,0,20,Bram
-5,1.PS,GP de Denain - Porte du Hainaut,41048,BJERG Mikkel,26388,0,18,Kees
-6,1.PS,GP de Denain - Porte du Hainaut,41048,WATSON Samuel,32161,0,16,niet verkocht
-7,1.PS,GP de Denain - Porte du Hainaut,41048,MENTEN Milan,24180,0,14,niet verkocht
-8,1.PS,GP de Denain - Porte du Hainaut,41048,VAN DER HOORN Taco,19897,0,12,Nicky
-9,1.PS,GP de Denain - Porte du Hainaut,41048,GACHIGNARD Thomas,32640,0,10,niet verkocht
-10,1.PS,GP de Denain - Porte du Hainaut,41048,LAPEIRA Paul,30615,0,8,niet verkocht
-1,2.1,"Tour de Taiwan, General classification",41119,MEIJERS Jeroen,21376,2,0,niet verkocht
-2,2.1,"Tour de Taiwan, General classification",41119,LOPEZ CARAVACA Jordi,31278,0.3,0,niet verkocht
-3,2.1,"Tour de Taiwan, General classification",41119,PRADES REVERTER Benjami,8745,0.1,0,niet verkocht
-1,2.1s,"Tour de Taiwan, Stage 5 : Kaohsiung - Kaohsiung",41118,ZANONCELLO Enrico,28364,0.2,0,niet verkocht
-1,1.PS,Nokere Koerse,41047,MERLIER Tim,17988,4,50,Wijnand
-2,1.PS,Nokere Koerse,41047,THEUNS Edward,16697,1,35,Harry
-3,1.PS,Nokere Koerse,41047,MENTEN Milan,24180,0.5,25,niet verkocht
-4,1.PS,Nokere Koerse,41047,KIELICH Timo,28189,0,20,niet verkocht
-5,1.PS,Nokere Koerse,41047,ASKEY Lewis,30685,0,18,niet verkocht
-6,1.PS,Nokere Koerse,41047,VANMARCKE Sep,7728,0,16,Jan
-7,1.PS,Nokere Koerse,41047,BLOUWE Louis,29120,0,14,niet verkocht
-8,1.PS,Nokere Koerse,41047,PITHIE Laurence,31638,0,12,niet verkocht
-9,1.PS,Nokere Koerse,41047,NOPPE Christophe,22615,0,10,niet verkocht
-10,1.PS,Nokere Koerse,41047,BAX Sjoerd,23306,0,8,PB
-1,1.PS,Milano - Torino,41046,DE KLEIJN Arvid,22596,4,50,niet verkocht
-2,1.PS,Milano - Torino,41046,GAVIRIA RENDON Fernando,20777,1,35,Albert
-3,1.PS,Milano - Torino,41046,VAN UDEN Casper,30636,0.5,25,Jan
-4,1.PS,Milano - Torino,41046,EINHORN Itamar,27315,0,20,niet verkocht
-5,1.PS,Milano - Torino,41046,MOSCHETTI Matteo,27126,0,18,niet verkocht
-6,1.PS,Milano - Torino,41046,BOUHANNI Nacer,16881,0,16,Paul
-7,1.PS,Milano - Torino,41046,MEEUS Jordi,26421,0,14,Vel
-8,1.PS,Milano - Torino,41046,VENDRAME Andrea,22170,0,12,niet verkocht
-9,1.PS,Milano - Torino,41046,ABERASTURI IZAGA Jon,15286,0,10,niet verkocht
-10,1.PS,Milano - Torino,41046,GROENEWEGEN Dylan,19238,0,8,Frank
-1,2.1s,"Tour de Taiwan, Stage 4 : Nantou - Sun Moon Lake",41117,MEIJERS Jeroen,21376,0.2,0,niet verkocht
-1,2.1s,"Tour de Taiwan, Stage 3 : Guangming - Taichung",41116,DE DECKER Tijl,33297,0.2,0,niet verkocht
-1,2.1s,"Tour de Taiwan, Stage 2 : Taoyuan - Jiabonshan Park",41115,LOPEZ CARAVACA Jordi,31278,0.2,0,niet verkocht
-1,2.WT1,"Tirreno - Adriatico, General classification",41095,ROGLIC Primoz,20719,10,50,Bram
-2,2.WT1,"Tirreno - Adriatico, General classification",41095,ALMEIDA Joao Pedro Gonçalves,26482,3,35,Wijnand
-3,2.WT1,"Tirreno - Adriatico, General classification",41095,GEOGHEGAN HART Tao,22018,1,25,Paul
-4,2.WT1,"Tirreno - Adriatico, General classification",41095,KÄMNA Lennard,23427,0.5,20,Jan
-5,2.WT1,"Tirreno - Adriatico, General classification",41095,CICCONE Giulio,21812,0.2,18,Nicky
-6,2.WT1,"Tirreno - Adriatico, General classification",41095,MAS NICOLAU Enric,22794,0,16,PB
-7,2.WT1,"Tirreno - Adriatico, General classification",41095,LANDA MEANA Mikel,14319,0,14,Harry
-8,2.WT1,"Tirreno - Adriatico, General classification",41095,CARTHY Hugh,21014,0,12,Bram
-9,2.WT1,"Tirreno - Adriatico, General classification",41095,VLASOV Aleksandr,24316,0,10,Harry
-10,2.WT1,"Tirreno - Adriatico, General classification",41095,PINOT Thibaut,13080,0,8,Nicky
-1,2.WT1,"Paris - Nice, General classification",41085,POGACAR Tadej,26526,10,50,Kees
-2,2.WT1,"Paris - Nice, General classification",41085,GAUDU David,24255,3,35,Nicky
-3,2.WT1,"Paris - Nice, General classification",41085,VINGEGAARD RASMUSSEN Jonas,25740,1,25,Arjan
-4,2.WT1,"Paris - Nice, General classification",41085,YATES Simon,17893,0.5,20,PB
-5,2.WT1,"Paris - Nice, General classification",41085,MÄDER Gino,26271,0.2,18,Bram
-6,2.WT1,"Paris - Nice, General classification",41085,POWLESS Neilson,24902,0,16,Harry
-7,2.WT1,"Paris - Nice, General classification",41085,BARDET Romain,13566,0,14,Jan
-8,2.WT1,"Paris - Nice, General classification",41085,JORGENSON Matteo,28057,0,12,Albert
-9,2.WT1,"Paris - Nice, General classification",41085,SIVAKOV Pavel,24934,0,10,Paul
-10,2.WT1,"Paris - Nice, General classification",41085,HAIG Jack,21212,0,8,Paul
-1,2.WT1s,"Tirreno - Adriatico, Stage 7 : San Benedetto del Tronto - San Benedetto del Tronto",41094,PHILIPSEN Jasper,26392,1,0,Nicky
-1,2.WT1s,"Paris - Nice, Stage 8 : Nice - Nice",41084,POGACAR Tadej,26526,1,0,Kees
-1,2.WT1r,"Tirreno - Adriatico, Mountains classification",41097,ROGLIC Primoz,20719,0.0,0,Bram
-1,2.WT1r,"Tirreno - Adriatico, Points classification",41096,ROGLIC Primoz,20719,0.0,0,Bram
-1,2.WT1r,"Paris - Nice, Points classification",41086,POGACAR Tadej,26526,0.0,0,Kees
-1,2.WT1r,"Paris - Nice, Mountains classification",41087,GREGAARD WILSLY Jonas,23437,0.0,0,niet verkocht
-1,1.1,Ronde van Drenthe,41044,HAGENES Per Strand,30442,2,0,niet verkocht
-2,1.1,Ronde van Drenthe,41044,LUND ANDRESEN Tobias,31657,0.3,0,niet verkocht
-3,1.1,Ronde van Drenthe,41044,DE VOS Adam,20291,0.1,0,niet verkocht
-1,2.1s,"Tour de Taiwan, Stage 1 : Taipei - Taipei (prov.)",41114,EEFTING-BLOEM Roy,19243,0.2,0,niet verkocht
-1,2.WT1s,"Paris - Nice, Stage 7 : Nice - Col de la Couillole",41083,POGACAR Tadej,26526,1,0,Kees
-1,2.WT1s,"Tirreno - Adriatico, Stage 6 : Osimo Stazione - Osimo",41093,ROGLIC Primoz,20719,1,0,Bram
-1,2.WT1s,"Paris - Nice, Stage 6 : Tourves - La Colle-sur-Loup",41082,no result,13543,1,0,niet verkocht
-1,2.WT1s,"Tirreno - Adriatico, Stage 5 : Morro d'Oro - Sarnano-Sassotetto (prov.)",41092,ROGLIC Primoz,20719,1,0,Bram
-1,2.WT1s,"Paris - Nice, Stage 5 : Saint-Symphorien-sur-Coise - Saint-Paul-Trois-Châteaux (prov.)",41081,KOOIJ Olav,30643,1,0,Albert
-1,2.WT1s,"Tirreno - Adriatico, Stage 4 : Greccio - Tortoreto (prov.)",41091,ROGLIC Primoz,20719,1,0,Bram
-1,2.WT1s,"Paris - Nice, Stage 4 : Saint-Amand-Montrond - La Loge des Gardes (prov.)",41080,POGACAR Tadej,26526,1,0,Kees
-1,2.WT1s,"Tirreno - Adriatico, Stage 3 : Follonica - Foligno (prov.)",41090,PHILIPSEN Jasper,26392,1,0,Nicky
-1,2.WT1s,"Tirreno - Adriatico, Stage 2 : Camaiore - Follonica (prov.)",41089,JAKOBSEN Fabio,23426,1,0,Kaspar
-1,2.WT1s,"Tirreno - Adriatico, Stage 1 : Lido di Camaiore I.T.T. (prov.)",41088,GANNA Filippo,24057,1,0,Jan
-1,2.WT1s,"Paris - Nice, Stage 2 : Bazainville - Fontainebleau (prov.)",41078,PEDERSEN Mads,21992,1,0,Harry
-1,2.WT1s,"Paris - Nice, Stage 1 : La Verrière - La Verrière (prov.)",41077,MERLIER Tim,17988,1,0,Wijnand
-1,1.1,GP Jean-Pierre Monseré,41042,THIJSSEN Gerben,27085,2,0,Albert
-2,1.1,GP Jean-Pierre Monseré,41042,EWAN Caleb,19651,0.3,0,Paul
-3,1.1,GP Jean-Pierre Monseré,41042,WELSFORD Samuel,23517,0.1,0,PB
-1,1.WT2,Strade Bianche,41039,PIDCOCK Thomas,27708,10,50,Albert
-2,1.WT2,Strade Bianche,41039,MADOUAS Valentin,24758,3,35,PB
-3,1.WT2,Strade Bianche,41039,BENOOT Tiesj,21244,1,25,Paul
-4,1.WT2,Strade Bianche,41039,COSTA Rui Alberto Faria,6807,0.5,20,niet verkocht
-5,1.WT2,Strade Bianche,41039,VALTER Attila,27198,0.2,18,Kees
-6,1.WT2,Strade Bianche,41039,MOHORIC Matej,21145,0,16,Frank
-7,1.WT2,Strade Bianche,41039,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,14,Jan
-8,1.WT2,Strade Bianche,41039,GREGOIRE Romain,32766,0,12,niet verkocht
-9,1.WT2,Strade Bianche,41039,FORMOLO Davide,18749,0,10,Nicky
-10,1.WT2,Strade Bianche,41039,KRON Andreas Lorentz,26420,0,8,Paul
-1,1.1,GP Criquielion,41037,WELSFORD Samuel,23517,2,0,PB
-2,1.1,GP Criquielion,41037,MENTEN Milan,24180,0.3,0,niet verkocht
-3,1.1,GP Criquielion,41037,HALVORSEN Kristoffer,23425,0.1,0,niet verkocht
-1,NC5,National Championships United Arab Emirates (Kalba) R.R. (prov.),40932,ALMANSOORI Ahmed,19635,1,0,niet verkocht
-1,1.PS,Trofeo Laigueglia,41034,PETERS Nans,22703,4,50,niet verkocht
-2,1.PS,Trofeo Laigueglia,41034,VENDRAME Andrea,22170,1,35,niet verkocht
-3,1.PS,Trofeo Laigueglia,41034,COVI Alessandro,28298,0.5,25,Jan
-4,1.PS,Trofeo Laigueglia,41034,ROTA Lorenzo,21958,0,20,Paul
-5,1.PS,Trofeo Laigueglia,41034,CHAMPOUSSIN Clément,27153,0,18,Jan
-6,1.PS,Trofeo Laigueglia,41034,GREGOIRE Romain,32766,0,16,niet verkocht
-7,1.PS,Trofeo Laigueglia,41034,CEPEDA ORTIZ Jefferson Alexander,26775,0,14,niet verkocht
-8,1.PS,Trofeo Laigueglia,41034,COSNEFROY Benoît,24189,0,12,PB
-9,1.PS,Trofeo Laigueglia,41034,ULISSI Diego,10023,0,10,Paul
-10,1.PS,Trofeo Laigueglia,41034,ZIMMERMANN Georg,25165,0,8,niet verkocht
-1,1.1,Le Samyn,40947,MENTEN Milan,24180,2,0,niet verkocht
-2,1.1,Le Samyn,40947,HOFSTETTER Hugo,22702,0.3,0,Albert
-3,1.1,Le Samyn,40947,THEUNS Edward,16697,0.1,0,Harry
-1,2.WT3,"UAE Tour, General classification",41016,EVENEPOEL Remco,28377,5,50,Roy
-2,2.WT3,"UAE Tour, General classification",41016,PLAPP Lucas,29787,2,35,Vel
-3,2.WT3,"UAE Tour, General classification",41016,YATES Adam,18975,1,25,Paul
-4,2.WT3,"UAE Tour, General classification",41016,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,20,Jan
-5,2.WT3,"UAE Tour, General classification",41016,KUSS Sepp,25653,0,18,Nicky
-6,2.WT3,"UAE Tour, General classification",41016,POELS Wout,7751,0,16,Roy
-7,2.WT3,"UAE Tour, General classification",41016,TIBERI Antonio,30649,0,14,niet verkocht
-8,2.WT3,"UAE Tour, General classification",41016,ZWIEHOFF Ben,31491,0,12,niet verkocht
-9,2.WT3,"UAE Tour, General classification",41016,BUCHMANN Emanuel,18739,0,10,PB
-10,2.WT3,"UAE Tour, General classification",41016,VANHOUCKE Harm,25652,0,8,niet verkocht
-1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet",41015,YATES Adam,18975,0.5,0,Paul
-1,2.WT3r,"UAE Tour, Points classification",41017,MERLIER Tim,17988,0.0,0,Wijnand
-1,1.PS,Faun Drôme Classic,40945,PEREZ Anthony,17632,4,50,niet verkocht
-2,1.PS,Faun Drôme Classic,40945,COSTA Rui Alberto Faria,6807,1,35,niet verkocht
-3,1.PS,Faun Drôme Classic,40945,BAGIOLI Andrea,28452,0.5,25,Albert
-4,1.PS,Faun Drôme Classic,40945,GAUDU David,24255,0,20,Nicky
-5,1.PS,Faun Drôme Classic,40945,SIMMONS Quinn,30666,0,18,Bram
-6,1.PS,Faun Drôme Classic,40945,SKJELMOSE JENSEN Mattias,30166,0,16,Kaspar
-7,1.PS,Faun Drôme Classic,40945,ZIMMERMANN Georg,25165,0,14,niet verkocht
-8,1.PS,Faun Drôme Classic,40945,CLARKE Simon,3366,0,12,PB
-9,1.PS,Faun Drôme Classic,40945,STRONG Corbin,29492,0,10,PB
-10,1.PS,Faun Drôme Classic,40945,GODON Dorian,25704,0,8,niet verkocht
-1,1.PS,Kuurne - Brussel - Kuurne,40943,BENOOT Tiesj,21244,4,50,Paul
-2,1.PS,Kuurne - Brussel - Kuurne,40943,VAN HOOYDONCK Nathan,22015,1,35,niet verkocht
-3,1.PS,Kuurne - Brussel - Kuurne,40943,MOHORIC Matej,21145,0.5,25,Frank
-4,1.PS,Kuurne - Brussel - Kuurne,40943,VAN DER HOORN Taco,19897,0,20,Nicky
-5,1.PS,Kuurne - Brussel - Kuurne,40943,WELLENS Tim,16722,0,18,Albert
-6,1.PS,Kuurne - Brussel - Kuurne,40943,LAPORTE Christophe,19953,0,16,Kaspar
-7,1.PS,Kuurne - Brussel - Kuurne,40943,DE LIE Arnaud,32221,0,14,Wijnand
-8,1.PS,Kuurne - Brussel - Kuurne,40943,MEEUS Jordi,26421,0,12,Vel
-9,1.PS,Kuurne - Brussel - Kuurne,40943,JAKOBSEN Fabio,23426,0,10,Kaspar
-10,1.PS,Kuurne - Brussel - Kuurne,40943,STUYVEN Jasper,18233,0,8,PB
-1,2.1,"O Gran Camiño, General classification",41022,VINGEGAARD RASMUSSEN Jonas,25740,2,0,Arjan
-2,2.1,"O Gran Camiño, General classification",41022,HERRADA LOPEZ Jesus,17534,0.3,0,Paul
-3,2.1,"O Gran Camiño, General classification",41022,GUERREIRO Ruben Antonio Almeida,22683,0.1,0,Jan
-1,2.1,"Tour du Rwanda, General classification",41008,MULUBRHAN Henok,28186,2,0,niet verkocht
-2,2.1,"Tour du Rwanda, General classification",41008,CALZONI Walter,32557,0.3,0,niet verkocht
-3,2.1,"Tour du Rwanda, General classification",41008,LECERF William Junior,32229,0.1,0,niet verkocht
-1,2.1s,"O Gran Camiño, Stage 4 : Novo Milladoiro - Santiago de Compostela I.T.T.",41021,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,Arjan
-1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali",41007,MULUBRHAN Henok,28186,0.2,0,niet verkocht
-1,1.WT2,Omloop Het Nieuwsblad,40942,VAN BAARLE Dylan,17794,10,50,Nicky
-2,1.WT2,Omloop Het Nieuwsblad,40942,DE LIE Arnaud,32221,3,35,Wijnand
-3,1.WT2,Omloop Het Nieuwsblad,40942,LAPORTE Christophe,19953,1,25,Kaspar
-4,1.WT2,Omloop Het Nieuwsblad,40942,KRISTOFF Alexander,4179,0.5,20,Nicky
-5,1.WT2,Omloop Het Nieuwsblad,40942,PIDCOCK Thomas,27708,0.2,18,Albert
-6,1.WT2,Omloop Het Nieuwsblad,40942,BALLERINI Davide,22020,0,16,Harry
-7,1.WT2,Omloop Het Nieuwsblad,40942,POLITT Nils,20847,0,14,Albert
-8,1.WT2,Omloop Het Nieuwsblad,40942,PASQUALON Andrea,10220,0,12,niet verkocht
-9,1.WT2,Omloop Het Nieuwsblad,40942,OLIVEIRA Rui Filipe Alves,24030,0,10,niet verkocht
-10,1.WT2,Omloop Het Nieuwsblad,40942,VANMARCKE Sep,7728,0,8,Jan
-1,2.WT3s,"UAE Tour, Stage 6 : Abu Dhabi - Abu Dhabi",41014,MERLIER Tim,17988,0.5,0,Wijnand
-1,1.PS,Faun Ardèche Classic,40944,ALAPHILIPPE Julian,18610,4,50,Arjan
-2,1.PS,Faun Ardèche Classic,40944,GAUDU David,24255,1,35,Nicky
-3,1.PS,Faun Ardèche Classic,40944,SKJELMOSE JENSEN Mattias,30166,0.5,25,Kaspar
-4,1.PS,Faun Ardèche Classic,40944,LAFAY Victor,26197,0,20,Jan
-5,1.PS,Faun Ardèche Classic,40944,GREGOIRE Romain,32766,0,18,niet verkocht
-6,1.PS,Faun Ardèche Classic,40944,GALL Felix,26383,0,16,niet verkocht
-7,1.PS,Faun Ardèche Classic,40944,ROTA Lorenzo,21958,0,14,Paul
-8,1.PS,Faun Ardèche Classic,40944,MARTIN Guillaume,19994,0,12,Jan
-9,1.PS,Faun Ardèche Classic,40944,COSTA Rui Alberto Faria,6807,0,10,niet verkocht
-10,1.PS,Faun Ardèche Classic,40944,LATOUR Pierre,20156,0,8,Kaspar
-1,2.1s,"Tour du Rwanda, Stage 7 : Nyamata - Mont Kigali",41006,TAROZZI Manuele,29884,0.2,0,niet verkocht
-1,2.1s,"O Gran Camiño, Stage 3 : Esgos -Rubia",41020,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,Arjan
-1,NCT5,National Championships United Arab Emirates (Nazwa) I.T.T.,40931,ALKAABI Saif Mayouf,26445,0.5,0,niet verkocht
-1,2.WT3s,"UAE Tour, Stage 5 : Al Marjan Island - Umm Al Quwain",41013,GROENEWEGEN Dylan,19238,0.5,0,Frank
-1,2.1s,"O Gran Camiño, Stage 2 : Tui - A Guarda",41019,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,Arjan
-1,2.1s,"Tour du Rwanda, Stage 6 : Rubavu - Gicumbi",41005,BADILATTI Matteo,24246,0.2,0,niet verkocht
-1,2.WT3s,"UAE Tour, Stage 4 : Al Shindagha - Dubai Harbour",41012,MOLANO BENAVIDES Juan Sebastian,23463,0.5,0,PB
-1,2.1s,"O Gran Camiño, Stage 1 : Muralla de Lugo - Sarria",41018,no result,13543,0.2,0,niet verkocht
-1,2.1s,"Tour du Rwanda, Stage 5 : Rusizi - Rubavu (prov.)",41004,ORMISTON Callum,29773,0.2,0,niet verkocht
-1,2.WT3s,"UAE Tour, Stage 3 : Fujairah - Jebel Jais (prov.)",41011,RUBIO REYES Einer Augusto,27024,0.5,0,Frank
-1,2.1s,"Tour du Rwanda, Stage 4 : Musanze - Karongi (prov.)",41003,BONNET Thomas,32240,0.2,0,niet verkocht
-1,2.1s,"Tour du Rwanda, Stage 3 : Huye - Musanze (prov.)",41002,MULUBRHAN Henok,28186,0.2,0,niet verkocht
-1,2.WT3s,"UAE Tour, Stage 1 : Al Dhafra Castle - Al Mirfa (prov.)",41009,MERLIER Tim,17988,0.5,0,Wijnand
-1,2.1s,"Tour du Rwanda, Stage 2 : Kigali - Gisagara (prov.)",41001,VERNON Ethan,30035,0.2,0,Arjan
-1,2.PS,"Volta ao Algarve, General classification",40989,MARTINEZ POVEDA Daniel Felipe,23503,4,50,Bram
-2,2.PS,"Volta ao Algarve, General classification",40989,GANNA Filippo,24057,1,35,Jan
-3,2.PS,"Volta ao Algarve, General classification",40989,VAN WILDER Ilan,29828,0.5,25,Wijnand
-4,2.PS,"Volta ao Algarve, General classification",40989,FOSS Tobias Svendsen,24873,0,20,Harry
-5,2.PS,"Volta ao Algarve, General classification",40989,KÜNG Stefan,20960,0,18,PB
-6,2.PS,"Volta ao Algarve, General classification",40989,ALMEIDA Joao Pedro Gonçalves,26482,0,16,Wijnand
-7,2.PS,"Volta ao Algarve, General classification",40989,PIDCOCK Thomas,27708,0,14,Albert
-8,2.PS,"Volta ao Algarve, General classification",40989,MOLLEMA Bauke,5139,0,12,Roy
-9,2.PS,"Volta ao Algarve, General classification",40989,CORT NIELSEN Magnus,19448,0,10,Vel
-10,2.PS,"Volta ao Algarve, General classification",40989,COSTA Rui Alberto Faria,6807,0,8,niet verkocht
-1,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,POGACAR Tadej,26526,4,50,Kees
-2,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,LANDA MEANA Mikel,14319,1,35,Harry
-3,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,BUITRAGO SANCHEZ Santiago,29699,0.5,25,Jan
-4,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,RODRIGUEZ CANO Carlos,30836,0,20,Roy
-5,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,MAS NICOLAU Enric,22794,0,18,PB
-6,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,GEOGHEGAN HART Tao,22018,0,16,Paul
-7,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,CARUSO Damiano,6177,0,14,Jan
-8,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,ROTA Lorenzo,21958,0,12,Paul
-9,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,KRON Andreas Lorentz,26420,0,10,Paul
-10,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,SIVAKOV Pavel,24934,0,8,Paul
-1,2.PSs,"Volta ao Algarve, Stage 5 : Lagoa - Lagoa I.T.T.",40988,KÜNG Stefan,20960,0.3,0,PB
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 5 : Otura - Alhaurin de la Torre",40994,FRAILE MATARRANZ Omar,19335,0.3,0,Arjan
-1,2.1,"Tour des Alpes-Maritimes et du Var, General classification",40999,VAUQUELIN Kévin,31264,2,0,Albert
-2,2.1,"Tour des Alpes-Maritimes et du Var, General classification",40999,PARET-PEINTRE Aurélien,24110,0.3,0,Nicky
-3,2.1,"Tour des Alpes-Maritimes et du Var, General classification",40999,POWLESS Neilson,24902,0.1,0,Harry
-1,2.1s,"Tour des Alpes-Maritimes et du Var, Stage 3 : Villefranche-sur-Mer - Vence",40998,PARET-PEINTRE Aurélien,24110,0.2,0,Nicky
-1,2.1s,"Tour du Rwanda, Stage 1 : Kigali - Rwamagana (prov.)",41000,VERNON Ethan,30035,0.2,0,Arjan
-1,NC5,National Championships Pakistan (Peshawar) R.R. (prov.),40930,KHAN Naimat Ullah,34978,1,0,niet verkocht
-1,2.PSs,"Volta ao Algarve, Stage 4 : Albufeira - Malhao",40987,PIDCOCK Thomas,27708,0.3,0,Albert
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 4 : Olvera - Iznajar",40993,POGACAR Tadej,26526,0.3,0,Kees
-1,2.1s,"Tour des Alpes-Maritimes et du Var, Stage 2 : Mandelieu - Antibes",40997,SKJELMOSE JENSEN Mattias,30166,0.2,0,Kaspar
-1,2.PSs,"Volta ao Algarve, Stage 3 : Faro - Tavira",40986,CORT NIELSEN Magnus,19448,0.3,0,Vel
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 3 : Alcala de Guadaira - Alcala de los Gazules",40992,WELLENS Tim,16722,0.3,0,Albert
-1,2.1s,"Tour des Alpes-Maritimes et du Var, Stage 1 : Saint Raphaël - Ramatuelle",40996,VAUQUELIN Kévin,31264,0.2,0,Albert
-1,NCT5,National Championships Pakistan (Peshawar) I.T.T.,40929,ALI Shahwali,30608,0.5,0,niet verkocht
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 2 : Diezma - Alcala la Real",40991,POGACAR Tadej,26526,0.3,0,Kees
-1,2.PSs,"Volta ao Algarve, Stage 2 : Sagres - Foia",40985,CORT NIELSEN Magnus,19448,0.3,0,Vel
-1,2.PS,"Tour of Oman, General classification",40983,JORGENSON Matteo,28057,4,50,Albert
-2,2.PS,"Tour of Oman, General classification",40983,VANSEVENANT Mauri,28580,1,35,Wijnand
-3,2.PS,"Tour of Oman, General classification",40983,BOUCHARD Geoffrey,28569,0.5,25,niet verkocht
-4,2.PS,"Tour of Oman, General classification",40983,TAARAMÄE Rein,1646,0,20,niet verkocht
-5,2.PS,"Tour of Oman, General classification",40983,ULISSI Diego,10023,0,18,Paul
-6,2.PS,"Tour of Oman, General classification",40983,VAN GILS Maxim,28521,0,16,niet verkocht
-7,2.PS,"Tour of Oman, General classification",40983,HERRADA LOPEZ Jesus,17534,0,14,Paul
-8,2.PS,"Tour of Oman, General classification",40983,RODRIGUEZ MARTIN Cristian,24102,0,12,niet verkocht
-9,2.PS,"Tour of Oman, General classification",40983,UIJTDEBROEKS Cian,31803,0,10,Vel
-10,2.PS,"Tour of Oman, General classification",40983,VERONA QUINTANILLA Carlos,17994,0,8,niet verkocht
-1,2.PSs,"Volta ao Algarve, Stage 1 : Portimao - Lagos",40984,KRISTOFF Alexander,4179,0.3,0,Nicky
-1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 1 : Puente de Genave - Santiago de la Espada",40990,POGACAR Tadej,26526,0.3,0,Kees
-1,2.PSs,"Tour of Oman, Stage 5 : Samail - Jabal Al Akhdar",40981,VANSEVENANT Mauri,28580,0.3,0,Wijnand
-1,2.PSs,"Tour of Oman, Stage 4 : Izki - Yitti Hills",40980,ULISSI Diego,10023,0.3,0,Paul
-1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Jabal Haat",40979,JORGENSON Matteo,28057,0.3,0,Albert
-1,1.1,Jaén Paraíso Interior,40941,POGACAR Tadej,26526,2,0,Kees
-2,1.1,Jaén Paraíso Interior,40941,TURNER Ben,27923,0.3,0,Arjan
-3,1.1,Jaén Paraíso Interior,40941,WELLENS Tim,16722,0.1,0,Albert
-1,CC2,African Cycling Championships (Accra) R.R.,41029,MULUBRHAN Henok,28186,1,0,niet verkocht
-2,CC2,African Cycling Championships (Accra) R.R.,41029,HAMZA Yacine,25483,0.0,0,niet verkocht
-3,CC2,African Cycling Championships (Accra) R.R.,41029,ED DOGHMY Achraf,30073,0.0,0,niet verkocht
-4,CC2,African Cycling Championships (Accra) R.R.,41029,SAIDI Nassim,21188,0.0,0,niet verkocht
-5,CC2,African Cycling Championships (Accra) R.R.,41029,BDADOU Youssef,29667,0.0,0,niet verkocht
-6,CC2,African Cycling Championships (Accra) R.R.,41029,ROUGIER-LAGANE Christopher,24393,0.0,0,niet verkocht
-7,CC2,African Cycling Championships (Accra) R.R.,41029,KAGIMU Charles,24714,0.0,0,niet verkocht
-8,CC2,African Cycling Championships (Accra) R.R.,41029,UHIRIWE Byiza Renus,31098,0.0,0,niet verkocht
-9,CC2,African Cycling Championships (Accra) R.R.,41029,DAUMONT Paul,28198,0.0,0,niet verkocht
-10,CC2,African Cycling Championships (Accra) R.R.,41029,AREFAYNE Aklilu,34890,0.0,0,niet verkocht
-1,1.PS,Clasica de Almeria,40940,MOSCHETTI Matteo,27126,4,50,niet verkocht
-2,1.PS,Clasica de Almeria,40940,DE LIE Arnaud,32221,1,35,Wijnand
-3,1.PS,Clasica de Almeria,40940,MEEUS Jordi,26421,0.5,25,Vel
-4,1.PS,Clasica de Almeria,40940,KRISTOFF Alexander,4179,0,20,Nicky
-5,1.PS,Clasica de Almeria,40940,NIZZOLO Giacomo,13863,0,18,PB
-6,1.PS,Clasica de Almeria,40940,WALSCHEID Maximilian,19646,0,16,PB
-7,1.PS,Clasica de Almeria,40940,GAVIRIA RENDON Fernando,20777,0,14,Albert
-8,1.PS,Clasica de Almeria,40940,TESSON Jason,29883,0,12,Jan
-9,1.PS,Clasica de Almeria,40940,PENHOËT Paul,30686,0,10,niet verkocht
-10,1.PS,Clasica de Almeria,40940,MOLANO BENAVIDES Juan Sebastian,23463,0,8,PB
-1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat",40978,HERRADA LOPEZ Jesus,17534,0.3,0,Paul
-1,2.1,"Tour of Antalya, General classification",40976,no result,13543,2,0,niet verkocht
-1,1.1,Figueira Champions Classic,41033,PEDERSEN Casper Phillip,23429,2,0,niet verkocht
-2,1.1,Figueira Champions Classic,41033,HERREGODTS Rune,28392,0.3,0,niet verkocht
-3,1.1,Figueira Champions Classic,41033,VAN DEN BERG Marijn,27674,0.1,0,niet verkocht
-1,NC5,National Championships Ecuador (Tulcan) R.R.,40924,CARAPAZ MONTENEGRO Richard Antonio,21342,1,0,Wijnand
-1,NC5,National Championships South Africa (Oudtshoorn) R.R.,40926,STEDMAN Travis,32107,1,0,niet verkocht
-1,NC5,National Championships New Zealand (Tokoroa) R.R.,40922,ORAM James,19829,1,0,niet verkocht
-1,NC5,National Championships Uruguay (Paysandu) R.R. (prov.),40928,RODRIGUEZ RAMOS Diego Leonel,29716,1,0,niet verkocht
-1,2.PSs,"Tour of Oman, Stage 1 : Al Rustaq Fort - Muscat (prov.)",40977,MERLIER Tim,17988,0.3,0,Wijnand
-1,1.1,Vuelta a Murcia,40939,TURNER Ben,27923,2,0,Arjan
-2,1.1,Vuelta a Murcia,40939,CLARKE Simon,3366,0.3,0,PB
-3,1.1,Vuelta a Murcia,40939,MEEUS Jordi,26421,0.1,0,Vel
-1,NCT5,National Championships Ecuador (Tulcan) I.T.T.,40923,CAICEDO CEPEDA Jonathan Klever,22631,0.5,0,niet verkocht
-1,NCT5,National Championships Uruguay (Paysandu) I.T.T.,40927,FAGUNDEZ LIMA Eric Antonio,28445,0.5,0,niet verkocht
-1,1.1,Muscat Classic,40911,BIERMANS Jenthe,22010,2,0,niet verkocht
-2,1.1,Muscat Classic,40911,WARLOP Jordi,24239,0.3,0,niet verkocht
-3,1.1,Muscat Classic,40911,VENDRAME Andrea,22170,0.1,0,niet verkocht
-1,NCT5,National Championships New Zealand (Tokoroa) I.T.T.,40921,CURRIE Logan,30604,0.5,0,niet verkocht
-1,NCT5,National Championships South Africa (Oudtshoorn) I.T.T.,40925,DE BOD Stefan,23888,0.5,0,niet verkocht
-1,CCT2,African Cycling Championships (Accra) I.T.T.,41031,KAGIMU Charles,24714,0.5,0,niet verkocht
-1,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,COSTA Rui Alberto Faria,6807,4,50,niet verkocht
-2,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,CICCONE Giulio,21812,1,35,Nicky
-3,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,GEOGHEGAN HART Tao,22018,0.5,25,Paul
-4,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,20,Jan
-5,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,VLASOV Aleksandr,24316,0,18,Harry
-6,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,GLOAG Thomas,31449,0,16,Frank
-7,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,LANDA MEANA Mikel,14319,0,14,Harry
-8,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,MCNULTY Brandon,26508,0,12,Kees
-9,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,ARANBURU DEBA Alexander,23940,0,10,Jan
-10,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,RODRIGUEZ CANO Carlos,30836,0,8,Roy
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 5 : Paterna - Valencia",40958,COSTA Rui Alberto Faria,6807,0.3,0,niet verkocht
-1,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,POWLESS Neilson,24902,2,0,Harry
-2,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,SKJELMOSE JENSEN Mattias,30166,0.3,0,Kaspar
-3,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,LATOUR Pierre,20156,0.1,0,Kaspar
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 5 : Alès - Alès I.T.T.",40952,PEDERSEN Mads,21992,0.2,0,Harry
-1,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,CHAVES RUBIO Jhoan Esteban,16941,5,50,Jan
-2,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,MARTINEZ POVEDA Daniel Felipe,23503,2,35,Bram
-3,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,QUINTANA ROJAS Nairo Alexander,12843,1,25,Roy
-4,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,MERCHAN CARDONA Didier Norberto,30957,0,20,niet verkocht
-5,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,JAMAICA MEJIA Javier Ernesto,31178,0,18,niet verkocht
-6,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,FLOREZ LOPEZ Miguel Eduardo,24812,0,16,niet verkocht
-7,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,HENAO MONTOYA Sergio Luis,7006,0,14,niet verkocht
-8,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,RUBIO REYES Einer Augusto,27024,0,12,Frank
-9,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,CAMARGO PINEDA Diego Andres,28187,0,10,niet verkocht
-10,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,CHAPARRO LOPEZ Didier Alonso,19463,0,8,niet verkocht
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 4 : Burriana - Alto la Cova Santo",40957,GEOGHEGAN HART Tao,22018,0.3,0,Paul
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Saint Christol Lèz Alès - Le Mont Bouquet",40951,SKJELMOSE JENSEN Mattias,30166,0.2,0,Kaspar
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : Bétera - Sagunto",40956,VELASCO Simone,22662,0.3,0,niet verkocht
-1,2.1,"Saudi Tour, General classification",40893,GUERREIRO Ruben Antonio Almeida,22683,2,0,Jan
-2,2.1,"Saudi Tour, General classification",40893,FORMOLO Davide,18749,0.3,0,Nicky
-3,2.1,"Saudi Tour, General classification",40893,BUITRAGO SANCHEZ Santiago,29699,0.1,0,Jan
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges",40950,DE LIE Arnaud,32221,0.2,0,Wijnand
-1,2.1s,"Saudi Tour, Stage 5 : Al Ula - Maraya",40892,CONSONNI Simone,22681,0.2,0,Vel
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Novelda - Alto de Pinos",40955,CICCONE Giulio,21812,0.3,0,Nicky
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Bagard - Aubais",40949,no result,13543,0.2,0,niet verkocht
-1,2.1s,"Saudi Tour, Stage 4 : Maraya - Harrat Uwayrid",40891,GUERREIRO Ruben Antonio Almeida,22683,0.2,0,Jan
-1,NCT1,National Championships Colombia (Bucaramanga) I.T.T.,40919,LOPEZ MORENO Miguel Angel,23334,2,0,Nicky
-1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Orihuela - Altea (prov.)",40954,GIRMAY HAILU Biniam,29474,0.3,0,Nicky
-1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 1 : Bellegarde - Bellegarde (prov.)",40948,DE LIE Arnaud,32221,0.2,0,Wijnand
-1,2.1s,"Saudi Tour, Stage 3 : Al Ula - Abu Rakah",40890,WAERENSKJOLD Søren,29187,0.2,0,niet verkocht
-1,2.1s,"Saudi Tour, Stage 2 : Winter Park - Shalal",40889,MILAN Jonathan,29359,0.2,0,Bram
-1,2.1s,"Saudi Tour, Stage 1 : Al Ula - Khaybar (prov.)",40888,GROENEWEGEN Dylan,19238,0.2,0,Frank
-1,1.WT3,Cadel Evans Great Ocean Road Race,40904,MAYRHOFER Marius,29192,5,50,niet verkocht
-2,1.WT3,Cadel Evans Great Ocean Road Race,40904,PAGE Hugo,30663,2,35,Albert
-3,1.WT3,Cadel Evans Great Ocean Road Race,40904,CLARKE Simon,3366,1,25,PB
-4,1.WT3,Cadel Evans Great Ocean Road Race,40904,MATTHEWS Michael,13066,0,20,Bram
-5,1.WT3,Cadel Evans Great Ocean Road Race,40904,STRONG Corbin,29492,0,18,PB
-6,1.WT3,Cadel Evans Great Ocean Road Race,40904,EWAN Caleb,19651,0,16,Paul
-7,1.WT3,Cadel Evans Great Ocean Road Race,40904,SMITH Dion,21036,0,14,niet verkocht
-8,1.WT3,Cadel Evans Great Ocean Road Race,40904,HIRSCHI Marc,26509,0,12,Bram
-9,1.WT3,Cadel Evans Great Ocean Road Race,40904,BENNETT George,12254,0,10,Nicky
-10,1.WT3,Cadel Evans Great Ocean Road Race,40904,QUINN Sean,29331,0,8,niet verkocht
-1,2.PS,"Vuelta a San Juan, General classification",40873,LOPEZ MORENO Miguel Angel,23334,4,50,Nicky
-2,2.PS,"Vuelta a San Juan, General classification",40873,GANNA Filippo,24057,1,35,Jan
-3,2.PS,"Vuelta a San Juan, General classification",40873,HIGUITA GARCIA Sergio Andres,25026,0.5,25,Kaspar
-4,2.PS,"Vuelta a San Juan, General classification",40873,RUBIO REYES Einer Augusto,27024,0,20,Frank
-5,2.PS,"Vuelta a San Juan, General classification",40873,RIVERA VARGAS Brandon Smith,26283,0,18,niet verkocht
-6,2.PS,"Vuelta a San Juan, General classification",40873,PAREDES AVELLANEDA Cesar Nicolas,20614,0,16,niet verkocht
-7,2.PS,"Vuelta a San Juan, General classification",40873,EVENEPOEL Remco,28377,0,14,Roy
-8,2.PS,"Vuelta a San Juan, General classification",40873,VERMAERKE Kevin,29332,0,12,niet verkocht
-9,2.PS,"Vuelta a San Juan, General classification",40873,RICCITELLO Matthew,31559,0,10,niet verkocht
-10,2.PS,"Vuelta a San Juan, General classification",40873,SIMMONS Quinn,30666,0,8,Bram
-1,2.PSs,"Vuelta a San Juan, Stage 7 : San Juan - San Juan",40872,WELSFORD Samuel,23517,0.3,0,PB
-1,2.1,"La Tropicale Amissa Bongo, General classification",40887,SOUPE Geoffrey,13560,2,0,niet verkocht
-2,2.1,"La Tropicale Amissa Bongo, General classification",40887,AMARI Hamza,32533,0.3,0,niet verkocht
-3,2.1,"La Tropicale Amissa Bongo, General classification",40887,ROUGIER-LAGANE Christopher,24393,0.1,0,niet verkocht
-1,1.1,GP La Marseillaise,40903,POWLESS Neilson,24902,2,0,Harry
-2,1.1,GP La Marseillaise,40903,FERRON Valentin,28375,0.3,0,niet verkocht
-3,1.1,GP La Marseillaise,40903,VAN MOER Brent,28448,0.1,0,niet verkocht
-1,1.1,Trofeo Playa de Palma,40902,VERNON Ethan,30035,2,0,Arjan
-2,1.1,Trofeo Playa de Palma,40902,GIRMAY HAILU Biniam,29474,0.3,0,Nicky
-3,1.1,Trofeo Playa de Palma,40902,VAN DE PAAR Jarne,29798,0.1,0,niet verkocht
-1,2.1s,"La Tropicale Amissa Bongo, Stage 7 : Cap Esterias - Libreville",40886,SALBY Alexander,26419,0.2,0,niet verkocht
-1,NC5,National Championships Thailand (Thong Pha Phum) R.R.,40908,KLAHAN Noppachai,31282,1,0,niet verkocht
-1,NC5,National Championships Namibia (Windhoek) R.R.,40906,DE LANGE Tristan,28491,1,0,niet verkocht
-1,2.PSs,"Vuelta a San Juan, Stage 6 : San Juan - San Juan",40871,WELSFORD Samuel,23517,0.3,0,PB
-1,1.1,Trofeo Serra de Tramuntana,40900,GOOSSENS Kobe,23771,2,0,niet verkocht
-2,1.1,Trofeo Serra de Tramuntana,40900,VAN EETVELT Lennert,32225,0.3,0,niet verkocht
-3,1.1,Trofeo Serra de Tramuntana,40900,VAN WILDER Ilan,29828,0.1,0,Wijnand
-1,2.1s,"La Tropicale Amissa Bongo, Stage 6 : Port Gentil - Port Gentil",40885,LAUK Karl Patrick,25669,0.2,0,niet verkocht
-1,NC5,National Championships Lesotho R.R.,40918,MAKATILE Kabelo,33573,1,0,niet verkocht
-1,2.PSs,"Vuelta a San Juan, Stage 5 : Plaza de Chimbas - Alto del Colorado",40870,LOPEZ MORENO Miguel Angel,23334,0.3,0,Nicky
-1,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,GOOSSENS Kobe,23771,2,0,niet verkocht
-2,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,SANCHEZ MAYO Pelayo,31655,0.3,0,niet verkocht
-3,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,VAN EETVELT Lennert,32225,0.1,0,niet verkocht
-1,2.1s,"La Tropicale Amissa Bongo, Stage 5 : Kango - Angondje",40884,FERNANDEZ RUIZ Miguel Angel,26985,0.2,0,niet verkocht
-1,NCT5,National Championships Thailand (Thong Pha Phum) I.T.T.,40907,CHAWCHIANGKWANG Peerapol,11810,0.5,0,niet verkocht
-1,NCT5,National Championships Namibia (Windhoek) I.T.T.,40905,COETZEE Drikus,26844,0.5,0,niet verkocht
-1,1.1,Trofeo Ses Salines - Alcudia,40899,VAN DEN BERG Marijn,27674,2,0,niet verkocht
-2,1.1,Trofeo Ses Salines - Alcudia,40899,VERNON Ethan,30035,0.3,0,Arjan
-3,1.1,Trofeo Ses Salines - Alcudia,40899,GIRMAY HAILU Biniam,29474,0.1,0,Nicky
-1,2.1s,"La Tropicale Amissa Bongo, Stage 4 : Mouila - Lambarene (prov.)",40883,LAGAB Azzedine,10294,0.2,0,niet verkocht
-1,2.PSs,"Vuelta a San Juan, Stage 4 : Circuito San Juan Villicum - Plaza Barreal (prov.)",40869,GAVIRIA RENDON Fernando,20777,0.3,0,Albert
-1,1.1,Trofeo Calvia,40898,COSTA Rui Alberto Faria,6807,2,0,niet verkocht
-2,1.1,Trofeo Calvia,40898,VERVAEKE Louis,19418,0.3,0,niet verkocht
-3,1.1,Trofeo Calvia,40898,HEALY Ben,28846,0.1,0,niet verkocht
-1,2.1s,"La Tropicale Amissa Bongo, Stage 3 : Lebamba - Mouila (prov.)",40882,TESSON Jason,29883,0.2,0,Jan
-1,2.PSs,"Vuelta a San Juan, Stage 3 : Circuito San Juan Villicum - Circuito San Juan Villicum (prov.)",40868,SIMMONS Quinn,30666,0.3,0,Bram
-1,2.1s,"La Tropicale Amissa Bongo, Stage 2 : Oyem - Mitzic (prov.)",40881,TESSON Jason,29883,0.2,0,Jan
-1,2.PSs,"Vuelta a San Juan, Stage 2 : Villa San Agustin - San Jose de Jachal (prov.)",40867,JAKOBSEN Fabio,23426,0.3,0,Kaspar
-1,2.1s,"La Tropicale Amissa Bongo, Stage 1 : Bitam - Oyem (prov.)",40880,SOUPE Geoffrey,13560,0.2,0,niet verkocht
-1,2.WT1,"Tour Down Under, General classification",40865,VINE Jay,29568,10,50,Vel
-2,2.WT1,"Tour Down Under, General classification",40865,YATES Simon,17893,3,35,PB
-3,2.WT1,"Tour Down Under, General classification",40865,BILBAO LOPEZ DE ARMENTIA Pello,17881,1,25,Jan
-4,2.WT1,"Tour Down Under, General classification",40865,SHEFFIELD Magnus,31598,0.5,20,Jan
-5,2.WT1,"Tour Down Under, General classification",40865,SCHMID Mauro,29214,0.2,18,Jan
-6,2.WT1,"Tour Down Under, General classification",40865,O'CONNOR Ben,23763,0,16,Harry
-7,2.WT1,"Tour Down Under, General classification",40865,BYSTRØM Sven Erik,18608,0,14,niet verkocht
-8,2.WT1,"Tour Down Under, General classification",40865,TIBERI Antonio,30649,0,12,niet verkocht
-9,2.WT1,"Tour Down Under, General classification",40865,IZAGIRRE INSAUSTI Gorka,10070,0,10,niet verkocht
-10,2.WT1,"Tour Down Under, General classification",40865,COQUARD Bryan,18714,0,8,Jan
-1,2.WT1s,"Tour Down Under, Stage 5 : Unley - Mount Lofty",40864,YATES Simon,17893,1,0,PB
-1,2.WT1r,"Tour Down Under, Mountains classification",40936,HONORE Mikkel Frølich,25629,0.0,0,Harry
-1,2.WT1r,"Tour Down Under, Points classification",40935,MATTHEWS Michael,13066,0.0,0,Bram
-1,2.PSs,"Vuelta a San Juan, Stage 1 : San Juan - San Juan (prov.)",40866,BENNETT Sam,13362,0.3,0,PB
-1,1.1,GP Valencia,40897,DE LIE Arnaud,32221,2,0,Wijnand
-2,1.1,GP Valencia,40897,BIERMANS Jenthe,22010,0.3,0,niet verkocht
-3,1.1,GP Valencia,40897,BOASSON HAGEN Edvald,4377,0.1,0,Bram
-1,2.WT1s,"Tour Down Under, Stage 4 : Port Willunga - Willunga",40863,COQUARD Bryan,18714,1,0,Jan
-1,2.WT1s,"Tour Down Under, Stage 3 : Norwood - Campbeltown",40862,BILBAO LOPEZ DE ARMENTIA Pello,17881,1,0,Jan
-1,2.WT1s,"Tour Down Under, Stage 2 : Brighton - Victor Harbor",40861,DENNIS Rohan,12823,1,0,Albert
-1,2.WT1s,"Tour Down Under, Stage 1 : Tanunda - Tanunda",40860,BAUHAUS Phil,20861,1,0,Vel
-1,2.WT1s,"Tour Down Under, Prologue : Adelaide - Adelaide I.T.T. (5,5 km)",40859,BETTIOL Alberto,20697,1,0,PB
+1,1.WT3,Eschborn - Frankfurt,41307,ANDERSEN Søren Kragh,20793,5,50,1/05/2023,Vel
+2,1.WT3,Eschborn - Frankfurt,41307,KONRAD Patrick,16058,2,35,1/05/2023,Albert
+3,1.WT3,Eschborn - Frankfurt,41307,FEDELI Alessandro,24807,1,25,1/05/2023,niet verkocht
+4,1.WT3,Eschborn - Frankfurt,41307,HIRSCHI Marc,26509,0,20,1/05/2023,Bram
+5,1.WT3,Eschborn - Frankfurt,41307,ROTA Lorenzo,21958,0,18,1/05/2023,Paul
+6,1.WT3,Eschborn - Frankfurt,41307,STEINHAUSER Georg,30721,0,16,1/05/2023,niet verkocht
+7,1.WT3,Eschborn - Frankfurt,41307,ZIMMERMANN Georg,25165,0,14,1/05/2023,niet verkocht
+8,1.WT3,Eschborn - Frankfurt,41307,WILLIAMS Stephen,24346,0,12,1/05/2023,niet verkocht
+9,1.WT3,Eschborn - Frankfurt,41307,HERMANS Ben,4819,0,10,1/05/2023,Albert
+10,1.WT3,Eschborn - Frankfurt,41307,MARCELLUSI Martin,29845,0,8,1/05/2023,niet verkocht
+1,2.WT1,"Tour de Romandie, General classification",41261,YATES Adam,18975,10,50,30/04/2023,Paul
+2,2.WT1,"Tour de Romandie, General classification",41261,JORGENSON Matteo,28057,3,35,30/04/2023,Albert
+3,2.WT1,"Tour de Romandie, General classification",41261,CARUSO Damiano,6177,1,25,30/04/2023,Jan
+4,2.WT1,"Tour de Romandie, General classification",41261,POOLE Max,32809,0.5,20,30/04/2023,niet verkocht
+5,2.WT1,"Tour de Romandie, General classification",41261,PINOT Thibaut,13080,0.2,18,30/04/2023,Nicky
+6,2.WT1,"Tour de Romandie, General classification",41261,UIJTDEBROEKS Cian,31803,0,16,30/04/2023,Vel
+7,2.WT1,"Tour de Romandie, General classification",41261,BARDET Romain,13566,0,14,30/04/2023,Jan
+8,2.WT1,"Tour de Romandie, General classification",41261,BERNAL GOMEZ Egan Arley,24926,0,12,30/04/2023,Paul
+9,2.WT1,"Tour de Romandie, General classification",41261,DUNBAR Eddie,23765,0,10,30/04/2023,Paul
+10,2.WT1,"Tour de Romandie, General classification",41261,MAJKA Rafal,14310,0,8,30/04/2023,Kees
+1,2.WT1s,"Tour de Romandie, Stage 5 : Vufflens-la-Ville - Genève",41260,GAVIRIA RENDON Fernando,20777,1,0,30/04/2023,Albert
+1,2.WT1r,"Tour de Romandie, Points classification",41262,HAYTER Ethan,27025,0.0,0,30/04/2023,Jan
+1,2.WT1r,"Tour de Romandie, Mountains classification",41263,BERNARD Julien,23357,0.0,0,30/04/2023,niet verkocht
+1,2.1,"Vuelta a Asturias, General classification",41293,FORTUNATO Lorenzo,25552,2,0,30/04/2023,niet verkocht
+2,2.1,"Vuelta a Asturias, General classification",41293,RUBIO REYES Einer Augusto,27024,0.3,0,30/04/2023,Frank
+3,2.1,"Vuelta a Asturias, General classification",41293,SOSA CUERVO Ivan Ramiro,26378,0.1,0,30/04/2023,Nicky
+1,2.1s,"Vuelta a Asturias, Stage 3 : Cangas del Narcea - Oviedo",41292,SANCHEZ MAYO Pelayo,31655,0.2,0,30/04/2023,niet verkocht
+1,2.WT1s,"Tour de Romandie, Stage 4 : Sion - Thyon 2000",41259,YATES Adam,18975,1,0,29/04/2023,Paul
+1,2.1s,"Vuelta a Asturias, Stage 2 : Candas - Cangas del Narcea",41291,FORTUNATO Lorenzo,25552,0.2,0,29/04/2023,niet verkocht
+1,2.WT1s,"Tour de Romandie, Stage 3 : Châtel-Saint-Denis - Châtel-Saint-Denis I.T.T. (prov.)",41258,AYUSO PESQUERA Juan,31654,1,0,28/04/2023,Albert
+1,2.1s,"Vuelta a Asturias, Stage 1 : Oviedo - Pola de Lena (prov.)",41290,HOWSON Damien,18239,0.2,0,28/04/2023,niet verkocht
+1,2.WT1s,"Tour de Romandie, Stage 2 : Morteau - La Chaux-de-Fonds (prov.)",41257,HAYTER Ethan,27025,1,0,27/04/2023,Jan
+1,2.WT1s,"Tour de Romandie, Stage 1 : Crissier - Vallée de Joux (prov.)",41256,VERNON Ethan,30035,1,0,26/04/2023,Arjan
+1,2.WT1s,"Tour de Romandie, Prologue : Le Bouveret I.T.T. (prov.)",41255,CERNY Josef,19783,1,0,25/04/2023,niet verkocht
+1,1.WT1,Liège - Bastogne - Liège,41183,EVENEPOEL Remco,28377,15,50,23/04/2023,Roy
+2,1.WT1,Liège - Bastogne - Liège,41183,PIDCOCK Thomas,27708,3,35,23/04/2023,Albert
+3,1.WT1,Liège - Bastogne - Liège,41183,BUITRAGO SANCHEZ Santiago,29699,2,25,23/04/2023,Jan
+4,1.WT1,Liège - Bastogne - Liège,41183,HEALY Ben,28846,1,20,23/04/2023,niet verkocht
+5,1.WT1,Liège - Bastogne - Liège,41183,MADOUAS Valentin,24758,0.5,18,23/04/2023,PB
+6,1.WT1,Liège - Bastogne - Liège,41183,MARTIN Guillaume,19994,0,16,23/04/2023,Jan
+7,1.WT1,Liège - Bastogne - Liège,41183,BENOOT Tiesj,21244,0,14,23/04/2023,Paul
+8,1.WT1,Liège - Bastogne - Liège,41183,KONRAD Patrick,16058,0,12,23/04/2023,Albert
+9,1.WT1,Liège - Bastogne - Liège,41183,SKJELMOSE JENSEN Mattias,30166,0,10,23/04/2023,Kaspar
+10,1.WT1,Liège - Bastogne - Liège,41183,HIRSCHI Marc,26509,0,8,23/04/2023,Bram
+1,CC2,Pan-American Championships (Panama) R.R.,41301,COTE Pier-André,26176,1,0,23/04/2023,niet verkocht
+2,CC2,Pan-American Championships (Panama) R.R.,41301,TIVANI PEREZ German Nicolas,22472,0.0,0,23/04/2023,niet verkocht
+3,CC2,Pan-American Championships (Panama) R.R.,41301,CHRETIEN Charles-Etienne,27729,0.0,0,23/04/2023,niet verkocht
+4,CC2,Pan-American Championships (Panama) R.R.,41301,FAGUNDEZ LIMA Eric Antonio,28445,0.0,0,23/04/2023,niet verkocht
+5,CC2,Pan-American Championships (Panama) R.R.,41301,GUAMA DE LA CRUZ Bayron Patricio,5717,0.0,0,23/04/2023,niet verkocht
+6,CC2,Pan-American Championships (Panama) R.R.,41301,SESSLER Nicolas Mariotto,26198,0.0,0,23/04/2023,niet verkocht
+7,CC2,Pan-American Championships (Panama) R.R.,41301,BONILLA QUIROS Daniel Andres,23672,0.0,0,23/04/2023,niet verkocht
+8,CC2,Pan-American Championships (Panama) R.R.,41301,MONTERROSO MONTERROSO Dorian Javier,20143,0.0,0,23/04/2023,niet verkocht
+9,CC2,Pan-American Championships (Panama) R.R.,41301,ROSA Cristian Egidio,10614,0.0,0,23/04/2023,niet verkocht
+10,CC2,Pan-American Championships (Panama) R.R.,41301,PADILLA MIRANDA Julio Estuardo,19938,0.0,0,23/04/2023,niet verkocht
+1,2.PS,"Tour of the Alps, General classification",41239,GEOGHEGAN HART Tao,22018,4,50,21/04/2023,Paul
+2,2.PS,"Tour of the Alps, General classification",41239,CARTHY Hugh,21014,1,35,21/04/2023,Bram
+3,2.PS,"Tour of the Alps, General classification",41239,HAIG Jack,21212,0.5,25,21/04/2023,Paul
+4,2.PS,"Tour of the Alps, General classification",41239,CEPEDA ORTIZ Jefferson Alexander,26775,0,20,21/04/2023,niet verkocht
+5,2.PS,"Tour of the Alps, General classification",41239,FORTUNATO Lorenzo,25552,0,18,21/04/2023,niet verkocht
+6,2.PS,"Tour of the Alps, General classification",41239,KÄMNA Lennard,23427,0,16,21/04/2023,Jan
+7,2.PS,"Tour of the Alps, General classification",41239,SIVAKOV Pavel,24934,0,14,21/04/2023,Paul
+8,2.PS,"Tour of the Alps, General classification",41239,BUITRAGO SANCHEZ Santiago,29699,0,12,21/04/2023,Jan
+9,2.PS,"Tour of the Alps, General classification",41239,GALL Felix,26383,0,10,21/04/2023,niet verkocht
+10,2.PS,"Tour of the Alps, General classification",41239,TRAEEN Torstein,24068,0,8,21/04/2023,niet verkocht
+1,2.PSs,"Tour of the Alps, Stage 5 : Cavalese - Brunico",41238,CARR Simon,30010,0.3,0,21/04/2023,niet verkocht
+1,2.PSs,"Tour of the Alps, Stage 4 : Rovereto - Predazzo",41237,MÜHLBERGER Gregor,21128,0.3,0,20/04/2023,niet verkocht
+1,1.WT2,Flèche Wallonne,41181,POGACAR Tadej,26526,10,50,19/04/2023,Kees
+2,1.WT2,Flèche Wallonne,41181,SKJELMOSE JENSEN Mattias,30166,3,35,19/04/2023,Kaspar
+3,1.WT2,Flèche Wallonne,41181,LANDA MEANA Mikel,14319,1,25,19/04/2023,Harry
+4,1.WT2,Flèche Wallonne,41181,WOODS Michael,20257,0.5,20,19/04/2023,Albert
+5,1.WT2,Flèche Wallonne,41181,CICCONE Giulio,21812,0.2,18,19/04/2023,Nicky
+6,1.WT2,Flèche Wallonne,41181,LAFAY Victor,26197,0,16,19/04/2023,Jan
+7,1.WT2,Flèche Wallonne,41181,BENOOT Tiesj,21244,0,14,19/04/2023,Paul
+8,1.WT2,Flèche Wallonne,41181,VAN GILS Maxim,28521,0,12,19/04/2023,niet verkocht
+9,1.WT2,Flèche Wallonne,41181,BARDET Romain,13566,0,10,19/04/2023,Jan
+10,1.WT2,Flèche Wallonne,41181,BARGUIL Warren,17627,0,8,19/04/2023,Nicky
+1,2.PSs,"Tour of the Alps, Stage 3 : Ritten - Brentonico San Valentino",41236,KÄMNA Lennard,23427,0.3,0,19/04/2023,Jan
+1,CCT2,Pan-American Championships (Panama) I.T.T.,41302,VARGAS ALZATE Walter Alejandro,23536,0.5,0,19/04/2023,niet verkocht
+1,2.PSs,"Tour of the Alps, Stage 2 : Reith im Alpbachtal - Ritten",41235,GEOGHEGAN HART Tao,22018,0.3,0,18/04/2023,Paul
+1,2.PSs,"Tour of the Alps, Stage 1 : Rattenberg - Alpbach",41234,GEOGHEGAN HART Tao,22018,0.3,0,17/04/2023,Paul
+1,NCT5,National Championships Zimbabwe (Bulawayo) I.T.T. (prov.),41454,SIBANDA Mthokozisi,23094,0.5,0,17/04/2023,niet verkocht
+1,1.WT1,Amstel Gold Race,41179,POGACAR Tadej,26526,15,50,16/04/2023,Kees
+2,1.WT1,Amstel Gold Race,41179,HEALY Ben,28846,3,35,16/04/2023,niet verkocht
+3,1.WT1,Amstel Gold Race,41179,PIDCOCK Thomas,27708,2,25,16/04/2023,Albert
+4,1.WT1,Amstel Gold Race,41179,KRON Andreas Lorentz,26420,1,20,16/04/2023,Paul
+5,1.WT1,Amstel Gold Race,41179,LUTSENKO Alexey,18455,0.5,18,16/04/2023,Vel
+6,1.WT1,Amstel Gold Race,41179,BAGIOLI Andrea,28452,0,16,16/04/2023,Albert
+7,1.WT1,Amstel Gold Race,41179,VAN GILS Maxim,28521,0,14,16/04/2023,niet verkocht
+8,1.WT1,Amstel Gold Race,41179,SKJELMOSE JENSEN Mattias,30166,0,12,16/04/2023,Kaspar
+9,1.WT1,Amstel Gold Race,41179,KAMP Alexander,19391,0,10,16/04/2023,niet verkocht
+10,1.WT1,Amstel Gold Race,41179,ZINGLE Axel,31263,0,8,16/04/2023,Paul
+1,1.1,Giro di Reggio Calabria,41448,RESTREPO VALENCIA Jhonatan,24720,2,0,16/04/2023,niet verkocht
+2,1.1,Giro di Reggio Calabria,41448,TIVANI PEREZ German Nicolas,22472,0.3,0,16/04/2023,niet verkocht
+3,1.1,Giro di Reggio Calabria,41448,MAESTRI Mirco,20073,0.1,0,16/04/2023,niet verkocht
+1,1.1,Tour du Doubs,41180,HERRADA LOPEZ Jesus,17534,2,0,16/04/2023,Paul
+2,1.1,Tour du Doubs,41180,PINOT Thibaut,13080,0.3,0,16/04/2023,Nicky
+3,1.1,Tour du Doubs,41180,PETERS Nans,22703,0.1,0,16/04/2023,niet verkocht
+1,1.1,Tour du Jura,41177,VAUQUELIN Kévin,31264,2,0,15/04/2023,Albert
+2,1.1,Tour du Jura,41177,PINOT Thibaut,13080,0.3,0,15/04/2023,Nicky
+3,1.1,Tour du Jura,41177,MARTIN Guillaume,19994,0.1,0,15/04/2023,Jan
+1,2.1,"Giro di Sicilia , General classification",41227,LUTSENKO Alexey,18455,2,0,14/04/2023,Vel
+2,2.1,"Giro di Sicilia , General classification",41227,MEINTJES Louis,18413,0.3,0,14/04/2023,Wijnand
+3,2.1,"Giro di Sicilia , General classification",41227,ALBANESE Vincenzo,24139,0.1,0,14/04/2023,Harry
+1,1.1,Classic Grand Besançon Doubs,41176,LAFAY Victor,26197,2,0,14/04/2023,Jan
+2,1.1,Classic Grand Besançon Doubs,41176,MARTINEZ Lenny,32721,0.3,0,14/04/2023,Kees
+3,1.1,Classic Grand Besançon Doubs,41176,ADRIA OLIVERAS Roger,27469,0.1,0,14/04/2023,niet verkocht
+1,2.1s,"Giro di Sicilia , Stage 4 : Barcellona Pozzo di Gotto - Giarre",41226,LUTSENKO Alexey,18455,0.2,0,14/04/2023,Vel
+1,2.1s,"Giro di Sicilia , Stage 3 : Enna - Termini Imerse",41225,SUTER Joël,27256,0.2,0,13/04/2023,niet verkocht
+1,1.PS,Brabantse Pijl,41175,GODON Dorian,25704,4,50,12/04/2023,niet verkocht
+2,1.PS,Brabantse Pijl,41175,HEALY Ben,28846,1,35,12/04/2023,niet verkocht
+3,1.PS,Brabantse Pijl,41175,COSNEFROY Benoît,24189,0.5,25,12/04/2023,PB
+4,1.PS,Brabantse Pijl,41175,CAVAGNA Rémi,22910,0,20,12/04/2023,Harry
+5,1.PS,Brabantse Pijl,41175,ZINGLE Axel,31263,0,18,12/04/2023,Paul
+6,1.PS,Brabantse Pijl,41175,KAMP Alexander,19391,0,16,12/04/2023,niet verkocht
+7,1.PS,Brabantse Pijl,41175,DE LIE Arnaud,32221,0,14,12/04/2023,Wijnand
+8,1.PS,Brabantse Pijl,41175,BAGIOLI Andrea,28452,0,12,12/04/2023,Albert
+9,1.PS,Brabantse Pijl,41175,SKUJINS Toms,16739,0,10,12/04/2023,Kees
+10,1.PS,Brabantse Pijl,41175,HEIDUK Kim,29436,0,8,12/04/2023,Albert
+1,2.1s,"Giro di Sicilia , Stage 2 : Canicatti - Vittoria",41224,BONIFAZIO Niccolo,20102,0.2,0,12/04/2023,niet verkocht
+1,1.1,Paris - Camembert,41174,FERRON Valentin,28375,2,0,11/04/2023,niet verkocht
+2,1.1,Paris - Camembert,41174,COSTIOU Ewen,32834,0.3,0,11/04/2023,niet verkocht
+3,1.1,Paris - Camembert,41174,DVERSNES Fredrik,28553,0.1,0,11/04/2023,niet verkocht
+1,2.1s,"Giro di Sicilia , Stage 1 : Marsala - Agrigento",41223,FISHER-BLACK Finn,30562,0.2,0,11/04/2023,Jan
+1,1.WT1,Paris - Roubaix,41173,VAN DER POEL Mathieu,21971,15,50,9/04/2023,Vel
+2,1.WT1,Paris - Roubaix,41173,PHILIPSEN Jasper,26392,3,35,9/04/2023,Nicky
+3,1.WT1,Paris - Roubaix,41173,VAN AERT Wout,20730,2,25,9/04/2023,Frank
+4,1.WT1,Paris - Roubaix,41173,PEDERSEN Mads,21992,1,20,9/04/2023,Harry
+5,1.WT1,Paris - Roubaix,41173,KÜNG Stefan,20960,0.5,18,9/04/2023,PB
+6,1.WT1,Paris - Roubaix,41173,GANNA Filippo,24057,0,16,9/04/2023,Jan
+7,1.WT1,Paris - Roubaix,41173,DEGENKOLB John,9851,0,14,9/04/2023,Kaspar
+8,1.WT1,Paris - Roubaix,41173,WALSCHEID Maximilian,19646,0,12,9/04/2023,PB
+9,1.WT1,Paris - Roubaix,41173,REX Laurenz,28442,0,10,9/04/2023,niet verkocht
+10,1.WT1,Paris - Roubaix,41173,LAPORTE Christophe,19953,0,8,9/04/2023,Kaspar
+1,2.WT1,"Itzulia Basque Country, General classification",41210,VINGEGAARD RASMUSSEN Jonas,25740,10,50,8/04/2023,Arjan
+2,2.WT1,"Itzulia Basque Country, General classification",41210,LANDA MEANA Mikel,14319,3,35,8/04/2023,Harry
+3,2.WT1,"Itzulia Basque Country, General classification",41210,IZAGIRRE INSAUSTI Ion,14321,1,25,8/04/2023,Harry
+4,2.WT1,"Itzulia Basque Country, General classification",41210,GAUDU David,24255,0.5,20,8/04/2023,Nicky
+5,2.WT1,"Itzulia Basque Country, General classification",41210,MAS NICOLAU Enric,22794,0.2,18,8/04/2023,PB
+6,2.WT1,"Itzulia Basque Country, General classification",41210,HIGUITA GARCIA Sergio Andres,25026,0,16,8/04/2023,Kaspar
+7,2.WT1,"Itzulia Basque Country, General classification",41210,MCNULTY Brandon,26508,0,14,8/04/2023,Kees
+8,2.WT1,"Itzulia Basque Country, General classification",41210,KNOX James,23403,0,12,8/04/2023,niet verkocht
+9,2.WT1,"Itzulia Basque Country, General classification",41210,YATES Simon,17893,0,10,8/04/2023,PB
+10,2.WT1,"Itzulia Basque Country, General classification",41210,GALL Felix,26383,0,8,8/04/2023,niet verkocht
+1,2.WT1s,"Itzulia Basque Country, Stage 6 : Eibar - Eibar",41209,VINGEGAARD RASMUSSEN Jonas,25740,1,0,8/04/2023,Arjan
+1,2.WT2r,"Itzulia Basque Country, Mountains classification",41212,BARRENETXEA GOLZARRI Jon,31685,0.0,0,8/04/2023,niet verkocht
+1,2.WT2r,"Itzulia Basque Country, Points classification",41211,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0,8/04/2023,Arjan
+1,2.WT1s,"Itzulia Basque Country, Stage 5 : Amorebieta - Amorebieta",41208,HIGUITA GARCIA Sergio Andres,25026,1,0,7/04/2023,Kaspar
+1,2.1,"Région Pays de la Loire Tour, General classification",41217,KAMP Alexander,19391,2,0,7/04/2023,niet verkocht
+2,2.1,"Région Pays de la Loire Tour, General classification",41217,DVERSNES Fredrik,28553,0.3,0,7/04/2023,niet verkocht
+3,2.1,"Région Pays de la Loire Tour, General classification",41217,FERRON Valentin,28375,0.1,0,7/04/2023,niet verkocht
+1,2.1s,"Région Pays de la Loire Tour, Stage 4 : Sablé-sur-Sarthe - Le Mans",41216,DVERSNES Fredrik,28553,0.2,0,7/04/2023,niet verkocht
+1,2.WT1s,"Itzulia Basque Country, Stage 4 : Santurizi - Santurizi",41207,VINGEGAARD RASMUSSEN Jonas,25740,1,0,6/04/2023,Arjan
+1,2.1,"Tour of Thailand, General classification",41203,BATSAIKHAN Tegshbayar,27699,2,0,6/04/2023,niet verkocht
+2,2.1,"Tour of Thailand, General classification",41203,SAINBAYAR Jambaljamts,24289,0.3,0,6/04/2023,niet verkocht
+3,2.1,"Tour of Thailand, General classification",41203,KOISHI Yuma,21852,0.1,0,6/04/2023,niet verkocht
+1,2.1s,"Région Pays de la Loire Tour, Stage 3 : Baugé-en-Anjou - Mayenne",41215,COQUARD Bryan,18714,0.2,0,6/04/2023,Jan
+1,2.1s,"Tour of Thailand, Stage 6 : Chanthaburi - Rayong",41202,SIRIRONNACHAI Sarawut,18945,0.2,0,6/04/2023,niet verkocht
+1,2.WT1s,"Itzulia Basque Country, Stage 3 : Errenteria - Villabona",41206,VINGEGAARD RASMUSSEN Jonas,25740,1,0,5/04/2023,Arjan
+1,1.PS,Scheldeprijs,41172,PHILIPSEN Jasper,26392,4,50,5/04/2023,Nicky
+2,1.PS,Scheldeprijs,41172,WELSFORD Samuel,23517,1,35,5/04/2023,PB
+3,1.PS,Scheldeprijs,41172,CAVENDISH Mark,3448,0.5,25,5/04/2023,Kaspar
+4,1.PS,Scheldeprijs,41172,GROENEWEGEN Dylan,19238,0,20,5/04/2023,Frank
+5,1.PS,Scheldeprijs,41172,THIJSSEN Gerben,27085,0,18,5/04/2023,Albert
+6,1.PS,Scheldeprijs,41172,THEUNS Edward,16697,0,16,5/04/2023,Harry
+7,1.PS,Scheldeprijs,41172,EWAN Caleb,19651,0,14,5/04/2023,Paul
+8,1.PS,Scheldeprijs,41172,WALSCHEID Maximilian,19646,0,12,5/04/2023,PB
+9,1.PS,Scheldeprijs,41172,EINHORN Itamar,27315,0,10,5/04/2023,niet verkocht
+10,1.PS,Scheldeprijs,41172,NIZZOLO Giacomo,13863,0,8,5/04/2023,PB
+1,2.1s,"Région Pays de la Loire Tour, Stage 2 : Clisson - Le Lion-dAngers",41214,BLIKRA Erlend Jordbrekk,25761,0.2,0,5/04/2023,niet verkocht
+1,2.1s,"Tour of Thailand, Stage 5 : Aranyaprathet - Chanthaburi",41201,JANG Kyung-gu,12885,0.2,0,5/04/2023,niet verkocht
+1,2.WT1s,"Itzulia Basque Country, Stage 2 : Viana - Leitza (prov.)",41205,SCHELLING Ide,26301,1,0,4/04/2023,Harry
+1,2.1s,"Région Pays de la Loire Tour, Stage 1 : Saint-Nazaire - Saint-Gilles-Croix-de-Vie",41213,COQUARD Bryan,18714,0.2,0,4/04/2023,Jan
+1,2.1s,"Tour of Thailand, Stage 4 : Khao Yai - Aranyaprathet",41200,KUSUMA Terry,33545,0.2,0,4/04/2023,niet verkocht
+1,2.WT1s,"Itzulia Basque Country, Stage 1 : Vitoria - Labastida (prov.)",41204,HAYTER Ethan,27025,1,0,3/04/2023,Jan
+1,2.1s,"Tour of Thailand, Stage 3 : Phra Nakhon Sri Ayutthaya - Khao Yai",41199,KUZMIN Anton,24277,0.2,0,3/04/2023,niet verkocht
+1,1.WT1,Ronde van Vlaanderen,41171,POGACAR Tadej,26526,15,50,2/04/2023,Kees
+2,1.WT1,Ronde van Vlaanderen,41171,VAN DER POEL Mathieu,21971,3,35,2/04/2023,Vel
+3,1.WT1,Ronde van Vlaanderen,41171,PEDERSEN Mads,21992,2,25,2/04/2023,Harry
+4,1.WT1,Ronde van Vlaanderen,41171,VAN AERT Wout,20730,1,20,2/04/2023,Frank
+5,1.WT1,Ronde van Vlaanderen,41171,POWLESS Neilson,24902,0.5,18,2/04/2023,Harry
+6,1.WT1,Ronde van Vlaanderen,41171,KÜNG Stefan,20960,0,16,2/04/2023,PB
+7,1.WT1,Ronde van Vlaanderen,41171,ASGREEN Kasper,23558,0,14,2/04/2023,Nicky
+8,1.WT1,Ronde van Vlaanderen,41171,WRIGHT Fred,28446,0,12,2/04/2023,Jan
+9,1.WT1,Ronde van Vlaanderen,41171,JORGENSON Matteo,28057,0,10,2/04/2023,Albert
+10,1.WT1,Ronde van Vlaanderen,41171,TRENTIN Matteo,13270,0,8,2/04/2023,Nicky
+1,2.1s,"Tour of Thailand, Stage 2 : Kanchanaburi - Phra Nakhon Sri Ayutthaya",41198,SUNDERLAND Dylan,23947,0.2,0,2/04/2023,niet verkocht
+1,1.PS,GP Miguel Indurain,41170,IZAGIRRE INSAUSTI Ion,14321,4,50,1/04/2023,Harry
+2,1.PS,GP Miguel Indurain,41170,HIGUITA GARCIA Sergio Andres,25026,1,35,1/04/2023,Kaspar
+3,1.PS,GP Miguel Indurain,41170,SKJELMOSE JENSEN Mattias,30166,0.5,25,1/04/2023,Kaspar
+4,1.PS,GP Miguel Indurain,41170,KRON Andreas Lorentz,26420,0,20,1/04/2023,Paul
+5,1.PS,GP Miguel Indurain,41170,ADRIA OLIVERAS Roger,27469,0,18,1/04/2023,niet verkocht
+6,1.PS,GP Miguel Indurain,41170,ARANBURU DEBA Alexander,23940,0,16,1/04/2023,Jan
+7,1.PS,GP Miguel Indurain,41170,STRONG Corbin,29492,0,14,1/04/2023,PB
+8,1.PS,GP Miguel Indurain,41170,GESBERT Elie,22912,0,12,1/04/2023,niet verkocht
+9,1.PS,GP Miguel Indurain,41170,GALL Felix,26383,0,10,1/04/2023,niet verkocht
+10,1.PS,GP Miguel Indurain,41170,SCARONI Christian,27002,0,8,1/04/2023,niet verkocht
+1,1.1,Volta Limburg Classic,41169,GROVES Kaden,26637,2,0,1/04/2023,Vel
+2,1.1,Volta Limburg Classic,41169,VAN GILS Maxim,28521,0.3,0,1/04/2023,niet verkocht
+3,1.1,Volta Limburg Classic,41169,EENKHOORN Pascal,24932,0.1,0,1/04/2023,Harry
+1,2.1s,"Tour of Thailand, Stage 1 : Kanchanaburi - Kanchanaburi (prov.)",41197,BATSAIKHAN Tegshbayar,27699,0.2,0,1/04/2023,niet verkocht
+1,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,WALSH Liam,30946,1,0,1/04/2023,niet verkocht
+2,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,GILMORE Brady,33579,0.0,0,1/04/2023,niet verkocht
+3,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,SEXTON Tom,31893,0.0,0,1/04/2023,niet verkocht
+4,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,TREZISE Declan,31910,0.0,0,1/04/2023,niet verkocht
+5,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,MCKENZIE Hamish,34714,0.0,0,1/04/2023,niet verkocht
+6,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,JACKSON George,31889,0.0,0,1/04/2023,niet verkocht
+7,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,VILLANI Jordan,29553,0.0,0,1/04/2023,niet verkocht
+8,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,MOREY Drew,25476,0.0,0,1/04/2023,niet verkocht
+9,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,HEFFERNAN William,34631,0.0,0,1/04/2023,niet verkocht
+10,CC2,Oceania Cycling Championships (Brisbane) R.R.,41190,FLEMING Riley,30958,0.0,0,1/04/2023,niet verkocht
+1,1.1,Route Adélie de Vitré,41068,DVERSNES Fredrik,28553,2,0,31/03/2023,niet verkocht
+2,1.1,Route Adélie de Vitré,41068,VAUQUELIN Kévin,31264,0.3,0,31/03/2023,Albert
+3,1.1,Route Adélie de Vitré,41068,BARRE Louis,30055,0.1,0,31/03/2023,niet verkocht
+1,CCT2,Oceania Cycling Championships (Burbank) I.T.T.,41189,GILMORE Brady,33579,0.5,0,30/03/2023,niet verkocht
+1,1.WT3,Dwars door Vlaanderen,41067,LAPORTE Christophe,19953,5,50,29/03/2023,Kaspar
+2,1.WT3,Dwars door Vlaanderen,41067,LAZKANO LOPEZ Oier,30595,2,35,29/03/2023,niet verkocht
+3,1.WT3,Dwars door Vlaanderen,41067,POWLESS Neilson,24902,1,25,29/03/2023,Harry
+4,1.WT3,Dwars door Vlaanderen,41067,PHILIPSEN Jasper,26392,0,20,29/03/2023,Nicky
+5,1.WT3,Dwars door Vlaanderen,41067,PEDERSEN Mads,21992,0,18,29/03/2023,Harry
+6,1.WT3,Dwars door Vlaanderen,41067,DE LIE Arnaud,32221,0,16,29/03/2023,Wijnand
+7,1.WT3,Dwars door Vlaanderen,41067,BALLERINI Davide,22020,0,14,29/03/2023,Harry
+8,1.WT3,Dwars door Vlaanderen,41067,PASQUALON Andrea,10220,0,12,29/03/2023,niet verkocht
+9,1.WT3,Dwars door Vlaanderen,41067,BOIVIN Guillaume,10856,0,10,29/03/2023,niet verkocht
+10,1.WT3,Dwars door Vlaanderen,41067,POLITT Nils,20847,0,8,29/03/2023,Albert
+1,2.WT1,"Volta a Catalunya, General classification",41141,ROGLIC Primoz,20719,10,50,26/03/2023,Bram
+2,2.WT1,"Volta a Catalunya, General classification",41141,EVENEPOEL Remco,28377,3,35,26/03/2023,Roy
+3,2.WT1,"Volta a Catalunya, General classification",41141,ALMEIDA Joao Pedro Gonçalves,26482,1,25,26/03/2023,Wijnand
+4,2.WT1,"Volta a Catalunya, General classification",41141,SOLER GIMENEZ Marc,23299,0.5,20,26/03/2023,Vel
+5,2.WT1,"Volta a Catalunya, General classification",41141,LANDA MEANA Mikel,14319,0.2,18,26/03/2023,Harry
+6,2.WT1,"Volta a Catalunya, General classification",41141,WOODS Michael,20257,0,16,26/03/2023,Albert
+7,2.WT1,"Volta a Catalunya, General classification",41141,CICCONE Giulio,21812,0,14,26/03/2023,Nicky
+8,2.WT1,"Volta a Catalunya, General classification",41141,HINDLEY Jai,23948,0,12,26/03/2023,Kaspar
+9,2.WT1,"Volta a Catalunya, General classification",41141,UIJTDEBROEKS Cian,31803,0,10,26/03/2023,Vel
+10,2.WT1,"Volta a Catalunya, General classification",41141,URAN URAN Rigoberto,4099,0,8,26/03/2023,Bram
+1,1.WT2,Gent - Wevelgem,41062,LAPORTE Christophe,19953,10,50,26/03/2023,Kaspar
+2,1.WT2,Gent - Wevelgem,41062,VAN AERT Wout,20730,3,35,26/03/2023,Frank
+3,1.WT2,Gent - Wevelgem,41062,VANMARCKE Sep,7728,1,25,26/03/2023,Jan
+4,1.WT2,Gent - Wevelgem,41062,FRISON Frederik,20643,0.5,20,26/03/2023,niet verkocht
+5,1.WT2,Gent - Wevelgem,41062,PEDERSEN Mads,21992,0.2,18,26/03/2023,Harry
+6,1.WT2,Gent - Wevelgem,41062,BJERG Mikkel,26388,0,16,26/03/2023,Kees
+7,1.WT2,Gent - Wevelgem,41062,RENARD Alexis,29969,0,14,26/03/2023,niet verkocht
+8,1.WT2,Gent - Wevelgem,41062,KOOIJ Olav,30643,0,12,26/03/2023,Albert
+9,1.WT2,Gent - Wevelgem,41062,VAN POPPEL Danny,19242,0,10,26/03/2023,Jan
+10,1.WT2,Gent - Wevelgem,41062,MCLAY Daniel,18498,0,8,26/03/2023,niet verkocht
+1,2.WT1s,"Volta a Catalunya, Stage 7 : Barcelona - Barcelona",41140,EVENEPOEL Remco,28377,1,0,26/03/2023,Roy
+1,2.WT2r,"Volta a Catalunya, Points classification",41142,ROGLIC Primoz,20719,0.0,0,26/03/2023,Bram
+1,2.WT2r,"Volta a Catalunya, Mountains classification",41143,EVENEPOEL Remco,28377,0.0,0,26/03/2023,Roy
+1,1.PS,GP Industria & Artigianato - Larciano,41065,HEALY Ben,28846,4,50,26/03/2023,niet verkocht
+2,1.PS,GP Industria & Artigianato - Larciano,41065,GEBREIGZABHIER Amanuel Werkilul,21482,1,35,26/03/2023,niet verkocht
+3,1.PS,GP Industria & Artigianato - Larciano,41065,STEWART Mark,23644,0.5,25,26/03/2023,niet verkocht
+4,1.PS,GP Industria & Artigianato - Larciano,41065,TESFATSION Natnael Ocbit,28234,0,20,26/03/2023,Kaspar
+5,1.PS,GP Industria & Artigianato - Larciano,41065,ULISSI Diego,10023,0,18,26/03/2023,Paul
+6,1.PS,GP Industria & Artigianato - Larciano,41065,GROSSSCHARTNER Felix,19548,0,16,26/03/2023,Albert
+7,1.PS,GP Industria & Artigianato - Larciano,41065,TIZZA Marco,19237,0,14,26/03/2023,niet verkocht
+8,1.PS,GP Industria & Artigianato - Larciano,41065,GALLOPIN Tony,7838,0,12,26/03/2023,niet verkocht
+9,1.PS,GP Industria & Artigianato - Larciano,41065,SCARONI Christian,27002,0,10,26/03/2023,niet verkocht
+10,1.PS,GP Industria & Artigianato - Larciano,41065,STEINHAUSER Georg,30721,0,8,26/03/2023,niet verkocht
+1,1.1,La Roue Tourangelle,41066,TOWNSEND Rory,25102,2,0,26/03/2023,niet verkocht
+2,1.1,La Roue Tourangelle,41066,THIJSSEN Gerben,27085,0.3,0,26/03/2023,Albert
+3,1.1,La Roue Tourangelle,41066,BARBIER Pierre,25501,0.1,0,26/03/2023,niet verkocht
+1,NC5,National Championships Argentina () R.R.,41299,DURAN Alejandro Antonio,22729,1,0,26/03/2023,niet verkocht
+1,NC5,National Championships Chile () R.R.,41297,LIRA EGUIGUREN Manuel Jose,32631,1,0,26/03/2023,niet verkocht
+1,2.WT1s,"Volta a Catalunya, Stage 6 : Martorell - Molins de Rei",41139,GROVES Kaden,26637,1,0,25/03/2023,Vel
+1,2.1,"Settimana Coppi e Bartali, General classification",41149,SCHMID Mauro,29214,2,0,25/03/2023,Jan
+2,2.1,"Settimana Coppi e Bartali, General classification",41149,SHAW James,24546,0.3,0,25/03/2023,niet verkocht
+3,2.1,"Settimana Coppi e Bartali, General classification",41149,HEALY Ben,28846,0.1,0,25/03/2023,niet verkocht
+1,2.1s,"Settimana Coppi e Bartali, Stage 5 : Carpi - Carpi I.T.T.",41148,CAVAGNA Rémi,22910,0.2,0,25/03/2023,Harry
+1,1.WT2,E3 Harelbeke,41060,VAN AERT Wout,20730,10,50,24/03/2023,Frank
+2,1.WT2,E3 Harelbeke,41060,VAN DER POEL Mathieu,21971,3,35,24/03/2023,Vel
+3,1.WT2,E3 Harelbeke,41060,POGACAR Tadej,26526,1,25,24/03/2023,Kees
+4,1.WT2,E3 Harelbeke,41060,JORGENSON Matteo,28057,0.5,20,24/03/2023,Albert
+5,1.WT2,E3 Harelbeke,41060,GARCIA CORTINA Ivan,23497,0.2,18,24/03/2023,PB
+6,1.WT2,E3 Harelbeke,41060,KÜNG Stefan,20960,0,16,24/03/2023,PB
+7,1.WT2,E3 Harelbeke,41060,MOHORIC Matej,21145,0,14,24/03/2023,Frank
+8,1.WT2,E3 Harelbeke,41060,MADOUAS Valentin,24758,0,12,24/03/2023,PB
+9,1.WT2,E3 Harelbeke,41060,ANDERSEN Søren Kragh,20793,0,10,24/03/2023,Vel
+10,1.WT2,E3 Harelbeke,41060,GANNA Filippo,24057,0,8,24/03/2023,Jan
+1,2.WT1s,"Volta a Catalunya, Stage 5 : Tortosa - Lo Port (prov.)",41138,ROGLIC Primoz,20719,1,0,24/03/2023,Bram
+1,2.1s,"Settimana Coppi e Bartali, Stage 4 : Fiorano Modenese - Fiorano Modenese",41147,GUERIN Alexis,20155,0.2,0,24/03/2023,niet verkocht
+1,2.WT1s,"Volta a Catalunya, Stage 4 : Llívia - Sabadell (prov.)",41137,GROVES Kaden,26637,1,0,23/03/2023,Vel
+1,2.1s,"Settimana Coppi e Bartali, Stage 3 : Forli - Forli (prov.)",41146,HEALY Ben,28846,0.2,0,23/03/2023,niet verkocht
+1,1.WT3,Classic Brugge - De Panne,41059,PHILIPSEN Jasper,26392,5,50,22/03/2023,Nicky
+2,1.WT3,Classic Brugge - De Panne,41059,KOOIJ Olav,30643,2,35,22/03/2023,Albert
+3,1.WT3,Classic Brugge - De Panne,41059,LAMPAERT Yves,19941,1,25,22/03/2023,Harry
+4,1.WT3,Classic Brugge - De Panne,41059,FRISON Frederik,20643,0,20,22/03/2023,niet verkocht
+5,1.WT3,Classic Brugge - De Panne,41059,JAKOBSEN Fabio,23426,0,18,22/03/2023,Kaspar
+6,1.WT3,Classic Brugge - De Panne,41059,RICKAERT Jonas,21374,0,16,22/03/2023,niet verkocht
+7,1.WT3,Classic Brugge - De Panne,41059,BEULLENS Cédric,25580,0,14,22/03/2023,niet verkocht
+8,1.WT3,Classic Brugge - De Panne,41059,EDVARDSEN-FREDHEIM Stian,32797,0,12,22/03/2023,niet verkocht
+9,1.WT3,Classic Brugge - De Panne,41059,MOLANO BENAVIDES Juan Sebastian,23463,0,10,22/03/2023,PB
+10,1.WT3,Classic Brugge - De Panne,41059,VAN DEN BERG Marijn,27674,0,8,22/03/2023,niet verkocht
+1,2.WT1s,"Volta a Catalunya, Stage 3 : Olost - La Molina (prov.)",41136,EVENEPOEL Remco,28377,1,0,22/03/2023,Roy
+1,2.1s,"Settimana Coppi e Bartali, Stage 2 : Riccione - Longiano (prov.)",41145,QUINN Sean,29331,0.2,0,22/03/2023,niet verkocht
+1,2.WT1s,"Volta a Catalunya, Stage 2 : Mataró - Vallter (prov.)",41135,CICCONE Giulio,21812,1,0,21/03/2023,Nicky
+1,2.1s,"Settimana Coppi e Bartali, Stage 1 : Riccione - Riccione (prov.)",41144,CAVAGNA Rémi,22910,0.2,0,21/03/2023,Harry
+1,2.WT1s,"Volta a Catalunya, Stage 1 : Sant Feliu de Guíxols - Sant Feliu de Guíxols (prov.)",41134,ROGLIC Primoz,20719,1,0,20/03/2023,Bram
+1,1.1,Per Sempre Alfredo,41054,ENGELHARDT Felix,29297,2,0,19/03/2023,niet verkocht
+2,1.1,Per Sempre Alfredo,41054,STEWART Mark,23644,0.3,0,19/03/2023,niet verkocht
+3,1.1,Per Sempre Alfredo,41054,FOLDAGER Anders,31400,0.1,0,19/03/2023,niet verkocht
+1,1.1,GP Cholet - Pays de Loire,41055,PITHIE Laurence,31638,2,0,19/03/2023,niet verkocht
+2,1.1,GP Cholet - Pays de Loire,41055,PEREZ Anthony,17632,0.3,0,19/03/2023,niet verkocht
+3,1.1,GP Cholet - Pays de Loire,41055,MANZIN Lorrenzo,21343,0.1,0,19/03/2023,niet verkocht
+1,1.WT1,Milano - Sanremo,41053,VAN DER POEL Mathieu,21971,15,50,18/03/2023,Vel
+2,1.WT1,Milano - Sanremo,41053,GANNA Filippo,24057,3,35,18/03/2023,Jan
+3,1.WT1,Milano - Sanremo,41053,VAN AERT Wout,20730,2,25,18/03/2023,Frank
+4,1.WT1,Milano - Sanremo,41053,POGACAR Tadej,26526,1,20,18/03/2023,Kees
+5,1.WT1,Milano - Sanremo,41053,ANDERSEN Søren Kragh,20793,0.5,18,18/03/2023,Vel
+6,1.WT1,Milano - Sanremo,41053,PEDERSEN Mads,21992,0,16,18/03/2023,Harry
+7,1.WT1,Milano - Sanremo,41053,POWLESS Neilson,24902,0,14,18/03/2023,Harry
+8,1.WT1,Milano - Sanremo,41053,MOHORIC Matej,21145,0,12,18/03/2023,Frank
+9,1.WT1,Milano - Sanremo,41053,TURGIS Anthony,21312,0,10,18/03/2023,Vel
+10,1.WT1,Milano - Sanremo,41053,STUYVEN Jasper,18233,0,8,18/03/2023,PB
+1,1.1,Classic Loire Atlantique,41052,ZINGLE Axel,31263,2,0,18/03/2023,Paul
+2,1.1,Classic Loire Atlantique,41052,PITHIE Laurence,31638,0.3,0,18/03/2023,niet verkocht
+3,1.1,Classic Loire Atlantique,41052,ZIJLAARD Maikel,27649,0.1,0,18/03/2023,niet verkocht
+1,NC5,National Championships Qatar (Al Thakira) R.R.,41294,ELBOURDAINY Ahmed Bassam,12959,1,0,18/03/2023,niet verkocht
+1,1.PS,Bredene Koksijde Classic,41050,THIJSSEN Gerben,27085,4,50,17/03/2023,Albert
+2,1.PS,Bredene Koksijde Classic,41050,ACKERMANN Pascal,20917,1,35,17/03/2023,Vel
+3,1.PS,Bredene Koksijde Classic,41050,WELSFORD Samuel,23517,0.5,25,17/03/2023,PB
+4,1.PS,Bredene Koksijde Classic,41050,TAMINIAUX Lionel,23416,0,20,17/03/2023,niet verkocht
+5,1.PS,Bredene Koksijde Classic,41050,MARECZKO Jakub,22713,0,18,17/03/2023,Harry
+6,1.PS,Bredene Koksijde Classic,41050,SELIG Rüdiger,10954,0,16,17/03/2023,niet verkocht
+7,1.PS,Bredene Koksijde Classic,41050,MOLANO BENAVIDES Juan Sebastian,23463,0,14,17/03/2023,PB
+8,1.PS,Bredene Koksijde Classic,41050,FLYNN Sean,29931,0,12,17/03/2023,niet verkocht
+9,1.PS,Bredene Koksijde Classic,41050,HALVORSEN Kristoffer,23425,0,10,17/03/2023,niet verkocht
+10,1.PS,Bredene Koksijde Classic,41050,THEUNS Edward,16697,0,8,17/03/2023,Harry
+1,1.PS,GP de Denain - Porte du Hainaut,41048,MOLANO BENAVIDES Juan Sebastian,23463,4,50,16/03/2023,PB
+2,1.PS,GP de Denain - Porte du Hainaut,41048,VAN DIJKE Tim,30642,1,35,16/03/2023,niet verkocht
+3,1.PS,GP de Denain - Porte du Hainaut,41048,KIELICH Timo,28189,0.5,25,16/03/2023,niet verkocht
+4,1.PS,GP de Denain - Porte du Hainaut,41048,BOASSON HAGEN Edvald,4377,0,20,16/03/2023,Bram
+5,1.PS,GP de Denain - Porte du Hainaut,41048,BJERG Mikkel,26388,0,18,16/03/2023,Kees
+6,1.PS,GP de Denain - Porte du Hainaut,41048,WATSON Samuel,32161,0,16,16/03/2023,niet verkocht
+7,1.PS,GP de Denain - Porte du Hainaut,41048,MENTEN Milan,24180,0,14,16/03/2023,niet verkocht
+8,1.PS,GP de Denain - Porte du Hainaut,41048,VAN DER HOORN Taco,19897,0,12,16/03/2023,Nicky
+9,1.PS,GP de Denain - Porte du Hainaut,41048,GACHIGNARD Thomas,32640,0,10,16/03/2023,niet verkocht
+10,1.PS,GP de Denain - Porte du Hainaut,41048,LAPEIRA Paul,30615,0,8,16/03/2023,niet verkocht
+1,2.1,"Tour de Taiwan, General classification",41119,MEIJERS Jeroen,21376,2,0,16/03/2023,niet verkocht
+2,2.1,"Tour de Taiwan, General classification",41119,LOPEZ CARAVACA Jordi,31278,0.3,0,16/03/2023,niet verkocht
+3,2.1,"Tour de Taiwan, General classification",41119,PRADES REVERTER Benjami,8745,0.1,0,16/03/2023,niet verkocht
+1,2.1s,"Tour de Taiwan, Stage 5 : Kaohsiung - Kaohsiung",41118,ZANONCELLO Enrico,28364,0.2,0,16/03/2023,niet verkocht
+1,1.PS,Nokere Koerse,41047,MERLIER Tim,17988,4,50,15/03/2023,Wijnand
+2,1.PS,Nokere Koerse,41047,THEUNS Edward,16697,1,35,15/03/2023,Harry
+3,1.PS,Nokere Koerse,41047,MENTEN Milan,24180,0.5,25,15/03/2023,niet verkocht
+4,1.PS,Nokere Koerse,41047,KIELICH Timo,28189,0,20,15/03/2023,niet verkocht
+5,1.PS,Nokere Koerse,41047,ASKEY Lewis,30685,0,18,15/03/2023,niet verkocht
+6,1.PS,Nokere Koerse,41047,VANMARCKE Sep,7728,0,16,15/03/2023,Jan
+7,1.PS,Nokere Koerse,41047,BLOUWE Louis,29120,0,14,15/03/2023,niet verkocht
+8,1.PS,Nokere Koerse,41047,PITHIE Laurence,31638,0,12,15/03/2023,niet verkocht
+9,1.PS,Nokere Koerse,41047,NOPPE Christophe,22615,0,10,15/03/2023,niet verkocht
+10,1.PS,Nokere Koerse,41047,BAX Sjoerd,23306,0,8,15/03/2023,PB
+1,1.PS,Milano - Torino,41046,DE KLEIJN Arvid,22596,4,50,15/03/2023,niet verkocht
+2,1.PS,Milano - Torino,41046,GAVIRIA RENDON Fernando,20777,1,35,15/03/2023,Albert
+3,1.PS,Milano - Torino,41046,VAN UDEN Casper,30636,0.5,25,15/03/2023,Jan
+4,1.PS,Milano - Torino,41046,EINHORN Itamar,27315,0,20,15/03/2023,niet verkocht
+5,1.PS,Milano - Torino,41046,MOSCHETTI Matteo,27126,0,18,15/03/2023,niet verkocht
+6,1.PS,Milano - Torino,41046,BOUHANNI Nacer,16881,0,16,15/03/2023,Paul
+7,1.PS,Milano - Torino,41046,MEEUS Jordi,26421,0,14,15/03/2023,Vel
+8,1.PS,Milano - Torino,41046,VENDRAME Andrea,22170,0,12,15/03/2023,niet verkocht
+9,1.PS,Milano - Torino,41046,ABERASTURI IZAGA Jon,15286,0,10,15/03/2023,niet verkocht
+10,1.PS,Milano - Torino,41046,GROENEWEGEN Dylan,19238,0,8,15/03/2023,Frank
+1,2.1s,"Tour de Taiwan, Stage 4 : Nantou - Sun Moon Lake",41117,MEIJERS Jeroen,21376,0.2,0,15/03/2023,niet verkocht
+1,2.1s,"Tour de Taiwan, Stage 3 : Guangming - Taichung",41116,DE DECKER Tijl,33297,0.2,0,14/03/2023,niet verkocht
+1,2.1s,"Tour de Taiwan, Stage 2 : Taoyuan - Jiabonshan Park",41115,LOPEZ CARAVACA Jordi,31278,0.2,0,13/03/2023,niet verkocht
+1,2.WT1,"Tirreno - Adriatico, General classification",41095,ROGLIC Primoz,20719,10,50,12/03/2023,Bram
+2,2.WT1,"Tirreno - Adriatico, General classification",41095,ALMEIDA Joao Pedro Gonçalves,26482,3,35,12/03/2023,Wijnand
+3,2.WT1,"Tirreno - Adriatico, General classification",41095,GEOGHEGAN HART Tao,22018,1,25,12/03/2023,Paul
+4,2.WT1,"Tirreno - Adriatico, General classification",41095,KÄMNA Lennard,23427,0.5,20,12/03/2023,Jan
+5,2.WT1,"Tirreno - Adriatico, General classification",41095,CICCONE Giulio,21812,0.2,18,12/03/2023,Nicky
+6,2.WT1,"Tirreno - Adriatico, General classification",41095,MAS NICOLAU Enric,22794,0,16,12/03/2023,PB
+7,2.WT1,"Tirreno - Adriatico, General classification",41095,LANDA MEANA Mikel,14319,0,14,12/03/2023,Harry
+8,2.WT1,"Tirreno - Adriatico, General classification",41095,CARTHY Hugh,21014,0,12,12/03/2023,Bram
+9,2.WT1,"Tirreno - Adriatico, General classification",41095,VLASOV Aleksandr,24316,0,10,12/03/2023,Harry
+10,2.WT1,"Tirreno - Adriatico, General classification",41095,PINOT Thibaut,13080,0,8,12/03/2023,Nicky
+1,2.WT1,"Paris - Nice, General classification",41085,POGACAR Tadej,26526,10,50,12/03/2023,Kees
+2,2.WT1,"Paris - Nice, General classification",41085,GAUDU David,24255,3,35,12/03/2023,Nicky
+3,2.WT1,"Paris - Nice, General classification",41085,VINGEGAARD RASMUSSEN Jonas,25740,1,25,12/03/2023,Arjan
+4,2.WT1,"Paris - Nice, General classification",41085,YATES Simon,17893,0.5,20,12/03/2023,PB
+5,2.WT1,"Paris - Nice, General classification",41085,MÄDER Gino,26271,0.2,18,12/03/2023,Bram
+6,2.WT1,"Paris - Nice, General classification",41085,POWLESS Neilson,24902,0,16,12/03/2023,Harry
+7,2.WT1,"Paris - Nice, General classification",41085,BARDET Romain,13566,0,14,12/03/2023,Jan
+8,2.WT1,"Paris - Nice, General classification",41085,JORGENSON Matteo,28057,0,12,12/03/2023,Albert
+9,2.WT1,"Paris - Nice, General classification",41085,SIVAKOV Pavel,24934,0,10,12/03/2023,Paul
+10,2.WT1,"Paris - Nice, General classification",41085,HAIG Jack,21212,0,8,12/03/2023,Paul
+1,2.WT1s,"Tirreno - Adriatico, Stage 7 : San Benedetto del Tronto - San Benedetto del Tronto",41094,PHILIPSEN Jasper,26392,1,0,12/03/2023,Nicky
+1,2.WT1s,"Paris - Nice, Stage 8 : Nice - Nice",41084,POGACAR Tadej,26526,1,0,12/03/2023,Kees
+1,2.WT1r,"Tirreno - Adriatico, Mountains classification",41097,ROGLIC Primoz,20719,0.0,0,12/03/2023,Bram
+1,2.WT1r,"Tirreno - Adriatico, Points classification",41096,ROGLIC Primoz,20719,0.0,0,12/03/2023,Bram
+1,2.WT1r,"Paris - Nice, Points classification",41086,POGACAR Tadej,26526,0.0,0,12/03/2023,Kees
+1,2.WT1r,"Paris - Nice, Mountains classification",41087,GREGAARD WILSLY Jonas,23437,0.0,0,12/03/2023,niet verkocht
+1,1.1,Ronde van Drenthe,41044,HAGENES Per Strand,30442,2,0,12/03/2023,niet verkocht
+2,1.1,Ronde van Drenthe,41044,LUND ANDRESEN Tobias,31657,0.3,0,12/03/2023,niet verkocht
+3,1.1,Ronde van Drenthe,41044,DE VOS Adam,20291,0.1,0,12/03/2023,niet verkocht
+1,2.1s,"Tour de Taiwan, Stage 1 : Taipei - Taipei (prov.)",41114,EEFTING-BLOEM Roy,19243,0.2,0,12/03/2023,niet verkocht
+1,2.WT1s,"Paris - Nice, Stage 7 : Nice - Col de la Couillole",41083,POGACAR Tadej,26526,1,0,11/03/2023,Kees
+1,2.WT1s,"Tirreno - Adriatico, Stage 6 : Osimo Stazione - Osimo",41093,ROGLIC Primoz,20719,1,0,11/03/2023,Bram
+1,2.WT1s,"Paris - Nice, Stage 6 : Tourves - La Colle-sur-Loup",41082,no result,13543,1,0,10/03/2023,niet verkocht
+1,2.WT1s,"Tirreno - Adriatico, Stage 5 : Morro d'Oro - Sarnano-Sassotetto (prov.)",41092,ROGLIC Primoz,20719,1,0,10/03/2023,Bram
+1,2.WT1s,"Paris - Nice, Stage 5 : Saint-Symphorien-sur-Coise - Saint-Paul-Trois-Châteaux (prov.)",41081,KOOIJ Olav,30643,1,0,9/03/2023,Albert
+1,2.WT1s,"Tirreno - Adriatico, Stage 4 : Greccio - Tortoreto (prov.)",41091,ROGLIC Primoz,20719,1,0,9/03/2023,Bram
+1,2.WT1s,"Paris - Nice, Stage 4 : Saint-Amand-Montrond - La Loge des Gardes (prov.)",41080,POGACAR Tadej,26526,1,0,8/03/2023,Kees
+1,2.WT1s,"Tirreno - Adriatico, Stage 3 : Follonica - Foligno (prov.)",41090,PHILIPSEN Jasper,26392,1,0,8/03/2023,Nicky
+1,2.WT1s,"Tirreno - Adriatico, Stage 2 : Camaiore - Follonica (prov.)",41089,JAKOBSEN Fabio,23426,1,0,7/03/2023,Kaspar
+1,2.WT1s,"Tirreno - Adriatico, Stage 1 : Lido di Camaiore I.T.T. (prov.)",41088,GANNA Filippo,24057,1,0,6/03/2023,Jan
+1,2.WT1s,"Paris - Nice, Stage 2 : Bazainville - Fontainebleau (prov.)",41078,PEDERSEN Mads,21992,1,0,6/03/2023,Harry
+1,2.WT1s,"Paris - Nice, Stage 1 : La Verrière - La Verrière (prov.)",41077,MERLIER Tim,17988,1,0,5/03/2023,Wijnand
+1,1.1,GP Jean-Pierre Monseré,41042,THIJSSEN Gerben,27085,2,0,5/03/2023,Albert
+2,1.1,GP Jean-Pierre Monseré,41042,EWAN Caleb,19651,0.3,0,5/03/2023,Paul
+3,1.1,GP Jean-Pierre Monseré,41042,WELSFORD Samuel,23517,0.1,0,5/03/2023,PB
+1,1.WT2,Strade Bianche,41039,PIDCOCK Thomas,27708,10,50,4/03/2023,Albert
+2,1.WT2,Strade Bianche,41039,MADOUAS Valentin,24758,3,35,4/03/2023,PB
+3,1.WT2,Strade Bianche,41039,BENOOT Tiesj,21244,1,25,4/03/2023,Paul
+4,1.WT2,Strade Bianche,41039,COSTA Rui Alberto Faria,6807,0.5,20,4/03/2023,niet verkocht
+5,1.WT2,Strade Bianche,41039,VALTER Attila,27198,0.2,18,4/03/2023,Kees
+6,1.WT2,Strade Bianche,41039,MOHORIC Matej,21145,0,16,4/03/2023,Frank
+7,1.WT2,Strade Bianche,41039,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,14,4/03/2023,Jan
+8,1.WT2,Strade Bianche,41039,GREGOIRE Romain,32766,0,12,4/03/2023,niet verkocht
+9,1.WT2,Strade Bianche,41039,FORMOLO Davide,18749,0,10,4/03/2023,Nicky
+10,1.WT2,Strade Bianche,41039,KRON Andreas Lorentz,26420,0,8,4/03/2023,Paul
+1,1.1,GP Criquielion,41037,WELSFORD Samuel,23517,2,0,4/03/2023,PB
+2,1.1,GP Criquielion,41037,MENTEN Milan,24180,0.3,0,4/03/2023,niet verkocht
+3,1.1,GP Criquielion,41037,HALVORSEN Kristoffer,23425,0.1,0,4/03/2023,niet verkocht
+1,NC5,National Championships United Arab Emirates (Kalba) R.R. (prov.),40932,ALMANSOORI Ahmed,19635,1,0,4/03/2023,niet verkocht
+1,1.PS,Trofeo Laigueglia,41034,PETERS Nans,22703,4,50,1/03/2023,niet verkocht
+2,1.PS,Trofeo Laigueglia,41034,VENDRAME Andrea,22170,1,35,1/03/2023,niet verkocht
+3,1.PS,Trofeo Laigueglia,41034,COVI Alessandro,28298,0.5,25,1/03/2023,Jan
+4,1.PS,Trofeo Laigueglia,41034,ROTA Lorenzo,21958,0,20,1/03/2023,Paul
+5,1.PS,Trofeo Laigueglia,41034,CHAMPOUSSIN Clément,27153,0,18,1/03/2023,Jan
+6,1.PS,Trofeo Laigueglia,41034,GREGOIRE Romain,32766,0,16,1/03/2023,niet verkocht
+7,1.PS,Trofeo Laigueglia,41034,CEPEDA ORTIZ Jefferson Alexander,26775,0,14,1/03/2023,niet verkocht
+8,1.PS,Trofeo Laigueglia,41034,COSNEFROY Benoît,24189,0,12,1/03/2023,PB
+9,1.PS,Trofeo Laigueglia,41034,ULISSI Diego,10023,0,10,1/03/2023,Paul
+10,1.PS,Trofeo Laigueglia,41034,ZIMMERMANN Georg,25165,0,8,1/03/2023,niet verkocht
+1,1.1,Le Samyn,40947,MENTEN Milan,24180,2,0,28/02/2023,niet verkocht
+2,1.1,Le Samyn,40947,HOFSTETTER Hugo,22702,0.3,0,28/02/2023,Albert
+3,1.1,Le Samyn,40947,THEUNS Edward,16697,0.1,0,28/02/2023,Harry
+1,2.WT3,"UAE Tour, General classification",41016,EVENEPOEL Remco,28377,5,50,26/02/2023,Roy
+2,2.WT3,"UAE Tour, General classification",41016,PLAPP Lucas,29787,2,35,26/02/2023,Vel
+3,2.WT3,"UAE Tour, General classification",41016,YATES Adam,18975,1,25,26/02/2023,Paul
+4,2.WT3,"UAE Tour, General classification",41016,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,20,26/02/2023,Jan
+5,2.WT3,"UAE Tour, General classification",41016,KUSS Sepp,25653,0,18,26/02/2023,Nicky
+6,2.WT3,"UAE Tour, General classification",41016,POELS Wout,7751,0,16,26/02/2023,Roy
+7,2.WT3,"UAE Tour, General classification",41016,TIBERI Antonio,30649,0,14,26/02/2023,niet verkocht
+8,2.WT3,"UAE Tour, General classification",41016,ZWIEHOFF Ben,31491,0,12,26/02/2023,niet verkocht
+9,2.WT3,"UAE Tour, General classification",41016,BUCHMANN Emanuel,18739,0,10,26/02/2023,PB
+10,2.WT3,"UAE Tour, General classification",41016,VANHOUCKE Harm,25652,0,8,26/02/2023,niet verkocht
+1,2.WT3s,"UAE Tour, Stage 7 : Al Ain - Jebel Hafeet",41015,YATES Adam,18975,0.5,0,26/02/2023,Paul
+1,2.WT3r,"UAE Tour, Points classification",41017,MERLIER Tim,17988,0.0,0,26/02/2023,Wijnand
+1,1.PS,Faun Drôme Classic,40945,PEREZ Anthony,17632,4,50,26/02/2023,niet verkocht
+2,1.PS,Faun Drôme Classic,40945,COSTA Rui Alberto Faria,6807,1,35,26/02/2023,niet verkocht
+3,1.PS,Faun Drôme Classic,40945,BAGIOLI Andrea,28452,0.5,25,26/02/2023,Albert
+4,1.PS,Faun Drôme Classic,40945,GAUDU David,24255,0,20,26/02/2023,Nicky
+5,1.PS,Faun Drôme Classic,40945,SIMMONS Quinn,30666,0,18,26/02/2023,Bram
+6,1.PS,Faun Drôme Classic,40945,SKJELMOSE JENSEN Mattias,30166,0,16,26/02/2023,Kaspar
+7,1.PS,Faun Drôme Classic,40945,ZIMMERMANN Georg,25165,0,14,26/02/2023,niet verkocht
+8,1.PS,Faun Drôme Classic,40945,CLARKE Simon,3366,0,12,26/02/2023,PB
+9,1.PS,Faun Drôme Classic,40945,STRONG Corbin,29492,0,10,26/02/2023,PB
+10,1.PS,Faun Drôme Classic,40945,GODON Dorian,25704,0,8,26/02/2023,niet verkocht
+1,1.PS,Kuurne - Brussel - Kuurne,40943,BENOOT Tiesj,21244,4,50,26/02/2023,Paul
+2,1.PS,Kuurne - Brussel - Kuurne,40943,VAN HOOYDONCK Nathan,22015,1,35,26/02/2023,niet verkocht
+3,1.PS,Kuurne - Brussel - Kuurne,40943,MOHORIC Matej,21145,0.5,25,26/02/2023,Frank
+4,1.PS,Kuurne - Brussel - Kuurne,40943,VAN DER HOORN Taco,19897,0,20,26/02/2023,Nicky
+5,1.PS,Kuurne - Brussel - Kuurne,40943,WELLENS Tim,16722,0,18,26/02/2023,Albert
+6,1.PS,Kuurne - Brussel - Kuurne,40943,LAPORTE Christophe,19953,0,16,26/02/2023,Kaspar
+7,1.PS,Kuurne - Brussel - Kuurne,40943,DE LIE Arnaud,32221,0,14,26/02/2023,Wijnand
+8,1.PS,Kuurne - Brussel - Kuurne,40943,MEEUS Jordi,26421,0,12,26/02/2023,Vel
+9,1.PS,Kuurne - Brussel - Kuurne,40943,JAKOBSEN Fabio,23426,0,10,26/02/2023,Kaspar
+10,1.PS,Kuurne - Brussel - Kuurne,40943,STUYVEN Jasper,18233,0,8,26/02/2023,PB
+1,2.1,"O Gran Camiño, General classification",41022,VINGEGAARD RASMUSSEN Jonas,25740,2,0,26/02/2023,Arjan
+2,2.1,"O Gran Camiño, General classification",41022,HERRADA LOPEZ Jesus,17534,0.3,0,26/02/2023,Paul
+3,2.1,"O Gran Camiño, General classification",41022,GUERREIRO Ruben Antonio Almeida,22683,0.1,0,26/02/2023,Jan
+1,2.1,"Tour du Rwanda, General classification",41008,MULUBRHAN Henok,28186,2,0,26/02/2023,niet verkocht
+2,2.1,"Tour du Rwanda, General classification",41008,CALZONI Walter,32557,0.3,0,26/02/2023,niet verkocht
+3,2.1,"Tour du Rwanda, General classification",41008,LECERF William Junior,32229,0.1,0,26/02/2023,niet verkocht
+1,2.1s,"O Gran Camiño, Stage 4 : Novo Milladoiro - Santiago de Compostela I.T.T.",41021,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,26/02/2023,Arjan
+1,2.1s,"Tour du Rwanda, Stage 8 : Kigali - Kigali",41007,MULUBRHAN Henok,28186,0.2,0,26/02/2023,niet verkocht
+1,1.WT2,Omloop Het Nieuwsblad,40942,VAN BAARLE Dylan,17794,10,50,25/02/2023,Nicky
+2,1.WT2,Omloop Het Nieuwsblad,40942,DE LIE Arnaud,32221,3,35,25/02/2023,Wijnand
+3,1.WT2,Omloop Het Nieuwsblad,40942,LAPORTE Christophe,19953,1,25,25/02/2023,Kaspar
+4,1.WT2,Omloop Het Nieuwsblad,40942,KRISTOFF Alexander,4179,0.5,20,25/02/2023,Nicky
+5,1.WT2,Omloop Het Nieuwsblad,40942,PIDCOCK Thomas,27708,0.2,18,25/02/2023,Albert
+6,1.WT2,Omloop Het Nieuwsblad,40942,BALLERINI Davide,22020,0,16,25/02/2023,Harry
+7,1.WT2,Omloop Het Nieuwsblad,40942,POLITT Nils,20847,0,14,25/02/2023,Albert
+8,1.WT2,Omloop Het Nieuwsblad,40942,PASQUALON Andrea,10220,0,12,25/02/2023,niet verkocht
+9,1.WT2,Omloop Het Nieuwsblad,40942,OLIVEIRA Rui Filipe Alves,24030,0,10,25/02/2023,niet verkocht
+10,1.WT2,Omloop Het Nieuwsblad,40942,VANMARCKE Sep,7728,0,8,25/02/2023,Jan
+1,2.WT3s,"UAE Tour, Stage 6 : Abu Dhabi - Abu Dhabi",41014,MERLIER Tim,17988,0.5,0,25/02/2023,Wijnand
+1,1.PS,Faun Ardèche Classic,40944,ALAPHILIPPE Julian,18610,4,50,25/02/2023,Arjan
+2,1.PS,Faun Ardèche Classic,40944,GAUDU David,24255,1,35,25/02/2023,Nicky
+3,1.PS,Faun Ardèche Classic,40944,SKJELMOSE JENSEN Mattias,30166,0.5,25,25/02/2023,Kaspar
+4,1.PS,Faun Ardèche Classic,40944,LAFAY Victor,26197,0,20,25/02/2023,Jan
+5,1.PS,Faun Ardèche Classic,40944,GREGOIRE Romain,32766,0,18,25/02/2023,niet verkocht
+6,1.PS,Faun Ardèche Classic,40944,GALL Felix,26383,0,16,25/02/2023,niet verkocht
+7,1.PS,Faun Ardèche Classic,40944,ROTA Lorenzo,21958,0,14,25/02/2023,Paul
+8,1.PS,Faun Ardèche Classic,40944,MARTIN Guillaume,19994,0,12,25/02/2023,Jan
+9,1.PS,Faun Ardèche Classic,40944,COSTA Rui Alberto Faria,6807,0,10,25/02/2023,niet verkocht
+10,1.PS,Faun Ardèche Classic,40944,LATOUR Pierre,20156,0,8,25/02/2023,Kaspar
+1,2.1s,"Tour du Rwanda, Stage 7 : Nyamata - Mont Kigali",41006,TAROZZI Manuele,29884,0.2,0,25/02/2023,niet verkocht
+1,2.1s,"O Gran Camiño, Stage 3 : Esgos -Rubia",41020,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,25/02/2023,Arjan
+1,NCT5,National Championships United Arab Emirates (Nazwa) I.T.T.,40931,ALKAABI Saif Mayouf,26445,0.5,0,25/02/2023,niet verkocht
+1,2.WT3s,"UAE Tour, Stage 5 : Al Marjan Island - Umm Al Quwain",41013,GROENEWEGEN Dylan,19238,0.5,0,24/02/2023,Frank
+1,2.1s,"O Gran Camiño, Stage 2 : Tui - A Guarda",41019,VINGEGAARD RASMUSSEN Jonas,25740,0.2,0,24/02/2023,Arjan
+1,2.1s,"Tour du Rwanda, Stage 6 : Rubavu - Gicumbi",41005,BADILATTI Matteo,24246,0.2,0,24/02/2023,niet verkocht
+1,2.WT3s,"UAE Tour, Stage 4 : Al Shindagha - Dubai Harbour",41012,MOLANO BENAVIDES Juan Sebastian,23463,0.5,0,23/02/2023,PB
+1,2.1s,"O Gran Camiño, Stage 1 : Muralla de Lugo - Sarria",41018,no result,13543,0.2,0,23/02/2023,niet verkocht
+1,2.1s,"Tour du Rwanda, Stage 5 : Rusizi - Rubavu (prov.)",41004,ORMISTON Callum,29773,0.2,0,23/02/2023,niet verkocht
+1,2.WT3s,"UAE Tour, Stage 3 : Fujairah - Jebel Jais (prov.)",41011,RUBIO REYES Einer Augusto,27024,0.5,0,22/02/2023,Frank
+1,2.1s,"Tour du Rwanda, Stage 4 : Musanze - Karongi (prov.)",41003,BONNET Thomas,32240,0.2,0,22/02/2023,niet verkocht
+1,2.1s,"Tour du Rwanda, Stage 3 : Huye - Musanze (prov.)",41002,MULUBRHAN Henok,28186,0.2,0,21/02/2023,niet verkocht
+1,2.WT3s,"UAE Tour, Stage 1 : Al Dhafra Castle - Al Mirfa (prov.)",41009,MERLIER Tim,17988,0.5,0,20/02/2023,Wijnand
+1,2.1s,"Tour du Rwanda, Stage 2 : Kigali - Gisagara (prov.)",41001,VERNON Ethan,30035,0.2,0,20/02/2023,Arjan
+1,2.PS,"Volta ao Algarve, General classification",40989,MARTINEZ POVEDA Daniel Felipe,23503,4,50,19/02/2023,Bram
+2,2.PS,"Volta ao Algarve, General classification",40989,GANNA Filippo,24057,1,35,19/02/2023,Jan
+3,2.PS,"Volta ao Algarve, General classification",40989,VAN WILDER Ilan,29828,0.5,25,19/02/2023,Wijnand
+4,2.PS,"Volta ao Algarve, General classification",40989,FOSS Tobias Svendsen,24873,0,20,19/02/2023,Harry
+5,2.PS,"Volta ao Algarve, General classification",40989,KÜNG Stefan,20960,0,18,19/02/2023,PB
+6,2.PS,"Volta ao Algarve, General classification",40989,ALMEIDA Joao Pedro Gonçalves,26482,0,16,19/02/2023,Wijnand
+7,2.PS,"Volta ao Algarve, General classification",40989,PIDCOCK Thomas,27708,0,14,19/02/2023,Albert
+8,2.PS,"Volta ao Algarve, General classification",40989,MOLLEMA Bauke,5139,0,12,19/02/2023,Roy
+9,2.PS,"Volta ao Algarve, General classification",40989,CORT NIELSEN Magnus,19448,0,10,19/02/2023,Vel
+10,2.PS,"Volta ao Algarve, General classification",40989,COSTA Rui Alberto Faria,6807,0,8,19/02/2023,niet verkocht
+1,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,POGACAR Tadej,26526,4,50,19/02/2023,Kees
+2,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,LANDA MEANA Mikel,14319,1,35,19/02/2023,Harry
+3,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,BUITRAGO SANCHEZ Santiago,29699,0.5,25,19/02/2023,Jan
+4,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,RODRIGUEZ CANO Carlos,30836,0,20,19/02/2023,Roy
+5,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,MAS NICOLAU Enric,22794,0,18,19/02/2023,PB
+6,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,GEOGHEGAN HART Tao,22018,0,16,19/02/2023,Paul
+7,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,CARUSO Damiano,6177,0,14,19/02/2023,Jan
+8,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,ROTA Lorenzo,21958,0,12,19/02/2023,Paul
+9,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,KRON Andreas Lorentz,26420,0,10,19/02/2023,Paul
+10,2.PS,"Vuelta a Andalucia / Ruta Del Sol, General classification",40995,SIVAKOV Pavel,24934,0,8,19/02/2023,Paul
+1,2.PSs,"Volta ao Algarve, Stage 5 : Lagoa - Lagoa I.T.T.",40988,KÜNG Stefan,20960,0.3,0,19/02/2023,PB
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 5 : Otura - Alhaurin de la Torre",40994,FRAILE MATARRANZ Omar,19335,0.3,0,19/02/2023,Arjan
+1,2.1,"Tour des Alpes-Maritimes et du Var, General classification",40999,VAUQUELIN Kévin,31264,2,0,19/02/2023,Albert
+2,2.1,"Tour des Alpes-Maritimes et du Var, General classification",40999,PARET-PEINTRE Aurélien,24110,0.3,0,19/02/2023,Nicky
+3,2.1,"Tour des Alpes-Maritimes et du Var, General classification",40999,POWLESS Neilson,24902,0.1,0,19/02/2023,Harry
+1,2.1s,"Tour des Alpes-Maritimes et du Var, Stage 3 : Villefranche-sur-Mer - Vence",40998,PARET-PEINTRE Aurélien,24110,0.2,0,19/02/2023,Nicky
+1,2.1s,"Tour du Rwanda, Stage 1 : Kigali - Rwamagana (prov.)",41000,VERNON Ethan,30035,0.2,0,19/02/2023,Arjan
+1,NC5,National Championships Pakistan (Peshawar) R.R. (prov.),40930,KHAN Naimat Ullah,34978,1,0,19/02/2023,niet verkocht
+1,2.PSs,"Volta ao Algarve, Stage 4 : Albufeira - Malhao",40987,PIDCOCK Thomas,27708,0.3,0,18/02/2023,Albert
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 4 : Olvera - Iznajar",40993,POGACAR Tadej,26526,0.3,0,18/02/2023,Kees
+1,2.1s,"Tour des Alpes-Maritimes et du Var, Stage 2 : Mandelieu - Antibes",40997,SKJELMOSE JENSEN Mattias,30166,0.2,0,18/02/2023,Kaspar
+1,2.PSs,"Volta ao Algarve, Stage 3 : Faro - Tavira",40986,CORT NIELSEN Magnus,19448,0.3,0,17/02/2023,Vel
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 3 : Alcala de Guadaira - Alcala de los Gazules",40992,WELLENS Tim,16722,0.3,0,17/02/2023,Albert
+1,2.1s,"Tour des Alpes-Maritimes et du Var, Stage 1 : Saint Raphaël - Ramatuelle",40996,VAUQUELIN Kévin,31264,0.2,0,17/02/2023,Albert
+1,NCT5,National Championships Pakistan (Peshawar) I.T.T.,40929,ALI Shahwali,30608,0.5,0,17/02/2023,niet verkocht
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 2 : Diezma - Alcala la Real",40991,POGACAR Tadej,26526,0.3,0,16/02/2023,Kees
+1,2.PSs,"Volta ao Algarve, Stage 2 : Sagres - Foia",40985,CORT NIELSEN Magnus,19448,0.3,0,16/02/2023,Vel
+1,2.PS,"Tour of Oman, General classification",40983,JORGENSON Matteo,28057,4,50,15/02/2023,Albert
+2,2.PS,"Tour of Oman, General classification",40983,VANSEVENANT Mauri,28580,1,35,15/02/2023,Wijnand
+3,2.PS,"Tour of Oman, General classification",40983,BOUCHARD Geoffrey,28569,0.5,25,15/02/2023,niet verkocht
+4,2.PS,"Tour of Oman, General classification",40983,TAARAMÄE Rein,1646,0,20,15/02/2023,niet verkocht
+5,2.PS,"Tour of Oman, General classification",40983,ULISSI Diego,10023,0,18,15/02/2023,Paul
+6,2.PS,"Tour of Oman, General classification",40983,VAN GILS Maxim,28521,0,16,15/02/2023,niet verkocht
+7,2.PS,"Tour of Oman, General classification",40983,HERRADA LOPEZ Jesus,17534,0,14,15/02/2023,Paul
+8,2.PS,"Tour of Oman, General classification",40983,RODRIGUEZ MARTIN Cristian,24102,0,12,15/02/2023,niet verkocht
+9,2.PS,"Tour of Oman, General classification",40983,UIJTDEBROEKS Cian,31803,0,10,15/02/2023,Vel
+10,2.PS,"Tour of Oman, General classification",40983,VERONA QUINTANILLA Carlos,17994,0,8,15/02/2023,niet verkocht
+1,2.PSs,"Volta ao Algarve, Stage 1 : Portimao - Lagos",40984,KRISTOFF Alexander,4179,0.3,0,15/02/2023,Nicky
+1,2.PSs,"Vuelta a Andalucia / Ruta Del Sol, Stage 1 : Puente de Genave - Santiago de la Espada",40990,POGACAR Tadej,26526,0.3,0,15/02/2023,Kees
+1,2.PSs,"Tour of Oman, Stage 5 : Samail - Jabal Al Akhdar",40981,VANSEVENANT Mauri,28580,0.3,0,15/02/2023,Wijnand
+1,2.PSs,"Tour of Oman, Stage 4 : Izki - Yitti Hills",40980,ULISSI Diego,10023,0.3,0,14/02/2023,Paul
+1,2.PSs,"Tour of Oman, Stage 3 : Al Khobar - Jabal Haat",40979,JORGENSON Matteo,28057,0.3,0,13/02/2023,Albert
+1,1.1,Jaén Paraíso Interior,40941,POGACAR Tadej,26526,2,0,13/02/2023,Kees
+2,1.1,Jaén Paraíso Interior,40941,TURNER Ben,27923,0.3,0,13/02/2023,Arjan
+3,1.1,Jaén Paraíso Interior,40941,WELLENS Tim,16722,0.1,0,13/02/2023,Albert
+1,CC2,African Cycling Championships (Accra) R.R.,41029,MULUBRHAN Henok,28186,1,0,13/02/2023,niet verkocht
+2,CC2,African Cycling Championships (Accra) R.R.,41029,HAMZA Yacine,25483,0.0,0,13/02/2023,niet verkocht
+3,CC2,African Cycling Championships (Accra) R.R.,41029,ED DOGHMY Achraf,30073,0.0,0,13/02/2023,niet verkocht
+4,CC2,African Cycling Championships (Accra) R.R.,41029,SAIDI Nassim,21188,0.0,0,13/02/2023,niet verkocht
+5,CC2,African Cycling Championships (Accra) R.R.,41029,BDADOU Youssef,29667,0.0,0,13/02/2023,niet verkocht
+6,CC2,African Cycling Championships (Accra) R.R.,41029,ROUGIER-LAGANE Christopher,24393,0.0,0,13/02/2023,niet verkocht
+7,CC2,African Cycling Championships (Accra) R.R.,41029,KAGIMU Charles,24714,0.0,0,13/02/2023,niet verkocht
+8,CC2,African Cycling Championships (Accra) R.R.,41029,UHIRIWE Byiza Renus,31098,0.0,0,13/02/2023,niet verkocht
+9,CC2,African Cycling Championships (Accra) R.R.,41029,DAUMONT Paul,28198,0.0,0,13/02/2023,niet verkocht
+10,CC2,African Cycling Championships (Accra) R.R.,41029,AREFAYNE Aklilu,34890,0.0,0,13/02/2023,niet verkocht
+1,1.PS,Clasica de Almeria,40940,MOSCHETTI Matteo,27126,4,50,12/02/2023,niet verkocht
+2,1.PS,Clasica de Almeria,40940,DE LIE Arnaud,32221,1,35,12/02/2023,Wijnand
+3,1.PS,Clasica de Almeria,40940,MEEUS Jordi,26421,0.5,25,12/02/2023,Vel
+4,1.PS,Clasica de Almeria,40940,KRISTOFF Alexander,4179,0,20,12/02/2023,Nicky
+5,1.PS,Clasica de Almeria,40940,NIZZOLO Giacomo,13863,0,18,12/02/2023,PB
+6,1.PS,Clasica de Almeria,40940,WALSCHEID Maximilian,19646,0,16,12/02/2023,PB
+7,1.PS,Clasica de Almeria,40940,GAVIRIA RENDON Fernando,20777,0,14,12/02/2023,Albert
+8,1.PS,Clasica de Almeria,40940,TESSON Jason,29883,0,12,12/02/2023,Jan
+9,1.PS,Clasica de Almeria,40940,PENHOËT Paul,30686,0,10,12/02/2023,niet verkocht
+10,1.PS,Clasica de Almeria,40940,MOLANO BENAVIDES Juan Sebastian,23463,0,8,12/02/2023,PB
+1,2.PSs,"Tour of Oman, Stage 2 : Muscat - Qurayyat",40978,HERRADA LOPEZ Jesus,17534,0.3,0,12/02/2023,Paul
+1,2.1,"Tour of Antalya, General classification",40976,no result,13543,2,0,12/02/2023,niet verkocht
+1,1.1,Figueira Champions Classic,41033,PEDERSEN Casper Phillip,23429,2,0,12/02/2023,niet verkocht
+2,1.1,Figueira Champions Classic,41033,HERREGODTS Rune,28392,0.3,0,12/02/2023,niet verkocht
+3,1.1,Figueira Champions Classic,41033,VAN DEN BERG Marijn,27674,0.1,0,12/02/2023,niet verkocht
+1,NC5,National Championships Ecuador (Tulcan) R.R.,40924,CARAPAZ MONTENEGRO Richard Antonio,21342,1,0,12/02/2023,Wijnand
+1,NC5,National Championships South Africa (Oudtshoorn) R.R.,40926,STEDMAN Travis,32107,1,0,12/02/2023,niet verkocht
+1,NC5,National Championships New Zealand (Tokoroa) R.R.,40922,ORAM James,19829,1,0,12/02/2023,niet verkocht
+1,NC5,National Championships Uruguay (Paysandu) R.R. (prov.),40928,RODRIGUEZ RAMOS Diego Leonel,29716,1,0,12/02/2023,niet verkocht
+1,2.PSs,"Tour of Oman, Stage 1 : Al Rustaq Fort - Muscat (prov.)",40977,MERLIER Tim,17988,0.3,0,11/02/2023,Wijnand
+1,1.1,Vuelta a Murcia,40939,TURNER Ben,27923,2,0,11/02/2023,Arjan
+2,1.1,Vuelta a Murcia,40939,CLARKE Simon,3366,0.3,0,11/02/2023,PB
+3,1.1,Vuelta a Murcia,40939,MEEUS Jordi,26421,0.1,0,11/02/2023,Vel
+1,NCT5,National Championships Ecuador (Tulcan) I.T.T.,40923,CAICEDO CEPEDA Jonathan Klever,22631,0.5,0,11/02/2023,niet verkocht
+1,NCT5,National Championships Uruguay (Paysandu) I.T.T.,40927,FAGUNDEZ LIMA Eric Antonio,28445,0.5,0,11/02/2023,niet verkocht
+1,1.1,Muscat Classic,40911,BIERMANS Jenthe,22010,2,0,10/02/2023,niet verkocht
+2,1.1,Muscat Classic,40911,WARLOP Jordi,24239,0.3,0,10/02/2023,niet verkocht
+3,1.1,Muscat Classic,40911,VENDRAME Andrea,22170,0.1,0,10/02/2023,niet verkocht
+1,NCT5,National Championships New Zealand (Tokoroa) I.T.T.,40921,CURRIE Logan,30604,0.5,0,10/02/2023,niet verkocht
+1,NCT5,National Championships South Africa (Oudtshoorn) I.T.T.,40925,DE BOD Stefan,23888,0.5,0,10/02/2023,niet verkocht
+1,CCT2,African Cycling Championships (Accra) I.T.T.,41031,KAGIMU Charles,24714,0.5,0,9/02/2023,niet verkocht
+1,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,COSTA Rui Alberto Faria,6807,4,50,5/02/2023,niet verkocht
+2,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,CICCONE Giulio,21812,1,35,5/02/2023,Nicky
+3,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,GEOGHEGAN HART Tao,22018,0.5,25,5/02/2023,Paul
+4,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,BILBAO LOPEZ DE ARMENTIA Pello,17881,0,20,5/02/2023,Jan
+5,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,VLASOV Aleksandr,24316,0,18,5/02/2023,Harry
+6,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,GLOAG Thomas,31449,0,16,5/02/2023,Frank
+7,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,LANDA MEANA Mikel,14319,0,14,5/02/2023,Harry
+8,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,MCNULTY Brandon,26508,0,12,5/02/2023,Kees
+9,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,ARANBURU DEBA Alexander,23940,0,10,5/02/2023,Jan
+10,2.PS,"Volta a la Comunitat Valenciana, General classification",40959,RODRIGUEZ CANO Carlos,30836,0,8,5/02/2023,Roy
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 5 : Paterna - Valencia",40958,COSTA Rui Alberto Faria,6807,0.3,0,5/02/2023,niet verkocht
+1,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,POWLESS Neilson,24902,2,0,5/02/2023,Harry
+2,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,SKJELMOSE JENSEN Mattias,30166,0.3,0,5/02/2023,Kaspar
+3,2.1,"Etoile de Bessèges / Tour du Gard, General classification",40953,LATOUR Pierre,20156,0.1,0,5/02/2023,Kaspar
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 5 : Alès - Alès I.T.T.",40952,PEDERSEN Mads,21992,0.2,0,5/02/2023,Harry
+1,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,CHAVES RUBIO Jhoan Esteban,16941,5,50,5/02/2023,Jan
+2,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,MARTINEZ POVEDA Daniel Felipe,23503,2,35,5/02/2023,Bram
+3,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,QUINTANA ROJAS Nairo Alexander,12843,1,25,5/02/2023,Roy
+4,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,MERCHAN CARDONA Didier Norberto,30957,0,20,5/02/2023,niet verkocht
+5,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,JAMAICA MEJIA Javier Ernesto,31178,0,18,5/02/2023,niet verkocht
+6,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,FLOREZ LOPEZ Miguel Eduardo,24812,0,16,5/02/2023,niet verkocht
+7,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,HENAO MONTOYA Sergio Luis,7006,0,14,5/02/2023,niet verkocht
+8,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,RUBIO REYES Einer Augusto,27024,0,12,5/02/2023,Frank
+9,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,CAMARGO PINEDA Diego Andres,28187,0,10,5/02/2023,niet verkocht
+10,1.WT3,National Championships Colombia (Bucaramanga) R.R.,40920,CHAPARRO LOPEZ Didier Alonso,19463,0,8,5/02/2023,niet verkocht
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 4 : Burriana - Alto la Cova Santo",40957,GEOGHEGAN HART Tao,22018,0.3,0,4/02/2023,Paul
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 4 : Saint Christol Lèz Alès - Le Mont Bouquet",40951,SKJELMOSE JENSEN Mattias,30166,0.2,0,4/02/2023,Kaspar
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 3 : Bétera - Sagunto",40956,VELASCO Simone,22662,0.3,0,3/02/2023,niet verkocht
+1,2.1,"Saudi Tour, General classification",40893,GUERREIRO Ruben Antonio Almeida,22683,2,0,3/02/2023,Jan
+2,2.1,"Saudi Tour, General classification",40893,FORMOLO Davide,18749,0.3,0,3/02/2023,Nicky
+3,2.1,"Saudi Tour, General classification",40893,BUITRAGO SANCHEZ Santiago,29699,0.1,0,3/02/2023,Jan
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 3 : Bessèges - Bessèges",40950,DE LIE Arnaud,32221,0.2,0,3/02/2023,Wijnand
+1,2.1s,"Saudi Tour, Stage 5 : Al Ula - Maraya",40892,CONSONNI Simone,22681,0.2,0,3/02/2023,Vel
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 2 : Novelda - Alto de Pinos",40955,CICCONE Giulio,21812,0.3,0,2/02/2023,Nicky
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 2 : Bagard - Aubais",40949,no result,13543,0.2,0,2/02/2023,niet verkocht
+1,2.1s,"Saudi Tour, Stage 4 : Maraya - Harrat Uwayrid",40891,GUERREIRO Ruben Antonio Almeida,22683,0.2,0,2/02/2023,Jan
+1,NCT1,National Championships Colombia (Bucaramanga) I.T.T.,40919,LOPEZ MORENO Miguel Angel,23334,2,0,2/02/2023,Nicky
+1,2.PSs,"Volta a la Comunitat Valenciana, Stage 1 : Orihuela - Altea (prov.)",40954,GIRMAY HAILU Biniam,29474,0.3,0,1/02/2023,Nicky
+1,2.1s,"Etoile de Bessèges / Tour du Gard, Stage 1 : Bellegarde - Bellegarde (prov.)",40948,DE LIE Arnaud,32221,0.2,0,1/02/2023,Wijnand
+1,2.1s,"Saudi Tour, Stage 3 : Al Ula - Abu Rakah",40890,WAERENSKJOLD Søren,29187,0.2,0,1/02/2023,niet verkocht
+1,2.1s,"Saudi Tour, Stage 2 : Winter Park - Shalal",40889,MILAN Jonathan,29359,0.2,0,31/01/2023,Bram
+1,2.1s,"Saudi Tour, Stage 1 : Al Ula - Khaybar (prov.)",40888,GROENEWEGEN Dylan,19238,0.2,0,30/01/2023,Frank
+1,1.WT3,Cadel Evans Great Ocean Road Race,40904,MAYRHOFER Marius,29192,5,50,29/01/2023,niet verkocht
+2,1.WT3,Cadel Evans Great Ocean Road Race,40904,PAGE Hugo,30663,2,35,29/01/2023,Albert
+3,1.WT3,Cadel Evans Great Ocean Road Race,40904,CLARKE Simon,3366,1,25,29/01/2023,PB
+4,1.WT3,Cadel Evans Great Ocean Road Race,40904,MATTHEWS Michael,13066,0,20,29/01/2023,Bram
+5,1.WT3,Cadel Evans Great Ocean Road Race,40904,STRONG Corbin,29492,0,18,29/01/2023,PB
+6,1.WT3,Cadel Evans Great Ocean Road Race,40904,EWAN Caleb,19651,0,16,29/01/2023,Paul
+7,1.WT3,Cadel Evans Great Ocean Road Race,40904,SMITH Dion,21036,0,14,29/01/2023,niet verkocht
+8,1.WT3,Cadel Evans Great Ocean Road Race,40904,HIRSCHI Marc,26509,0,12,29/01/2023,Bram
+9,1.WT3,Cadel Evans Great Ocean Road Race,40904,BENNETT George,12254,0,10,29/01/2023,Nicky
+10,1.WT3,Cadel Evans Great Ocean Road Race,40904,QUINN Sean,29331,0,8,29/01/2023,niet verkocht
+1,2.PS,"Vuelta a San Juan, General classification",40873,LOPEZ MORENO Miguel Angel,23334,4,50,29/01/2023,Nicky
+2,2.PS,"Vuelta a San Juan, General classification",40873,GANNA Filippo,24057,1,35,29/01/2023,Jan
+3,2.PS,"Vuelta a San Juan, General classification",40873,HIGUITA GARCIA Sergio Andres,25026,0.5,25,29/01/2023,Kaspar
+4,2.PS,"Vuelta a San Juan, General classification",40873,RUBIO REYES Einer Augusto,27024,0,20,29/01/2023,Frank
+5,2.PS,"Vuelta a San Juan, General classification",40873,RIVERA VARGAS Brandon Smith,26283,0,18,29/01/2023,niet verkocht
+6,2.PS,"Vuelta a San Juan, General classification",40873,PAREDES AVELLANEDA Cesar Nicolas,20614,0,16,29/01/2023,niet verkocht
+7,2.PS,"Vuelta a San Juan, General classification",40873,EVENEPOEL Remco,28377,0,14,29/01/2023,Roy
+8,2.PS,"Vuelta a San Juan, General classification",40873,VERMAERKE Kevin,29332,0,12,29/01/2023,niet verkocht
+9,2.PS,"Vuelta a San Juan, General classification",40873,RICCITELLO Matthew,31559,0,10,29/01/2023,niet verkocht
+10,2.PS,"Vuelta a San Juan, General classification",40873,SIMMONS Quinn,30666,0,8,29/01/2023,Bram
+1,2.PSs,"Vuelta a San Juan, Stage 7 : San Juan - San Juan",40872,WELSFORD Samuel,23517,0.3,0,29/01/2023,PB
+1,2.1,"La Tropicale Amissa Bongo, General classification",40887,SOUPE Geoffrey,13560,2,0,29/01/2023,niet verkocht
+2,2.1,"La Tropicale Amissa Bongo, General classification",40887,AMARI Hamza,32533,0.3,0,29/01/2023,niet verkocht
+3,2.1,"La Tropicale Amissa Bongo, General classification",40887,ROUGIER-LAGANE Christopher,24393,0.1,0,29/01/2023,niet verkocht
+1,1.1,GP La Marseillaise,40903,POWLESS Neilson,24902,2,0,29/01/2023,Harry
+2,1.1,GP La Marseillaise,40903,FERRON Valentin,28375,0.3,0,29/01/2023,niet verkocht
+3,1.1,GP La Marseillaise,40903,VAN MOER Brent,28448,0.1,0,29/01/2023,niet verkocht
+1,1.1,Trofeo Playa de Palma,40902,VERNON Ethan,30035,2,0,29/01/2023,Arjan
+2,1.1,Trofeo Playa de Palma,40902,GIRMAY HAILU Biniam,29474,0.3,0,29/01/2023,Nicky
+3,1.1,Trofeo Playa de Palma,40902,VAN DE PAAR Jarne,29798,0.1,0,29/01/2023,niet verkocht
+1,2.1s,"La Tropicale Amissa Bongo, Stage 7 : Cap Esterias - Libreville",40886,SALBY Alexander,26419,0.2,0,29/01/2023,niet verkocht
+1,NC5,National Championships Thailand (Thong Pha Phum) R.R.,40908,KLAHAN Noppachai,31282,1,0,29/01/2023,niet verkocht
+1,NC5,National Championships Namibia (Windhoek) R.R.,40906,DE LANGE Tristan,28491,1,0,29/01/2023,niet verkocht
+1,2.PSs,"Vuelta a San Juan, Stage 6 : San Juan - San Juan",40871,WELSFORD Samuel,23517,0.3,0,28/01/2023,PB
+1,1.1,Trofeo Serra de Tramuntana,40900,GOOSSENS Kobe,23771,2,0,28/01/2023,niet verkocht
+2,1.1,Trofeo Serra de Tramuntana,40900,VAN EETVELT Lennert,32225,0.3,0,28/01/2023,niet verkocht
+3,1.1,Trofeo Serra de Tramuntana,40900,VAN WILDER Ilan,29828,0.1,0,28/01/2023,Wijnand
+1,2.1s,"La Tropicale Amissa Bongo, Stage 6 : Port Gentil - Port Gentil",40885,LAUK Karl Patrick,25669,0.2,0,28/01/2023,niet verkocht
+1,NC5,National Championships Lesotho R.R.,40918,MAKATILE Kabelo,33573,1,0,28/01/2023,niet verkocht
+1,2.PSs,"Vuelta a San Juan, Stage 5 : Plaza de Chimbas - Alto del Colorado",40870,LOPEZ MORENO Miguel Angel,23334,0.3,0,27/01/2023,Nicky
+1,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,GOOSSENS Kobe,23771,2,0,27/01/2023,niet verkocht
+2,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,SANCHEZ MAYO Pelayo,31655,0.3,0,27/01/2023,niet verkocht
+3,1.1,"Trofeo Andratx - Mirador des Colomer, Pollença",40901,VAN EETVELT Lennert,32225,0.1,0,27/01/2023,niet verkocht
+1,2.1s,"La Tropicale Amissa Bongo, Stage 5 : Kango - Angondje",40884,FERNANDEZ RUIZ Miguel Angel,26985,0.2,0,27/01/2023,niet verkocht
+1,NCT5,National Championships Thailand (Thong Pha Phum) I.T.T.,40907,CHAWCHIANGKWANG Peerapol,11810,0.5,0,27/01/2023,niet verkocht
+1,NCT5,National Championships Namibia (Windhoek) I.T.T.,40905,COETZEE Drikus,26844,0.5,0,27/01/2023,niet verkocht
+1,1.1,Trofeo Ses Salines - Alcudia,40899,VAN DEN BERG Marijn,27674,2,0,26/01/2023,niet verkocht
+2,1.1,Trofeo Ses Salines - Alcudia,40899,VERNON Ethan,30035,0.3,0,26/01/2023,Arjan
+3,1.1,Trofeo Ses Salines - Alcudia,40899,GIRMAY HAILU Biniam,29474,0.1,0,26/01/2023,Nicky
+1,2.1s,"La Tropicale Amissa Bongo, Stage 4 : Mouila - Lambarene (prov.)",40883,LAGAB Azzedine,10294,0.2,0,26/01/2023,niet verkocht
+1,2.PSs,"Vuelta a San Juan, Stage 4 : Circuito San Juan Villicum - Plaza Barreal (prov.)",40869,GAVIRIA RENDON Fernando,20777,0.3,0,25/01/2023,Albert
+1,1.1,Trofeo Calvia,40898,COSTA Rui Alberto Faria,6807,2,0,25/01/2023,niet verkocht
+2,1.1,Trofeo Calvia,40898,VERVAEKE Louis,19418,0.3,0,25/01/2023,niet verkocht
+3,1.1,Trofeo Calvia,40898,HEALY Ben,28846,0.1,0,25/01/2023,niet verkocht
+1,2.1s,"La Tropicale Amissa Bongo, Stage 3 : Lebamba - Mouila (prov.)",40882,TESSON Jason,29883,0.2,0,25/01/2023,Jan
+1,2.PSs,"Vuelta a San Juan, Stage 3 : Circuito San Juan Villicum - Circuito San Juan Villicum (prov.)",40868,SIMMONS Quinn,30666,0.3,0,24/01/2023,Bram
+1,2.1s,"La Tropicale Amissa Bongo, Stage 2 : Oyem - Mitzic (prov.)",40881,TESSON Jason,29883,0.2,0,24/01/2023,Jan
+1,2.PSs,"Vuelta a San Juan, Stage 2 : Villa San Agustin - San Jose de Jachal (prov.)",40867,JAKOBSEN Fabio,23426,0.3,0,23/01/2023,Kaspar
+1,2.1s,"La Tropicale Amissa Bongo, Stage 1 : Bitam - Oyem (prov.)",40880,SOUPE Geoffrey,13560,0.2,0,23/01/2023,niet verkocht
+1,2.WT1,"Tour Down Under, General classification",40865,VINE Jay,29568,10,50,22/01/2023,Vel
+2,2.WT1,"Tour Down Under, General classification",40865,YATES Simon,17893,3,35,22/01/2023,PB
+3,2.WT1,"Tour Down Under, General classification",40865,BILBAO LOPEZ DE ARMENTIA Pello,17881,1,25,22/01/2023,Jan
+4,2.WT1,"Tour Down Under, General classification",40865,SHEFFIELD Magnus,31598,0.5,20,22/01/2023,Jan
+5,2.WT1,"Tour Down Under, General classification",40865,SCHMID Mauro,29214,0.2,18,22/01/2023,Jan
+6,2.WT1,"Tour Down Under, General classification",40865,O'CONNOR Ben,23763,0,16,22/01/2023,Harry
+7,2.WT1,"Tour Down Under, General classification",40865,BYSTRØM Sven Erik,18608,0,14,22/01/2023,niet verkocht
+8,2.WT1,"Tour Down Under, General classification",40865,TIBERI Antonio,30649,0,12,22/01/2023,niet verkocht
+9,2.WT1,"Tour Down Under, General classification",40865,IZAGIRRE INSAUSTI Gorka,10070,0,10,22/01/2023,niet verkocht
+10,2.WT1,"Tour Down Under, General classification",40865,COQUARD Bryan,18714,0,8,22/01/2023,Jan
+1,2.WT1s,"Tour Down Under, Stage 5 : Unley - Mount Lofty",40864,YATES Simon,17893,1,0,22/01/2023,PB
+1,2.WT1r,"Tour Down Under, Mountains classification",40936,HONORE Mikkel Frølich,25629,0.0,0,22/01/2023,Harry
+1,2.WT1r,"Tour Down Under, Points classification",40935,MATTHEWS Michael,13066,0.0,0,22/01/2023,Bram
+1,2.PSs,"Vuelta a San Juan, Stage 1 : San Juan - San Juan (prov.)",40866,BENNETT Sam,13362,0.3,0,22/01/2023,PB
+1,1.1,GP Valencia,40897,DE LIE Arnaud,32221,2,0,22/01/2023,Wijnand
+2,1.1,GP Valencia,40897,BIERMANS Jenthe,22010,0.3,0,22/01/2023,niet verkocht
+3,1.1,GP Valencia,40897,BOASSON HAGEN Edvald,4377,0.1,0,22/01/2023,Bram
+1,2.WT1s,"Tour Down Under, Stage 4 : Port Willunga - Willunga",40863,COQUARD Bryan,18714,1,0,21/01/2023,Jan
+1,2.WT1s,"Tour Down Under, Stage 3 : Norwood - Campbeltown",40862,BILBAO LOPEZ DE ARMENTIA Pello,17881,1,0,20/01/2023,Jan
+1,2.WT1s,"Tour Down Under, Stage 2 : Brighton - Victor Harbor",40861,DENNIS Rohan,12823,1,0,19/01/2023,Albert
+1,2.WT1s,"Tour Down Under, Stage 1 : Tanunda - Tanunda",40860,BAUHAUS Phil,20861,1,0,18/01/2023,Vel
+1,2.WT1s,"Tour Down Under, Prologue : Adelaide - Adelaide I.T.T. (5,5 km)",40859,BETTIOL Alberto,20697,1,0,17/01/2023,PB
