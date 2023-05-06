@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp
+1,2.1,"Tour of Hellas, General classification (prov.)",41342,LEITAO Iuri Gabriel Dantas,31829,0.0,0
+2,2.1,"Tour of Hellas, General classification (prov.)",41342,GATE Aaron,13153,0.0,0
+3,2.1,"Tour of Hellas, General classification (prov.)",41342,ANIOLKOWSKI Stanislaw,24940,0.0,0
+1,2.1s,"Tour of Hellas, Stage 4 : Costa Navarino - Ancient Olympia (prov.)",41341,ANIOLKOWSKI Stanislaw,24940,0.0,0
 1,2.1s,"Tour of Hellas, Stage 3 : Costa Navarino - Kyparissia (prov.)",41340,LEITAO Iuri Gabriel Dantas,31829,0.0,0
 1,2.1s,"Tour of Hellas, Stage 2 : Mycenae - Kalamata (prov.)",41339,DUPONT Timothy,7948,0.0,0
 1,2.1s,"Tour of Hellas, Stage 1 : Heraklion - Heraklion (prov.)",41338,ANIOLKOWSKI Stanislaw,24940,0.0,0
@@ -13,13 +17,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp
 8,1.WT3,Eschborn - Frankfurt,41307,WILLIAMS Stephen,24346,0.0,0
 9,1.WT3,Eschborn - Frankfurt,41307,HERMANS Ben,4819,0.0,0
 10,1.WT3,Eschborn - Frankfurt,41307,MARCELLUSI Martin,29845,0.0,0
-1,2.WT1,"Tour de Romandie, General classification",41261,YATES Adam,18975,0.0,0
-2,2.WT1,"Tour de Romandie, General classification",41261,JORGENSON Matteo,28057,0.0,0
-3,2.WT1,"Tour de Romandie, General classification",41261,CARUSO Damiano,6177,0.0,0
-4,2.WT1,"Tour de Romandie, General classification",41261,POOLE Max,32809,0.0,0
-5,2.WT1,"Tour de Romandie, General classification",41261,PINOT Thibaut,13080,0.0,0
-6,2.WT1,"Tour de Romandie, General classification",41261,UIJTDEBROEKS Cian,31803,0.0,0
-7,2.WT1,"Tour de Romandie, General classification",41261,BARDET Romain,13566,0.0,0
-8,2.WT1,"Tour de Romandie, General classification",41261,BERNAL GOMEZ Egan Arley,24926,0.0,0
-9,2.WT1,"Tour de Romandie, General classification",41261,DUNBAR Eddie,23765,0.0,0
-10,2.WT1,"Tour de Romandie, General classification",41261,MAJKA Rafal,14310,0.0,0
