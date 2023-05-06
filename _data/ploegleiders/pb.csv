@@ -1,5 +1,5 @@
 renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
-24326,AULAR Orluis,AULAR SANABRIA Orluis Alberto,PB,1,CJR,VEN,27,0,0
+24326,AULAR Orluis,AULAR SANABRIA Orluis Alberto,PB,1,CJR,VEN,27,0,20
 23306,BAX Sjoerd,BAX Sjoerd,PB,1,UAD,NED,27,0,8
 13362,BENNETT Sam,BENNETT Sam,PB,11,BOH,IRL,33,0.3,0
 20697,BETTIOL Alberto,BETTIOL Alberto,PB,1,EFE,ITA,30,1,0
@@ -19,7 +19,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29492,STRONG Corbin,STRONG Corbin,PB,1,IPT,NZL,23,0,42
 18233,STUYVEN Jasper,STUYVEN Jasper,PB,6,TFS,BEL,31,0,16
 26437,SWIFT Connor,SWIFT Connor,PB,1,IGD,GBR,28,0,0
-25623,TILLER Rasmus Fossum,TILLER Rasmus Fossum,PB,1,UXT,NOR,27,0,0
+25623,TILLER Rasmus Fossum,TILLER Rasmus Fossum,PB,1,UXT,NOR,27,0.5,25
 28509,WALLS Matthew,WALLS Matthew,PB,1,BOH,GBR,25,0,0
 19646,WALSCHEID Maximilian,WALSCHEID Maximilian,PB,1,COF,GER,30,0,40
 23517,WELSFORD Samuel,WELSFORD Samuel,PB,1,DSM,AUS,27,4.2,60
