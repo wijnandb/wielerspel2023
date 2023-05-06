@@ -19,6 +19,7 @@ from bs4 import BeautifulSoup
 import process_files, first_cycling, add_teamcaptains
 
 riders = process_files.read_csv_file('all_riders_cqranking.csv')
+# unknown_riders = process_files.read_csv_file('unknown_riders.csv')
 
 # eventually we need to store it in a startlist csv
 # but for now we just print it
@@ -30,30 +31,43 @@ def get_riders(race_id, year='2023'):
     print(start_url)
 
     r = requests.get(start_url)
-    soup = BeautifulSoup(r.text, 'html.parser')
-    result_tables = soup.find_all('table')
+    print(r.status_code)
+    if r.status_code == 200:
+        
+        soup = BeautifulSoup(r.text, 'html.parser')
+        result_tables = soup.find_all('table')
 
-    # the first table is empty, the others are the teams
-    for table in result_tables[2:]:
-        header = table.find('th')
-        team = header.text
-        body = table.find('tbody')
-        rows = body.find_all('tr')
-        for row in rows:
-            tds = row.find_all('td')
-            # print(tds)
-            start_number = tds[0].text.strip()
-            country = tds[1].find('img').get('title')
-            rider = tds[1].find('a').get('title').strip()
-            rider_id = first_cycling.ridername_to_id(rider, country)
-            ploegleider, ploegleider_id, points = add_teamcaptains.add_teamcaptain_to_startlist(rider_id)
-            # if ploegleider != '-':
-            print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id)
-            startlist.append([race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points]) 
+        # the first table is empty, the others are the teams
+        for table in result_tables[2:]:
+            header = table.find('th')
+            team = header.text
+            body = table.find('tbody')
+            rows = body.find_all('tr')
+            for row in rows:
+                tds = row.find_all('td')
+                # print(tds)
+                start_number = tds[0].text.strip()
+                country = tds[1].find('img').get('title')
+                rider = tds[1].find('a').get('title').strip()
+                link = tds[1].find('a').get('href').split('=')[1]
+                fc_rider_id = link.split('&')[0]
+                # print(fc_rider_id)
+                rider_id = first_cycling.ridername_to_id(rider, fc_rider_id, country)
+                ploegleider, ploegleider_id, points = add_teamcaptains.add_teamcaptain_to_startlist(rider_id)
+                # print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id)
+                startlist.append([race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points]) 
 
-    process_files.write_csv_file('startlist.csv', startlist)
+        process_files.write_csv_file('startlist.csv', startlist)
+
+        # now filter the startlist to only include riders that have been sold, and sort by team captain and price
+        filtered_startlist = [row for row in startlist if row[7] != '-']
+        process_files.write_csv_file('startlist-filtered.csv', filtered_startlist)
+    else:
+        print(f"Error for {start_url}: {r.status_code}")
+
+# calendar = process_files.read_csv_file('calendar.csv')
+# for c in calendar: 
+#     print(c)
+#     get_riders(c[3], c[0])
 
 get_riders('13', '2023')
-
-
-
