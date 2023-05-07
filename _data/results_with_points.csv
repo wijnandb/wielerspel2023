@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT2s,"Giro dItalia, Stage 2 : Teramo - San Salvo (prov.)",41350,MILAN Jonathan,29359,2,0,7/05/2023,Bram
+0,GT2s,"Leiderstrui na Giro dItalia, Stage 2 : Teramo - San Salvo (prov.)",41350,Evenepoel Remco,28377,1,0,7/05/2023,Roy
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 2 : Teramo - San Salvo (prov.)",41350,Evenepoel Remco,28377,0.1,0,7/05/2023,Roy
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 2 : Teramo - San Salvo (prov.)",41350,Milan Jonathan,29359,0.2,0,7/05/2023,Bram
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 2 : Teramo - San Salvo (prov.)",41350,Lapeira Paul,30615,0.2,0,7/05/2023,-
 1,GT2s,"Giro dItalia, Stage 1 : Fossacesia Marina - Ortona I.T.T. (prov.)",41349,EVENEPOEL Remco,28377,2,0,6/05/2023,Roy
 0,GT2s,"Leiderstrui na Giro dItalia, Stage 1 : Fossacesia Marina - Ortona I.T.T. (prov.)",41349,Evenepoel Remco,28377,1,0,6/05/2023,Roy
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 1 : Fossacesia Marina - Ortona I.T.T. (prov.)",41349,Evenepoel Remco,28377,0.1,0,6/05/2023,Roy
