@@ -90,9 +90,14 @@ def scrape_result(racename, jersey, year=2023):
             return "Nog geen uitslag bekend"
         # print(tds[0].text)
         if int(tds[0].text) == 1:
-            name = tds[3].text.strip()
-            print(f"Found {name} as wearer of {jersey} jersey")
-            link = tds[3].find('a').get('href').split('=')[1]
+            try:
+                link = tds[3].find('a').get('href').split('=')[1]
+                name = tds[3].text.strip()
+                print(f"Found {name} as wearer of {jersey} jersey in cell 3")
+            except:
+                link = tds[4].find('a').get('href').split('=')[1]
+                name = tds[4].text.strip()
+                print(f"Found {name} as wearer of {jersey} jersey in cell 4")
             fc_rider_id = link.split('&')[0]
             print(f"Found rider_id {fc_rider_id} for {name}")
             rider_id = ridername_to_id(name, fc_rider_id)

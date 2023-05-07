@@ -54,57 +54,54 @@ def get_results():
     result_table =  soup.find("table", ["borderNoOpac"])
     row_tags = result_table.find_all('tr')[1:] # skipping the header rows
     for row_tag in row_tags:
-        try:
-            tds = row_tag.find_all('td')
-            """
-            0 - date 
-            1 - category
-            2 - country
-            3 - Name race + href full results
-            4 - rank + name rider + href rider
-            """
-            points = 0
-            JPP = 0
-            date = tds[0].text
-            if len(date) < 8:
-                # WIP: year hardcoded, use VARIABLE
-                parts = date.split("/")
-                date = date + "/2023"
-            rank = tds[4].text.split(".")[0]
-            category = tds[1].text
-            race_name = tds[3].text
-            if not category[:3] in ['1.2','2.2']:
-                country = tds[2].find('img').get('title').upper()
-                # print(country)
-                
-                race_id = tds[3].a['href'].split("=")[1]
-                rider = tds[4].text.split(".")[1]
-                rider_id = tds[4].a['href'].split("=")[1]
+        tds = row_tag.find_all('td')
+        """
+        0 - date 
+        1 - category
+        2 - country
+        3 - Name race + href full results
+        4 - rank + name rider + href rider
+        """
+        points = 0
+        JPP = 0
+        date = tds[0].text
+        if len(date) < 8:
+            # WIP: year hardcoded, use VARIABLE
+            parts = date.split("/")
+            date = date + "/2023"
+        rank = tds[4].text.split(".")[0]
+        category = tds[1].text
+        race_name = tds[3].text
+        if not category[:3] in ['1.2','2.2']:
+            country = tds[2].find('img').get('title').upper()
+            
+            race_id = tds[3].a['href'].split("=")[1]
+            rider = tds[4].text.split(".")[1]
+            rider_id = tds[4].a['href'].split("=")[1]
 
-                if (category[-1] == 's' or category[-1] == 'r' or category[:3] == 'NCT' or category[:3] == 'CCT') and (category[:3] not in ['1.2','2.2']):
-                    print("add race to new results")
-                    if category=='2.WT2s':
-                        category = change_category.new_category(race_name, category)
-                    if category[:3] == 'NCT':
-                        category = count_riders.change_category_NCTT(country)
-                        print(f"New category for {race_name}, changed to {category}")
-                    new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
-                    # this is where we get the results for jersey wearers in GT from first_cycling
-                    if category in ['GT1s', 'GT2s']:
-                        get_jersey_ranking(race_name, race_id, category, date)
-                else:
-                    if category[:4]=='1.WT' or category[:4]=='2.WT':
-                        category = change_category.new_category(race_name, category)
-                    get_results_per_race(race_id, race_name, category, country)
-        except:
-            print("Something went wrong scraping latest results")
+            if (category[-1] == 's' or category[-1] == 'r' or category[:3] == 'NCT' or category[:3] == 'CCT') and (category[:3] not in ['1.2','2.2']):
+                # print("add race to new results")
+                if category=='2.WT2s':
+                    category = change_category.new_category(race_name, category)
+                if category[:3] == 'NCT':
+                    category = count_riders.change_category_NCTT(country)
+                    print(f"New category for {race_name}, changed to {category}")
+                new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+                # this is where we get the results for jersey wearers in GT from first_cycling
+                if category in ['GT1s', 'GT2s']:
+                    get_jersey_ranking(race_name, race_id, category, date)
+            else:
+                if category[:4]=='1.WT' or category[:4]=='2.WT':
+                    category = change_category.new_category(race_name, category)
+                get_results_per_race(race_id, race_name, category, country)
+
 
 
 def get_jersey_ranking(race_name, race_id, category, date):
     points = 0
     JPP = 0
     # WIP: get the year from date. Now using default year in first_cycling.scrape_result
-    rider_id, rider = first_cycling.scrape_result(race_name, 'sta')
+    rider_id, rider = first_cycling.scrape_result(race_name, 'gc')
     if rider_id:
         new_results.append([0, category, "Leiderstrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
     rider_id, rider = first_cycling.scrape_result(race_name, 'youth')
@@ -214,9 +211,6 @@ def get_results_per_race(race_id, race_name, category, country=None):
                     rank = tds[1].text.split(".")[0]
                 rider_id = tds[5].a['href'].split("=")[1]
                 rider = tds[5].text
-                # date = tds[0].text
-                # date = add_dates.get_date_for_race(race_id)
-                print(f"Date of race is {date}")
                 # replace category for NC and NCT races
                 if category[:3] == 'NCT':
                     category = count_riders.change_category_NCTT(country)
