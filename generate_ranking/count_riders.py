@@ -81,17 +81,3 @@ def change_category_NCTT(country):
         return 'NCT3'
     else:
         return 'NCT5'
-
-
-def countOccurrence(a):
-  k = {}
-  for j in a[1:]:
-    if j[6] in k:
-      k[j[6]] +=1
-    else:
-      k[j[6]] =1
-  #return dict(sorted(k.items(), key=lambda x:x[1], reverse=True))
-  for cntry in k:
-    print(cntry, change_category_NCRR(cntry))
-
-countOccurrence(riders)

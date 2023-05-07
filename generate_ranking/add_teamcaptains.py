@@ -34,8 +34,7 @@ def add_teamcaptain(infile, outfile=None):
         results[0].append("ploegleider")
 
     for result in results[1:]:
-        #print(f"checking result {result}")
-        result.append("niet verkocht")
+        result.append("-")
         for rider in riders[1:]:
         # look up the rider in the results
             if int(result[5]) == int(rider[0]):

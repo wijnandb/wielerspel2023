@@ -17,20 +17,14 @@ from datetime import datetime
 
 def add_missing_date_to_results(file):
     results = process_files.read_csv_file(file)
-    print(f"Checking {len(results)} results")
     updated_results = []
     for result in results[1:]:
-        print(len(result))
         if len(result) < 9:
-            print(f"result {result} has no date")
             date = get_date_for_result(result[3])
             result.insert(8, date)
         elif not result[8]:
-            print(f"Update date for result {result}")
             date = get_date_for_result(result[3])
             result[8] = date
-        else:
-            print(result[8], type(result[8]))
         updated_results.append(result)
     process_files.write_csv_file(file, updated_results)
 
