@@ -89,23 +89,21 @@ def scrape_result(racename, jersey, year=2023):
         if len(tds) == 1:
             return "Nog geen uitslag bekend"
         # print(tds[0].text)
-        if tds[0].text not in ['01','1']:
-            print(f"Did not find a number 1, in race { race_id } for year { year}")
-        else:
+        if int(tds[0].text) == 1:
             name = tds[3].text.strip()
             print(f"Found {name} as wearer of {jersey} jersey")
             link = tds[3].find('a').get('href').split('=')[1]
             fc_rider_id = link.split('&')[0]
             print(f"Found rider_id {fc_rider_id} for {name}")
-            # year_of_birth = tds[1].text.strip()
-            # country = tds[2].find('img').get('title')
+            rider_id = ridername_to_id(name, fc_rider_id)
+            return rider_id, name
+        else:
+            print(f"Did not find a number 1, in race { race_id } for year { year}")
         
             """
             Now I want to get the rider_id from CQranking
             by passing in the rider name
             """
-            rider_id = ridername_to_id(name, fc_rider_id)
-            return rider_id, name
     else:
         return None
 
