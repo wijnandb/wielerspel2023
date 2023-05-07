@@ -6,6 +6,7 @@ template: default
     <thead>
         <tr>
             <th>Renner</th>
+            <th>Renner ID</th>
             <th>Team</th>
             <th>Nationaliteit</th>
             <th>Ploegleider</th>
@@ -18,6 +19,7 @@ template: default
         {% for member in site.data.riders_with_points %}
         <tr>
             <td><a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ member.renner_id }}" title="CQranking pagina van {{ member.renner }}">{{ member.renner }}</a></td>
+            <td>{{ member.renner_id }}</td>
             <td>{{ member.team }}</td>
             <td>{{ member.nationality }}</td>
             <td><a href="{{ site.baseurl }}{% link index.html %}ploegleiders/{{ member.ploegleider | downcase }}.html" title="Bekijk ploeg van {{ member.ploegleider }}">{{ member.ploegleider }}</a></td>
@@ -28,3 +30,4 @@ template: default
         {% endfor %}
     </tbody>
   </table>
+
