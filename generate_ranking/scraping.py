@@ -67,8 +67,10 @@ def get_results():
         date = tds[0].text
         if len(date) < 8:
             # WIP: year hardcoded, use VARIABLE
-            parts = date.split("/")
-            date = date + "/2023"
+            date_string = date + "/2023"
+            print(date_string)
+            date = datetime.strptime(date_string, '%d/%m/%Y').date()
+            print(date)
         rank = tds[4].text.split(".")[0]
         category = tds[1].text
         race_name = tds[3].text
@@ -193,7 +195,8 @@ def get_results_per_race(race_id, race_name, category, country=None):
         soup = BeautifulSoup(r.text, "html.parser")
         result_table =  soup.find("table", ["borderNoOpac"])
         #print(result_table)
-        date = result_table.find("td", ["textwhite"]).text
+        date_string = result_table.find("td", ["textwhite"]).text
+        date = datetime.strptime(date_string, '%d/%m/%Y').date()
         first_result = soup.find("td", ["tabrow1", "tabrow2"])
         result_tr = first_result.parent
         result_table = result_tr.parent
