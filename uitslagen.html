@@ -18,7 +18,7 @@ title: "Uitslagen met punten"
     <tbody>
     {% for item in site.data.results_with_points %}
       <tr>
-        <td>{{ item.rank | replace: '0','1' |  replace: '-1','1' | replace: '-2','1' | replace: '-3','1'}}. </td>
+        <td>{{ item.rank | replace: '-4','1' |  replace: '-1','1' | replace: '-2','1' | replace: '-3','1'}}. </td>
         <td>{{ item.rider_id }}</td>
         <td><a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ item.rider_id }}" target="_new">{{ item.rider_name }}</a></td>
         <td>{{ item.racename }}</td>

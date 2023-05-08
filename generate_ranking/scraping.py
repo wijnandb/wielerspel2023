@@ -103,7 +103,7 @@ def get_jersey_ranking(race_name, race_id, category, date):
     # WIP: get the year from date. Now using default year in first_cycling.scrape_result
     rider_id, rider = first_cycling.scrape_result(race_name, 'gc')
     if rider_id:
-        new_results.append([0, category, "Leiderstrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+        new_results.append([-4, category, "Leiderstrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
     rider_id, rider = first_cycling.scrape_result(race_name, 'youth')
     if rider_id:
         new_results.append([-1, category, "Jongerentrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
