@@ -2,6 +2,7 @@
 <table class="table display compact" style="width:100%">
     <thead>
         <tr>
+            <th>datum</th>
             <th>#. Renner</th>
             <th>Race (cat)</th>
             <th>Punten</th>
@@ -10,14 +11,15 @@
         </tr>
     </thead>
     <tbody>
-    {% for item in site.data.latest_results_with_points %}
-      <tr>
-        <td>{{ item.rank | replace: '-4','1' |  replace: '-1','1' | replace: '-2','1' | replace: '-3','1'}}. <a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ item.rider_id }}" title="CQranking pagina van {{ item.rider_name }}">{{ item.rider_name }}</a></td>
-        <td>{{ item.racename }} ({{ item.category }})</td>
-        <td>{{ item.points }}</td>
-        <td>{{ item.jpp }}</td>
-        <td>{{ item.ploegleider }}</td>
-      </tr>
-    {% endfor %}
+      {% for item in site.data.latest_results_with_points %}
+        <tr>
+          <td>{{ item.date }}</td>
+          <td>{{ item.rank | replace: '-4','1' |  replace: '-1','1' | replace: '-2','1' | replace: '-3','1'}}. <a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ item.rider_id }}" title="CQranking pagina van {{ item.rider_name }}">{{ item.rider_name }}</a></td>
+          <td>{{ item.racename }} ({{ item.category }})</td>
+          <td>{{ item.points }}</td>
+          <td>{{ item.jpp }}</td>
+          <td>{{ item.ploegleider }}</td>
+        </tr>
+      {% endfor %}
     </tbody>
 </table>
