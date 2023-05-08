@@ -8,7 +8,7 @@ Then I add up all points for all the teamcaptains.
 """
 import requests
 from bs4 import BeautifulSoup
-import process_files, count_riders, change_category, first_cycling, add_dates
+import process_files, count_riders, change_category, first_cycling
 from datetime import datetime
 # from operator import itemgetter
 
