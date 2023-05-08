@@ -5,8 +5,9 @@ title: "Uitslagen met punten"
 <table class="table display compact" id="table_id" style="width:100%">
     <thead>
         <tr>
-            <th>#</th>
+            <th>datum</th>
             <th>renner_id</th>
+            <th>#</th>
             <th>Renner</th>
             <th>Race</th>
             <th>Category</th>
@@ -18,8 +19,9 @@ title: "Uitslagen met punten"
     <tbody>
     {% for item in site.data.results_with_points %}
       <tr>
-        <td>{{ item.rank | replace: '-4','1' |  replace: '-1','1' | replace: '-2','1' | replace: '-3','1'}}. </td>
+        <td>{{ item.date }}</td>
         <td>{{ item.rider_id }}</td>
+        <td>{{ item.rank | replace: '-4','1' |  replace: '-1','1' | replace: '-2','1' | replace: '-3','1' }}. </td>
         <td><a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ item.rider_id }}" target="_new">{{ item.rider_name }}</a></td>
         <td>{{ item.racename }}</td>
         <td>{{ item.category }}</td>

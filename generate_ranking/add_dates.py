@@ -11,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-# results = process_files.read_csv_file('all_results.csv')
+results = process_files.read_csv_file('all_results.csv')
 # updated_results = []
 # results[0].append("datum")
 
@@ -36,7 +36,25 @@ def get_date_for_result(race_id):
     soup = BeautifulSoup(r.text, "html.parser")
     result_table =  soup.find("table", ["borderNoOpac"])
     date = result_table.find("td", ["textwhite"])
-    return date.text
+    print(date.text)
+    date_object = convert_date(date.text)
+    return date_object
 
 # add_missing_date_to_results("all_results.csv")
 # get_date_for_result(41261)
+
+def convert_date(string):
+    datetime_object = datetime.strptime(string, '%d/%m/%Y').date()
+    return datetime_object
+
+def convert_all_dates():
+    for result in results[1:]:
+        if len(result) < 9:
+            pass
+        else:
+            date = convert_date(result[8])
+            result[8] = date
+    process_files.write_csv_file("all_results.csv", results)
+
+
+# convert_all_dates()

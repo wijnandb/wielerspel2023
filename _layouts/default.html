@@ -68,8 +68,9 @@
         <script>
             $(document).ready( function () {
                 $('#table_id').DataTable( {
-                    pageLength: 50,
+                    pageLength: 100,
                     dom: 'Bfrtip',
+                    order: [[0, 'desc']],
                     buttons: [
                         'csv', 'excel', 'pdf', 'print'
                     ],
