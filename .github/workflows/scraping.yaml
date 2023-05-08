@@ -60,3 +60,6 @@ jobs:
         run: git fetch origin main
       - name: push code to master
         run: git push origin HEAD:main
+
+  # I also want to get and process the starting-lists
+  # maybe not here but on a separate schedule
