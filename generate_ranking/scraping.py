@@ -68,9 +68,7 @@ def get_results():
         if len(date) < 8:
             # WIP: year hardcoded, use VARIABLE
             date_string = date + "/2023"
-            print(date_string)
             date = datetime.strptime(date_string, '%d/%m/%Y').date()
-            print(date)
         rank = tds[4].text.split(".")[0]
         category = tds[1].text
         race_name = tds[3].text
@@ -116,47 +114,6 @@ def get_jersey_ranking(race_name, race_id, category, date):
     if rider_id:
         new_results.append([-3, category, "Bergtrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
 
-# get_jersey_ranking('Tour de France, Stage 1 : Budapest - Visegrad (195 km)', 39757, 'GT1s', '06/05/2022')
-
-# def test_old_GT_stages(starturl):
-#     """
-#     starturl is the page  with all the stages from a GT (Tour, Giro, Vuelta)
-#     For instance, https://cqranking.com/men/asp/gen/tour.asp?tourid=4203
-
-#     From this page I want to get the info to feed into get_jersey_rankings, like:
-#     - race_name, 
-#     - race_id,
-#     - category,
-#     - date
-#     """
-#     r = requests.get(starturl)
-#     soup = BeautifulSoup(r.text, "html.parser")
-#     tables =  soup.find_all("table")
-#     result_table = tables[10]
-#     row_tags = result_table.find_all('tr')[1:] # skipping the header rows
-#     for row_tag in row_tags:
-#         tds = row_tag.find_all('td')
-#         """
-#         1 - date (Not using this yet.. I should!)
-#         1 - category
-#         2 - country
-#         3 - Name race + href full results
-#         4 - rank + name rider + href rider
-#         """
-#         date = tds[1].text
-#         date = str(date) + "/2022"
-#         race_id = tds[7].a['href'].split("=")[1]
-#         race_name = tds[7].text
-#         country = tds[3].find('img').get('title').upper()
-#         races = {'ITA': ['Giro d\'Italia', 'GT2s'], 'FRA': ['Tour de France', 'GT1s'], 'ESP': ['Vuelta a España', 'GT2s']}
-#         category = races[country][1]
-#         print(race_name, race_id, category, date)
-#         if race_name[:5] == "Stage":
-#             race_name = races[country][0] = " " + race_name
-#             get_jersey_ranking(race_name, race_id, category, date)
-
-
-# test_old_GT_stages("https://cqranking.com/men/asp/gen/tour.asp?tourid=4203")
 
 def get_results_per_race(race_id, race_name, category, country=None):
     """
@@ -194,7 +151,6 @@ def get_results_per_race(race_id, race_name, category, country=None):
         r = requests.get(b)
         soup = BeautifulSoup(r.text, "html.parser")
         result_table =  soup.find("table", ["borderNoOpac"])
-        #print(result_table)
         date_string = result_table.find("td", ["textwhite"]).text
         date = datetime.strptime(date_string, '%d/%m/%Y').date()
         first_result = soup.find("td", ["tabrow1", "tabrow2"])
