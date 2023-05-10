@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,GT2s,"Giro del Sol San Juan, Stage 5 : Atripalda - Salerno (prov.)",41353,GROVES Kaden,26637,0.0,0,2023-05-10
+-4,GT2s,"Leiderstrui na Giro del Sol San Juan, Stage 5 : Atripalda - Salerno (prov.)",41353,Leknessund Andreas,27653,0.0,0,2023-05-10
+-1,GT2s,"Jongerentrui na Giro del Sol San Juan, Stage 5 : Atripalda - Salerno (prov.)",41353,Leknessund Andreas,27653,0.0,0,2023-05-10
+-2,GT2s,"Puntentrui na Giro del Sol San Juan, Stage 5 : Atripalda - Salerno (prov.)",41353,Milan Jonathan,29359,0.0,0,2023-05-10
+-3,GT2s,"Bergtrui na Giro del Sol San Juan, Stage 5 : Atripalda - Salerno (prov.)",41353,Pinot Thibaut,13080,0.0,0,2023-05-10
+1,2.PSs,"Tour de Hongrie, Stage 1 : Szentgotthard - Szentgotthard (prov.)",41373,GROENEWEGEN Dylan,19238,0.0,0,2023-05-10
 1,GT2s,"Giro dItalia, Stage 4 : Venosa - Lago Laceno (prov.)",41352,PARET-PEINTRE Aurélien,24110,0.0,0,2023-05-09
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 4 : Venosa - Lago Laceno (prov.)",41352,Leknessund Andreas,27653,0.0,0,2023-05-09
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 4 : Venosa - Lago Laceno (prov.)",41352,Leknessund Andreas,27653,0.0,0,2023-05-09
@@ -44,4 +50,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,2.1,"Tour of Hellas, General classification",41342,GATE Aaron,13153,0.0,0,2023-05-06
 3,2.1,"Tour of Hellas, General classification",41342,ANIOLKOWSKI Stanislaw,24940,0.0,0,2023-05-06
 1,2.1s,"Tour of Hellas, Stage 4 : Costa Navarino - Ancient Olympia",41341,ANIOLKOWSKI Stanislaw,24940,0.0,0,2023-05-06
-1,2.1s,"Tour of Hellas, Stage 3 : Costa Navarino - Kyparissia",41340,LEITAO Iuri Gabriel Dantas,31829,0.0,0,2023-05-05
