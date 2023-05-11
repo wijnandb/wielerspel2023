@@ -1,10 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,GT2s,"Giro del Sol San Juan, Stage 5 : Atripalda - Salerno (prov.)",41353,GROVES Kaden,26637,2,0,2023-05-10,Vel
--4,GT2s,"Leiderstrui na Giro del Sol San Juan, Stage 5 : Atripalda - Salerno (prov.)",41353,Leknessund Andreas,27653,1,0,2023-05-10,Paul
--1,GT2s,"Jongerentrui na Giro del Sol San Juan, Stage 5 : Atripalda - Salerno (prov.)",41353,Leknessund Andreas,27653,0.1,0,2023-05-10,Paul
--2,GT2s,"Puntentrui na Giro del Sol San Juan, Stage 5 : Atripalda - Salerno (prov.)",41353,Milan Jonathan,29359,0.2,0,2023-05-10,Bram
--3,GT2s,"Bergtrui na Giro del Sol San Juan, Stage 5 : Atripalda - Salerno (prov.)",41353,Pinot Thibaut,13080,0.2,0,2023-05-10,Nicky
+1,GT2s,"Giro dItalia, Stage 6 : Napoli - Napoli (prov.)",41354,PEDERSEN Mads,21992,2,0,2023-05-11,Harry
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 6 : Napoli - Napoli (prov.)",41354,Leknessund Andreas,27653,1,0,2023-05-11,Paul
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 6 : Napoli - Napoli (prov.)",41354,Leknessund Andreas,27653,0.1,0,2023-05-11,Paul
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 6 : Napoli - Napoli (prov.)",41354,Milan Jonathan,29359,0.2,0,2023-05-11,Bram
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 6 : Napoli - Napoli (prov.)",41354,Pinot Thibaut,13080,0.2,0,2023-05-11,Nicky
+1,2.PSs,"Tour de Hongrie, Stage 2 : Zalaegerszeg - Keszthely (prov.)",41374,JAKOBSEN Fabio,23426,0.3,0,2023-05-11,Kaspar
+1,GT2s,"Giro dItalia, Stage 5 : Atripalda - Salerno (prov.)",41353,GROVES Kaden,26637,2,0,2023-05-10,Vel
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 5 : Atripalda - Salerno (prov.)",41353,Leknessund Andreas,27653,1,0,2023-05-10,Paul
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 5 : Atripalda - Salerno (prov.)",41353,Leknessund Andreas,27653,0.1,0,2023-05-10,Paul
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 5 : Atripalda - Salerno (prov.)",41353,Milan Jonathan,29359,0.2,0,2023-05-10,Bram
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 5 : Atripalda - Salerno (prov.)",41353,Pinot Thibaut,13080,0.2,0,2023-05-10,Nicky
 1,2.PSs,"Tour de Hongrie, Stage 1 : Szentgotthard - Szentgotthard (prov.)",41373,GROENEWEGEN Dylan,19238,0.3,0,2023-05-10,Frank
+1,NCT5,National Championships Cyprus () I.T.T. (prov.),41322,MILTIADIS Andreas,22735,0.5,0,2023-05-10,-
 1,GT2s,"Giro dItalia, Stage 4 : Venosa - Lago Laceno (prov.)",41352,PARET-PEINTRE Aurélien,24110,2,0,2023-05-09,Nicky
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 4 : Venosa - Lago Laceno (prov.)",41352,Leknessund Andreas,27653,1,0,2023-05-09,Paul
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 4 : Venosa - Lago Laceno (prov.)",41352,Leknessund Andreas,27653,0.1,0,2023-05-09,Paul
