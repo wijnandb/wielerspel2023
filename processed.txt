@@ -82,3 +82,4 @@ Resultaten gecheckt: 2023-05-09 16:38:27.653515
 manual, scraping failed
 Resultaten gecheckt: 2023-05-10 17:43:33.246744 
 Resultaten gecheckt: 2023-05-11 16:38:43.417873 
+Resultaten gecheckt: 2023-05-12 16:38:17.716925 
