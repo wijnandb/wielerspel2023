@@ -96,7 +96,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 17534,HERRADA Jesus,HERRADA LOPEZ Jesus,Paul,2,COF,ESP,33,2.6,14
 25026,HIGUITA Sergio,HIGUITA GARCIA Sergio Andres,Kaspar,15,BOH,COL,26,2.5,76
 23948,HINDLEY Jai,HINDLEY Jai,Kaspar,13,BOH,AUS,27,0,12
-26509,HIRSCHI Marc,HIRSCHI Marc,Bram,10,UAD,SUI,25,0,40
+26509,HIRSCHI Marc,HIRSCHI Marc,Bram,10,UAD,SUI,25,0.3,40
 17078,HIRT Jan,HIRT Jan,Wijnand,1,SOQ,CZE,32,0,0
 26396,HODEG Alvaro,HODEG CHAGUI Alvaro Jose,Albert,1,UAD,COL,26,0,0
 22702,HOFSTETTER Hugo,HOFSTETTER Hugo,Albert,2,ARK,FRA,29,0.3,0
@@ -123,7 +123,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 20156,LATOUR Pierre,LATOUR Pierre,Kaspar,2,TEN,FRA,30,0.1,8
 31621,LAURANCE Axel,LAURANCE Axel,Jan,1,ADD,FRA,22,0,0
 29907,LEEMREIZE Gijs,LEEMREIZE Gijs,Vel,1,TJV,NED,24,0,0
-27653,LEKNESSUND Andreas,LEKNESSUND Andreas,Paul,2,DSM,NOR,24,3.3,0
+27653,LEKNESSUND Andreas,LEKNESSUND Andreas,Paul,2,DSM,NOR,24,4.4,0
 27132,LOPEZ Juan Pedro,LOPEZ PEREZ Juan Pedro,PB,1,TFS,ESP,26,0,0
 23334,LOPEZ Miguel Angel,LOPEZ MORENO Miguel Angel,Nicky,5,???,COL,29,6.3,50
 29982,LOUVEL Matis,LOUVEL Matis,Paul,3,ARK,FRA,24,0,0
@@ -144,7 +144,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 18413,MEINTJES Louis,MEINTJES Louis,Wijnand,1,ICW,RSA,31,0.3,0
 17988,MERLIER Tim,MERLIER Tim,Wijnand,14,SOQ,BEL,31,6.3,50
 32946,MIHKELS Madis,MIHKELS Madis,Albert,1,ICW,EST,20,0,0
-29359,MILAN Jonathan,MILAN Jonathan,Bram,2,TBV,ITA,23,3.2,0
+29359,MILAN Jonathan,MILAN Jonathan,Bram,2,TBV,ITA,23,3.4,0
 21145,MOHORIC Matej,MOHORIC Matej,Frank,16,TBV,SLO,29,0.5,67
 23463,MOLANO Juan,MOLANO BENAVIDES Juan Sebastian,PB,1,UAD,COL,29,4.5,82
 5139,MOLLEMA Bauke,MOLLEMA Bauke,Roy,2,TFS,NED,37,0,12

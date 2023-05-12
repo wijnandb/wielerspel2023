@@ -1,4 +1,20 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT2s,"Giro dItalia, Stage 7 : Capua - Gran Sasso d'Italia (prov.)",41355,BAIS Davide,28523,2,0,2023-05-12,-
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 7 : Capua - Gran Sasso d'Italia (prov.)",41355,Leknessund Andreas,27653,1,0,2023-05-12,Paul
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 7 : Capua - Gran Sasso d'Italia (prov.)",41355,Leknessund Andreas,27653,0.1,0,2023-05-12,Paul
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 7 : Capua - Gran Sasso d'Italia (prov.)",41355,Milan Jonathan,29359,0.2,0,2023-05-12,Bram
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 7 : Capua - Gran Sasso d'Italia (prov.)",41355,Bais Davide,28523,0.2,0,2023-05-12,-
+1,2.PSs,"Tour de Hongrie, Stage 3 : Kalosvar - Pecs (prov.)",41375,HIRSCHI Marc,26509,0.3,0,2023-05-12,Bram
+1,XX,Southeast Asian Games (Siem Reap) R.R. (prov.),41460,MAZUKI Nur Amirull Fakhruddin,18131,0.0,0,2023-05-12,-
+2,XX,Southeast Asian Games (Siem Reap) R.R. (prov.),41460,CAHYADI Aiman,20954,0.0,0,2023-05-12,-
+3,XX,Southeast Asian Games (Siem Reap) R.R. (prov.),41460,ORANZA Ronald Nozuelo,21183,0.0,0,2023-05-12,-
+4,XX,Southeast Asian Games (Siem Reap) R.R. (prov.),41460,NGUYEN Hoang Sang,20113,0.0,0,2023-05-12,-
+5,XX,Southeast Asian Games (Siem Reap) R.R. (prov.),41460,LIPHONGYU Navuti,16609,0.0,0,2023-05-12,-
+6,XX,Southeast Asian Games (Siem Reap) R.R. (prov.),41460,YEO Boon Kiak,20401,0.0,0,2023-05-12,-
+7,XX,Southeast Asian Games (Siem Reap) R.R. (prov.),41460,PHOUNSAVATH DESTRIBOIS Alex Ariya,16649,0.0,0,2023-05-12,-
+8,XX,Southeast Asian Games (Siem Reap) R.R. (prov.),41460,CHAIYASOMBAT Thanakhan,28399,0.0,0,2023-05-12,-
+9,XX,Southeast Asian Games (Siem Reap) R.R. (prov.),41460,SETIAWAN Odie Purnomo,24100,0.0,0,2023-05-12,-
+10,XX,Southeast Asian Games (Siem Reap) R.R. (prov.),41460,QUANG Van Cuong,26483,0.0,0,2023-05-12,-
 1,GT2s,"Giro dItalia, Stage 6 : Napoli - Napoli (prov.)",41354,PEDERSEN Mads,21992,2,0,2023-05-11,Harry
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 6 : Napoli - Napoli (prov.)",41354,Leknessund Andreas,27653,1,0,2023-05-11,Paul
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 6 : Napoli - Napoli (prov.)",41354,Leknessund Andreas,27653,0.1,0,2023-05-11,Paul
@@ -11,7 +27,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 5 : Atripalda - Salerno (prov.)",41353,Milan Jonathan,29359,0.2,0,2023-05-10,Bram
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 5 : Atripalda - Salerno (prov.)",41353,Pinot Thibaut,13080,0.2,0,2023-05-10,Nicky
 1,2.PSs,"Tour de Hongrie, Stage 1 : Szentgotthard - Szentgotthard (prov.)",41373,GROENEWEGEN Dylan,19238,0.3,0,2023-05-10,Frank
-1,NCT5,National Championships Cyprus () I.T.T. (prov.),41322,MILTIADIS Andreas,22735,0.5,0,2023-05-10,-
+1,NCT5,National Championships Cyprus (Dasaki Achnas) I.T.T.,41322,MILTIADIS Andreas,22735,0.5,0,2023-05-10,-
 1,GT2s,"Giro dItalia, Stage 4 : Venosa - Lago Laceno (prov.)",41352,PARET-PEINTRE Aurélien,24110,2,0,2023-05-09,Nicky
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 4 : Venosa - Lago Laceno (prov.)",41352,Leknessund Andreas,27653,1,0,2023-05-09,Paul
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 4 : Venosa - Lago Laceno (prov.)",41352,Leknessund Andreas,27653,0.1,0,2023-05-09,Paul
