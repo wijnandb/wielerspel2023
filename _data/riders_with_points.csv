@@ -123,7 +123,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 20156,LATOUR Pierre,LATOUR Pierre,Kaspar,2,TEN,FRA,30,0.1,8
 31621,LAURANCE Axel,LAURANCE Axel,Jan,1,ADD,FRA,22,0,0
 29907,LEEMREIZE Gijs,LEEMREIZE Gijs,Vel,1,TJV,NED,24,0,0
-27653,LEKNESSUND Andreas,LEKNESSUND Andreas,Paul,2,DSM,NOR,24,4.4,0
+27653,LEKNESSUND Andreas,LEKNESSUND Andreas,Paul,2,DSM,NOR,24,5.5,0
 27132,LOPEZ Juan Pedro,LOPEZ PEREZ Juan Pedro,PB,1,TFS,ESP,26,0,0
 23334,LOPEZ Miguel Angel,LOPEZ MORENO Miguel Angel,Nicky,5,???,COL,29,6.3,50
 29982,LOUVEL Matis,LOUVEL Matis,Paul,3,ARK,FRA,24,0,0
@@ -144,7 +144,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 18413,MEINTJES Louis,MEINTJES Louis,Wijnand,1,ICW,RSA,31,0.3,0
 17988,MERLIER Tim,MERLIER Tim,Wijnand,14,SOQ,BEL,31,6.3,50
 32946,MIHKELS Madis,MIHKELS Madis,Albert,1,ICW,EST,20,0,0
-29359,MILAN Jonathan,MILAN Jonathan,Bram,2,TBV,ITA,23,3.4,0
+29359,MILAN Jonathan,MILAN Jonathan,Bram,2,TBV,ITA,23,3.6,0
 21145,MOHORIC Matej,MOHORIC Matej,Frank,16,TBV,SLO,29,0.5,67
 23463,MOLANO Juan,MOLANO BENAVIDES Juan Sebastian,PB,1,UAD,COL,29,4.5,82
 5139,MOLLEMA Bauke,MOLLEMA Bauke,Roy,2,TFS,NED,37,0,12
@@ -251,4 +251,4 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 18975,YATES Adam,YATES Adam,Paul,12,UAD,GBR,31,12.5,75
 17893,YATES Simon,YATES Simon,PB,13,JAY,GBR,31,4.5,65
 27749,ZANA Filippo,ZANA Filippo,Vel,2,JAY,ITA,24,0,0
-31263,ZINGLE Axel,ZINGLE Axel,Paul,4,COF,FRA,25,2,36
+31263,ZINGLE Axel,ZINGLE Axel,Paul,4,COF,FRA,25,2.1,36
