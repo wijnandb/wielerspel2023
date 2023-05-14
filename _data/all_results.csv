@@ -1,12 +1,33 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,GT2s,"Giro dItalia, Stage 9 : Savignano sul Rubicone - Cesena I.T.T. (prov.)",41357,EVENEPOEL Remco,28377,0.0,0,2023-05-14
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 9 : Savignano sul Rubicone - Cesena I.T.T. (prov.)",41357,Evenepoel Remco,28377,0.0,0,2023-05-14
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 9 : Savignano sul Rubicone - Cesena I.T.T. (prov.)",41357,Evenepoel Remco,28377,0.0,0,2023-05-14
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 9 : Savignano sul Rubicone - Cesena I.T.T. (prov.)",41357,Milan Jonathan,29359,0.0,0,2023-05-14
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 9 : Savignano sul Rubicone - Cesena I.T.T. (prov.)",41357,Bais Davide,28523,0.0,0,2023-05-14
+1,2.PS,"Tour de Hongrie, General classification (prov.)",41378,HIRSCHI Marc,26509,0.0,0,2023-05-14
+2,2.PS,"Tour de Hongrie, General classification (prov.)",41378,TULETT Ben,30630,0.0,0,2023-05-14
+3,2.PS,"Tour de Hongrie, General classification (prov.)",41378,VOISARD Yannis,27977,0.0,0,2023-05-14
+4,2.PS,"Tour de Hongrie, General classification (prov.)",41378,POOLE Max,32809,0.0,0,2023-05-14
+5,2.PS,"Tour de Hongrie, General classification (prov.)",41378,MONIQUET Sylvain,26331,0.0,0,2023-05-14
+6,2.PS,"Tour de Hongrie, General classification (prov.)",41378,ONLEY Oscar,31724,0.0,0,2023-05-14
+7,2.PS,"Tour de Hongrie, General classification (prov.)",41378,FABBRO Matteo,24806,0.0,0,2023-05-14
+8,2.PS,"Tour de Hongrie, General classification (prov.)",41378,BERNAL GOMEZ Egan Arley,24926,0.0,0,2023-05-14
+9,2.PS,"Tour de Hongrie, General classification (prov.)",41378,PIGANZOLI Davide,32232,0.0,0,2023-05-14
+10,2.PS,"Tour de Hongrie, General classification (prov.)",41378,BALDERSTONE ROUMENS Abel,34079,0.0,0,2023-05-14
+1,2.PSs,"Tour de Hongrie, Stage 5 : Budapest - Budapest (prov.)",41377,no result,13543,0.0,0,2023-05-14
+1,1.1,Boucles de l'Aulne - Châteaulin (prov.),41324,VAN AVERMAET Greg,3333,0.0,0,2023-05-14
+2,1.1,Boucles de l'Aulne - Châteaulin (prov.),41324,VERMEERSCH Florian,28127,0.0,0,2023-05-14
+3,1.1,Boucles de l'Aulne - Châteaulin (prov.),41324,BARRENETXEA GOLZARRI Jon,31685,0.0,0,2023-05-14
+1,NC5,National Championships Cyprus (Mathiatis) R.R. (prov.),41323,MATSANGOS Alexandros,28594,0.0,0,2023-05-14
 1,GT2s,"Giro dItalia, Stage 8 : Terni - Fossombrone (prov.)",41356,HEALY Ben,28846,0.0,0,2023-05-13
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 8 : Terni - Fossombrone (prov.)",41356,Leknessund Andreas,27653,0.0,0,2023-05-13
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 8 : Terni - Fossombrone (prov.)",41356,Leknessund Andreas,27653,0.0,0,2023-05-13
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 8 : Terni - Fossombrone (prov.)",41356,Milan Jonathan,29359,0.0,0,2023-05-13
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 8 : Terni - Fossombrone (prov.)",41356,Bais Davide,28523,0.0,0,2023-05-13
-1,1.1,Tour du Finistère (prov.),41321,PENHOËT Paul,30686,0.0,0,2023-05-13
-2,1.1,Tour du Finistère (prov.),41321,DUJARDIN Sandy,28583,0.0,0,2023-05-13
-3,1.1,Tour du Finistère (prov.),41321,ZINGLE Axel,31263,0.0,0,2023-05-13
+1,2.PSs,"Tour de Hongrie, Stage 4 : Martonvasar - Dobogoko (prov.)",41376,VOISARD Yannis,27977,0.0,0,2023-05-13
+1,1.1,Tour du Finistère,41321,PENHOËT Paul,30686,0.0,0,2023-05-13
+2,1.1,Tour du Finistère,41321,DUJARDIN Sandy,28583,0.0,0,2023-05-13
+3,1.1,Tour du Finistère,41321,ZINGLE Axel,31263,0.0,0,2023-05-13
 1,GT2s,"Giro dItalia, Stage 7 : Capua - Gran Sasso d'Italia (prov.)",41355,BAIS Davide,28523,0.0,0,2023-05-12
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 7 : Capua - Gran Sasso d'Italia (prov.)",41355,Leknessund Andreas,27653,0.0,0,2023-05-12
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 7 : Capua - Gran Sasso d'Italia (prov.)",41355,Leknessund Andreas,27653,0.0,0,2023-05-12
