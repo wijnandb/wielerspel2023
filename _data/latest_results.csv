@@ -4,27 +4,28 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 9 : Savignano sul Rubicone - Cesena I.T.T. (prov.)",41357,Evenepoel Remco,28377,0.0,0,2023-05-14
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 9 : Savignano sul Rubicone - Cesena I.T.T. (prov.)",41357,Milan Jonathan,29359,0.0,0,2023-05-14
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 9 : Savignano sul Rubicone - Cesena I.T.T. (prov.)",41357,Bais Davide,28523,0.0,0,2023-05-14
-1,2.PS,"Tour de Hongrie, General classification (prov.)",41378,HIRSCHI Marc,26509,0.0,0,2023-05-14
-2,2.PS,"Tour de Hongrie, General classification (prov.)",41378,TULETT Ben,30630,0.0,0,2023-05-14
-3,2.PS,"Tour de Hongrie, General classification (prov.)",41378,VOISARD Yannis,27977,0.0,0,2023-05-14
-4,2.PS,"Tour de Hongrie, General classification (prov.)",41378,POOLE Max,32809,0.0,0,2023-05-14
-5,2.PS,"Tour de Hongrie, General classification (prov.)",41378,MONIQUET Sylvain,26331,0.0,0,2023-05-14
-6,2.PS,"Tour de Hongrie, General classification (prov.)",41378,ONLEY Oscar,31724,0.0,0,2023-05-14
-7,2.PS,"Tour de Hongrie, General classification (prov.)",41378,FABBRO Matteo,24806,0.0,0,2023-05-14
-8,2.PS,"Tour de Hongrie, General classification (prov.)",41378,BERNAL GOMEZ Egan Arley,24926,0.0,0,2023-05-14
-9,2.PS,"Tour de Hongrie, General classification (prov.)",41378,PIGANZOLI Davide,32232,0.0,0,2023-05-14
-10,2.PS,"Tour de Hongrie, General classification (prov.)",41378,BALDERSTONE ROUMENS Abel,34079,0.0,0,2023-05-14
-1,2.PSs,"Tour de Hongrie, Stage 5 : Budapest - Budapest (prov.)",41377,no result,13543,0.0,0,2023-05-14
-1,1.1,Boucles de l'Aulne - Châteaulin (prov.),41324,VAN AVERMAET Greg,3333,0.0,0,2023-05-14
-2,1.1,Boucles de l'Aulne - Châteaulin (prov.),41324,VERMEERSCH Florian,28127,0.0,0,2023-05-14
-3,1.1,Boucles de l'Aulne - Châteaulin (prov.),41324,BARRENETXEA GOLZARRI Jon,31685,0.0,0,2023-05-14
-1,NC5,National Championships Cyprus (Mathiatis) R.R. (prov.),41323,MATSANGOS Alexandros,28594,0.0,0,2023-05-14
+1,2.PS,"Tour de Hongrie, General classification",41378,HIRSCHI Marc,26509,0.0,0,2023-05-14
+2,2.PS,"Tour de Hongrie, General classification",41378,TULETT Ben,30630,0.0,0,2023-05-14
+3,2.PS,"Tour de Hongrie, General classification",41378,VOISARD Yannis,27977,0.0,0,2023-05-14
+4,2.PS,"Tour de Hongrie, General classification",41378,POOLE Max,32809,0.0,0,2023-05-14
+5,2.PS,"Tour de Hongrie, General classification",41378,MONIQUET Sylvain,26331,0.0,0,2023-05-14
+6,2.PS,"Tour de Hongrie, General classification",41378,ONLEY Oscar,31724,0.0,0,2023-05-14
+7,2.PS,"Tour de Hongrie, General classification",41378,FABBRO Matteo,24806,0.0,0,2023-05-14
+8,2.PS,"Tour de Hongrie, General classification",41378,BERNAL GOMEZ Egan Arley,24926,0.0,0,2023-05-14
+9,2.PS,"Tour de Hongrie, General classification",41378,PIGANZOLI Davide,32232,0.0,0,2023-05-14
+10,2.PS,"Tour de Hongrie, General classification",41378,BALDERSTONE ROUMENS Abel,34079,0.0,0,2023-05-14
+1,2.PSs,"Tour de Hongrie, Stage 5 : Budapest - Budapest",41377,no result,13543,0.0,0,2023-05-14
+1,1.1,Boucles de l'Aulne - Châteaulin,41324,VAN AVERMAET Greg,3333,0.0,0,2023-05-14
+2,1.1,Boucles de l'Aulne - Châteaulin,41324,VERMEERSCH Florian,28127,0.0,0,2023-05-14
+3,1.1,Boucles de l'Aulne - Châteaulin,41324,BARRENETXEA GOLZARRI Jon,31685,0.0,0,2023-05-14
+1,NC5,National Championships El Salvador (San Salvador) R.R.,41317,JOYA Jose Dagoberto,23087,0.0,0,2023-05-14
+1,NC5,National Championships Cyprus (Mathiatis) R.R.,41323,MATSANGOS Alexandros,28594,0.0,0,2023-05-14
 1,GT2s,"Giro dItalia, Stage 8 : Terni - Fossombrone (prov.)",41356,HEALY Ben,28846,0.0,0,2023-05-13
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 8 : Terni - Fossombrone (prov.)",41356,Leknessund Andreas,27653,0.0,0,2023-05-13
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 8 : Terni - Fossombrone (prov.)",41356,Leknessund Andreas,27653,0.0,0,2023-05-13
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 8 : Terni - Fossombrone (prov.)",41356,Milan Jonathan,29359,0.0,0,2023-05-13
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 8 : Terni - Fossombrone (prov.)",41356,Bais Davide,28523,0.0,0,2023-05-13
-1,2.PSs,"Tour de Hongrie, Stage 4 : Martonvasar - Dobogoko (prov.)",41376,VOISARD Yannis,27977,0.0,0,2023-05-13
+1,2.PSs,"Tour de Hongrie, Stage 4 : Martonvasar - Dobogoko",41376,VOISARD Yannis,27977,0.0,0,2023-05-13
 1,1.1,Tour du Finistère,41321,PENHOËT Paul,30686,0.0,0,2023-05-13
 2,1.1,Tour du Finistère,41321,DUJARDIN Sandy,28583,0.0,0,2023-05-13
 3,1.1,Tour du Finistère,41321,ZINGLE Axel,31263,0.0,0,2023-05-13
@@ -33,15 +34,4 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 7 : Capua - Gran Sasso d'Italia (prov.)",41355,Leknessund Andreas,27653,0.0,0,2023-05-12
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 7 : Capua - Gran Sasso d'Italia (prov.)",41355,Milan Jonathan,29359,0.0,0,2023-05-12
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 7 : Capua - Gran Sasso d'Italia (prov.)",41355,Bais Davide,28523,0.0,0,2023-05-12
-1,2.PSs,"Tour de Hongrie, Stage 3 : Kalosvar - Pecs (prov.)",41375,HIRSCHI Marc,26509,0.0,0,2023-05-12
-1,NCT5,National Championships Bolivia (Villazon) I.T.T.,41319,MOYATA CRUZ Eduardo Edwin,29649,0.0,0,2023-05-12
-1,XX,Southeast Asian Games (Siem Reap) R.R.,41460,MAZUKI Nur Amirull Fakhruddin,18131,0.0,0,2023-05-12
-2,XX,Southeast Asian Games (Siem Reap) R.R.,41460,CAHYADI Aiman,20954,0.0,0,2023-05-12
-3,XX,Southeast Asian Games (Siem Reap) R.R.,41460,ORANZA Ronald Nozuelo,21183,0.0,0,2023-05-12
-4,XX,Southeast Asian Games (Siem Reap) R.R.,41460,NGUYEN Hoang Sang,20113,0.0,0,2023-05-12
-5,XX,Southeast Asian Games (Siem Reap) R.R.,41460,LIPHONGYU Navuti,16609,0.0,0,2023-05-12
-6,XX,Southeast Asian Games (Siem Reap) R.R.,41460,YEO Boon Kiak,20401,0.0,0,2023-05-12
-7,XX,Southeast Asian Games (Siem Reap) R.R.,41460,PHOUNSAVATH DESTRIBOIS Alex Ariya,16649,0.0,0,2023-05-12
-8,XX,Southeast Asian Games (Siem Reap) R.R.,41460,CHAIYASOMBAT Thanakhan,28399,0.0,0,2023-05-12
-9,XX,Southeast Asian Games (Siem Reap) R.R.,41460,SETIAWAN Odie Purnomo,24100,0.0,0,2023-05-12
-10,XX,Southeast Asian Games (Siem Reap) R.R.,41460,QUANG Van Cuong,26483,0.0,0,2023-05-12
+1,2.PSs,"Tour de Hongrie, Stage 3 : Kalosvar - Pecs",41375,HIRSCHI Marc,26509,0.0,0,2023-05-12
