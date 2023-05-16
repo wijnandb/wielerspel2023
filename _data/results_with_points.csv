@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT2s,"Giro dItalia, Stage 10 : Scandiano - Viareggio (prov.)",41358,CORT NIELSEN Magnus,19448,2,0,2023-05-16,Vel
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 10 : Scandiano - Viareggio (prov.)",41358,Thomas Geraint,3891,1,0,2023-05-16,Arjan
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 10 : Scandiano - Viareggio (prov.)",41358,Almeida Joao,26482,0.1,0,2023-05-16,Wijnand
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 10 : Scandiano - Viareggio (prov.)",41358,Milan Jonathan,29359,0.2,0,2023-05-16,Bram
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 10 : Scandiano - Viareggio (prov.)",41358,Bais Davide,28523,0.2,0,2023-05-16,-
+1,2.PSs,"4 Jours de Dunkerque, Stage 1 : Dunkerque - Abbeville (prov.)",41379,KOOIJ Olav,30643,0.3,0,2023-05-16,Albert
 1,GT2s,"Giro dItalia, Stage 9 : Savignano sul Rubicone - Cesena I.T.T. (prov.)",41357,EVENEPOEL Remco,28377,2,0,2023-05-14,Roy
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 9 : Savignano sul Rubicone - Cesena I.T.T. (prov.)",41357,Evenepoel Remco,28377,1,0,2023-05-14,Roy
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 9 : Savignano sul Rubicone - Cesena I.T.T. (prov.)",41357,Evenepoel Remco,28377,0.1,0,2023-05-14,Roy
@@ -18,6 +24,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Boucles de l'Aulne - Châteaulin,41324,VAN AVERMAET Greg,3333,2,0,2023-05-14,Albert
 2,1.1,Boucles de l'Aulne - Châteaulin,41324,VERMEERSCH Florian,28127,0.3,0,2023-05-14,Albert
 3,1.1,Boucles de l'Aulne - Châteaulin,41324,BARRENETXEA GOLZARRI Jon,31685,0.1,0,2023-05-14,-
+1,NC5,National Championships Uzbekistan (Bostonliq) R.R. (prov.),41463,KHALMURATOV Muradjan,1310,1,0,2023-05-14,-
 1,NC5,National Championships El Salvador (San Salvador) R.R.,41317,JOYA Jose Dagoberto,23087,1,0,2023-05-14,-
 1,NC5,National Championships Cyprus (Mathiatis) R.R.,41323,MATSANGOS Alexandros,28594,1,0,2023-05-14,-
 1,GT2s,"Giro dItalia, Stage 8 : Terni - Fossombrone (prov.)",41356,HEALY Ben,28846,2,0,2023-05-13,-
