@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT2s,"Giro dItalia, Stage 12 : Bra - Rivoli (prov.)",41360,DENZ Nico,21504,2,0,2023-05-18,-
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 12 : Bra - Rivoli (prov.)",41360,Thomas Geraint,3891,1,0,2023-05-18,Arjan
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 12 : Bra - Rivoli (prov.)",41360,Almeida Joao,26482,0.1,0,2023-05-18,Wijnand
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 12 : Bra - Rivoli (prov.)",41360,Milan Jonathan,29359,0.2,0,2023-05-18,Bram
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 12 : Bra - Rivoli (prov.)",41360,Bais Davide,28523,0.2,0,2023-05-18,-
+1,2.PSs,"4 Jours de Dunkerque, Stage 3 : Saint Quentin - Saint Quentin I.T.T. (prov.)",41381,THOMAS Benjamin,23641,0.3,0,2023-05-18,Paul
 1,GT2s,"Giro dItalia, Stage 11 : Camaiore - Tortona (prov.)",41359,ACKERMANN Pascal,20917,2,0,2023-05-17,Vel
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 11 : Camaiore - Tortona (prov.)",41359,Thomas Geraint,3891,1,0,2023-05-17,Arjan
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 11 : Camaiore - Tortona (prov.)",41359,Almeida Joao,26482,0.1,0,2023-05-17,Wijnand
