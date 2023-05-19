@@ -1,10 +1,19 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,GT2s,"Giro dItalia, Stage 13 : Le Châble - Crans Montana (prov.)",41361,RUBIO REYES Einer Augusto,27024,0.0,0,2023-05-19
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 13 : Le Châble - Crans Montana (prov.)",41361,Thomas Geraint,3891,0.0,0,2023-05-19
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 13 : Le Châble - Crans Montana (prov.)",41361,Almeida Joao,26482,0.0,0,2023-05-19
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 13 : Le Châble - Crans Montana (prov.)",41361,Milan Jonathan,29359,0.0,0,2023-05-19
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 13 : Le Châble - Crans Montana (prov.)",41361,Pinot Thibaut,13080,0.0,0,2023-05-19
+1,2.PSs,"4 Jours de Dunkerque, Stage 4 : Maubeuge - Achicourt (prov.)",41382,KOOIJ Olav,30643,0.0,0,2023-05-19
 1,GT2s,"Giro dItalia, Stage 12 : Bra - Rivoli (prov.)",41360,DENZ Nico,21504,0.0,0,2023-05-18
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 12 : Bra - Rivoli (prov.)",41360,Thomas Geraint,3891,0.0,0,2023-05-18
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 12 : Bra - Rivoli (prov.)",41360,Almeida Joao,26482,0.0,0,2023-05-18
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 12 : Bra - Rivoli (prov.)",41360,Milan Jonathan,29359,0.0,0,2023-05-18
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 12 : Bra - Rivoli (prov.)",41360,Bais Davide,28523,0.0,0,2023-05-18
 1,2.PSs,"4 Jours de Dunkerque, Stage 3 : Saint Quentin - Saint Quentin I.T.T. (prov.)",41381,THOMAS Benjamin,23641,0.0,0,2023-05-18
+1,1.1,Circuit de Wallonie,41327,MEEUS Jordi,26421,0.0,0,2023-05-18
+2,1.1,Circuit de Wallonie,41327,TAMINIAUX Lionel,23416,0.0,0,2023-05-18
+3,1.1,Circuit de Wallonie,41327,KIELICH Timo,28189,0.0,0,2023-05-18
 1,GT2s,"Giro dItalia, Stage 11 : Camaiore - Tortona (prov.)",41359,ACKERMANN Pascal,20917,0.0,0,2023-05-17
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 11 : Camaiore - Tortona (prov.)",41359,Thomas Geraint,3891,0.0,0,2023-05-17
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 11 : Camaiore - Tortona (prov.)",41359,Almeida Joao,26482,0.0,0,2023-05-17
