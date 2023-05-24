@@ -1,4 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT2s,"Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,DAINESE Alberto,26965,2,0,2023-05-24,Vel
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,Thomas Geraint,3891,1,0,2023-05-24,Arjan
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,Almeida Joao,26482,0.1,0,2023-05-24,Wijnand
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,Milan Jonathan,29359,0.2,0,2023-05-24,Bram
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,Healy Ben,28846,0.2,0,2023-05-24,-
+1,2.1s,"Tour of Japan, Stage 3 : Mino - Mino (prov.)",41405,LAMPERTI Luke,31833,0.2,0,2023-05-24,-
+1,2.NCs,"Orlen Nations GP, Stage 1 : Kaposvar - Balatonfoldvar (prov.)",41419,MENGEL Nikolaj,31758,0.0,0,2023-05-24,-
 1,GT2s,"Giro dItalia, Stage 16 : Sabbio Chiese - Monte Bondone (prov.)",41364,ALMEIDA Joao Pedro Gonçalves,26482,2,0,2023-05-23,Wijnand
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 16 : Sabbio Chiese - Monte Bondone (prov.)",41364,Thomas Geraint,3891,1,0,2023-05-23,Arjan
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 16 : Sabbio Chiese - Monte Bondone (prov.)",41364,Almeida Joao,26482,0.1,0,2023-05-23,Wijnand
