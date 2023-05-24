@@ -1,4 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,GT2s,"Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,DAINESE Alberto,26965,0.0,0,2023-05-24
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,Thomas Geraint,3891,0.0,0,2023-05-24
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,Almeida Joao,26482,0.0,0,2023-05-24
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,Milan Jonathan,29359,0.0,0,2023-05-24
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,Healy Ben,28846,0.0,0,2023-05-24
+1,2.1s,"Tour of Japan, Stage 3 : Mino - Mino (prov.)",41405,LAMPERTI Luke,31833,0.0,0,2023-05-24
+1,2.NCs,"Orlen Nations GP, Stage 1 : Kaposvar - Balatonfoldvar (prov.)",41419,MENGEL Nikolaj,31758,0.0,0,2023-05-24
 1,GT2s,"Giro dItalia, Stage 16 : Sabbio Chiese - Monte Bondone (prov.)",41364,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0,2023-05-23
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 16 : Sabbio Chiese - Monte Bondone (prov.)",41364,Thomas Geraint,3891,0.0,0,2023-05-23
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 16 : Sabbio Chiese - Monte Bondone (prov.)",41364,Almeida Joao,26482,0.0,0,2023-05-23
@@ -29,12 +36,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,1.1,Rund um Köln,41330,MENTEN Milan,24180,0.0,0,2023-05-21
 3,1.1,Rund um Köln,41330,DE BUYST Jasper,19274,0.0,0,2023-05-21
 1,2.1s,"Tour of Japan, Prologue : Sakai I.T.T. (prov.)",41402,LAMPERTI Luke,31833,0.0,0,2023-05-21
-1,GT2s,"Giro dItalia, Stage 14 : Sierre - Cassano Magnago (prov.)",41362,DENZ Nico,21504,0.0,0,2023-05-20
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 14 : Sierre - Cassano Magnago (prov.)",41362,Armirail Bruno,22906,0.0,0,2023-05-20
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 14 : Sierre - Cassano Magnago (prov.)",41362,Almeida Joao,26482,0.0,0,2023-05-20
--2,GT2s,"Puntentrui na Giro dItalia, Stage 14 : Sierre - Cassano Magnago (prov.)",41362,Milan Jonathan,29359,0.0,0,2023-05-20
--3,GT2s,"Bergtrui na Giro dItalia, Stage 14 : Sierre - Cassano Magnago (prov.)",41362,Bais Davide,28523,0.0,0,2023-05-20
-1,2.PSs,"4 Jours de Dunkerque, Stage 5 : Roubaix - Cassel",41383,HAGENES Per Strand,30442,0.0,0,2023-05-20
-1,1.1,Veenendaal - Veenendaal Classic,41328,GROENEWEGEN Dylan,19238,0.0,0,2023-05-20
-2,1.1,Veenendaal - Veenendaal Classic,41328,DE KLEIJN Arvid,22596,0.0,0,2023-05-20
-3,1.1,Veenendaal - Veenendaal Classic,41328,WELSFORD Samuel,23517,0.0,0,2023-05-20
