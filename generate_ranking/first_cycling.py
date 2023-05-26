@@ -293,7 +293,7 @@ def add_points_to_calendar():
     
 
 # add_points_to_calendar()
-get_calendar(2023, [1,2,3,4,5,6,7,8,9,10])
+# get_calendar(2023, [1,2,3,4,5,6,7,8,9,10])
 # print(scrape_result('Giro d’Italia, Stage 1 : Fossacesia Marina - Ortona I.T.T.','youth','2022'))
 # print(scrape_result('Giro d’Italia, Stage 1 : Fossacesia Marina - Ortona I.T.T.','point','2022'))
 # print(scrape_result('Giro d’Italia, Stage 1 : Fossacesia Marina - Ortona I.T.T.','mountain','2022'))
