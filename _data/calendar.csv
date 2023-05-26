@@ -1,1006 +1,200 @@
-2018,16.01-21.01,Tour Down Under,1,2.UWT,D. Impey,706
-2019,15.01-20.01,Tour Down Under,1,2.UWT,D. Impey,706
-2023,17.01-22.01,Tour Down Under,1,2.UWT,J. Vine,88703
-2018,04.03-11.03,Paris-Nice,2,2.UWT,M. Soler,25726
-2019,10.03-17.03,Paris-Nice,2,2.UWT,E. Bernal,58275
-2021,07.03-14.03,Paris-Nice,2,2.UWT,M. Schachmann,16643
-2022,06.03-13.03,Paris-Nice,2,2.UWT,P. Roglic,18655
-2023,05.03-12.03,Paris-Nice,2,2.UWT,T. Pogacar,45992
-2018,07.03-13.03,Tirreno-Adriatico,3,2.UWT,M. Kwiatkowski,2961
-2019,13.03-19.03,Tirreno-Adriatico,3,2.UWT,P. Roglic,18655
-2020,07.09-14.09,Tirreno-Adriatico,3,2.UWT,S. Yates,6242
-2021,10.03-16.03,Tirreno-Adriatico,3,2.UWT,T. Pogacar,45992
-2022,07.03-13.03,Tirreno-Adriatico,3,2.UWT,T. Pogacar,45992
-2023,06.03-12.03,Tirreno-Adriatico,3,2.UWT,P. Roglic,18655
-2018,17.03,Milano-Sanremo,4,1.UWT,V. Nibali,133
-2019,23.03,Milano-Sanremo,4,1.UWT,J. Alaphilippe,12474
-2020,8.08,Milano-Sanremo,4,1.UWT,W. van Aert,18258
-2021,20.03,Milano-Sanremo,4,1.UWT,J. Stuyven,5059
-2022,19.03,Milano-Sanremo,4,1.UWT,M. Mohoric,16687
-2023,18.03,Milano-Sanremo,4,1.UWT,M. van der Poel,16672
-2018,1.04,Ronde van Vlaanderen,5,1.UWT,N. Terpstra,29
-2019,7.04,Ronde van Vlaanderen,5,1.UWT,A. Bettiol,20584
-2020,18.1,Ronde van Vlaanderen,5,1.UWT,M. van der Poel,16672
-2021,4.04,Ronde van Vlaanderen,5,1.UWT,K. Asgreen,27121
-2022,3.04,Ronde van Vlaanderen,5,1.UWT,M. van der Poel,16672
-2023,2.04,Ronde van Vlaanderen,5,1.UWT,T. Pogacar,45992
-2018,02.04-07.04,Itzulia Basque Country,6,2.UWT,P. Roglic,18655
-2019,08.04-13.04,Itzulia Basque Country,6,2.UWT,I. Izagirre,2977
-2021,05.04-10.04,Itzulia Basque Country,6,2.UWT,P. Roglic,18655
-2022,04.04-09.04,Itzulia Basque Country,6,2.UWT,D. Martinez,27124
-2023,03.04-08.04,Itzulia Basque Country,6,2.UWT,J. Vingegaard,38195
-2018,25.03,Gent - Wevelgem,7,1.UWT,P. Sagan,784
-2019,31.03,Gent - Wevelgem,7,1.UWT,A. Kristoff,406
-2020,11.1,Gent - Wevelgem,7,1.UWT,M. Pedersen,16793
-2021,28.03,Gent - Wevelgem,7,1.UWT,W. van Aert,18258
-2022,27.03,Gent - Wevelgem,7,1.UWT,B. Girmay,92666
-2023,26.03,Gent - Wevelgem,7,1.UWT,C. Laporte,14737
-2018,8.04,Paris-Roubaix,8,1.UWT,P. Sagan,784
-2019,14.04,Paris-Roubaix,8,1.UWT,P. Gilbert,174
-2021,3.1,Paris-Roubaix,8,1.UWT,S. Colbrelli,2338
-2022,17.04,Paris-Roubaix,8,1.UWT,D. van Baarle,7724
-2023,9.04,Paris-Roubaix,8,1.UWT,M. van der Poel,16672
-2018,15.04,Amstel Gold Race,9,1.UWT,M. Valgren,6309
-2019,21.04,Amstel Gold Race,9,1.UWT,M. van der Poel,16672
-2021,18.04,Amstel Gold Race,9,1.UWT,W. van Aert,18258
-2022,10.04,Amstel Gold Race,9,1.UWT,M. Kwiatkowski,2961
-2023,16.04,Amstel Gold Race,9,1.UWT,T. Pogacar,45992
-2018,18.04,La Flèche Wallonne,10,1.UWT,J. Alaphilippe,12474
-2019,24.04,La Flèche Wallonne,10,1.UWT,J. Alaphilippe,12474
-2020,30.09,La Flèche Wallonne,10,1.UWT,M. Hirschi,46163
-2021,21.04,La Flèche Wallonne,10,1.UWT,J. Alaphilippe,12474
-2022,20.04,La Flèche Wallonne,10,1.UWT,D. Teuns,8068
-2023,19.04,La Flèche Wallonne,10,1.UWT,T. Pogacar,45992
-2018,22.04,Liege-Bastogne-Liege,11,1.UWT,B. Jungels,6413
-2019,28.04,Liege-Bastogne-Liege,11,1.UWT,J. Fuglsang,264
-2020,4.1,Liege-Bastogne-Liege,11,1.UWT,P. Roglic,18655
-2021,25.04,Liege-Bastogne-Liege,11,1.UWT,T. Pogacar,45992
-2022,24.04,Liege-Bastogne-Liege,11,1.UWT,R. Evenepoel,84019
-2023,23.04,Liege-Bastogne-Liege,11,1.UWT,R. Evenepoel,84019
-2018,24.04-29.04,Tour de Romandie,12,2.UWT,P. Roglic,18655
-2019,30.04-05.05,Tour de Romandie,12,2.UWT,P. Roglic,18655
-2021,27.04-02.05,Tour de Romandie,12,2.UWT,G. Thomas,716
-2022,26.04-01.05,Tour de Romandie,12,2.UWT,A. Vlasov,37281
-2023,25.04-30.04,Tour de Romandie,12,2.UWT,A. Yates,20147
-2018,04.05-27.05,Giro d'Italia,13,2.UWT,C. Froome,713
-2019,11.05-02.06,Giro d'Italia,13,2.UWT,R. Carapaz,23097
-2020,03.10-25.10,Giro d'Italia,13,2.UWT,T. Geoghegan Hart,16639
-2021,08.05-30.05,Giro d'Italia,13,2.UWT,E. Bernal,58275
-2022,06.05-29.05,Giro d'Italia,13,2.UWT,J. Hindley,37446
-2018,19.03-25.03,Volta Catalunya,14,2.UWT,A. Valverde,38
-2019,25.03-31.03,Volta Catalunya,14,2.UWT,M. López,35077
-2021,22.03-28.03,Volta Catalunya,14,2.UWT,A. Yates,20147
-2022,21.03-27.03,Volta Catalunya,14,2.UWT,S. Higuita,58639
-2023,20.03-26.03,Volta Catalunya,14,2.UWT,P. Roglic,18655
-2018,03.06-10.06,Criterium Dauphine,15,2.UWT,G. Thomas,716
-2019,09.06-16.06,Criterium Dauphine,15,2.UWT,J. Fuglsang,264
-2020,12.08-16.08,Criterium Dauphine,15,2.UWT,D. Martinez,27124
-2021,30.05-06.06,Criterium Dauphine,15,2.UWT,R. Porte,563
-2022,05.06-12.06,Criterium Dauphine,15,2.UWT,P. Roglic,18655
-2018,09.06-17.06,Tour de Suisse,16,2.UWT,R. Porte,563
-2019,15.06-23.06,Tour de Suisse,16,2.UWT,E. Bernal,58275
-2021,06.06-13.06,Tour de Suisse,16,2.UWT,R. Carapaz,23097
-2022,12.06-19.06,Tour de Suisse,16,2.UWT,G. Thomas,716
-2018,07.07-29.07,Tour de France,17,2.UWT,G. Thomas,716
-2019,06.07-28.07,Tour de France,17,2.UWT,E. Bernal,58275
-2020,29.08-20.09,Tour de France,17,2.UWT,T. Pogacar,45992
-2021,26.06-18.07,Tour de France,17,2.UWT,T. Pogacar,45992
-2022,01.07-24.07,Tour de France,17,2.UWT,J. Vingegaard,38195
-2018,4.08,Donostia San Sebastian Klasikoa,18,1.UWT,J. Alaphilippe,12474
-2019,3.08,Donostia San Sebastian Klasikoa,18,1.UWT,R. Evenepoel,84019
-2021,31.07,Donostia San Sebastian Klasikoa,18,1.UWT,N. Powless,37494
-2022,30.07,Donostia San Sebastian Klasikoa,18,1.UWT,R. Evenepoel,84019
-2018,04.08-10.08,Tour de Pologne,19,2.UWT,M. Kwiatkowski,2961
-2019,03.08-09.08,Tour de Pologne,19,2.UWT,P. Sivakov,37280
-2020,05.08-09.08,Tour de Pologne,19,2.UWT,R. Evenepoel,84019
-2021,09.08-15.08,Tour de Pologne,19,2.UWT,J. Almeida,50303
-2022,30.07-05.08,Tour de Pologne,19,2.UWT,E. Hayter,45349
-2018,19.08,BEMER Cyclassics,20,1.UWT,E. Viviani,1310
-2019,25.08,BEMER Cyclassics,20,1.UWT,E. Viviani,1310
-2022,21.08,BEMER Cyclassics,20,1.UWT,M. Haller,6246
-2018,13.08-19.08,Benelux Tour,21,2.UWT,M. Mohoric,16687
-2019,12.08-18.08,Benelux Tour,21,2.UWT,L. De Plus,27333
-2020,29.09-03.10,Benelux Tour,21,2.UWT,M. van der Poel,16672
-2021,30.08-05.09,Benelux Tour,21,2.UWT,S. Colbrelli,2338
-2018,26.08,Bretagne Classic,22,1.UWT,O. Naesen,22682
-2019,1.09,Bretagne Classic,22,1.UWT,S. Vanmarcke,1581
-2020,25.08,Bretagne Classic,22,1.UWT,M. Matthews,2211
-2021,29.08,Bretagne Classic,22,1.UWT,B. Cosnefroy,34011
-2022,28.08,Bretagne Classic,22,1.UWT,W. van Aert,18258
-2018,25.08-16.09,Vuelta a España,23,2.UWT,S. Yates,6242
-2019,24.08-15.09,Vuelta a España,23,2.UWT,P. Roglic,18655
-2020,20.10-08.11,Vuelta a España,23,2.UWT,P. Roglic,18655
-2021,14.08-05.09,Vuelta a España,23,2.UWT,P. Roglic,18655
-2022,19.08-11.09,Vuelta a España,23,2.UWT,R. Evenepoel,84019
-2018,13.1,Il Lombardia,24,1.UWT,T. Pinot,860
-2019,12.1,Il Lombardia,24,1.UWT,B. Mollema,581
-2020,15.08,Il Lombardia,24,1.UWT,J. Fuglsang,264
-2021,9.1,Il Lombardia,24,1.UWT,T. Pogacar,45992
-2022,8.1,Il Lombardia,24,1.UWT,T. Pogacar,45992
-2018,30.09,World Championship RR,26,WCRR,A. Valverde,38
-2019,29.09,World Championship RR,26,WCRR,M. Pedersen,16793
-2020,27.09,World Championship RR,26,WCRR,J. Alaphilippe,12474
-2021,26.09,World Championship RR,26,WCRR,J. Alaphilippe,12474
-2022,25.09,World Championship RR,26,WCRR,R. Evenepoel,84019
-2018,26.09,World Championship ITT,27,WCTT,R. Dennis,2322
-2019,25.09,World Championship ITT,27,WCTT,R. Dennis,2322
-2020,25.09,World Championship ITT,27,WCTT,F. Ganna,27099
-2021,19.09,World Championship ITT,27,WCTT,F. Ganna,27099
-2022,18.09,World Championship ITT,27,WCTT,T. Foss,37297
-2018,7.1,Paris - Tours,28,1.HC,S. Andersen,16610
-2019,13.1,Paris - Tours,28,1.HC,J. Wallays,1276
-2020,11.1,Paris - Tours,28,1.Pro,C. Pedersen,37219
-2021,10.1,Paris - Tours,28,1.Pro,A. Démare,2337
-2022,9.1,Paris - Tours,28,1.Pro,A. Démare,2337
-2018,6.1,Giro dell'Emilia,29,1.HC,A. De Marchi,3103
-2019,5.1,Giro dell'Emilia,29,1.HC,P. Roglic,18655
-2020,18.08,Giro dell'Emilia,29,1.Pro,A. Vlasov,37281
-2021,2.1,Giro dell'Emilia,29,1.Pro,P. Roglic,18655
-2022,1.1,Giro dell'Emilia,29,1.Pro,E. Mas,1527
-2018,13.05-19.05,Tour of California,30,2.UWT,E. Bernal,58275
-2019,12.05-18.05,Tour of California,30,2.UWT,T. Pogacar,45992
-2018,01.08-05.08,PostNord Danmark Rundt,32,2.HC,W. van Aert,18258
-2019,21.08-25.08,PostNord Danmark Rundt,32,2.HC,N. Larsen,37403
-2021,10.08-14.08,PostNord Danmark Rundt,32,2.Pro,R. Evenepoel,84019
-2022,16.08-20.08,PostNord Danmark Rundt,32,2.Pro,C. Laporte,14737
-2021,24.07,Olympic Games RR,33,WCRR,R. Carapaz,23097
-2021,28.07,Olympic Games ITT,34,WCTT,P. Roglic,18655
-2018,1.05,Eschborn-Frankfurt,35,1.UWT,A. Kristoff,406
-2019,1.05,Eschborn-Frankfurt,35,1.UWT,P. Ackermann,9746
-2021,19.09,Eschborn-Frankfurt,35,1.UWT,J. Philipsen,45363
-2022,1.05,Eschborn-Frankfurt,35,1.UWT,S. Bennett,3277
-2018,23.08-26.08,Deutschland Tour,36,2.1,M. Mohoric,16687
-2019,29.08-01.09,Deutschland Tour,36,2.HC,J. Stuyven,5059
-2021,26.08-29.08,Deutschland Tour,36,2.Pro,N. Politt,18260
-2022,24.08-28.08,Deutschland Tour,36,2.Pro,A. Yates,20147
-2018,30.05-03.06,Tour de Luxembourg,37,2.HC,A. Pasqualon,3147
-2019,05.06-09.06,Tour de Luxembourg,37,2.HC,J. Herrada,2325
-2020,15.09-19.09,Tour de Luxembourg,37,2.Pro,D. Ulissi,794
-2021,14.09-18.09,Tour de Luxembourg,37,2.Pro,J. Almeida,50303
-2022,13.09-17.09,Tour de Luxembourg,37,2.Pro,M. Skjelmose Jensen,77103
-2018,07.07-14.07,Österreich-Rundfahrt,38,2.1,B. Hermans,705
-2019,06.07-12.07,Österreich-Rundfahrt,38,2.1,B. Hermans,705
-2018,21.03,Classic Brugge-De Panne,40,1.HC,E. Viviani,1310
-2019,27.03,Classic Brugge-De Panne,40,1.UWT,D. Groenewegen,7720
-2020,21.1,Classic Brugge-De Panne,40,1.UWT,Y. Lampaert,10971
-2021,24.03,Classic Brugge-De Panne,40,1.UWT,S. Bennett,3277
-2022,23.03,Classic Brugge-De Panne,40,1.UWT,T. Merlier,8377
-2023,22.03,Classic Brugge-De Panne,40,1.UWT,J. Philipsen,45363
-2018,28.09,World Championship RR-U23,43,WCU,M. Hirschi,46163
-2019,27.09,World Championship RR-U23,43,WCU,S. Battistella,48461
-2021,24.09,World Championship RR-U23,43,WCU,F. Baroncini,80586
-2022,23.09,World Championship RR-U23,43,WCU,Y. Fedorov,75603
-2018,17.08-26.08,Tour de l'Avenir,44,2.NC,T. Pogacar,45992
-2019,15.08-25.08,Tour de l'Avenir,44,2.NC,T. Foss,37297
-2021,13.08-22.08,Tour de l'Avenir,44,2.NC,T. Johannessen,87900
-2022,18.08-28.08,Tour de l'Avenir,44,2.NC,C. Uijtdebroeks,128416
-2018,02.09-09.09,Tour of Britain,45,2.HC,J. Alaphilippe,12474
-2019,07.09-14.09,Tour of Britain,45,2.HC,M. van der Poel,16672
-2021,05.09-12.09,Tour of Britain,45,2.Pro,W. van Aert,18258
-2022,04.09-11.09,Tour of Britain,45,2.Pro,G. Serrano,25690
-2018,24.09,World Championship ITT-U23,46,WCUT,M. Bjerg,66265
-2019,24.09,World Championship ITT-U23,46,WCUT,M. Bjerg,66265
-2021,20.09,World Championship ITT-U23,46,WCUT,J. Price-Pejtersen,69317
-2022,19.09,World Championship ITT-U23,46,WCUT,S. Wærenskjold,77596
-2018,23.03,E3 Saxo Classic,47,1.UWT,N. Terpstra,29
-2019,29.03,E3 Saxo Classic,47,1.UWT,Z. Stybar,4669
-2021,26.03,E3 Saxo Classic,47,1.UWT,K. Asgreen,27121
-2022,25.03,E3 Saxo Classic,47,1.UWT,W. van Aert,18258
-2023,24.03,E3 Saxo Classic,47,1.UWT,W. van Aert,18258
-2018,31.03,GP Miguel Indurain,48,1.1,A. Valverde,38
-2019,6.04,GP Miguel Indurain,48,1.1,J. Hivert,169
-2021,3.04,GP Miguel Indurain,48,1.Pro,A. Valverde,38
-2022,2.04,GP Miguel Indurain,48,1.Pro,W. Barguil,6104
-2023,1.04,GP Miguel Indurain,48,1.Pro,I. Izagirre,2977
-2018,22.08,Veenendaal Classic,50,1.1,D. Groenewegen,7720
-2019,21.08,Veenendaal Classic,50,1.1,Z. Dempster,2396
-2022,21.05,Veenendaal Classic,50,1.1,D. Groenewegen,7720
-2018,24.02,Omloop Het Nieuwsblad,53,1.UWT,M. Valgren,6309
-2019,2.03,Omloop Het Nieuwsblad,53,1.UWT,Z. Stybar,4669
-2021,27.02,Omloop Het Nieuwsblad,53,1.UWT,D. Ballerini,26504
-2022,26.02,Omloop Het Nieuwsblad,53,1.UWT,W. van Aert,18258
-2023,25.02,Omloop Het Nieuwsblad,53,1.UWT,D. van Baarle,7724
-2018,3.03,Strade Bianche,54,1.UWT,T. Benoot,16786
-2019,9.03,Strade Bianche,54,1.UWT,J. Alaphilippe,12474
-2020,1.08,Strade Bianche,54,1.UWT,W. van Aert,18258
-2021,6.03,Strade Bianche,54,1.UWT,M. van der Poel,16672
-2022,5.03,Strade Bianche,54,1.UWT,T. Pogacar,45992
-2023,4.03,Strade Bianche,54,1.UWT,T. Pidcock,65025
-2018,4.04,Scheldeprijs,56,1.HC,F. Jakobsen,37748
-2019,10.04,Scheldeprijs,56,1.HC,F. Jakobsen,37748
-2020,14.1,Scheldeprijs,56,1.Pro,C. Ewan,16573
-2021,7.04,Scheldeprijs,56,1.Pro,J. Philipsen,45363
-2022,6.04,Scheldeprijs,56,1.Pro,A. Kristoff,406
-2023,5.04,Scheldeprijs,56,1.Pro,J. Philipsen,45363
-2018,13.02-18.02,Tour of Oman,57,2.HC,A. Lutsenko,6230
-2019,16.02-21.02,Tour of Oman,57,2.HC,A. Lutsenko,6230
-2022,10.02-15.02,Tour of Oman,57,2.Pro,J. Hirt,6269
-2023,11.02-15.02,Tour of Oman,57,2.Pro,M. Jorgenson,68206
-2018,9.09,GP Montreal,58,1.UWT,M. Matthews,2211
-2019,15.09,GP Montreal,58,1.UWT,G. Van Avermaet,150
-2022,11.09,GP Montreal,58,1.UWT,T. Pogacar,45992
-2018,7.09,GP Quebec,59,1.UWT,M. Matthews,2211
-2019,13.09,GP Quebec,59,1.UWT,M. Matthews,2211
-2022,9.09,GP Quebec,59,1.UWT,B. Cosnefroy,34011
-2018,23.05-27.05,Belgium Tour,60,2.HC,J. Keukeleire,920
-2019,12.06-16.06,Belgium Tour,60,2.HC,R. Evenepoel,84019
-2021,09.06-13.06,Belgium Tour,60,2.Pro,R. Evenepoel,84019
-2022,15.06-19.06,Belgium Tour,60,2.Pro,M. Schmid,69502
-2018,11.1,Gran Piemonte,61,1.HC,S. Colbrelli,2338
-2019,10.1,Gran Piemonte,61,1.HC,E. Bernal,58275
-2020,12.08,Gran Piemonte,61,1.Pro,G. Bennett,3352
-2021,7.1,Gran Piemonte,61,1.Pro,M. Walls,45352
-2022,6.1,Gran Piemonte,61,1.Pro,I. García Cortina,11828
-2018,16.04-20.04,Tour of the Alps,62,2.HC,T. Pinot,860
-2019,22.04-26.04,Tour of the Alps,62,2.HC,P. Sivakov,37280
-2021,19.04-23.04,Tour of the Alps,62,2.Pro,S. Yates,6242
-2022,18.04-22.04,Tour of the Alps,62,2.Pro,R. Bardet,2275
-2023,17.04-21.04,Tour of the Alps,62,2.Pro,T. Geoghegan Hart,16639
-2018,18.05-20.05,Tour de l'Ain,63,2.1,A. Vichot,861
-2019,24.05-26.05,Tour de l'Ain,63,2.1,T. Pinot,860
-2020,07.08-09.08,Tour de l'Ain,63,2.1,P. Roglic,18655
-2021,29.07-31.07,Tour de l'Ain,63,2.1,M. Storer,37447
-2022,09.08-11.08,Tour de l'Ain,63,2.1,G. Martin,10990
-2018,1.09,Brussels Classic,64,1.HC,P. Ackermann,9746
-2019,7.09,Brussels Classic,64,1.HC,C. Ewan,16573
-2020,30.08,Brussels Classic,64,1.Pro,T. Merlier,8377
-2021,28.08,Brussels Classic,64,1.Pro,R. Evenepoel,84019
-2022,5.06,Brussels Classic,64,1.Pro,T. van der Hoorn,10802
-2018,7.04,Ronde van Vlaanderen Beloften,65,1.NC,J. Whelan,82146
-2019,13.04,Ronde van Vlaanderen Beloften,65,1.NC,A. Stokbro,45419
-2018,22.09,Memorial Pantani,68,1.1,D. Ballerini,26504
-2019,21.09,Memorial Pantani,68,1.1,A. Lutsenko,6230
-2020,30.08,Memorial Pantani,68,1.1,F. Felline,1580
-2021,18.09,Memorial Pantani,68,1.1,S. Colbrelli,2338
-2018,22.05-24.05,Tour des Fjords,70,2.HC,M. Albasini,91
-2018,16.05-20.05,Tour of Norway,71,2.HC,E. Prades,11520
-2019,28.05-02.06,Tour of Norway,71,2.HC,A. Kristoff,406
-2021,19.08-22.08,Tour of Norway,71,2.Pro,E. Hayter,45349
-2022,24.05-29.05,Tour of Norway,71,2.Pro,R. Evenepoel,84019
-2018,10.02,Vuelta a Murcia,74,1.1,L. Sánchez,26
-2019,15.02-16.02,Vuelta a Murcia,74,2.1,L. Sánchez,26
-2021,23.05,Vuelta a Murcia,74,1.1,A. Soto,32201
-2022,12.02,Vuelta a Murcia,74,1.1,A. Covi,45987
-2023,11.02,Vuelta a Murcia,74,1.1,B. Turner,71217
-2018,28.03,Dwars door Vlaanderen,75,1.UWT,Y. Lampaert,10971
-2019,3.04,Dwars door Vlaanderen,75,1.UWT,M. van der Poel,16672
-2021,31.03,Dwars door Vlaanderen,75,1.UWT,D. van Baarle,7724
-2022,30.03,Dwars door Vlaanderen,75,1.UWT,M. van der Poel,16672
-2023,29.03,Dwars door Vlaanderen,75,1.UWT,C. Laporte,14737
-2018,11.04,Brabantse Pijl,77,1.HC,T. Wellens,6228
-2019,17.04,Brabantse Pijl,77,1.HC,M. van der Poel,16672
-2020,7.1,Brabantse Pijl,77,1.Pro,J. Alaphilippe,12474
-2021,14.04,Brabantse Pijl,77,1.Pro,T. Pidcock,65025
-2022,13.04,Brabantse Pijl,77,1.Pro,M. Sheffield,102733
-2023,12.04,Brabantse Pijl,77,1.Pro,D. Godon,37717
-2018,28.01,Trofeo Palma,83,1.1,J. Degenkolb,1013
-2019,3.02,Trofeo Palma,83,1.1,M. Kittel,1007
-2022,30.01,Trofeo Palma,83,1.1,A. De Lie,113439
-2023,29.01,Trofeo Palma,83,1.1,E. Vernon,76709
-2018,25.02,Kuurne-Brussel-Kuurne,84,1.HC,D. Groenewegen,7720
-2019,3.03,Kuurne-Brussel-Kuurne,84,1.HC,B. Jungels,6413
-2021,28.02,Kuurne-Brussel-Kuurne,84,1.Pro,M. Pedersen,16793
-2022,27.02,Kuurne-Brussel-Kuurne,84,1.Pro,F. Jakobsen,37748
-2023,26.02,Kuurne-Brussel-Kuurne,84,1.Pro,T. Benoot,16786
-2018,20.04-22.04,Vuelta a Castilla y León,85,2.1,R. Plaza,666
-2019,25.04-27.04,Vuelta a Castilla y León,85,2.1,D. Cimolai,780
-2021,29.07,Vuelta a Castilla y León,85,1.1,M. Louvel,63050
-2022,27.07-28.07,Vuelta a Castilla y León,85,2.1,S. Yates,6242
-2018,10.1,Milano - Torino,89,1.HC,T. Pinot,860
-2019,9.1,Milano - Torino,89,1.HC,M. Woods,16569
-2020,5.08,Milano - Torino,89,1.Pro,A. Démare,2337
-2021,6.1,Milano - Torino,89,1.Pro,P. Roglic,18655
-2022,16.03,Milano - Torino,89,1.Pro,M. Cavendish,14
-2023,15.03,Milano - Torino,89,1.Pro,A. de Kleijn,27151
-2018,2.09,GP de Fourmies,92,1.HC,P. Ackermann,9746
-2019,8.09,GP de Fourmies,92,1.HC,P. Ackermann,9746
-2021,12.09,GP de Fourmies,92,1.Pro,E. Viviani,1310
-2022,11.09,GP de Fourmies,92,1.Pro,C. Ewan,16573
-2018,12.09,GP de Wallonie,93,1.1,J. Stuyven,5059
-2019,18.09,GP de Wallonie,93,1.1,K. Neilands,16660
-2021,15.09,GP de Wallonie,93,1.Pro,C. Laporte,14737
-2022,14.09,GP de Wallonie,93,1.Pro,M. van der Poel,16672
-2018,6.1,Tour de Vendée,94,1.1,N. Denz,16817
-2019,6.1,Tour de Vendée,94,1.1,M. Sarreau,17210
-2021,9.1,Tour de Vendée,94,1.1,B. Welten,37495
-2022,2.1,Tour de Vendée,94,1.1,B. Coquard,16752
-2018,21.1,Japan Cup,95,1.HC,R. Power,27139
-2019,20.1,Japan Cup,95,1.HC,B. Mollema,581
-2022,16.1,Japan Cup,95,1.Pro,N. Powless,37494
-2018,28.01,GP la Marseillaise,97,1.1,A. Geniez,948
-2019,3.02,GP la Marseillaise,97,1.1,A. Turgis,16637
-2021,31.01,GP la Marseillaise,97,1.1,A. Paret-Peintre,27301
-2022,30.01,GP la Marseillaise,97,1.1,A. Capiot,19254
-2023,29.01,GP la Marseillaise,97,1.1,N. Powless,37494
-2018,26.01,Trofeo Serra de Tramuntana,100,1.1,T. Wellens,6228
-2019,2.02,Trofeo Serra de Tramuntana,100,1.1,T. Wellens,6228
-2021,14.05,Trofeo Serra de Tramuntana,100,1.1,J. Herrada,2325
-2022,28.01,Trofeo Serra de Tramuntana,100,1.1,T. Wellens,6228
-2023,28.01,Trofeo Serra de Tramuntana,100,1.1,K. Goossens,38818
-2018,25.01,Trofeo Porreres,102,1.1,J. Degenkolb,1013
-2019,31.01,Trofeo Porreres,102,1.1,J. Herrada,2325
-2018,31.01-04.02,Étoile de Bessèges,106,2.1,T. Gallopin,918
-2019,07.02-10.02,Étoile de Bessèges,106,2.1,C. Laporte,14737
-2021,03.02-07.02,Étoile de Bessèges,106,2.1,T. Wellens,6228
-2022,02.02-06.02,Étoile de Bessèges,106,2.1,B. Thomas,43007
-2023,01.02-05.02,Étoile de Bessèges,106,2.1,N. Powless,37494
-2018,14.02-18.02,Volta ao Algarve,107,2.HC,M. Kwiatkowski,2961
-2019,20.02-24.02,Volta ao Algarve,107,2.HC,T. Pogacar,45992
-2021,05.05-09.05,Volta ao Algarve,107,2.Pro,J. Rodrigues,18601
-2022,16.02-20.02,Volta ao Algarve,107,2.Pro,R. Evenepoel,84019
-2023,15.02-19.02,Volta ao Algarve,107,2.Pro,D. Martinez,27124
-2023,16.04,Giro Reggio Calabria,108,1.1,J. Restrepo,10916
-2018,14.02-18.02,Vuelta a Andalucía,110,2.HC,T. Wellens,6228
-2019,20.02-24.02,Vuelta a Andalucía,110,2.HC,J. Fuglsang,264
-2021,18.05-22.05,Vuelta a Andalucía,110,2.Pro,M. López,35077
-2022,16.02-20.02,Vuelta a Andalucía,110,2.Pro,W. Poels,929
-2023,15.02-19.02,Vuelta a Andalucía,110,2.Pro,T. Pogacar,45992
-2018,17.02-18.02,Tour Alpes Maritimes du Var,111,2.1,J. Hivert,169
-2019,22.02-24.02,Tour Alpes Maritimes du Var,111,2.1,T. Pinot,860
-2021,19.02-21.02,Tour Alpes Maritimes du Var,111,2.1,G. Brambilla,2741
-2022,18.02-20.02,Tour Alpes Maritimes du Var,111,2.1,N. Quintana,2276
-2023,17.02-19.02,Tour Alpes Maritimes du Var,111,2.1,K. Vauquelin,99667
-2018,11.02,Trofeo Laigueglia,112,1.HC,M. Moser,7565
-2019,17.02,Trofeo Laigueglia,112,1.HC,S. Velasco,27277
-2021,3.03,Trofeo Laigueglia,112,1.Pro,B. Mollema,581
-2022,2.03,Trofeo Laigueglia,112,1.Pro,J. Polanc,6538
-2023,1.03,Trofeo Laigueglia,112,1.Pro,N. Peters,20448
-2018,22.03-25.03,Coppi e Bartali,114,2.1,D. Rosa,14122
-2019,27.03-31.03,Coppi e Bartali,114,2.1,L. Hamilton,37445
-2020,01.09-04.09,Coppi e Bartali,114,2.1,J. Narvaez,41249
-2021,23.03-27.03,Coppi e Bartali,114,2.1,J. Vingegaard,38195
-2022,22.03-26.03,Coppi e Bartali,114,2.1,E. Dunbar,27283
-2023,21.03-25.03,Coppi e Bartali,114,2.1,M. Schmid,69502
-2018,27.02,Le Samyn,116,1.1,N. Terpstra,29
-2019,5.03,Le Samyn,116,1.1,F. Sénéchal,12481
-2021,2.03,Le Samyn,116,1.1,T. Merlier,8377
-2022,1.03,Le Samyn,116,1.1,M. Trentin,3933
-2023,28.02,Le Samyn,116,1.1,M. Menten,37996
-2018,15.01-21.01,Tropicale Amissa Bongo,117,2.1,J. Areruya,55572
-2019,21.01-27.01,Tropicale Amissa Bongo,117,2.1,N. Bonifazio,16823
-2023,23.01-29.01,Tropicale Amissa Bongo,117,2.1,G. Soupe,2326
-2018,31.01-04.02,Herald Sun Tour,118,2.1,E. Chaves,3213
-2019,30.01-03.02,Herald Sun Tour,118,2.1,D. van Baarle,7724
-2018,06.08-12.08,Tour of Utah,119,2.HC,S. Kuss,48008
-2019,12.08-18.08,Tour of Utah,119,2.HC,B. Hermans,705
-2018,3.06,Gran Premio di Lugano,120,1.1,H. Pernsteiner,55807
-2019,9.06,Gran Premio di Lugano,120,1.1,D. Ulissi,794
-2021,27.06,Gran Premio di Lugano,120,1.1,G. Moscon,28781
-2018,24.02,Faun-Ardèche Classic,121,1.1,R. Bardet,2275
-2019,2.03,Faun-Ardèche Classic,121,1.1,L. Calmejane,22268
-2021,27.02,Faun-Ardèche Classic,121,1.Pro,D. Gaudu,37378
-2022,26.02,Faun-Ardèche Classic,121,1.Pro,B. McNulty,48539
-2023,25.02,Faun-Ardèche Classic,121,1.Pro,J. Alaphilippe,12474
-2018,14.03,Nokere Koerse,122,1.HC,F. Jakobsen,37748
-2019,20.03,Nokere Koerse,122,1.HC,C. Bol,31208
-2021,17.03,Nokere Koerse,122,1.Pro,L. Robeet,18574
-2022,16.03,Nokere Koerse,122,1.Pro,T. Merlier,8377
-2023,15.03,Nokere Koerse,122,1.Pro,T. Merlier,8377
-2018,16.03,Bredene Koksijde Classic,123,1.HC,A. Hodeg,41293
-2019,22.03,Bredene Koksijde Classic,123,1.HC,P. Ackermann,9746
-2021,19.03,Bredene Koksijde Classic,123,1.Pro,T. Merlier,8377
-2022,18.03,Bredene Koksijde Classic,123,1.Pro,P. Ackermann,9746
-2023,17.03,Bredene Koksijde Classic,123,1.Pro,G. Thijssen,47124
-2018,24.03,Classic Loire Atlantique,124,1.1,R. Quaade,1011
-2019,30.03,Classic Loire Atlantique,124,1.1,R. Barbier,14902
-2021,2.1,Classic Loire Atlantique,124,1.1,A. Riou,39175
-2022,19.03,Classic Loire Atlantique,124,1.1,A. Perez,16566
-2023,18.03,Classic Loire Atlantique,124,1.1,A. Zingle,72919
-2018,25.03,Cholet - Pays de la Loire,125,1.1,T. Boudat,16796
-2019,31.03,Cholet - Pays de la Loire,125,1.1,M. Sarreau,17210
-2021,28.03,Cholet - Pays de la Loire,125,1.1,E. Viviani,1310
-2022,20.03,Cholet - Pays de la Loire,125,1.1,M. Sarreau,17210
-2023,19.03,Cholet - Pays de la Loire,125,1.1,L. Pithie,96312
-2018,31.03,Volta Limburg Classic,126,1.1,J. Tratnik,3050
-2019,6.04,Volta Limburg Classic,126,1.1,P. Müller,37470
-2022,2.04,Volta Limburg Classic,126,1.1,A. De Lie,113439
-2023,1.04,Volta Limburg Classic,126,1.1,K. Groves,61988
-2018,22.07-04.08,Tour of Qinghai Lake,127,2.HC,H. Aguirre,31538
-2019,14.07-27.07,Tour of Qinghai Lake,127,2.HC,R. Chalapud,3212
-2018,18.03-25.03,Tour de Langkawi,128,2.HC,A. Ovechkin,831
-2019,06.04-13.04,Tour de Langkawi,128,2.HC,B. Dyball,4776
-2022,11.10-18.10,Tour de Langkawi,128,2.Pro,I. Sosa,61639
-2018,11.02,Clasica de Almeria,129,1.HC,C. Ewan,16573
-2019,17.02,Clasica de Almeria,129,1.HC,P. Ackermann,9746
-2021,14.02,Clasica de Almeria,129,1.Pro,G. Nizzolo,2982
-2022,13.02,Clasica de Almeria,129,1.Pro,A. Kristoff,406
-2023,12.02,Clasica de Almeria,129,1.Pro,M. Moschetti,37719
-2018,4.03,Dwars West-Vlaanderen,130,1.1,R. Cavagna,27111
-2018,11.03,Ronde van Drenthe,131,1.HC,F. Sisr,9006
-2019,17.03,Ronde van Drenthe,131,1.HC,P. Ligthart,2149
-2021,24.1,Ronde van Drenthe,131,1.1,R. Herregodts,53490
-2022,13.03,Ronde van Drenthe,131,1.1,D. van Gestel,16789
-2023,12.03,Ronde van Drenthe,131,1.1,P. Hagenes,127939
-2018,11.03-15.03,Tour de Taiwan,132,2.1,Y. Arashiro,163
-2019,17.03-21.03,Tour de Taiwan,132,2.1,J. Clarke,3183
-2022,02.10-06.10,Tour de Taiwan,132,2.1,B. Dyball,4776
-2023,12.03-16.03,Tour de Taiwan,132,2.1,J. Meijers,20841
-2018,30.03,Route Adélie de Vitré,134,1.1,S. Dillier,3303
-2019,5.04,Route Adélie de Vitré,134,1.1,M. Sarreau,17210
-2021,1.1,Route Adélie de Vitré,134,1.1,A. de Kleijn,27151
-2022,1.04,Route Adélie de Vitré,134,1.1,A. Zingle,72919
-2023,31.03,Route Adélie de Vitré,134,1.1,F. Dversnes,66347
-2018,14.04,GP Arjaan De Schipper,136,1.NC,M. Moschetti,37719
-2018,23.10-31.10,Tour of Hainan,139,2.HC,F. Masnada,14791
-2018,08.09-15.09,Tour of China I,140,2.1,S. Molano,34624
-2019,07.09-14.09,Tour of China I,140,2.1,J. Meijers,20841
-2018,26.07,GP Pino Cerami,142,1.1,P. Kennaugh,714
-2019,25.07,GP Pino Cerami,142,1.1,B. Coquard,16752
-2018,8.04,Klasika Primavera,143,1.1,A. Amador,745
-2019,14.04,Klasika Primavera,143,1.1,C. Betancur,1001
-2018,10.06,Rund um Köln,144,1.1,S. Bennett,3277
-2019,2.06,Rund um Köln,144,1.1,B. Planckaert,1987
-2022,22.05,Rund um Köln,144,1.1,N. Politt,18260
-2018,10.04,Paris - Camembert,145,1.1,L. Calmejane,22268
-2019,16.04,Paris - Camembert,145,1.1,B. Cosnefroy,34011
-2020,22.09,Paris - Camembert,145,1.1,D. Godon,37717
-2021,15.06,Paris - Camembert,145,1.1,D. Godon,37717
-2022,12.04,Paris - Camembert,145,1.1,A. Delaplace,965
-2023,11.04,Paris - Camembert,145,1.1,V. Ferron,51269
-2018,18.03,GP de Denain,146,1.HC,K. Dehaes,549
-2019,24.03,GP de Denain,146,1.HC,M. van der Poel,16672
-2021,21.09,GP de Denain,146,1.Pro,J. Philipsen,45363
-2022,17.03,GP de Denain,146,1.Pro,M. Walscheid,9210
-2023,16.03,GP de Denain,146,1.Pro,S. Molano,34624
-2018,14.04,Tour du Finistère,147,1.1,J. Hivert,169
-2019,20.04,Tour du Finistère,147,1.1,J. Simon,964
-2021,22.05,Tour du Finistère,147,1.1,B. Cosnefroy,34011
-2022,21.05,Tour du Finistère,147,1.1,J. Simon,964
-2018,15.04,Tro-Bro Leon,148,1.1,C. Laporte,14737
-2019,22.04,Tro-Bro Leon,148,1.1,A. Vendrame,22389
-2021,16.05,Tro-Bro Leon,148,1.Pro,C. Swift,49662
-2022,15.05,Tro-Bro Leon,148,1.Pro,H. Hofstetter,32892
-2018,22.04,Giro dell'Appennino,149,1.1,G. Ciccone,20384
-2019,28.04,Giro dell'Appennino,149,1.1,M. Cattaneo,6227
-2020,19.09,Giro dell'Appennino,149,1.1,E. Hayter,45349
-2021,24.06,Giro dell'Appennino,149,1.1,B. Hermans,705
-2022,2.06,Giro dell'Appennino,149,1.1,L. Meintjes,6415
-2018,09.10-14.10,Tour of Türkiye,152,2.UWT,E. Prades,11520
-2019,16.04-21.04,Tour of Türkiye,152,2.UWT,F. Großschartner,9302
-2021,11.04-18.04,Tour of Türkiye,152,2.Pro,J. Diaz,45106
-2022,10.04-17.04,Tour of Türkiye,152,2.Pro,P. Bevin,3287
-2018,27.04-29.04,Vuelta a Asturias,153,2.1,R. Carapaz,23097
-2019,03.05-05.05,Vuelta a Asturias,153,2.1,R. Carapaz,23097
-2021,30.04-02.05,Vuelta a Asturias,153,2.1,N. Quintana,2276
-2022,29.04-01.05,Vuelta a Asturias,153,2.1,I. Sosa,61639
-2023,28.04-30.04,Vuelta a Asturias,153,2.1,L. Fortunato,27271
-2018,14.1,Chrono des Nations,154,1.1,M. Toft Madsen,15073
-2019,20.1,Chrono des Nations,154,1.1,J. Van Emden,729
-2021,17.1,Chrono des Nations,154,1.1,S. Küng,16724
-2022,16.1,Chrono des Nations,154,1.1,S. Küng,16724
-2018,7.1,GP Bruno Beghelli,156,1.HC,B. Mollema,581
-2019,6.1,GP Bruno Beghelli,156,1.HC,S. Colbrelli,2338
-2018,4.1,Paris - Bourges,157,1.1,V. Madouas,37379
-2019,10.1,Paris - Bourges,157,1.1,M. Sarreau,17210
-2021,7.1,Paris - Bourges,157,1.1,J. Meeus,45364
-2022,6.1,Paris - Bourges,157,1.1,J. Philipsen,45363
-2018,3.1,Munsterland Giro,158,1.HC,M. Walscheid,9210
-2019,3.1,Munsterland Giro,158,1.HC,A. Hodeg,41293
-2021,3.1,Munsterland Giro,158,1.Pro,M. Cavendish,14
-2022,3.1,Munsterland Giro,158,1.Pro,O. Kooij,97547
-2018,2.1,Binche-Chimay-Binche,159,1.1,D. van Poppel,7730
-2019,8.1,Binche-Chimay-Binche,159,1.1,T. Van Asbroeck,7579
-2021,5.1,Binche-Chimay-Binche,159,1.1,D. van Poppel,7730
-2022,4.1,Binche-Chimay-Binche,159,1.1,C. Laporte,14737
-2018,20.09,Coppa Sabatini,160,1.1,J. Lobato,2340
-2019,19.09,Coppa Sabatini,160,1.1,A. Lutsenko,6230
-2020,17.09,Coppa Sabatini,160,1.Pro,D. Smith,10975
-2021,16.09,Coppa Sabatini,160,1.Pro,M. Valgren,6309
-2022,15.09,Coppa Sabatini,160,1.Pro,D. Martinez,27124
-2018,16.09,Tour of Leuven,161,1.1,J. Stuyven,5059
-2019,1.09,Tour of Leuven,161,1.1,N. Bonifazio,16823
-2021,15.08,Tour of Leuven,161,1.1,N. Bonifazio,16823
-2022,7.08,Tour of Leuven,161,1.1,V. Campenaerts,19274
-2018,9.09,Tour du Doubs,162,1.1,J. Simon,964
-2019,15.09,Tour du Doubs,162,1.1,S. Küng,16724
-2020,6.09,Tour du Doubs,162,1.1,L. Vliegen,9073
-2021,5.09,Tour du Doubs,162,1.1,D. Godon,37717
-2022,4.09,Tour du Doubs,162,1.1,V. Madouas,37379
-2023,16.04,Tour du Doubs,162,1.1,J. Herrada,2325
-2019,13.1,Mem. Van Steenbergen,165,1.1,D. De Bondt,28169
-2022,9.1,Mem. Van Steenbergen,165,1.1,T. Merlier,8377
-2018,14.09,Kamp. van Vlaanderen,167,1.1,D. Groenewegen,7720
-2019,20.09,Kamp. van Vlaanderen,167,1.1,J. Steimle,47830
-2021,17.09,Kamp. van Vlaanderen,167,1.1,J. Philipsen,45363
-2022,16.09,Kamp. van Vlaanderen,167,1.1,F. Jakobsen,37748
-2018,15.09,Primus Classic,168,1.HC,T. van der Hoorn,10802
-2019,21.09,Primus Classic,168,1.HC,E. Theuns,10382
-2021,18.09,Primus Classic,168,1.Pro,F. Sénéchal,12481
-2022,17.09,Primus Classic,168,1.Pro,J. Meeus,45364
-2018,23.09,Duo Normand,169,1.1,M. Toft Madsen,15073
-2019,15.09,Duo Normand,169,1.1,M. Norsgaard,38481
-2018,19.09,Omloop van het Houtland,170,1.1,J. Van Genechten,5297
-2019,25.09,Omloop van het Houtland,170,1.1,M. Walscheid,9210
-2021,23.09,Omloop van het Houtland,170,1.1,T. van der Hoorn,10802
-2022,21.09,Omloop van het Houtland,170,1.1,J. Philipsen,45363
-2018,23.09,GP d'Isbergues,171,1.1,P. Gilbert,174
-2019,22.09,GP d'Isbergues,171,1.1,M. Pedersen,16793
-2020,20.09,GP d'Isbergues,171,1.1,N. Bouhanni,2530
-2021,19.09,GP d'Isbergues,171,1.1,E. Viviani,1310
-2022,18.09,GP d'Isbergues,171,1.1,A. Démare,2337
-2018,08.05-13.05,4 Jours de Dunkerque,175,2.HC,D. Claeys,2146
-2019,14.05-19.05,4 Jours de Dunkerque,175,2.HC,M. Teunissen,11313
-2022,03.05-08.05,4 Jours de Dunkerque,175,2.Pro,P. Gilbert,174
-2018,04.05-06.05,Vuelta a Madrid,176,2.1,E. Pinto,8549
-2019,10.05-12.05,Vuelta a Madrid,176,2.1,C. Russo,46959
-2018,26.05,GP de Plumelec-Morbihan,180,1.1,A. Pasqualon,3147
-2019,1.06,GP de Plumelec-Morbihan,180,1.1,B. Cosnefroy,34011
-2021,16.1,GP de Plumelec-Morbihan,180,1.Pro,A. Marit,65033
-2022,14.05,GP de Plumelec-Morbihan,180,1.Pro,J. Simon,964
-2018,27.05,Boucles de l'Aulne,182,1.1,K. Le Cunff,36235
-2019,2.06,Boucles de l'Aulne,182,1.1,A. Gougeard,12800
-2021,17.1,Boucles de l'Aulne,182,1.1,S. Dewulf,37427
-2022,22.05,Boucles de l'Aulne,182,1.1,I. Andersen,67838
-2021,13.1,Giro del Veneto,183,1.1,X. Meurisse,12482
-2022,12.1,Giro del Veneto,183,1.1,M. Trentin,3933
-2018,26.08,Schaal Sels,184,1.1,T. Dupont,865
-2019,25.08,Schaal Sels,184,1.1,A. Viviani,40385
-2022,21.08,Schaal Sels,184,1.1,A. De Lie,113439
-2018,29.08,Druivenkoers Overijse,186,1.1,X. Meurisse,12482
-2019,28.08,Druivenkoers Overijse,186,1.1,A. de Kleijn,27151
-2020,29.08,Druivenkoers Overijse,186,1.1,F. Sénéchal,12481
-2021,26.08,Druivenkoers Overijse,186,1.1,R. Evenepoel,84019
-2022,24.08,Druivenkoers Overijse,186,1.1,M. Louvel,63050
-2018,21.08-24.08,Poitou-Charentes,187,2.1,A. Démare,2337
-2019,27.08-30.08,Poitou-Charentes,187,2.1,C. Laporte,14737
-2020,27.08-30.08,Poitou-Charentes,187,2.1,A. Démare,2337
-2021,24.08-27.08,Poitou-Charentes,187,2.1,C. Swift,49662
-2022,23.08-26.08,Poitou-Charentes,187,2.1,S. Küng,16724
-2018,21.08,Egmont Cycling Race,188,1.1,J. Baugnies,1002
-2019,20.08,Egmont Cycling Race,188,1.1,P. Havik,16670
-2021,17.08,Egmont Cycling Race,188,1.1,D. van Poppel,7730
-2022,23.08,Egmont Cycling Race,188,1.1,A. De Lie,113439
-2018,9.1,Tre Valli Varesine,190,1.HC,T. Skujins,3930
-2019,8.1,Tre Valli Varesine,190,1.HC,P. Roglic,18655
-2021,5.1,Tre Valli Varesine,190,1.Pro,A. De Marchi,3103
-2022,4.1,Tre Valli Varesine,190,1.Pro,T. Pogacar,45992
-2018,15.08-18.08,Tour du Limousin,191,2.1,N. Edet,3044
-2019,21.08-24.08,Tour du Limousin,191,2.1,B. Cosnefroy,34011
-2020,18.08-21.08,Tour du Limousin,191,2.1,L. Wackermann,12816
-2021,17.08-20.08,Tour du Limousin,191,2.1,W. Barguil,6104
-2022,16.08-19.08,Tour du Limousin,191,2.1,A. Aranburu,27307
-2018,07.08-11.08,Vuelta a Burgos,192,2.HC,I. Sosa,61639
-2019,13.08-17.08,Vuelta a Burgos,192,2.HC,I. Sosa,61639
-2020,28.07-01.08,Vuelta a Burgos,192,2.Pro,R. Evenepoel,84019
-2021,03.08-07.08,Vuelta a Burgos,192,2.Pro,M. Landa,2278
-2022,02.08-06.08,Vuelta a Burgos,192,2.Pro,P. Sivakov,37280
-2018,28.07-01.08,Tour de Wallonie,193,2.HC,T. Wellens,6228
-2019,27.07-31.07,Tour de Wallonie,193,2.HC,L. Vliegen,9073
-2020,16.08-19.08,Tour de Wallonie,193,2.Pro,A. Démare,2337
-2021,20.07-24.07,Tour de Wallonie,193,2.Pro,Q. Simmons,95151
-2022,23.07-27.07,Tour de Wallonie,193,2.Pro,R. Stannard,44537
-2018,16.09,Coppa Bernocchi,196,1.1,S. Colbrelli,2338
-2019,15.09,Coppa Bernocchi,196,1.1,P. Bauhaus,16816
-2021,4.1,Coppa Bernocchi,196,1.Pro,R. Evenepoel,84019
-2022,3.1,Coppa Bernocchi,196,1.Pro,D. Ballerini,26504
-2018,01.08-12.08,Volta a Portugal,197,2.1,R. Alarcon,8492
-2019,31.07-11.08,Volta a Portugal,197,2.1,J. Rodrigues,18601
-2021,04.08-15.08,Volta a Portugal,197,2.1,A. Antunes,8551
-2022,04.08-15.08,Volta a Portugal,197,2.1,M. Moreira,35382
-2018,7.06,GP Kanton Aargau,199,1.HC,A. Kristoff,406
-2019,13.06,GP Kanton Aargau,199,1.HC,A. Kristoff,406
-2021,4.06,GP Kanton Aargau,199,1.1,I. Schelling,45602
-2022,10.06,GP Kanton Aargau,199,1.1,M. Hirschi,46163
-2018,13.1,Ronde van Zeeland,200,1.1,P. Schulting,7920
-2019,12.1,Ronde van Zeeland,200,1.1,D. Groenewegen,7720
-2018,31.07,Circuito de Getxo,202,1.1,A. Aranburu,27307
-2019,31.07,Circuito de Getxo,202,1.1,J. Aberasturi,5273
-2020,2.08,Circuito de Getxo,202,1.1,D. Caruso,1006
-2021,1.08,Circuito de Getxo,202,1.1,G. Nizzolo,2982
-2022,31.07,Circuito de Getxo,202,1.1,J. Ayuso,114659
-2018,5.08,Polynormande,203,1.1,P. Périchon,9154
-2019,18.08,Polynormande,203,1.1,B. Cosnefroy,34011
-2021,15.08,Polynormande,203,1.1,V. Madouas,37379
-2022,14.08,Polynormande,203,1.1,F. Bonnamour,27297
-2018,23.09,Trofeo Matteotti,205,1.1,D. Ballerini,26504
-2019,22.09,Trofeo Matteotti,205,1.1,M. Trentin,3933
-2020,29.08,Trofeo Matteotti,205,1.1,V. Conti,20511
-2021,19.09,Trofeo Matteotti,205,1.1,M. Trentin,3933
-2018,25.07,Villafranca de Ordizia,207,1.1,R. Power,27139
-2019,25.07,Villafranca de Ordizia,207,1.1,R. Valls,886
-2020,12.1,Villafranca de Ordizia,207,1.1,S. Carr,51252
-2021,25.07,Villafranca de Ordizia,207,1.1,L. Sánchez,26
-2022,25.07,Villafranca de Ordizia,207,1.1,S. Yates,6242
-2018,19.06,Halle - Ingooigem,210,1.1,D. van Poppel,7730
-2019,26.06,Halle - Ingooigem,210,1.1,D. De Bondt,28169
-2018,13.06-17.06,Tour of Slovenia,211,2.1,P. Roglic,18655
-2019,19.06-23.06,Tour of Slovenia,211,2.HC,D. Ulissi,794
-2021,09.06-13.06,Tour of Slovenia,211,2.Pro,T. Pogacar,45992
-2022,15.06-19.06,Tour of Slovenia,211,2.Pro,T. Pogacar,45992
-2018,14.06-17.06,Route d'Occitanie,212,2.1,A. Valverde,38
-2019,20.06-23.06,Route d'Occitanie,212,2.1,A. Valverde,38
-2020,01.08-04.08,Route d'Occitanie,212,2.1,E. Bernal,58275
-2021,10.06-13.06,Route d'Occitanie,212,2.1,A. Pedrero,10996
-2022,16.06-19.06,Route d'Occitanie,212,2.1,M. Woods,16569
-2019,19.06-23.06,ZLM Tour,213,2.1,M. Teunissen,11313
-2022,08.06-12.06,ZLM Tour,213,2.Pro,O. Kooij,97547
-2018,03.04-06.04,Pays de la Loire Tour,217,2.1,G. Martin,10990
-2019,09.04-12.04,Pays de la Loire Tour,217,2.1,A. Gougeard,12800
-2022,05.04-08.04,Pays de la Loire Tour,217,2.1,O. Kooij,97547
-2023,04.04-07.04,Pays de la Loire Tour,217,2.1,A. Kamp,7572
-2018,22.09,Circuit Franco-Belge,231,1.HC,M. Pedersen,16793
-2019,5.1,Circuit Franco-Belge,231,1.HC,P. Allegaert,27331
-2021,29.09,Circuit Franco-Belge,231,1.Pro,F. Jakobsen,37748
-2022,10.08,Circuit Franco-Belge,231,1.Pro,A. Kristoff,406
-2018,17.09-23.09,Tour of China II,232,2.1,A. Marque,9030
-2019,16.09-22.09,Tour of China II,232,2.1,X. Lyu,91151
-2018,07.10-14.10,Tour of Taihu Lake,242,2.1,B. Vallée,9072
-2019,09.10-15.10,Tour of Taihu Lake,242,2.1,D. Kennett,25868
-2018,25.05-26.05,Tour of Estonia,250,2.1,G. Stepniak,6556
-2019,23.05-25.05,Tour of Estonia,250,2.1,M. Räim,10920
-2021,28.05-29.05,Tour of Estonia,250,2.1,K. Lauk,37482
-2022,26.05-28.05,Tour of Estonia,250,2.1,E. Siskevicius,7755
-2018,30.05-03.06,Tour de Korea,255,2.1,S. Tvetcov,7871
-2019,12.06-16.06,Tour de Korea,255,2.1,F. Zaccanti,27278
-2018,05.07-08.07,Sibiu Cycling Tour,258,2.1,I. Sosa,61639
-2019,03.07-07.07,Sibiu Cycling Tour,258,2.1,K. Rivera,56455
-2020,23.07-26.07,Sibiu Cycling Tour,258,2.1,G. Mühlberger,16578
-2021,03.07-06.07,Sibiu Cycling Tour,258,2.1,G. Aleotti,66495
-2022,02.07-05.07,Sibiu Cycling Tour,258,2.1,G. Aleotti,66495
-2018,16.08-19.08,Arctic Race of Norway,259,2.HC,S. Chernetskiy,6526
-2019,15.08-18.08,Arctic Race of Norway,259,2.HC,A. Lutsenko,6230
-2021,05.08-08.08,Arctic Race of Norway,259,2.Pro,B. Hermans,705
-2022,11.08-14.08,Arctic Race of Norway,259,2.Pro,A. Leknessund,66973
-2018,1.04,La Roue Tourangelle,260,1.1,M. Sarreau,17210
-2019,7.04,La Roue Tourangelle,260,1.1,L. Taminiaux,39368
-2021,4.04,La Roue Tourangelle,260,1.1,A. Démare,2337
-2022,27.03,La Roue Tourangelle,260,1.1,N. Bouhanni,2530
-2023,26.03,La Roue Tourangelle,260,1.1,R. Townsend,42868
-2018,29.07,Ride London Classic,261,1.UWT,P. Ackermann,9746
-2019,4.08,Ride London Classic,261,1.UWT,E. Viviani,1310
-2018,15.09,Coppa Agostoni,262,1.1,G. Moscon,28781
-2019,14.09,Coppa Agostoni,262,1.1,A. Riabushenko,16587
-2021,11.1,Coppa Agostoni,262,1.1,A. Lutsenko,6230
-2022,29.09,Coppa Agostoni,262,1.1,S. Bax,37306
-2018,4.03,GP Industria & Artigianato,263,1.HC,M. Mohoric,16687
-2019,10.03,GP Industria & Artigianato,263,1.HC,M. Schachmann,16643
-2021,7.03,GP Industria & Artigianato,263,1.Pro,M. Vansevenant,70034
-2022,27.03,GP Industria & Artigianato,263,1.Pro,D. Ulissi,794
-2023,26.03,GP Industria & Artigianato,263,1.Pro,B. Healy,76245
-2018,29.09-30.09,Tour of Almaty,264,2.1,D. Villella,14126
-2019,30.08-31.08,Tour of Almaty,264,2.1,Y. Natarov,37339
-2021,13.05,Trofeo Calvia,271,1.1,R. Gibbons,16998
-2022,26.01,Trofeo Calvia,271,1.1,B. McNulty,48539
-2023,25.01,Trofeo Calvia,271,1.1,R. Costa,114
-2021,16.05,Trofeo Alcudia - Port d'Alcudia,273,1.1,A. Greipel,377
-2022,27.01,Trofeo Alcudia - Port d'Alcudia,273,1.1,B. Girmay,92666
-2023,26.01,Trofeo Alcudia - Port d'Alcudia,273,1.1,M. van den Berg,64658
-2018,27.01,Trofeo Andratx,274,1.1,T. Skujins,3930
-2019,1.02,Trofeo Andratx,274,1.1,E. Buchmann,9344
-2021,15.05,Trofeo Andratx,274,1.1,W. Anacona,6496
-2022,29.01,Trofeo Andratx,274,1.1,A. Valverde,38
-2023,27.01,Trofeo Andratx,274,1.1,K. Goossens,38818
-2018,31.01-04.02,Volta Comunitat Valenciana,319,2.1,A. Valverde,38
-2019,06.02-10.02,Volta Comunitat Valenciana,319,2.1,I. Izagirre,2977
-2021,14.04-18.04,Volta Comunitat Valenciana,319,2.Pro,S. Küng,16724
-2022,02.02-06.02,Volta Comunitat Valenciana,319,2.Pro,A. Vlasov,37281
-2023,01.02-05.02,Volta Comunitat Valenciana,319,2.Pro,R. Costa,114
-2018,20.05-27.05,Tour of Japan,341,2.1,M. Garcia,2182
-2019,19.05-26.05,Tour of Japan,341,2.1,C. Harper,39009
-2018,31.05-03.06,Boucles de la Mayenne,343,2.1,M. van der Poel,16672
-2019,06.06-09.06,Boucles de la Mayenne,343,2.1,T. Ferasse,29100
-2021,27.05-30.05,Boucles de la Mayenne,343,2.Pro,A. Démare,2337
-2022,26.05-29.05,Boucles de la Mayenne,343,2.Pro,B. Thomas,43007
-2018,13.07,CC Europe ITT-U23,347,CCUT,E. Affini,27097
-2019,8.08,CC Europe ITT-U23,347,CCUT,J. Price-Pejtersen,69317
-2020,24.08,CC Europe ITT-U23,347,CCUT,A. Leknessund,66973
-2021,9.09,CC Europe ITT-U23,347,CCUT,J. Price-Pejtersen,69317
-2022,7.07,CC Europe ITT-U23,347,CCUT,A. Segaert,139003
-2018,15.07,CC Europe RR-U23,348,CCU,M. Hirschi,46163
-2019,10.08,CC Europe RR-U23,348,CCU,A. Dainese,71333
-2020,27.08,CC Europe RR-U23,348,CCU,J. Hvideberg,67824
-2021,11.09,CC Europe RR-U23,348,CCU,T. Nys,120686
-2022,10.07,CC Europe RR-U23,348,CCU,F. Engelhardt,77500
-2018,2.06,Heistse Pijl,349,1.1,E. Liepins,8813
-2019,22.06,Heistse Pijl,349,1.1,A. Hodeg,41293
-2021,31.07,Heistse Pijl,349,1.1,P. Eenkhoorn,37308
-2022,4.06,Heistse Pijl,349,1.1,A. De Lie,113439
-2018,25.03,CC Oceania RR,357,CCRR,C. Harper,39009
-2019,17.03,CC Oceania RR,357,CCRR,B. Dyball,4776
-2022,10.04,CC Oceania RR,357,CCRR,J. Fouche,56273
-2023,1.04,CC Oceania RR,357,CCRR,L. Walsh,90919
-2018,23.03,CC Oceania ITT,358,CCTT,H. Bond,72966
-2019,15.03,CC Oceania ITT,358,CCTT,B. Dyball,4776
-2022,9.04,CC Oceania ITT,358,CCTT,A. Gate,17940
-2023,30.03,CC Oceania ITT,358,CCTT,T. Sexton,59418
-2018,23.03,CC Oceania ITT-U23,360,CCUT,J. Marryatt,41198
-2019,15.03,CC Oceania ITT-U23,360,CCUT,L. Magennis,41190
-2022,9.04,CC Oceania ITT-U23,360,CCUT,L. Currie,120452
-2023,30.03,CC Oceania ITT-U23,360,CCUT,B. Gilmore,167283
-2018,10.02,CC Asia ITT,361,CCTT,K. Cheung,6573
-2019,25.04,CC Asia ITT,361,CCTT,D. Fominykh,6234
-2022,27.03,CC Asia ITT,361,CCTT,Y. Fedorov,75603
-2018,11.02,CC Asia RR-U23,362,CCU,M. Yamamoto,27263
-2019,26.04,CC Asia RR-U23,362,CCU,M. Ganjkhanlou,41146
-2022,28.03,CC Asia RR-U23,362,CCU,G. Brussenskiy,82115
-2018,12.02,CC Asia RR,363,CCRR,Y. Mirza,22663
-2019,28.04,CC Asia RR,363,CCRR,Y. Gidich,27257
-2022,29.03,CC Asia RR,363,CCRR,I. Chzhan,66986
-2018,9.02,CC Asia ITT-U23,364,CCUT,H. Shi,74900
-2019,24.04,CC Asia ITT-U23,364,CCUT,Y. Fedorov,75603
-2022,26.03,CC Asia ITT-U23,364,CCUT,A. Madan,115016
-2018,6.05,CC Pan-America RR,365,CCRR,S. Molano,34624
-2019,5.05,CC Pan-America RR,365,CCRR,J. Cepeda,41295
-2021,15.08,CC Pan-America RR,365,CCRR,N. Soto,38229
-2022,15.05,CC Pan-America RR,365,CCRR,E. Contreras,31291
-2023,23.04,CC Pan-America RR,365,CCRR,P. Côté,37419
-2018,5.05,CC Pan-America RR-U23,366,CCU,F. Vivas,44014
-2019,4.05,CC Pan-America RR-U23,366,CCU,S. Montenegro,68872
-2021,14.08,CC Pan-America RR-U23,366,CCU,H. Gutierrez,157977
-2022,14.05,CC Pan-America RR-U23,366,CCU,N. Gomez,81832
-2023,22.04,CC Pan-America RR-U23,366,CCU,V. Rojas Naranjo,185119
-2018,3.05,CC Pan-America ITT,367,CCTT,W. Vargas,34760
-2019,1.05,CC Pan-America ITT,367,CCTT,B. Rivera,59918
-2021,13.08,CC Pan-America ITT,367,CCTT,W. Vargas,34760
-2022,12.05,CC Pan-America ITT,367,CCTT,R. Contreras,29855
-2023,19.04,CC Pan-America ITT,367,CCTT,W. Vargas,34760
-2018,3.05,CC Pan-America ITT-U23,368,CCUT,D. Ferreyra,41233
-2019,1.05,CC Pan-America ITT-U23,368,CCUT,D. Ferreyra,41233
-2021,13.08,CC Pan-America ITT-U23,368,CCUT,H. Quintana,116513
-2022,12.05,CC Pan-America ITT-U23,368,CCUT,J. Barboza,112494
-2023,19.04,CC Pan-America ITT-U23,368,CCUT,H. Quintana,116513
-2018,15.02,CC Africa ITT,369,CCTT,M. Debesay,14933
-2019,17.03,CC Africa ITT,369,CCTT,S. de Bod,44341
-2021,3.03,CC Africa ITT,369,CCTT,R. Gibbons,16998
-2022,24.03,CC Africa ITT,369,CCTT,G. Basson,37282
-2023,9.02,CC Africa ITT,369,CCTT,C. Kagimu,54962
-2018,18.02,CC Africa RR,370,CCRR,A. Gebreigzabhier,32493
-2019,19.03,CC Africa RR,370,CCRR,M. Debesay,14933
-2021,6.03,CC Africa RR,370,CCRR,R. Gibbons,16998
-2022,27.03,CC Africa RR,370,CCRR,H. Mulubrhan,71607
-2023,13.02,CC Africa RR,370,CCRR,H. Mulubrhan,71607
-2018,12.09-16.09,Okolo Slovenska,380,2.1,J. Alaphilippe,12474
-2019,18.09-21.09,Okolo Slovenska,380,2.1,Y. Lampaert,10971
-2020,16.09-19.09,Okolo Slovenska,380,2.1,J. Steimle,47830
-2021,15.09-19.09,Okolo Slovenska,380,2.1,P. Sagan,784
-2022,13.09-17.09,Okolo Slovenska,380,2.1,J. Cerný,10103
-2023,22.01,Clàssica Comunitat Valenciana 1969,411,1.1,A. De Lie,113439
-2018,11.05-13.05,Vuelta a Aragón,414,2.1,J. Roson,25659
-2019,17.05-19.05,Vuelta a Aragón,414,2.1,E. Prades,11520
-2018,15.06,Dwars door het Hageland,425,1.1,K. Neilands,16660
-2019,21.06,Dwars door het Hageland,425,1.1,K. Vanbilsen,4927
-2020,15.08,Dwars door het Hageland,425,1.Pro,J. Rickaert,20832
-2021,5.06,Dwars door het Hageland,425,1.Pro,R. Tiller,37303
-2022,11.06,Dwars door het Hageland,425,1.Pro,O. Riesebeek,4779
-2018,23.09,World Championship TTT,426,WCTT,K. Asgreen,27121
-2018,25.02,La Drome Classic,432,1.1,L. Calmejane,22268
-2019,3.03,La Drome Classic,432,1.1,A. Vuillermoz,14716
-2021,28.02,La Drome Classic,432,1.Pro,A. Bagioli,65240
-2022,27.02,La Drome Classic,432,1.Pro,J. Vingegaard,38195
-2023,26.02,La Drome Classic,432,1.Pro,A. Perez,16566
-2018,06.02-10.02,Dubai Tour,433,2.HC,E. Viviani,1310
-2018,30.09-05.10,Tour of Iran,434,2.1,D. Sokolov,4692
-2019,02.10-06.10,Tour of Iran,434,2.1,S. Novikov,61838
-2022,29.09-03.10,Tour of Iran,434,2.1,G. Marchand,15631
-2018,10.06,Ronde van Limburg,437,1.1,M. van der Poel,16672
-2019,10.06,Ronde van Limburg,437,1.1,E. Grosu,14778
-2021,24.05,Ronde van Limburg,437,1.1,T. Merlier,8377
-2022,6.06,Ronde van Limburg,437,1.1,A. De Lie,113439
-2018,23.09,Gooikse Pijl,444,1.1,J. Meeus,45364
-2019,22.09,Gooikse Pijl,444,1.1,P. Ackermann,9746
-2020,20.09,Gooikse Pijl,444,1.1,D. van Poppel,7730
-2021,19.09,Gooikse Pijl,444,1.1,F. Jakobsen,37748
-2022,18.09,Gooikse Pijl,444,1.1,G. Thijssen,47124
-2019,24.02-03.03,Tour of Rwanda,450,2.1,M. Kudus,18117
-2021,02.05-09.05,Tour of Rwanda,450,2.1,C. Rodriguez,16947
-2022,20.02-27.02,Tour of Rwanda,450,2.1,N. Tesfazion,91583
-2023,19.02-26.02,Tour of Rwanda,450,2.1,H. Mulubrhan,71607
-2018,24.01-27.01,Tour of Sharjah,460,2.1,J. Moreno,2118
-2018,14.02,CC Africa TTT,462,CCTT,S. Musie,71608
-2019,15.03,CC Africa TTT,462,CCTT,M. Debesay,14933
-2021,2.03,CC Africa TTT,462,CCTT,R. Gibbons,16998
-2022,23.03,CC Africa TTT,462,CCTT,D. Yemane,77955
-2023,8.02,CC Africa TTT,462,CCTT,H. Mansouri,62831
-2018,28.05,Winston Cycling Classic,486,1.1,S. Bassetti,21840
-2018,01.04-06.04,Tour of Thailand,507,2.1,B. Dyball,4776
-2019,01.04-06.04,Tour of Thailand,507,2.1,R. Cavanagh,27136
-2020,06.10-11.10,Tour of Thailand,507,2.1,N. Holler,9347
-2022,01.04-06.04,Tour of Thailand,507,2.1,A. Banaszek,37464
-2023,01.04-06.04,Tour of Thailand,507,2.1,T. Batsaikhan,44411
-2022,27.04-01.05,Tour of Hellas,513,2.1,A. Gate,17940
-2019,30.05,Circuit de Wallonie,537,1.1,T. Boudat,16796
-2021,13.05,Circuit de Wallonie,537,1.1,C. Laporte,14737
-2022,26.05,Circuit de Wallonie,537,1.1,A. Pasqualon,3147
-2023,4.03,GP Criquielion,539,1.1,S. Welsford,44003
-2019,11.09-15.09,Turul Romaniei,549,2.1,A. Molenaar,64761
-2021,31.08-05.09,Turul Romaniei,549,2.1,J. Kaczmarek,18181
-2022,06.09-11.09,Turul Romaniei,549,2.1,M. Stewart,33370
-2018,14.04,Commonwealth Games RR,590,CCRR,S. von Hoff,7900
-2022,7.08,Commonwealth Games RR,590,RCRR,A. Gate,17940
-2018,10.04,Commonwealth Games ITT,591,CCTT,C. Meyer,767
-2022,4.08,Commonwealth Games ITT,591,RCTT,R. Dennis,2322
-2019,24.08,All-Africa Games TTT,636,CCTT,J. Julius,14460
-2019,29.08,All-Africa Games RR,640,CCRR,Y. Reguigui,6584
-2019,26.08,All-Africa Games ITT,641,CCTT,R. Gibbons,16998
-2018,01.06-03.06,Szlakiem Hubala,667,2.1,M. Taciak,3195
-2019,31.05-02.06,Szlakiem Hubala,667,2.1,M. Paterski,783
-2018,24.08,Asian Games ITT,673,CCTT,A. Lutsenko,6230
-2018,23.08,Asian Games RR,674,CCRR,A. Lutsenko,6230
-2018,30.06,Mediterranean Games ITT,699,CCTT,E. Affini,27097
-2018,27.06,Mediterranean Games RR,700,CCRR,J. Duranti,26525
-2018,16.06,Fyen Rundt,736,1.1,M. Pedersen,16793
-2019,10.08,Pan-American Games RR,764,CCRR,M. Richeze,624
-2018,14.08-19.08,Tour de Hongrie,765,2.1,M. Belletti,1864
-2019,11.06-16.06,Tour de Hongrie,765,2.1,K. Neilands,16660
-2020,29.08-02.09,Tour de Hongrie,765,2.1,A. Valter,69890
-2021,12.05-16.05,Tour de Hongrie,765,2.1,D. Howson,6410
-2022,11.05-15.05,Tour de Hongrie,765,2.1,E. Dunbar,27283
-2018,17.04-22.04,CRO Race,773,2.HC,K. Sivtsov,397
-2019,01.10-06.10,CRO Race,773,2.1,A. Yates,20147
-2021,28.09-03.10,CRO Race,773,2.1,S. Williams,37376
-2022,27.09-02.10,CRO Race,773,2.1,M. Mohoric,16687
-2022,01.02-05.02,Saudi Tour,868,2.1,M. Van Gils,70377
-2023,30.01-03.02,Saudi Tour,868,2.1,R. Guerreiro,16992
-2018,03.05-06.05,Tour de Yorkshire,942,2.1,G. Van Avermaet,150
-2019,02.05-05.05,Tour de Yorkshire,942,2.HC,C. Lawless,16783
-2018,17.06,GP Horsens-Demin Cup,947,1.1,H. Dahl,13788
-2018,24.06,Paris-Chauny,949,1.1,R. Sinkeldam,4589
-2019,29.09,Paris-Chauny,949,1.1,A. Turgis,16637
-2020,27.09,Paris-Chauny,949,1.1,N. Bouhanni,2530
-2021,26.09,Paris-Chauny,949,1.1,J. Philipsen,45363
-2022,25.09,Paris-Chauny,949,1.1,S. Consonni,20454
-2018,20.07,Central AC Games ITT,1026,CCTT,R. Contreras,29855
-2018,29.07,Central AC Games RR,1027,CCRR,N. Soto,38229
-2018,25.08,Omloop Mandel,1144,1.1,W. Wippert,6107
-2019,31.08,Omloop Mandel,1144,1.1,N. Bonifazio,16823
-2018,28.01,Cadel Road Race,1172,1.UWT,J. McCarthy,4778
-2019,27.01,Cadel Road Race,1172,1.UWT,E. Viviani,1310
-2023,29.01,Cadel Road Race,1172,1.UWT,M. Mayrhofer,77148
-2019,25.06,European Games ITT,1278,CCTT,V. Kiryienka,402
-2019,23.06,European Games,1279,CCRR,D. Ballerini,26504
-2021,4.09,Tour du Jura,1285,1.1,B. Cosnefroy,34011
-2022,16.04,Tour du Jura,1285,1.1,B. O'Connor,42186
-2023,15.04,Tour du Jura,1285,1.1,K. Vauquelin,99667
-2018,7.07,GP Jean-Pierre Monseré,2729,1.1,A. Looij,31210
-2021,7.03,GP Jean-Pierre Monseré,2729,1.1,T. Merlier,8377
-2022,6.03,GP Jean-Pierre Monseré,2729,1.1,A. De Lie,113439
-2023,5.03,GP Jean-Pierre Monseré,2729,1.1,G. Thijssen,47124
-2019,4.05,Etoile d'Or,2896,1.NC,A. Konychev,39286
-2021,19.07-20.07,Etoile d'Or,2896,2.NC,F. Maciejuk,65580
-2018,11.08,KOGA Slag om Norg,3239,1.1,J. Van Schip,21908
-2019,11.08,KOGA Slag om Norg,3239,1.1,C. Vermeltfoort,862
-2018,21.02-25.02,Abu Dhabi Tour,3827,2.UWT,A. Valverde,38
-2018,20.05,Grote Prijs Marcel Kint,3838,1.1,N. Bouhanni,2530
-2019,26.05,Grote Prijs Marcel Kint,3838,1.1,B. Coquard,16752
-2021,20.08,Grote Prijs Marcel Kint,3838,1.1,A. Hodeg,41293
-2022,29.05,Grote Prijs Marcel Kint,3838,1.1,A. De Lie,113439
-2018,25.03,Gent - Wevelgem,3999,1.NC,Z. Jerman,46188
-2019,31.03,Gent - Wevelgem,3999,1.NC,J. Rutsch,46161
-2022,27.03,Gent - Wevelgem,3999,1.NC,S. Watson,93345
-2018,13.04-15.04,GP Beiras e Serra da Estrela,4008,2.1,D. Strakhov,16685
-2019,12.04-14.04,GP Beiras e Serra da Estrela,4008,2.1,E. Avila,9023
-2018,12.08,CC Europe RR,4019,CCRR,M. Trentin,3933
-2019,11.08,CC Europe RR,4019,CCRR,E. Viviani,1310
-2020,26.08,CC Europe RR,4019,CCRR,G. Nizzolo,2982
-2021,12.09,CC Europe RR,4019,CCRR,S. Colbrelli,2338
-2022,14.08,CC Europe RR,4019,CCRR,F. Jakobsen,37748
-2018,8.08,CC Europe ITT,4020,CCTT,V. Campenaerts,19274
-2019,8.08,CC Europe ITT,4020,CCTT,R. Evenepoel,84019
-2020,24.08,CC Europe ITT,4020,CCTT,S. Küng,16724
-2021,9.09,CC Europe ITT,4020,CCTT,S. Küng,16724
-2022,17.08,CC Europe ITT,4020,CCTT,S. Bissegger,46157
-2018,19.09,Giro della Toscana,4025,1.1,G. Moscon,28781
-2019,18.09,Giro della Toscana,4025,1.1,G. Visconti,486
-2020,16.09,Giro della Toscana,4025,1.1,F. Gaviria,18575
-2021,15.09,Giro della Toscana,4025,1.1,M. Valgren,6309
-2022,14.09,Giro della Toscana,4025,1.1,M. Hirschi,46163
-2018,1.08,World Military Games - ITT,4202,NE,F. Groß,49917
-2018,08.02-11.02,Tour de Provence,4396,2.1,A. Geniez,948
-2019,14.02-17.02,Tour de Provence,4396,2.1,G. Izagirre,872
-2021,11.02-14.02,Tour de Provence,4396,2.Pro,I. Sosa,61639
-2022,10.02-13.02,Tour de Provence,4396,2.Pro,N. Quintana,2276
-2018,21.01-28.01,Vuelta a San Juan,5247,2.1,G. Najar,20000
-2019,27.01-03.02,Vuelta a San Juan,5247,2.1,W. Anacona,6496
-2023,22.01-29.01,Vuelta a San Juan,5247,2.Pro,M. López,35077
-2019,07.06-09.06,Tour of Bihor - Bellotto,6152,2.1,D. Muñoz,46841
-2018,16.08-19.08,Colorado Classic,7019,2.HC,G. Mannion,3360
-2018,16.10-21.10,Gree - Tour of Guangxi,7591,2.UWT,G. Moscon,28781
-2019,17.10-22.10,Gree - Tour of Guangxi,7591,2.UWT,E. Mas,1527
-2018,8.02,CC Asia TTT,7595,CCTT,Y. Arashiro,163
-2019,23.04,CC Asia TTT,7595,CCTT,Y. Gidich,27257
-2022,25.03,CC Asia TTT,7595,CCTT,Y. Natarov,37339
-2018,01.06-03.06,Hammer Limburg,7658,2.1,K. Asgreen,27121
-2019,07.06-09.06,Hammer Limburg,7658,2.1,D. Devenyns,752
-2018,27.09,Famenne Ardenne Classic,7660,1.1,G. Boivin,1937
-2019,6.1,Famenne Ardenne Classic,7660,1.1,D. Claeys,2146
-2022,2.1,Famenne Ardenne Classic,7660,1.1,A. Zingle,72919
-2018,25.01-28.01,Tour of Indonesia,8466,2.1,A. Phounsavath,31440
-2019,19.08-23.08,Tour of Indonesia,8466,2.1,T. Lebas,8476
-2018,31.01-04.02,Tour de l'Espoir,8468,2.NC,J. Areruya,55572
-2019,04.02-09.02,Tour de l'Espoir,8468,2.NC,Y. Debesay,91582
-2022,10.02-13.02,Tour of Antalya,8472,2.1,J. Hindsgaul Madsen,75478
-2018,25.05-27.05,Hammer Stavanger,8504,2.1,M. Albasini,91
-2019,24.05-26.05,Hammer Stavanger,8504,2.1,A. Jansen,16674
-2018,17.06,Elfstedenronde,8515,1.1,A. Blythe,744
-2019,23.06,Elfstedenronde,8515,1.1,T. Merlier,8377
-2021,6.06,Elfstedenronde,8515,1.1,T. Merlier,8377
-2022,12.06,Elfstedenronde,8515,1.1,F. Jakobsen,37748
-2018,20.06-24.06,Adriatica Ionica Race,8516,2.1,I. Sosa,61639
-2019,25.07-28.07,Adriatica Ionica Race,8516,2.1,M. Padun,27043
-2021,15.06-17.06,Adriatica Ionica Race,8516,2.1,L. Fortunato,27271
-2022,04.06-08.06,Adriatica Ionica Race,8516,2.1,F. Zana,66439
-2018,06.02-11.02,Tour Colombia,8519,2.1,E. Bernal,58275
-2019,12.02-17.02,Tour Colombia,8519,2.1,M. López,35077
-2018,24.08,Great War Remembrance,8520,1.1,M. Räim,10920
-2022,24.06,Juegos Bolivarianos ITT,8807,CCTT,W. Vargas,34760
-2022,26.06,Juegos Bolivarianos RR,8808,CCRR,A. Reyes,34755
-2018,28.04-29.04,Belgrade Banjaluka,9018,2.1,G. Katrasnik,16813
-2019,18.04-21.04,Belgrade Banjaluka,9018,2.1,P. Franczak,11010
-2020,04.09-07.09,Belgrade Banjaluka,9018,2.1,J. Kaczmarek,18181
-2021,22.04-25.04,Belgrade Banjaluka,9018,2.1,M. Räim,10920
-2022,13.04-17.04,Belgrade Banjaluka,9018,2.1,J. Kaczmarek,18181
-2018,27.05,Juegos Suramericanos ITT,9669,CCTT,R. Contreras,29855
-2018,3.06,Juegos Suramericanos RR,9736,CCRR,J. Cepeda,41295
-2019,24.02-02.03,UAE Tour,9800,2.UWT,P. Roglic,18655
-2021,21.02-27.02,UAE Tour,9800,2.UWT,T. Pogacar,45992
-2022,20.02-26.02,UAE Tour,9800,2.UWT,T. Pogacar,45992
-2023,20.02-26.02,UAE Tour,9800,2.UWT,R. Evenepoel,84019
-2018,4.08,World University Champs,10157,CCRR,A. van Engelen,33469
-2018,2.09,Antwerp Port Epic,10204,1.1,G. Van Keirsbulck,3051
-2019,8.09,Antwerp Port Epic,10204,1.1,A. De Gendt,16581
-2020,13.09,Antwerp Port Epic,10204,1.1,G. Vermeersch,7964
-2021,12.09,Antwerp Port Epic,10204,1.1,M. van der Poel,16672
-2022,22.05,Antwerp Port Epic,10204,1.1,F. Vermeersch,69912
-2018,14.1,Hammer Hong Kong,10228,1.1,S. Bewley,704
-2019,17.06,Mont Ventoux Dénivelé Challenge,10459,1.1,J. Herrada,2325
-2020,6.08,Mont Ventoux Dénivelé Challenge,10459,1.1,A. Vlasov,37281
-2021,8.06,Mont Ventoux Dénivelé Challenge,10459,1.1,M. López,35077
-2022,14.06,Mont Ventoux Dénivelé Challenge,10459,1.1,R. Guerreiro,16992
-2018,13.1,Campeonato del Caribe ITT,10514,CCTT,A. Sanchez Beriguette,22476
-2018,14.1,Campeonato del Caribe RR,10515,CCRR,M. Stanislas,61642
-2019,01.06-02.06,Orlen Nations Grand Prix,10674,2.NC,N. Prodhomme,39481
-2020,12.09-13.09,Orlen Nations Grand Prix,10674,2.NC,O. Kooij,97547
-2021,29.05-30.05,Orlen Nations Grand Prix,10674,2.NC,M. van den Berg,64658
-2022,09.09-10.09,Orlen Nations Grand Prix,10674,2.NC,M. Nørtoft,121926
-2019,03.04-06.04,Giro di Sicilia,11248,2.1,B. McNulty,48539
-2021,28.09-01.10,Giro di Sicilia,11248,2.1,V. Nibali,133
-2022,12.04-15.04,Giro di Sicilia,11248,2.1,D. Caruso,1006
-2023,11.04-14.04,Giro di Sicilia,11248,2.1,A. Lutsenko,6230
-2019,15.10-19.10,Tour of Peninsula,11847,2.1,M. Garcia,2182
-2019,7.08,CC Europe Mixed Relay,12532,CCTT,F. Mackaij,89827
-2020,28.08,CC Europe Mixed Relay,12532,CCTT,L. Brennauer,89536
-2021,8.09,CC Europe Mixed Relay,12532,CCTT,M. Sobrero,40783
-2019,22.09,World Championship Mixed Relay,12533,WCTT,L. Brand,89823
-2021,22.09,World Championship Mixed Relay,12533,WCTT,L. Brennauer,89536
-2022,21.09,World Championship Mixed Relay,12533,WCTT,M. Schmid,69502
-2021,24.05,Mercan Tour Classic Alpes-Maritimes,13188,1.1,G. Martin,10990
-2022,31.05,Mercan Tour Classic Alpes-Maritimes,13188,1.1,J. Fuglsang,264
-2022,4.09,Maryland Cycling Classic,13191,1.Pro,S. Vanmarcke,1581
-2020,3.08,Gran Trittico Lombardo,13875,1.Pro,G. Izagirre,872
-2018,31.05-03.06,Course de la Paix,14005,2.NC,T. Pogacar,45992
-2019,06.06-09.06,Course de la Paix,14005,2.NC,A. Leknessund,66973
-2021,03.06-06.06,Course de la Paix,14005,2.NC,F. Zana,66439
-2022,02.06-05.06,Course de la Paix,14005,2.NC,L. Van Eetvelt,94804
-2020,27.09-05.10,Volta a Portugal Edição Especial,14543,2.1,A. Antunes,8551
-2021,21.03,Per Sempre Alfredo,15066,1.1,M. Moschetti,37719
-2022,20.03,Per Sempre Alfredo,15066,1.1,M. Hirschi,46163
-2023,19.03,Per Sempre Alfredo,15066,1.1,F. Engelhardt,77500
-2021,14.07-18.07,Settimana Ciclistica Italiana,15074,2.1,D. Ulissi,794
-2021,3.09,Classic Grand Besançon Doubs,15075,1.1,B. Girmay,92666
-2022,15.04,Classic Grand Besançon Doubs,15075,1.1,J. Herrada,2325
-2023,14.04,Classic Grand Besançon Doubs,15075,1.1,V. Lafay,38937
-2021,4.03,CC Africa Mixed Relay,15151,CCTT,C. Oberholzer,89513
-2022,25.03,CC Africa Mixed Relay,15151,CCTT,A. De Comarmond,156483
-2023,10.02,CC Africa Mixed Relay,15151,CCTT,A. Halbwachs,92488
-2021,17.1,Veneto Classic,15208,1.1,S. Battistella,48461
-2022,16.1,Veneto Classic,15208,1.1,M. Hirschi,46163
-2018,09.08-12.08,SAZKA Tour,15209,2.1,R. Zoidl,2305
-2019,15.08-18.08,SAZKA Tour,15209,2.1,D. Impey,706
-2020,06.08-09.08,SAZKA Tour,15209,2.1,D. Howson,6410
-2021,05.08-08.08,SAZKA Tour,15209,2.1,F. Zana,66439
-2022,04.08-07.08,SAZKA Tour,15209,2.1,L. Rota,27275
-2022,14.02,Jaén Paraiso Interior,16519,1.1,A. Lutsenko,6230
-2023,13.02,Jaén Paraiso Interior,16519,1.1,T. Pogacar,45992
-2022,24.02-27.02,Gran Camiño,16526,2.1,A. Valverde,38
-2023,23.02-26.02,Gran Camiño,16526,2.1,J. Vingegaard,38195
-2022,8.07,CC Europe Mixed Relay-U23,18280,CCUT,T. Buck-Gramcko,96163
-2022,11.08,Islamic Solidarity Games ITT,18592,RCTT,A. Madan,115016
-2022,13.08,Islamic Solidarity Games RR,18601,RCRR,M. Ganjkhanlou,41146
-2023,10.02,Muscat Classic,18946,1.1,J. Biermans,16787
-2023,12.02,Figueira Champions Classic,18947,1.1,C. Pedersen,37219
-2018,9.02,CC Asia ITT-M35-39,19308,CCTT,R. Widhijanto,70307
-2019,25.04,CC Asia ITT-M35-39,19308,CCTT,A. Dymovskikh,11760
-2018,9.02,CC Asia ITT-M40-44,19309,CCTT,N. Abdul Aziz,134030
-2019,25.04,CC Asia ITT-M40-44,19309,CCTT,G. Krupyakov,202476
-2019,25.04,CC Asia ITT-M45-49,19310,CCTT,P. Khuyagt,68935
-2023,9.02,CC Africa ITT-U23,20310,CCUT,K. Rogora,169736
+startdate,enddate,race,race_id,category,points,JPP
+2023-01-17,2023-01-22,Tour Down Under,1,2.WT1,14.7,208
+2023-01-22,,Clàssica Comunitat Valenciana 1969,411,1.1,2.4,0
+2023-01-22,2023-01-29,Vuelta a San Juan,5247,2.PS,5.5,208
+2023-01-23,2023-01-29,Tropicale Amissa Bongo,117,2.1,2.4,0
+2023-01-25,,Trofeo Calvia,271,1.1,2.4,0
+2023-01-26,,Trofeo Alcudia - Port d'Alcudia,273,1.1,2.4,0
+2023-01-27,,Trofeo Andratx,274,1.1,2.4,0
+2023-01-28,,Trofeo Serra de Tramuntana,100,1.1,2.4,0
+2023-01-29,,Cadel Road Race,1172,1.WT3,8.0,208
+2023-01-29,,Trofeo Palma,83,1.1,2.4,0
+2023-01-29,,GP la Marseillaise,97,1.1,2.4,0
+2023-01-30,2023-02-03,Saudi Tour,868,2.1,2.4,0
+2023-02-01,2023-02-05,Volta Comunitat Valenciana,319,2.PS,5.5,208
+2023-02-01,2023-02-05,Étoile de Bessèges,106,2.1,2.4,0
+2023-02-08,,CC Africa TTT,462,CCTT,0,0
+2023-02-09,,CC Africa ITT,369,CCTT,0,0
+2023-02-10,,CC Africa Mixed Relay,15151,CCTT,0,0
+2023-02-10,,Muscat Classic,18946,1.1,2.4,0
+2023-02-11,2023-02-15,Tour of Oman,57,2.PS,5.5,208
+2023-02-11,,Vuelta a Murcia,74,1.1,2.4,0
+2023-02-12,,Figueira Champions Classic,18947,1.1,2.4,0
+2023-02-12,,Clasica de Almeria,129,1.PS,5.5,208
+2023-02-13,,CC Africa RR,370,CCRR,0,0
+2023-02-13,,Jaén Paraiso Interior,16519,1.1,2.4,0
+2023-02-15,2023-02-19,Vuelta a Andalucía,110,2.PS,5.5,208
+2023-02-15,2023-02-19,Volta ao Algarve,107,2.PS,5.5,208
+2023-02-17,2023-02-19,Tour Alpes Maritimes du Var,111,2.1,2.4,0
+2023-02-19,2023-02-26,Tour of Rwanda,450,2.1,2.4,0
+2023-02-20,2023-02-26,UAE Tour,9800,2.WT3,8.0,208
+2023-02-23,2023-02-26,Gran Camiño,16526,2.1,2.4,0
+2023-02-25,,Omloop Het Nieuwsblad,53,1.WT3,8.0,208
+2023-02-25,,Faun-Ardèche Classic,121,1.PS,5.5,208
+2023-02-26,,La Drome Classic,432,1.PS,5.5,208
+2023-02-26,,Kuurne-Brussel-Kuurne,84,1.PS,5.5,208
+2023-02-28,,Le Samyn,116,1.1,2.4,0
+2023-03-01,,Trofeo Laigueglia,112,1.PS,5.5,208
+2023-03-04,,GP Criquielion,539,1.1,2.4,0
+2023-03-04,,Strade Bianche,54,1.WT2,14.7,208
+2023-03-05,,GP Jean-Pierre Monseré,2729,1.1,2.4,0
+2023-03-05,2023-03-12,Paris-Nice,2,2.WT1,14.7,208
+2023-03-06,2023-03-12,Tirreno-Adriatico,3,2.WT1,14.7,208
+2023-03-12,,Ronde van Drenthe,131,1.1,2.4,0
+2023-03-12,2023-03-16,Tour de Taiwan,132,2.1,2.4,0
+2023-03-15,,Milano - Torino,89,1.PS,5.5,208
+2023-03-15,,Nokere Koerse,122,1.PS,5.5,208
+2023-03-16,,GP de Denain,146,1.PS,5.5,208
+2023-03-17,,Bredene Koksijde Classic,123,1.PS,5.5,208
+2023-03-18,,Classic Loire Atlantique,124,1.1,2.4,0
+2023-03-18,,Milano-Sanremo,4,1.WT1,21.5,208
+2023-03-19,,Cholet - Pays de la Loire,125,1.1,2.4,0
+2023-03-19,,Per Sempre Alfredo,15066,1.1,2.4,0
+2023-03-20,2023-03-26,Volta Catalunya,14,2.WT1,14.7,208
+2023-03-21,2023-03-25,Coppi e Bartali,114,2.1,2.4,0
+2023-03-22,,Classic Brugge-De Panne,40,1.WT3,8.0,208
+2023-03-24,,E3 Saxo Classic,47,1.WT3,8.0,208
+2023-03-26,,Gent - Wevelgem,7,1.WT2,14.7,208
+2023-03-26,,GP Industria & Artigianato,263,1.PS,5.5,208
+2023-03-26,,La Roue Tourangelle,260,1.1,2.4,0
+2023-03-29,,Dwars door Vlaanderen,75,1.WT3,8.0,208
+2023-03-30,,CC Oceania ITT,358,CCTT,0,0
+2023-03-31,,Route Adélie de Vitré,134,1.1,2.4,0
+2023-04-01,,CC Oceania RR,357,CCRR,0,0
+2023-04-01,2023-04-06,Tour of Thailand,507,2.1,2.4,0
+2023-04-01,,GP Miguel Indurain,48,1.PS,5.5,208
+2023-04-01,,Volta Limburg Classic,126,1.1,2.4,0
+2023-04-02,,Ronde van Vlaanderen,5,1.WT1,21.5,208
+2023-04-03,2023-04-08,Itzulia Basque Country,6,2.WT1,14.7,208
+2023-04-04,2023-04-07,Pays de la Loire Tour,217,2.1,2.4,0
+2023-04-05,,Scheldeprijs,56,1.PS,5.5,208
+2023-04-09,,Paris-Roubaix,8,1.WT1,21.5,208
+2023-04-11,,Paris - Camembert,145,1.1,2.4,0
+2023-04-11,2023-04-14,Giro di Sicilia,11248,2.1,2.4,0
+2023-04-12,,Brabantse Pijl,77,1.PS,5.5,208
+2023-04-14,,Classic Grand Besançon Doubs,15075,1.1,2.4,0
+2023-04-15,,Tour du Jura,1285,1.1,2.4,0
+2023-04-16,,Amstel Gold Race,9,1.WT1,21.5,208
+2023-04-16,,Tour du Doubs,162,1.1,2.4,0
+2023-04-16,,Giro Reggio Calabria,108,1.1,2.4,0
+2023-04-17,2023-04-21,Tour of the Alps,62,2.PS,5.5,208
+2023-04-19,,CC Pan-America ITT,367,CCTT,0,0
+2023-04-19,,La Flèche Wallonne,10,1.WT2,14.7,208
+2023-04-23,,CC Pan-America RR,365,CCRR,0,0
+2023-04-23,,Liege-Bastogne-Liege,11,1.WT1,21.5,208
+2023-04-25,2023-04-30,Tour de Romandie,12,2.WT1,14.7,208
+2023-04-28,2023-04-30,Vuelta a Asturias,153,2.1,2.4,0
+2023-05-01,,Eschborn-Frankfurt,35,1.WT3,8.0,208
+2023-05-02,2023-05-06,Tour of Hellas,513,2.1,2.4,0
+2023-05-06,,GP de Plumelec-Morbihan,180,1.PS,5.5,208
+2023-05-06,2023-05-28,Giro d'Italia,13,GT2,68.0,208
+2023-05-07,,Tro-Bro Leon,148,1.PS,5.5,208
+2023-05-10,2023-05-14,Tour de Hongrie,765,2.PS,5.5,208
+2023-05-13,,Tour du Finistère,147,1.1,2.4,0
+2023-05-14,,Boucles de l'Aulne,182,1.1,2.4,0
+2023-05-16,2023-05-21,4 Jours de Dunkerque,175,2.PS,5.5,208
+2023-05-18,,Circuit de Wallonie,537,1.1,2.4,0
+2023-05-20,,Veenendaal Classic,50,1.1,2.4,0
+2023-05-21,,Rund um Köln,144,1.1,2.4,0
+2023-05-21,2023-05-28,Tour of Japan,341,2.1,2.4,0
+2023-05-21,,Antwerp Port Epic,10204,1.1,2.4,0
+2023-05-25,2023-05-28,Boucles de la Mayenne,343,2.PS,5.5,208
+2023-05-26,2023-05-27,Tour of Estonia,250,2.1,2.4,0
+2023-05-26,2023-05-29,Tour of Norway,71,2.PS,5.5,208
+2023-05-27,,Grote Prijs Marcel Kint,3838,1.1,2.4,0
+2023-05-29,,Ronde van Limburg,437,1.1,2.4,0
+2023-05-30,,Mercan Tour Classic Alpes-Maritimes,13188,1.1,2.4,0
+2023-06-02,,Giro dell'Appennino,149,1.1,2.4,0
+2023-06-03,,Heistse Pijl,349,1.1,2.4,0
+2023-06-04,,Brussels Classic,64,1.PS,5.5,208
+2023-06-04,2023-06-11,Critérium Dauphiné,15,2.WT1,14.7,208
+2023-06-07,2023-06-11,ZLM Tour,213,2.PS,5.5,208
+2023-06-09,,GP Kanton Aargau,199,1.1,2.4,0
+2023-06-10,,Dwars door het Hageland,425,1.PS,5.5,208
+2023-06-11,,Elfstedenronde,8515,1.1,2.4,0
+2023-06-11,2023-06-18,Tour de Suisse,16,2.WT1,14.7,208
+2023-06-13,,Mont Ventoux Dénivelé Challenge,10459,1.PS,5.5,208
+2023-06-14,2023-06-18,Belgium Tour,60,2.PS,5.5,208
+2023-06-14,2023-06-18,Tour of Slovenia,211,2.PS,5.5,208
+2023-06-15,2023-06-18,Route d'Occitanie,212,2.1,2.4,0
+2023-06-28,,Circuit Franco-Belge,231,1.PS,5.5,208
+2023-07-01,2023-07-23,Tour de France,17,GT1,117.0,208
+2023-07-02,2023-07-06,Österreich-Rundfahrt,38,2.1,2.4,0
+2023-07-06,2023-07-09,Sibiu Cycling Tour,258,2.1,2.4,0
+2023-07-09,2023-07-16,Tour of Qinghai Lake,127,2.PS,5.5,208
+2023-07-22,2023-07-26,Tour de Wallonie,193,2.PS,5.5,208
+2023-07-25,,Villafranca de Ordizia,207,1.1,2.4,0
+2023-07-26,2023-07-27,Vuelta a Castilla y León,85,2.1,2.4,0
+2023-07-27,2023-07-30,SAZKA Tour,15209,2.1,2.4,0
+2023-07-29,,Donostia San Sebastian Klasikoa,18,1.WT2,14.7,208
+2023-07-29,2023-08-04,Tour de Pologne,19,2.WT2,7.5,208
+2023-07-30,,Circuito de Getxo,202,1.1,2.4,0
+2023-07-31,2023-08-02,Tour de l'Ain,63,2.1,2.4,0
+2023-08-06,,World Championship RR,26,WCRR,39.5,208
+2023-08-08,,World Championship Mixed Relay,12533,WCTT,14.7,208
+2023-08-09,2023-08-20,Volta a Portugal,197,2.1,2.4,0
+2023-08-09,,World Championship ITT-U23,46,WCUT,0,0
+2023-08-10,,World Championship ITT,27,WCTT,14.7,208
+2023-08-13,,Polynormande,203,1.1,2.4,0
+2023-08-15,2023-08-19,PostNord Danmark Rundt,32,2.PS,5.5,208
+2023-08-15,2023-08-18,Tour du Limousin,191,2.1,2.4,0
+2023-08-15,,Tour of Leuven,161,1.1,2.4,0
+2023-08-15,2023-08-19,Vuelta a Burgos,192,2.PS,5.5,208
+2023-08-17,2023-08-20,Arctic Race of Norway,259,2.PS,5.5,208
+2023-08-19,,Druivenkoers Overijse,186,1.1,2.4,0
+2023-08-20,,BEMER Cyclassics,20,1.WT2,14.7,208
+2023-08-20,,Egmont Cycling Race,188,1.1,2.4,0
+2023-08-22,2023-08-25,Poitou-Charentes,187,2.1,2.4,0
+2023-08-23,2023-08-27,Deutschland Tour,36,2.PS,5.5,208
+2023-08-23,2023-08-27,Renewi Tour,21,2.WT2,7.5,208
+2023-08-26,2023-09-17,Vuelta a España,23,GT2,68.0,208
+2023-08-31,2023-09-04,Tour of Iran,434,2.1,2.4,0
+2023-09-03,,Bretagne Classic,22,1.WT2,14.7,208
+2023-09-03,,Maryland Cycling Classic,13191,1.PS,5.5,208
+2023-09-03,2023-09-10,Tour of Britain,45,2.PS,5.5,208
+2023-09-04,2023-09-10,Turul Romaniei,549,2.1,2.4,0
+2023-09-08,,GP Quebec,59,1.WT2,14.7,208
+2023-09-10,,GP de Fourmies,92,1.PS,5.5,208
+2023-09-10,,GP Montreal,58,1.WT2,14.7,208
+2023-09-13,,Giro della Toscana,4025,1.1,2.4,0
+2023-09-13,,GP de Wallonie,93,1.PS,5.5,208
+2023-09-13,2023-09-17,Okolo Slovenska,380,2.1,2.4,0
+2023-09-14,,Coppa Sabatini,160,1.PS,5.5,208
+2023-09-14,2023-09-17,Tour of Taihu Lake,242,2.PS,5.5,208
+2023-09-15,,Kamp. van Vlaanderen,167,1.1,2.4,0
+2023-09-16,,Memorial Pantani,68,1.1,2.4,0
+2023-09-16,,Primus Classic,168,1.PS,5.5,208
+2023-09-17,,Gooikse Pijl,444,1.1,2.4,0
+2023-09-17,,GP d'Isbergues,171,1.1,2.4,0
+2023-09-17,,Trofeo Matteotti,205,1.1,2.4,0
+2023-09-20,2023-09-24,Adriatica Ionica Race,8516,2.1,2.4,0
+2023-09-20,,Omloop van het Houtland,170,1.1,2.4,0
+2023-09-20,2023-09-24,Tour de Luxembourg,37,2.PS,5.5,208
+2023-09-21,,CC Europe ITT,4020,CCTT,0,0
+2023-09-23,2023-09-30,Tour de Langkawi,128,2.PS,5.5,208
+2023-09-24,,CC Europe RR,4019,CCRR,0,0
+2023-09-24,,Paris-Chauny,949,1.1,2.4,0
+2023-09-26,2023-10-01,CRO Race,773,2.1,2.4,0
+2023-09-28,,Coppa Agostoni,262,1.1,2.4,0
+2023-09-30,,Giro dell'Emilia,29,1.PS,5.5,208
+2023-10-01,,Famenne Ardenne Classic,7660,1.1,2.4,0
+2023-10-01,,Tour de Vendée,94,1.1,2.4,0
+2023-10-01,,Trofeo Baracchi,374,1.1,2.4,0
+2023-10-02,,Coppa Bernocchi,196,1.PS,5.5,208
+2023-10-03,,Binche-Chimay-Binche,159,1.1,2.4,0
+2023-10-03,,Munsterland Giro,158,1.PS,5.5,208
+2023-10-03,,Tre Valli Varesine,190,1.PS,5.5,208
+2023-10-04,,Bloeizone Elfsteden Fryslan,16523,1.1,2.4,0
+2023-10-04,2023-10-08,Tour of Peninsula,11847,2.1,2.4,0
+2023-10-05,,Gran Piemonte,61,1.PS,5.5,208
+2023-10-05,,Paris - Bourges,157,1.1,2.4,0
+2023-10-05,2023-10-09,Tour of Hainan,139,2.PS,5.5,208
+2023-10-07,,Il Lombardia,24,1.WT1,21.5,208
+2023-10-07,2023-10-09,Tour de Kyushu,18945,2.1,2.4,0
+2023-10-08,,Paris - Tours,28,1.PS,5.5,208
+2023-10-08,2023-10-15,Tour of Türkiye,152,2.1,2.4,0
+2023-10-11,,Giro del Veneto,183,1.PS,5.5,208
+2023-10-12,2023-10-17,Gree - Tour of Guangxi,7591,2.WT3,8.0,208
+2023-10-15,,Chrono des Nations,154,1.1,2.4,0
+2023-10-15,,Japan Cup,95,1.PS,5.5,208
+2023-10-15,,Veneto Classic,15208,1.PS,5.5,208

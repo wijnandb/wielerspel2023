@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import process_files
-
+YEAR = 2023
 """"
 Some results are not on CQranking, for innstance for the Big Tours
 we also award points for the leaders of the GC, the points and mountains ranking 
@@ -40,7 +40,7 @@ These functions get called from the 'normal' scraping process and return the cq_
 """
 riders = process_files.read_csv_file('all_riders_cqranking_with_fc_rider_id.csv')
 
-def scrape_result(racename, jersey, year=2023):
+def scrape_result(racename, jersey, year=YEAR):
     """
     Visit the page.
     Get the number 1 for the different rankings.
@@ -68,11 +68,14 @@ def scrape_result(racename, jersey, year=2023):
     
     """
     race_id = str(racename_to_id(racename))
-    # print(f"{racename} omgezet naar id: {race_id}")
+    print(f"{racename} omgezet naar id: {race_id}")
     stage = str(stagename_to_number(racename))
+    print(stage)
+    if stage == "0":
+        stage=""
     year = str(year)
     base_result_url = "https://firstcycling.com/race.php?r="+race_id+"&y="+year+"&e="+stage
-    # print(base_result_url)
+    print(base_result_url)
     b = base_result_url
     r = requests.get(b)
     soup = BeautifulSoup(r.text, "html.parser")
@@ -200,8 +203,12 @@ def stagename_to_number(name):
 # assert int(stagename_to_number("21 : Verona - Verona I.T.T.")) == 21
 # assert int(stagename_to_number("Giro d'Italia, Stage 1 : Budapest - Visegrad")) == 1
 
+points = process_files.read_csv_file("points.csv")
 calendar = process_files.read_csv_file('calendar.csv')
-def get_calendar(year=2023, months=[1,2,3,4]): #,5,6,7,8,9,10]):
+race_categories = process_files.read_csv_file('race_categories.csv')
+def get_calendar(year=YEAR, months=[1,2,3,4,5,6,7,8,9,10]):
+    races = []
+    calendar = [['startdate','enddate','race','race_id','category','points','JPP'],]
     for month in months:
         start_url = "https://firstcycling.com/race.php?y="+str(year)+"&t=2&m="+str(month)
         print(f"Getting calendar for {start_url}")
@@ -211,29 +218,91 @@ def get_calendar(year=2023, months=[1,2,3,4]): #,5,6,7,8,9,10]):
         tablerows = tables[-1].find_all('tr')
         for row in tablerows[1:]:
             tds = row.find_all('td')
+            #print(tds)
             category = tds[1].text.strip()
-            if category not in ['1.2', '2.2', '1.2U', '2.2U']:
+            if category not in ['1.2', '2.2', '1.2U', '2.2U','2.NC','RCRR','WCU','WCUT','CCUT','CCU','TTT']:
+                if category == '2.Pro':
+                    category = '2.PS'
+                if category == '1.Pro':
+                    category = '1.PS'
                 date = tds[0].text.strip()
+                startdate, enddate = split_dates(date)
                 race = tds[2].text.strip()
                 content = tds[2].find('a').get('href').split('=')[1]
                 race_id = content.split('&')[0]
-                winner = tds[3].text.strip()
-                string = tds[3].find('a').get('href').split('=')[1]
-                rider_id = string.split('&')[0]
-                # print(date, category, race, race_id, winner, rider_id)
-                # here I have the data for each race
-                # I can store it in a list, and write it to a file
-                calendar.append([year, date,race,race_id, category, winner, rider_id])
+                if category in ['1.UWT','2.UWT']:
+                    for rc in race_categories[1:]:
+                        if rc[1] == race_id:
+                            category = rc[2]
+                category_points = 0
+                category_jpp = 0
+                for p in points[1:]:
+                    if p[0]==category:
+                        category_points += float(p[2])
+                        category_jpp += int(p[3])
+                if race_id not in races:
+                    races.append(race_id)
+                    print(startdate, enddate, race,race_id, category, category_points, category_jpp)
+                    calendar.append([startdate, enddate, race, race_id, category, category_points, category_jpp])
         process_files.write_csv_file('calendar.csv', calendar)            
 
-# get_calendar(2023, [1,2,3,4])
-# get_calendar(2022, [1,2,3,4,5,6,7,8,9,10])
-# get_calendar(2021, [1,2,3,4,5,6,7,8,9,10])
-# get_calendar(2020, [7,8,9,10])
-# get_calendar(2019, [1,2,3,4,5,6,7,8,9,10])
-# get_calendar(2018, [1,2,3,4,5,6,7,8,9,10])
 
+def split_dates(string):
+    # if the string has a "-" it means two dates, start- and enddate
+    # otherwise it is a one day reace, just a startdate
+    if "-" in string:
+        dates = string.split("-")
+        startdate = return_date(dates[0])
+        enddate = return_date(dates[1])
+    else:
+        startdate = return_date(string)
+        enddate = ""
+    return startdate, enddate
+
+
+def return_date(date):
+    dates =  date.split(".")
+    full_date = str(YEAR) + "-" + dates[1] + "-" + dates[0]
+    return full_date
+
+
+def add_points_to_calendar():
+    """
+    Open calendar
+    Loop over races
+    Look up the points per category
+    Add those points in the last column
+    """
+    extended_calendar = []
+    for c in calendar[1:]:
+        category = c[4]
+        if category == '2.Pro':
+            category = '2.PS'
+        if category == '1.Pro':
+            category = '1.PS'
+        category_points = 0
+        category_jpp = 0
+        for p in points[1:]:
+            if p[0]==category:
+                category_points += float(p[2])
+                category_jpp += int(p[3])
+        c.append(category_points)
+        c.append(category_jpp)
+        extended_calendar.append(c)
+    process_files.write_csv_file("calendar_points.csv", extended_calendar)
+    
+
+# add_points_to_calendar()
+get_calendar(2023, [1,2,3,4,5,6,7,8,9,10])
 # print(scrape_result('Giro d’Italia, Stage 1 : Fossacesia Marina - Ortona I.T.T.','youth','2022'))
 # print(scrape_result('Giro d’Italia, Stage 1 : Fossacesia Marina - Ortona I.T.T.','point','2022'))
 # print(scrape_result('Giro d’Italia, Stage 1 : Fossacesia Marina - Ortona I.T.T.','mountain','2022'))
 # scrape_result('Giro d’Italia, Stage 1 : Fossacesia Marina - Ortona I.T.T.','youth','2022')
+# print(scrape_result('Giro d’Italia', 'gc', 2022))
+
+def print_worldtour_races():
+    for c in calendar[1:]:
+        if c[4] in ['1.UWT','2.UWT']:
+            print(c[2] +","+ c[3]+","+ c[4])
+
+# print_worldtour_races()
