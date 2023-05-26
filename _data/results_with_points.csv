@@ -1,4 +1,13 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.1s,"Tour of Japan, Stage 5 : Subashiri - Mount Fuji (prov.)",41450,EARLE Nathan,9734,0.2,0,2023-05-26,-
+1,GT2s,"Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,ZANA Filippo,27749,2,0,2023-05-25,Vel
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,Thomas Geraint,3891,1,0,2023-05-25,Arjan
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,Almeida Joao,26482,0.1,0,2023-05-25,Wijnand
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,Milan Jonathan,29359,0.2,0,2023-05-25,Bram
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,Pinot Thibaut,13080,0.2,0,2023-05-25,Nicky
+1,2.PSs,"Boucles de la Mayenne, Prologue : Laval I.T.T. (prov.)",41425,OLIVEIRA Ivo Emanuel Alves,25513,0.3,0,2023-05-25,-
+1,2.1s,"Tour of Japan, Stage 4 : Shinshu Iida - Shinshu Iida (prov.)",41449,OKA Atsushi,22763,0.2,0,2023-05-25,-
+1,2.NCs,"Orlen Nations GP, Stage 2 : Hatvan - Bukkszentkereszt (prov.)",41420,NERURKAR Lukas,33158,0.0,0,2023-05-25,-
 1,GT2s,"Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,DAINESE Alberto,26965,2,0,2023-05-24,Vel
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,Thomas Geraint,3891,1,0,2023-05-24,Arjan
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,Almeida Joao,26482,0.1,0,2023-05-24,Wijnand
