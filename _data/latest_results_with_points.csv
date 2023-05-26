@@ -1,5 +1,13 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT2s,"Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,BUITRAGO SANCHEZ Santiago,29699,2,0,2023-05-26,Jan
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,Thomas Geraint,3891,1,0,2023-05-26,Arjan
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,Almeida Joao,26482,0.1,0,2023-05-26,Wijnand
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,Milan Jonathan,29359,0.2,0,2023-05-26,Bram
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,Pinot Thibaut,13080,0.2,0,2023-05-26,Nicky
+1,2.PSs,"Boucles de la Mayenne, Stage 1 : Saint-Mars-sur-Colmont - Lassay-les-Châteaux (prov.)",41426,LAZKANO LOPEZ Oier,30595,0.3,0,2023-05-26,-
+1,2.1s,"Tour of Estonia, Stage 1 : Tallinn - Tartu (prov.)",41437,FORTIN Filippo,13411,0.2,0,2023-05-26,-
 1,2.1s,"Tour of Japan, Stage 5 : Subashiri - Mount Fuji (prov.)",41450,EARLE Nathan,9734,0.2,0,2023-05-26,-
+1,2.NCs,"Orlen Nations GP, Stage 3 : Levoca - Strbske Pleso (prov.)",41421,BUSATTO Francesco,32738,0.0,0,2023-05-26,-
 1,GT2s,"Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,ZANA Filippo,27749,2,0,2023-05-25,Vel
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,Thomas Geraint,3891,1,0,2023-05-25,Arjan
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,Almeida Joao,26482,0.1,0,2023-05-25,Wijnand
@@ -15,26 +23,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 17 : Pergine Valsugana - Caorle (prov.)",41365,Healy Ben,28846,0.2,0,2023-05-24,-
 1,2.1s,"Tour of Japan, Stage 3 : Mino - Mino (prov.)",41405,LAMPERTI Luke,31833,0.2,0,2023-05-24,-
 1,2.NCs,"Orlen Nations GP, Stage 1 : Kaposvar - Balatonfoldvar (prov.)",41419,MENGEL Nikolaj,31758,0.0,0,2023-05-24,-
-1,GT2s,"Giro dItalia, Stage 16 : Sabbio Chiese - Monte Bondone (prov.)",41364,ALMEIDA Joao Pedro Gonçalves,26482,2,0,2023-05-23,Wijnand
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 16 : Sabbio Chiese - Monte Bondone (prov.)",41364,Thomas Geraint,3891,1,0,2023-05-23,Arjan
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 16 : Sabbio Chiese - Monte Bondone (prov.)",41364,Almeida Joao,26482,0.1,0,2023-05-23,Wijnand
--2,GT2s,"Puntentrui na Giro dItalia, Stage 16 : Sabbio Chiese - Monte Bondone (prov.)",41364,Milan Jonathan,29359,0.2,0,2023-05-23,Bram
--3,GT2s,"Bergtrui na Giro dItalia, Stage 16 : Sabbio Chiese - Monte Bondone (prov.)",41364,Healy Ben,28846,0.2,0,2023-05-23,-
-1,2.1s,"Tour of Japan, Stage 2 : Ageki - Inabe (prov.)",41404,BETTLES Carter,29531,0.2,0,2023-05-23,-
-1,2.1s,"Tour of Japan, Stage 1 : Kyoto - Kyoto (prov.)",41403,BOUGLAS Georgios,12982,0.2,0,2023-05-22,-
-1,GT2s,"Giro dItalia, Stage 15 : Seregno - Bergamo (prov.)",41363,MCNULTY Brandon,26508,2,0,2023-05-21,Kees
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 15 : Seregno - Bergamo (prov.)",41363,Armirail Bruno,22906,1,0,2023-05-21,-
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 15 : Seregno - Bergamo (prov.)",41363,Almeida Joao,26482,0.1,0,2023-05-21,Wijnand
--2,GT2s,"Puntentrui na Giro dItalia, Stage 15 : Seregno - Bergamo (prov.)",41363,Milan Jonathan,29359,0.2,0,2023-05-21,Bram
--3,GT2s,"Bergtrui na Giro dItalia, Stage 15 : Seregno - Bergamo (prov.)",41363,Bais Davide,28523,0.2,0,2023-05-21,-
-1,2.PS,"4 Jours de Dunkerque, General classification",41385,GREGOIRE Romain,32766,4,50,2023-05-21,-
-2,2.PS,"4 Jours de Dunkerque, General classification",41385,ASGREEN Kasper,23558,1,35,2023-05-21,Nicky
-3,2.PS,"4 Jours de Dunkerque, General classification",41385,BOL Cees,21930,0.5,25,2023-05-21,Roy
-4,2.PS,"4 Jours de Dunkerque, General classification",41385,KOOIJ Olav,30643,0,20,2023-05-21,Albert
-5,2.PS,"4 Jours de Dunkerque, General classification",41385,VAN MOER Brent,28448,0,18,2023-05-21,-
-6,2.PS,"4 Jours de Dunkerque, General classification",41385,VERNON Ethan,30035,0,16,2023-05-21,Arjan
-7,2.PS,"4 Jours de Dunkerque, General classification",41385,RENARD Alexis,29969,0,14,2023-05-21,-
-8,2.PS,"4 Jours de Dunkerque, General classification",41385,SAGAN Peter,12193,0,12,2023-05-21,Roy
-9,2.PS,"4 Jours de Dunkerque, General classification",41385,HAGENES Per Strand,30442,0,10,2023-05-21,-
-10,2.PS,"4 Jours de Dunkerque, General classification",41385,WATSON Samuel,32161,0,8,2023-05-21,-
-1,2.PSs,"4 Jours de Dunkerque, Stage 6 : Avion - Dunkerque",41384,MERLIER Tim,17988,0.3,0,2023-05-21,Wijnand
