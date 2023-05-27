@@ -1,5 +1,20 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,GT2s,"Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,ROGLIC Primoz,20719,0.0,0,2023-05-27
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Roglic Primoz,20719,0.0,0,2023-05-27
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Almeida Joao,26482,0.0,0,2023-05-27
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Milan Jonathan,29359,0.0,0,2023-05-27
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Pinot Thibaut,13080,0.0,0,2023-05-27
+1,2.PSs,"Tour of Norway, Stage 1 : Jondal - Hovden (prov.)",41431,TEUNISSEN Mike,19165,0.0,0,2023-05-27
+1,2.PSs,"Boucles de la Mayenne, Stage 2 : Saint-Berthevin - Meslay-du-Maine (prov.)",41427,DEMARE Arnaud,16653,0.0,0,2023-05-27
+1,2.1,"Tour of Estonia, General classification (prov.)",41439,WALLIN Rasmus Bøgh,24563,0.0,0,2023-05-27
+2,2.1,"Tour of Estonia, General classification (prov.)",41439,MALMBERG Matias Gunnar,30287,0.0,0,2023-05-27
+3,2.1,"Tour of Estonia, General classification (prov.)",41439,VAHTRA Norman,24200,0.0,0,2023-05-27
+1,1.1,Van Merksteijn Fences Classic (prov.),41621,EWAN Caleb,19651,0.0,0,2023-05-27
+2,1.1,Van Merksteijn Fences Classic (prov.),41621,MERLIER Tim,17988,0.0,0,2023-05-27
+3,1.1,Van Merksteijn Fences Classic (prov.),41621,THIJSSEN Gerben,27085,0.0,0,2023-05-27
+1,2.1s,"Tour of Estonia, Stage 2 : Tartu GP (prov.)",41438,WALLIN Rasmus Bøgh,24563,0.0,0,2023-05-27
 1,2.1s,"Tour of Japan, Stage 6 : Sagamihara - Sagamihara (prov.)",41451,LAMPERTI Luke,31833,0.0,0,2023-05-27
+1,2.NCs,"Orlen Nations GP, Stage 4 : Bukovina Resort - Nowy Sacz (prov.)",41422,DONALDSON Robert,32179,0.0,0,2023-05-27
 1,GT2s,"Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,BUITRAGO SANCHEZ Santiago,29699,0.0,0,2023-05-26
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,Thomas Geraint,3891,0.0,0,2023-05-26
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,Almeida Joao,26482,0.0,0,2023-05-26
@@ -10,11 +25,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Tour of Estonia, Stage 1 : Tallinn - Tartu (prov.)",41437,FORTIN Filippo,13411,0.0,0,2023-05-26
 1,2.1s,"Tour of Japan, Stage 5 : Subashiri - Mount Fuji (prov.)",41450,EARLE Nathan,9734,0.0,0,2023-05-26
 1,2.NCs,"Orlen Nations GP, Stage 3 : Levoca - Strbske Pleso (prov.)",41421,BUSATTO Francesco,32738,0.0,0,2023-05-26
-1,GT2s,"Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,ZANA Filippo,27749,0.0,0,2023-05-25
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,Thomas Geraint,3891,0.0,0,2023-05-25
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,Almeida Joao,26482,0.0,0,2023-05-25
--2,GT2s,"Puntentrui na Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,Milan Jonathan,29359,0.0,0,2023-05-25
--3,GT2s,"Bergtrui na Giro dItalia, Stage 18 : Oderzo - Val di Zoldo (prov.)",41366,Pinot Thibaut,13080,0.0,0,2023-05-25
-1,2.PSs,"Boucles de la Mayenne, Prologue : Laval I.T.T. (prov.)",41425,OLIVEIRA Ivo Emanuel Alves,25513,0.0,0,2023-05-25
-1,2.1s,"Tour of Japan, Stage 4 : Shinshu Iida - Shinshu Iida (prov.)",41449,OKA Atsushi,22763,0.0,0,2023-05-25
-1,2.NCs,"Orlen Nations GP, Stage 2 : Hatvan - Bukkszentkereszt (prov.)",41420,NERURKAR Lukas,33158,0.0,0,2023-05-25
