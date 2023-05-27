@@ -1,5 +1,20 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT2s,"Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,ROGLIC Primoz,20719,2,0,2023-05-27,Bram
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Roglic Primoz,20719,1,0,2023-05-27,Bram
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Almeida Joao,26482,0.1,0,2023-05-27,Wijnand
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Milan Jonathan,29359,0.2,0,2023-05-27,Bram
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Pinot Thibaut,13080,0.2,0,2023-05-27,Nicky
+1,2.PSs,"Tour of Norway, Stage 1 : Jondal - Hovden (prov.)",41431,TEUNISSEN Mike,19165,0.3,0,2023-05-27,Albert
+1,2.PSs,"Boucles de la Mayenne, Stage 2 : Saint-Berthevin - Meslay-du-Maine (prov.)",41427,DEMARE Arnaud,16653,0.3,0,2023-05-27,Wijnand
+1,2.1,"Tour of Estonia, General classification (prov.)",41439,WALLIN Rasmus Bøgh,24563,2,0,2023-05-27,-
+2,2.1,"Tour of Estonia, General classification (prov.)",41439,MALMBERG Matias Gunnar,30287,0.3,0,2023-05-27,-
+3,2.1,"Tour of Estonia, General classification (prov.)",41439,VAHTRA Norman,24200,0.1,0,2023-05-27,-
+1,1.1,Van Merksteijn Fences Classic (prov.),41621,EWAN Caleb,19651,2,0,2023-05-27,Paul
+2,1.1,Van Merksteijn Fences Classic (prov.),41621,MERLIER Tim,17988,0.3,0,2023-05-27,Wijnand
+3,1.1,Van Merksteijn Fences Classic (prov.),41621,THIJSSEN Gerben,27085,0.1,0,2023-05-27,Albert
+1,2.1s,"Tour of Estonia, Stage 2 : Tartu GP (prov.)",41438,WALLIN Rasmus Bøgh,24563,0.2,0,2023-05-27,-
 1,2.1s,"Tour of Japan, Stage 6 : Sagamihara - Sagamihara (prov.)",41451,LAMPERTI Luke,31833,0.2,0,2023-05-27,-
+1,2.NCs,"Orlen Nations GP, Stage 4 : Bukovina Resort - Nowy Sacz (prov.)",41422,DONALDSON Robert,32179,0.0,0,2023-05-27,-
 1,GT2s,"Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,BUITRAGO SANCHEZ Santiago,29699,2,0,2023-05-26,Jan
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,Thomas Geraint,3891,1,0,2023-05-26,Arjan
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,Almeida Joao,26482,0.1,0,2023-05-26,Wijnand
