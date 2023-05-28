@@ -1,27 +1,55 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT2,"Giro dItalia, General classification (prov.)",41370,ROGLIC Primoz,20719,25,50,2023-05-28,Bram
+2,GT2,"Giro dItalia, General classification (prov.)",41370,THOMAS Geraint,3891,10,35,2023-05-28,Arjan
+3,GT2,"Giro dItalia, General classification (prov.)",41370,ALMEIDA Joao Pedro Gonçalves,26482,7,25,2023-05-28,Wijnand
+4,GT2,"Giro dItalia, General classification (prov.)",41370,CARUSO Damiano,6177,5,20,2023-05-28,Jan
+5,GT2,"Giro dItalia, General classification (prov.)",41370,PINOT Thibaut,13080,4,18,2023-05-28,Nicky
+6,GT2,"Giro dItalia, General classification (prov.)",41370,ARENSMAN Thymen,27716,3,16,2023-05-28,Kaspar
+7,GT2,"Giro dItalia, General classification (prov.)",41370,DUNBAR Eddie,23765,3,14,2023-05-28,Paul
+8,GT2,"Giro dItalia, General classification (prov.)",41370,LEKNESSUND Andreas,27653,2,12,2023-05-28,Paul
+9,GT2,"Giro dItalia, General classification (prov.)",41370,KÄMNA Lennard,23427,2,10,2023-05-28,Jan
+10,GT2,"Giro dItalia, General classification (prov.)",41370,DE PLUS Laurens,24106,2,8,2023-05-28,-
+11,GT2,"Giro dItalia, General classification (prov.)",41370,RUBIO REYES Einer Augusto,27024,1,0,2023-05-28,Frank
+12,GT2,"Giro dItalia, General classification (prov.)",41370,VAN WILDER Ilan,29828,1,0,2023-05-28,Wijnand
+13,GT2,"Giro dItalia, General classification (prov.)",41370,BUITRAGO SANCHEZ Santiago,29699,1,0,2023-05-28,Jan
+14,GT2,"Giro dItalia, General classification (prov.)",41370,KUSS Sepp,25653,1,0,2023-05-28,Nicky
+15,GT2,"Giro dItalia, General classification (prov.)",41370,PARET-PEINTRE Aurélien,24110,1,0,2023-05-28,Nicky
+1,GT2s,"Giro dItalia, Stage 21 : Roma - Roma (prov.)",41369,CAVENDISH Mark,3448,2,0,2023-05-28,Kaspar
+-4,GT2s,"Leiderstrui na Giro dItalia, Stage 21 : Roma - Roma (prov.)",41369,Roglic Primoz,20719,1,0,2023-05-28,Bram
+-1,GT2s,"Jongerentrui na Giro dItalia, Stage 21 : Roma - Roma (prov.)",41369,Almeida Joao,26482,0.1,0,2023-05-28,Wijnand
+-2,GT2s,"Puntentrui na Giro dItalia, Stage 21 : Roma - Roma (prov.)",41369,Milan Jonathan,29359,0.2,0,2023-05-28,Bram
+-3,GT2s,"Bergtrui na Giro dItalia, Stage 21 : Roma - Roma (prov.)",41369,Pinot Thibaut,13080,0.2,0,2023-05-28,Nicky
+1,GT2r,"Giro dItalia, Points classification (prov.)",41371,MILAN Jonathan,29359,5,0,2023-05-28,Bram
+1,GT2r,"Giro dItalia, Mountains classification (prov.)",41372,PINOT Thibaut,13080,5,0,2023-05-28,Nicky
+1,2.PS,"Boucles de la Mayenne, General classification (prov.)",41429,LAZKANO LOPEZ Oier,30595,4,50,2023-05-28,-
+2,2.PS,"Boucles de la Mayenne, General classification (prov.)",41429,DEMARE Arnaud,16653,1,35,2023-05-28,Wijnand
+3,2.PS,"Boucles de la Mayenne, General classification (prov.)",41429,ZINGLE Axel,31263,0.5,25,2023-05-28,Paul
+4,2.PS,"Boucles de la Mayenne, General classification (prov.)",41429,OLIVEIRA Ivo Emanuel Alves,25513,0,20,2023-05-28,-
+5,2.PS,"Boucles de la Mayenne, General classification (prov.)",41429,MENTEN Milan,24180,0,18,2023-05-28,-
+6,2.PS,"Boucles de la Mayenne, General classification (prov.)",41429,HINDSGAUL MADSEN Jacob,29275,0,16,2023-05-28,-
+7,2.PS,"Boucles de la Mayenne, General classification (prov.)",41429,DUJARDIN Sandy,28583,0,14,2023-05-28,-
+8,2.PS,"Boucles de la Mayenne, General classification (prov.)",41429,COSNEFROY Benoît,24189,0,12,2023-05-28,PB
+9,2.PS,"Boucles de la Mayenne, General classification (prov.)",41429,NORSGAARD JØRGENSEN Mathias,24924,0,10,2023-05-28,-
+10,2.PS,"Boucles de la Mayenne, General classification (prov.)",41429,VENTURINI Clément,21428,0,8,2023-05-28,-
+1,2.PSs,"Tour of Norway, Stage 2 : Valle - Stavanger (prov.)",41432,NYS Thibau,32185,0.3,0,2023-05-28,-
+1,2.PSs,"Boucles de la Mayenne, Stage 3 : Montsûrs - Laval (prov.)",41428,DE KLEIJN Arvid,22596,0.3,0,2023-05-28,-
+1,2.1,"Tour of Japan, General classification (prov.)",41406,EARLE Nathan,9734,2,0,2023-05-28,-
+2,2.1,"Tour of Japan, General classification (prov.)",41406,DYBALL Benjamin,13059,0.3,0,2023-05-28,-
+3,2.1,"Tour of Japan, General classification (prov.)",41406,OKA Atsushi,22763,0.1,0,2023-05-28,-
+1,2.1s,"Tour of Japan, Stage 7 : Tokyo - Tokyo (prov.)",41452,KUBOKI Kazushige,9828,0.2,0,2023-05-28,-
+1,2.NC,"Orlen Nations GP, General classification (prov.)",41424,GLIVAR Gal,31800,0.0,0,2023-05-28,-
+2,2.NC,"Orlen Nations GP, General classification (prov.)",41424,PIGANZOLI Davide,32232,0.0,0,2023-05-28,-
+3,2.NC,"Orlen Nations GP, General classification (prov.)",41424,WILKSCH Hannes,30739,0.0,0,2023-05-28,-
+4,2.NC,"Orlen Nations GP, General classification (prov.)",41424,VAN DER LEE Jardi Christiaan,35121,0.0,0,2023-05-28,-
+5,2.NC,"Orlen Nations GP, General classification (prov.)",41424,LABROSSE Jordan,32706,0.0,0,2023-05-28,-
+6,2.NC,"Orlen Nations GP, General classification (prov.)",41424,MORGADO Antonio Tomas,34222,0.0,0,2023-05-28,-
+7,2.NC,"Orlen Nations GP, General classification (prov.)",41424,HUBY Antoine,30120,0.0,0,2023-05-28,-
+8,2.NC,"Orlen Nations GP, General classification (prov.)",41424,RONDEL Mathys,34305,0.0,0,2023-05-28,-
+9,2.NC,"Orlen Nations GP, General classification (prov.)",41424,BLACKMORE Joseph,34973,0.0,0,2023-05-28,-
+10,2.NC,"Orlen Nations GP, General classification (prov.)",41424,HAJEK Alexander,33111,0.0,0,2023-05-28,-
+1,2.NCs,"Orlen Nations GP, Stage 5 : Sanok - Hotel Arlamow (prov.)",41423,MORGADO Antonio Tomas,34222,0.0,0,2023-05-28,-
 1,GT2s,"Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,ROGLIC Primoz,20719,2,0,2023-05-27,Bram
 -4,GT2s,"Leiderstrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Roglic Primoz,20719,1,0,2023-05-27,Bram
 -1,GT2s,"Jongerentrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Almeida Joao,26482,0.1,0,2023-05-27,Wijnand
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Milan Jonathan,29359,0.2,0,2023-05-27,Bram
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Pinot Thibaut,13080,0.2,0,2023-05-27,Nicky
-1,2.PSs,"Tour of Norway, Stage 1 : Jondal - Hovden (prov.)",41431,TEUNISSEN Mike,19165,0.3,0,2023-05-27,Albert
-1,2.PSs,"Boucles de la Mayenne, Stage 2 : Saint-Berthevin - Meslay-du-Maine (prov.)",41427,DEMARE Arnaud,16653,0.3,0,2023-05-27,Wijnand
-1,2.1,"Tour of Estonia, General classification (prov.)",41439,WALLIN Rasmus Bøgh,24563,2,0,2023-05-27,-
-2,2.1,"Tour of Estonia, General classification (prov.)",41439,MALMBERG Matias Gunnar,30287,0.3,0,2023-05-27,-
-3,2.1,"Tour of Estonia, General classification (prov.)",41439,VAHTRA Norman,24200,0.1,0,2023-05-27,-
-1,1.1,Van Merksteijn Fences Classic (prov.),41621,EWAN Caleb,19651,2,0,2023-05-27,Paul
-2,1.1,Van Merksteijn Fences Classic (prov.),41621,MERLIER Tim,17988,0.3,0,2023-05-27,Wijnand
-3,1.1,Van Merksteijn Fences Classic (prov.),41621,THIJSSEN Gerben,27085,0.1,0,2023-05-27,Albert
-1,2.1s,"Tour of Estonia, Stage 2 : Tartu GP (prov.)",41438,WALLIN Rasmus Bøgh,24563,0.2,0,2023-05-27,-
-1,2.1s,"Tour of Japan, Stage 6 : Sagamihara - Sagamihara (prov.)",41451,LAMPERTI Luke,31833,0.2,0,2023-05-27,-
-1,2.NCs,"Orlen Nations GP, Stage 4 : Bukovina Resort - Nowy Sacz (prov.)",41422,DONALDSON Robert,32179,0.0,0,2023-05-27,-
-1,GT2s,"Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,BUITRAGO SANCHEZ Santiago,29699,2,0,2023-05-26,Jan
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,Thomas Geraint,3891,1,0,2023-05-26,Arjan
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,Almeida Joao,26482,0.1,0,2023-05-26,Wijnand
--2,GT2s,"Puntentrui na Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,Milan Jonathan,29359,0.2,0,2023-05-26,Bram
--3,GT2s,"Bergtrui na Giro dItalia, Stage 19 : Longarone - Tre Cime di Lavaredo (prov.)",41367,Pinot Thibaut,13080,0.2,0,2023-05-26,Nicky
-1,2.PSs,"Tour of Norway, Prologue : Bergen I.T.T. (prov.)",41430,TULETT Ben,30630,0.3,0,2023-05-26,Albert
-1,2.PSs,"Boucles de la Mayenne, Stage 1 : Saint-Mars-sur-Colmont - Lassay-les-Châteaux (prov.)",41426,LAZKANO LOPEZ Oier,30595,0.3,0,2023-05-26,-
-1,2.1s,"Tour of Estonia, Stage 1 : Tallinn - Tartu (prov.)",41437,FORTIN Filippo,13411,0.2,0,2023-05-26,-
-1,2.1s,"Tour of Japan, Stage 5 : Subashiri - Mount Fuji (prov.)",41450,EARLE Nathan,9734,0.2,0,2023-05-26,-
-1,2.NCs,"Orlen Nations GP, Stage 3 : Levoca - Strbske Pleso (prov.)",41421,BUSATTO Francesco,32738,0.0,0,2023-05-26,-
