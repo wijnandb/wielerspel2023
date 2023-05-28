@@ -1,11 +1,4 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-0,GT2c,Correctie Giro dragen leiderstrui,13,Roglic Primoz,20719,-2,0,2023-05-28,Bram
-0,GT2c,Correctie Giro dragen jongerentrui,13,Almeida Joao,26482,-1.2,0,2023-05-28,Wijnand
-0,GT2c,Correctie Giro dragen puntentrui,13,Milan Jonathan,29359,-4,0,2023-05-28,Bram
-0,GT2c,Correctie Giro dragen bergtrui,13,Pinot Thibaut,13080,-1.8,0,2023-05-28,Nicky
-1,GT2j,Jongerentrui Giro,13,Almeida Joao,26482,2,0,2023-05-28,Wijnand
-1,GT2r,Puntentrui Giro,13,Milan Jonathan,29359,5,0,2023-05-28,Bram
-1,GT2r,Bergtrui Giro,13,Pinot Thibaut,13080,5,0,2023-05-28,Nicky
 1,GT2,"Giro dItalia, General classification (prov.)",41370,ROGLIC Primoz,20719,25,50,2023-05-28,Bram
 2,GT2,"Giro dItalia, General classification (prov.)",41370,THOMAS Geraint,3891,10,35,2023-05-28,Arjan
 3,GT2,"Giro dItalia, General classification (prov.)",41370,ALMEIDA Joao Pedro Gonçalves,26482,7,25,2023-05-28,Wijnand
@@ -61,7 +54,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT2s,"Puntentrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Milan Jonathan,29359,0.2,0,2023-05-27,Bram
 -3,GT2s,"Bergtrui na Giro dItalia, Stage 20 : Tarvisio - Monte Lussari (prov.)",41368,Pinot Thibaut,13080,0.2,0,2023-05-27,Nicky
 0,GT2c,Correctie Giro dragen leiderstrui,13,Roglic Primoz,20719,-2,0,2023-05-28,Bram
-1,GT2j,Jongerentrui Giro,13,Almeida Joao,26482,5,0,2023-05-28,Wijnand
+1,GT2j,Jongerentrui Giro,13,Almeida Joao,26482,2,0,2023-05-28,Wijnand
 1,2.PSs,"Tour of Norway, Stage 1 : Jondal - Hovden (prov.)",41431,TEUNISSEN Mike,19165,0.3,0,2023-05-27,Albert
 1,2.PSs,"Boucles de la Mayenne, Stage 2 : Saint-Berthevin - Meslay-du-Maine (prov.)",41427,DEMARE Arnaud,16653,0.3,0,2023-05-27,Wijnand
 1,2.1,"Tour of Estonia, General classification (prov.)",41439,WALLIN Rasmus Bøgh,24563,2,0,2023-05-27,-
