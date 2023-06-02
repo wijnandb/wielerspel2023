@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.1,Giro dell'Appennino,41466,HIRSCHI Marc,26509,0.0,0,2023-06-02
+2,1.1,Giro dell'Appennino,41466,RODRIGUEZ MARTIN Cristian,24102,0.0,0,2023-06-02
+3,1.1,Giro dell'Appennino,41466,MULUBRHAN Henok,28186,0.0,0,2023-06-02
 1,1.1,Mercan'Tour Classic Alpes-Maritimes,41333,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2023-05-30
 2,1.1,Mercan'Tour Classic Alpes-Maritimes,41333,GALL Felix,26383,0.0,0,2023-05-30
 3,1.1,Mercan'Tour Classic Alpes-Maritimes,41333,VAN EETVELT Lennert,32225,0.0,0,2023-05-30
@@ -50,19 +53,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 10,2.PS,"Boucles de la Mayenne, General classification",41429,VENTURINI Clément,21428,0.0,0,2023-05-28
 1,2.PSs,"Tour of Norway, Stage 2 : Valle - Stavanger",41432,NYS Thibau,32185,0.0,0,2023-05-28
 1,2.PSs,"Boucles de la Mayenne, Stage 3 : Montsûrs - Laval",41428,DE KLEIJN Arvid,22596,0.0,0,2023-05-28
-1,2.1,"Tour of Japan, General classification",41406,EARLE Nathan,9734,0.0,0,2023-05-28
-2,2.1,"Tour of Japan, General classification",41406,DYBALL Benjamin,13059,0.0,0,2023-05-28
-3,2.1,"Tour of Japan, General classification",41406,OKA Atsushi,22763,0.0,0,2023-05-28
-1,2.1s,"Tour of Japan, Stage 7 : Tokyo - Tokyo",41452,KUBOKI Kazushige,9828,0.0,0,2023-05-28
-1,NC5,National Championships Panama (Chitré) R.R.,41623,LORENZO Randish Abdul,26111,0.0,0,2023-05-28
-1,2.NC,"Orlen Nations GP, General classification",41424,GLIVAR Gal,31800,0.0,0,2023-05-28
-2,2.NC,"Orlen Nations GP, General classification",41424,PIGANZOLI Davide,32232,0.0,0,2023-05-28
-3,2.NC,"Orlen Nations GP, General classification",41424,WILKSCH Hannes,30739,0.0,0,2023-05-28
-4,2.NC,"Orlen Nations GP, General classification",41424,VAN DER LEE Jardi Christiaan,35121,0.0,0,2023-05-28
-5,2.NC,"Orlen Nations GP, General classification",41424,LABROSSE Jordan,32706,0.0,0,2023-05-28
-6,2.NC,"Orlen Nations GP, General classification",41424,MORGADO Antonio Tomas,34222,0.0,0,2023-05-28
-7,2.NC,"Orlen Nations GP, General classification",41424,HUBY Antoine,30120,0.0,0,2023-05-28
-8,2.NC,"Orlen Nations GP, General classification",41424,RONDEL Mathys,34305,0.0,0,2023-05-28
-9,2.NC,"Orlen Nations GP, General classification",41424,BLACKMORE Joseph,34973,0.0,0,2023-05-28
-10,2.NC,"Orlen Nations GP, General classification",41424,HAJEK Alexander,33111,0.0,0,2023-05-28
-1,2.NCs,"Orlen Nations GP, Stage 5 : Sanok - Hotel Arlamow",41423,MORGADO Antonio Tomas,34222,0.0,0,2023-05-28
