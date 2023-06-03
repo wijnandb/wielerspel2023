@@ -108,3 +108,4 @@ Resultaten gecheckt: 2023-05-30 17:38:46.592399
 Resultaten gecheckt: 2023-05-31 17:38:43.345184 
 Resultaten gecheckt: 2023-06-01 17:38:52.733509 
 Resultaten gecheckt: 2023-06-02 17:38:44.615252 
+Resultaten gecheckt: 2023-06-03 17:38:45.330390 
