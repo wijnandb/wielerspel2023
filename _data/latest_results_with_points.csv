@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.1,Heistse Pijl (prov.),41468,KOOIJ Olav,30643,2,0,2023-06-03,Albert
+2,1.1,Heistse Pijl (prov.),41468,MEEUS Jordi,26421,0.3,0,2023-06-03,Vel
+3,1.1,Heistse Pijl (prov.),41468,GHYS Robbe,26266,0.1,0,2023-06-03,-
 1,1.1,Giro dell'Appennino,41466,HIRSCHI Marc,26509,2,0,2023-06-02,Bram
 2,1.1,Giro dell'Appennino,41466,RODRIGUEZ MARTIN Cristian,24102,0.3,0,2023-06-02,-
 3,1.1,Giro dell'Appennino,41466,MULUBRHAN Henok,28186,0.1,0,2023-06-02,-
@@ -19,37 +22,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Ronde van Limburg,41334,THIJSSEN Gerben,27085,2,0,2023-05-29,Albert
 2,1.1,Ronde van Limburg,41334,EWAN Caleb,19651,0.3,0,2023-05-29,Paul
 3,1.1,Ronde van Limburg,41334,ANIOLKOWSKI Stanislaw,24940,0.1,0,2023-05-29,-
-1,GT2,"Giro dItalia, General classification",41370,ROGLIC Primoz,20719,25,50,2023-05-28,Bram
-2,GT2,"Giro dItalia, General classification",41370,THOMAS Geraint,3891,10,35,2023-05-28,Arjan
-3,GT2,"Giro dItalia, General classification",41370,ALMEIDA Joao Pedro Gonçalves,26482,7,25,2023-05-28,Wijnand
-4,GT2,"Giro dItalia, General classification",41370,CARUSO Damiano,6177,5,20,2023-05-28,Jan
-5,GT2,"Giro dItalia, General classification",41370,PINOT Thibaut,13080,4,18,2023-05-28,Nicky
-6,GT2,"Giro dItalia, General classification",41370,ARENSMAN Thymen,27716,3,16,2023-05-28,Kaspar
-7,GT2,"Giro dItalia, General classification",41370,DUNBAR Eddie,23765,3,14,2023-05-28,Paul
-8,GT2,"Giro dItalia, General classification",41370,LEKNESSUND Andreas,27653,2,12,2023-05-28,Paul
-9,GT2,"Giro dItalia, General classification",41370,KÄMNA Lennard,23427,2,10,2023-05-28,Jan
-10,GT2,"Giro dItalia, General classification",41370,DE PLUS Laurens,24106,2,8,2023-05-28,-
-11,GT2,"Giro dItalia, General classification",41370,RUBIO REYES Einer Augusto,27024,1,0,2023-05-28,Frank
-12,GT2,"Giro dItalia, General classification",41370,VAN WILDER Ilan,29828,1,0,2023-05-28,Wijnand
-13,GT2,"Giro dItalia, General classification",41370,BUITRAGO SANCHEZ Santiago,29699,1,0,2023-05-28,Jan
-14,GT2,"Giro dItalia, General classification",41370,KUSS Sepp,25653,1,0,2023-05-28,Nicky
-15,GT2,"Giro dItalia, General classification",41370,PARET-PEINTRE Aurélien,24110,1,0,2023-05-28,Nicky
-1,GT2s,"Giro dItalia, Stage 21 : Roma - Roma",41369,CAVENDISH Mark,3448,2,0,2023-05-28,Kaspar
--4,GT2s,"Leiderstrui na Giro dItalia, Stage 21 : Roma - Roma",41369,Roglic Primoz,20719,1,0,2023-05-28,Bram
--1,GT2s,"Jongerentrui na Giro dItalia, Stage 21 : Roma - Roma",41369,Almeida Joao,26482,0.1,0,2023-05-28,Wijnand
--2,GT2s,"Puntentrui na Giro dItalia, Stage 21 : Roma - Roma",41369,Milan Jonathan,29359,0.2,0,2023-05-28,Bram
--3,GT2s,"Bergtrui na Giro dItalia, Stage 21 : Roma - Roma",41369,Pinot Thibaut,13080,0.2,0,2023-05-28,Nicky
-1,GT2r,"Giro dItalia, Points classification",41371,MILAN Jonathan,29359,5,0,2023-05-28,Bram
-1,GT2r,"Giro dItalia, Mountains classification",41372,PINOT Thibaut,13080,5,0,2023-05-28,Nicky
-1,2.PS,"Boucles de la Mayenne, General classification",41429,LAZKANO LOPEZ Oier,30595,4,50,2023-05-28,-
-2,2.PS,"Boucles de la Mayenne, General classification",41429,DEMARE Arnaud,16653,1,35,2023-05-28,Wijnand
-3,2.PS,"Boucles de la Mayenne, General classification",41429,ZINGLE Axel,31263,0.5,25,2023-05-28,Paul
-4,2.PS,"Boucles de la Mayenne, General classification",41429,OLIVEIRA Ivo Emanuel Alves,25513,0,20,2023-05-28,-
-5,2.PS,"Boucles de la Mayenne, General classification",41429,MENTEN Milan,24180,0,18,2023-05-28,-
-6,2.PS,"Boucles de la Mayenne, General classification",41429,HINDSGAUL MADSEN Jacob,29275,0,16,2023-05-28,-
-7,2.PS,"Boucles de la Mayenne, General classification",41429,DUJARDIN Sandy,28583,0,14,2023-05-28,-
-8,2.PS,"Boucles de la Mayenne, General classification",41429,COSNEFROY Benoît,24189,0,12,2023-05-28,PB
-9,2.PS,"Boucles de la Mayenne, General classification",41429,NORSGAARD JØRGENSEN Mathias,24924,0,10,2023-05-28,-
-10,2.PS,"Boucles de la Mayenne, General classification",41429,VENTURINI Clément,21428,0,8,2023-05-28,-
-1,2.PSs,"Tour of Norway, Stage 2 : Valle - Stavanger",41432,NYS Thibau,32185,0.3,0,2023-05-28,-
-1,2.PSs,"Boucles de la Mayenne, Stage 3 : Montsûrs - Laval",41428,DE KLEIJN Arvid,22596,0.3,0,2023-05-28,-
