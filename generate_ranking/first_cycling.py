@@ -116,7 +116,7 @@ def scrape_result(racename, jersey, year=YEAR):
         return None
 
 
-def ridername_to_id(name, fc_rider_id, country=0, year_of_birth=0):
+def ridername_to_id(name, fc_rider_id):
     """
     I want to look up/find the CQrider_id 
     
@@ -163,13 +163,6 @@ def ridername_to_id(name, fc_rider_id, country=0, year_of_birth=0):
             else:
                 print(f"Length of { rider[4] } is {len(rider)}, so I'm not adding the fc_rider_id to the list")
             return rider[2]
-        # for part in parts:
-        #     if part.lower() not in rider[4].lower():
-        #         break
-        # if rider[2]:
-        #     return rider[2]
-        # else:
-    # print (f"{name} met fc_id {fc_rider_id} niet gevonden")
 
 """
 Tour de France : 17
@@ -206,6 +199,8 @@ def stagename_to_number(name):
 points = process_files.read_csv_file("points.csv")
 calendar = process_files.read_csv_file('calendar.csv')
 race_categories = process_files.read_csv_file('race_categories.csv')
+
+
 def get_calendar(year=YEAR, months=[1,2,3,4,5,6,7,8,9,10]):
     races = []
     calendar = [['startdate','enddate','race','race_id','category','points','JPP'],]
@@ -294,11 +289,6 @@ def add_points_to_calendar():
 
 # add_points_to_calendar()
 # get_calendar(2023, [1,2,3,4,5,6,7,8,9,10])
-# print(scrape_result('Giro d’Italia, Stage 1 : Fossacesia Marina - Ortona I.T.T.','youth','2022'))
-# print(scrape_result('Giro d’Italia, Stage 1 : Fossacesia Marina - Ortona I.T.T.','point','2022'))
-# print(scrape_result('Giro d’Italia, Stage 1 : Fossacesia Marina - Ortona I.T.T.','mountain','2022'))
-# scrape_result('Giro d’Italia, Stage 1 : Fossacesia Marina - Ortona I.T.T.','youth','2022')
-# print(scrape_result('Giro d’Italia', 'gc', 2022))
 
 def print_worldtour_races():
     for c in calendar[1:]:
@@ -306,3 +296,11 @@ def print_worldtour_races():
             print(c[2] +","+ c[3]+","+ c[4])
 
 # print_worldtour_races()
+
+"""
+Wanneer trigger je de functie om correcties uit te voeren?
+Dat is na de laatste etappe, normaal gesproken na etappe 21. 
+Het kan ook op datum.
+Door de trigger en de uit te voeren functie te scheiden, kun je die functie ook
+los van de trigger uitvoeren.
+"""
