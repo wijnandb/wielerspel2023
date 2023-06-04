@@ -108,8 +108,8 @@ def add_up_points_per_teamcaptain(riders):
 points = process_files.read_csv_file('points.csv')
 results = process_files.read_csv_file('all_results.csv')
 new_results = process_files.read_csv_file('latest_results.csv')
-process_points.add_points_to_results("all_results.csv", "results_with_points.csv")
-process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv")
+# process_points.add_points_to_results("all_results.csv", "results_with_points.csv")
+# process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv")
 
 if process_points.add_points_to_results("all_results.csv", "results_with_points.csv"):
     if process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv"):
@@ -120,3 +120,11 @@ if process_points.add_points_to_results("all_results.csv", "results_with_points.
         add_teamcaptains.add_teamcaptain("results_with_points.csv")
         add_teamcaptains.add_teamcaptain("latest_results_with_points.csv")
 
+
+"""
+Let's check if the points corrected for winning a jersey are as high as the points earned for wearing that jersey during that GT.
+How to do that?
+I can check for GT2c ponts deducted and compare them with points earned for wearing the jersey.
+
+Maybe I 
+"""

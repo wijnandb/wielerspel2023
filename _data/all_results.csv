@@ -1,4 +1,7 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+0,GT2c,Correctie Giro dragen jongerentrui,13,Almeida Joao,26482,-1.2,0,2023-05-28
+0,GT2c,Correctie Giro dragen puntentrui,13,Milan Jonathan,29359,-4,0,2023-05-28
+0,GT2c,Correctie Giro dragen bergtrui,13,Pinot Thibaut,13080,-1.8,0,2023-05-28
 1,1.1,Heistse Pijl,41468,KOOIJ Olav,30643,0.0,0,2023-06-03
 2,1.1,Heistse Pijl,41468,MEEUS Jordi,26421,0.0,0,2023-06-03
 3,1.1,Heistse Pijl,41468,GHYS Robbe,26266,0.0,0,2023-06-03

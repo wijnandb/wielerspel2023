@@ -33,15 +33,18 @@ def points_earned_for_wearing_jersey(tour_id, jersey, rider_id, rider):
     points = 0
     for result in results_with_points[1:]:
         if int(result[0]) == int(position):
-            print(f"Found position: {result}")
-            points = points + Decimal(result[6])
-            # rider = result[4]
-            ploegleider = result[9]
+            # print(f"Found position: {result[0]}")
+            if int(result[5]) == int(rider_id):
+                # print(f"Found rider: {result[5]}")
+
+                points = points + Decimal(result[6])
+                # rider = result[4]
+                ploegleider = result[9]
     if points > 0:
         """ The winner of the jersey has earned points for wearing the jersey.
         This is the amount we need to substract"""
         points = -points
-        print(0, "GTc", "Correctie voor dragen en winnen trui in Grote Ronde", tour_id, rider, rider_id, points)
+        #print(0, "GTc", "Correctie voor dragen en winnen trui in Grote Ronde", tour_id, rider, rider_id, points)
         results_with_points.append([0, "GTc", "Correctie voor dragen en winnen " + jersey + " trui in Grote Ronde", rider, rider_id, points,0,today,ploegleider])
         print(results_with_points[-1])
 
@@ -57,5 +60,7 @@ def determine_jersey_winner(tour_id, jersey, year="2023"):
         rider_id, rider = first_cycling.winner_of_jersey(tour_id, jersey, year)
         points_earned_for_wearing_jersey(tour_id, jersey, rider_id, rider)
 
-print(points_earned_for_wearing_jersey("13", "youth", 50303, "Almeida"))
+print(points_earned_for_wearing_jersey("13", "youth", 26482, "Almeida"))
+print(points_earned_for_wearing_jersey("13", "points", 29359, "MILAN Jonathan"))
+print(points_earned_for_wearing_jersey("13", "mountain", 13080, "PINOT Thibaut"))
 
