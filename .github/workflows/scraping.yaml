@@ -1,8 +1,5 @@
 on:
-  push:
-    branches:
-      - main
-  schedule:
+    schedule:
     # UTC time, so one hour later here. 5 and 35 past 17 and 18
     - cron: '35 17 * * *'
 
