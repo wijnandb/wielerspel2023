@@ -72,7 +72,7 @@ def get_results():
         rank = tds[4].text.split(".")[0]
         category = tds[1].text
         race_name = tds[3].text
-        if not category[:3] in ['1.2','2.2']:
+        if not category[:3] in ['1.2','2.2'] and not "T.T.T" in race_name:
             country = tds[2].find('img').get('title').upper()
             
             race_id = tds[3].a['href'].split("=")[1]
