@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1s,"Critérium du Dauphiné, Stage 4 : Cours - Belmont-de-la-Loire I.T.T. (prov.)",41517,BJERG Mikkel,26388,1,0,2023-06-07,Kees
+1,2.PSs,"ZLM Tour, Prologue : Heinkenszand I.T.T. (prov.)",41530,EEKHOFF Nils,26429,0.3,0,2023-06-07,-
 1,2.WT1s,"Critérium du Dauphiné, Stage 3 : Monistrol-sur-Loire - Le Coteau (prov.)",41516,LAPORTE Christophe,19953,1,0,2023-06-06,Kaspar
 1,2.WT1s,"Critérium du Dauphiné, Stage 2 : Brassac-les-Mines - La Chaise-Dieu (prov.)",41515,ALAPHILIPPE Julian,18610,1,0,2023-06-05,Arjan
 1,2.WT1s,"Critérium du Dauphiné, Stage 1 : Chambon-sur-Lac - Chambon-sur-Lac (prov.)",41514,LAPORTE Christophe,19953,1,0,2023-06-04,Kaspar
@@ -12,8 +14,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Brussels Cycling Classic,41470,VAN ASBROECK Tom,18504,0,12,2023-06-04,-
 9,1.PS,Brussels Cycling Classic,41470,BEULLENS Cédric,25580,0,10,2023-06-04,-
 10,1.PS,Brussels Cycling Classic,41470,GEE Derek,26869,0,8,2023-06-04,-
-1,NC5,National Championships Trinidad and Tobago (Couva) R.R. (prov.),41479,BURNETTE Maurice,30594,1,0,2023-06-04,-
-1,NCT5,National Championships Guatemala (Chimaltenango) I.T.T.,41634,RODAS OCHOA Manuel Oseas,3382,0.5,0,2023-06-04,-
-1,1.1,Heistse Pijl,41468,KOOIJ Olav,30643,2,0,2023-06-03,Albert
-2,1.1,Heistse Pijl,41468,MEEUS Jordi,26421,0.3,0,2023-06-03,Vel
-3,1.1,Heistse Pijl,41468,GHYS Robbe,26266,0.1,0,2023-06-03,-
