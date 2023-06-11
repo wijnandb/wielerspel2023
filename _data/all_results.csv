@@ -1,15 +1,54 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,2.WT1s,"Critérium du Dauphiné, Stage 7 : Porte-de-Savoie - Croix-de-Fer (prov.)",41520,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0,2023-06-10
-1,1.PS,Dwars door het Hageland (prov.),41473,TILLER Rasmus Fossum,25623,0.0,0,2023-06-10
-2,1.PS,Dwars door het Hageland (prov.),41473,VAN TRICHT Stan,28579,0.0,0,2023-06-10
-3,1.PS,Dwars door het Hageland (prov.),41473,VERMEERSCH Florian,28127,0.0,0,2023-06-10
-4,1.PS,Dwars door het Hageland (prov.),41473,LAMPAERT Yves,19941,0.0,0,2023-06-10
-5,1.PS,Dwars door het Hageland (prov.),41473,CLARKE Simon,3366,0.0,0,2023-06-10
-6,1.PS,Dwars door het Hageland (prov.),41473,VLIEGEN Loïc,19577,0.0,0,2023-06-10
-7,1.PS,Dwars door het Hageland (prov.),41473,WAERENSKJOLD Søren,29187,0.0,0,2023-06-10
-8,1.PS,Dwars door het Hageland (prov.),41473,BIERMANS Jenthe,22010,0.0,0,2023-06-10
-9,1.PS,Dwars door het Hageland (prov.),41473,VAN ASBROECK Tom,18504,0.0,0,2023-06-10
-10,1.PS,Dwars door het Hageland (prov.),41473,KOPECKY Matyas,33001,0.0,0,2023-06-10
+1,2.WT1,"Critérium du Dauphiné, General classification",41522,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0,2023-06-11
+2,2.WT1,"Critérium du Dauphiné, General classification",41522,YATES Adam,18975,0.0,0,2023-06-11
+3,2.WT1,"Critérium du Dauphiné, General classification",41522,O'CONNOR Ben,23763,0.0,0,2023-06-11
+4,2.WT1,"Critérium du Dauphiné, General classification",41522,HINDLEY Jai,23948,0.0,0,2023-06-11
+5,2.WT1,"Critérium du Dauphiné, General classification",41522,HAIG Jack,21212,0.0,0,2023-06-11
+6,2.WT1,"Critérium du Dauphiné, General classification",41522,MARTIN Guillaume,19994,0.0,0,2023-06-11
+7,2.WT1,"Critérium du Dauphiné, General classification",41522,MEINTJES Louis,18413,0.0,0,2023-06-11
+8,2.WT1,"Critérium du Dauphiné, General classification",41522,TRAEEN Torstein,24068,0.0,0,2023-06-11
+9,2.WT1,"Critérium du Dauphiné, General classification",41522,RODRIGUEZ CANO Carlos,30836,0.0,0,2023-06-11
+10,2.WT1,"Critérium du Dauphiné, General classification",41522,ALAPHILIPPE Julian,18610,0.0,0,2023-06-11
+1,2.WT1s,"Critérium du Dauphiné, Stage 8 : Le-Pont-de-Claix - La Bastille",41521,CICCONE Giulio,21812,0.0,0,2023-06-11
+1,2.WT1r,"Tour de Suisse, Stage 1 : Einsiedeln - Einsiedeln I.T.T. (prov.)",41554,KÜNG Stefan,20960,0.0,0,2023-06-11
+1,2.WT1r,"Critérium du Dauphiné, Points classification",41523,LAPORTE Christophe,19953,0.0,0,2023-06-11
+1,2.WT1r,"Critérium du Dauphiné, Mountains classification",41524,CICCONE Giulio,21812,0.0,0,2023-06-11
+1,2.PS,"ZLM Tour, General classification",41535,KOOIJ Olav,30643,0.0,0,2023-06-11
+2,2.PS,"ZLM Tour, General classification",41535,WELSFORD Samuel,23517,0.0,0,2023-06-11
+3,2.PS,"ZLM Tour, General classification",41535,EEKHOFF Nils,26429,0.0,0,2023-06-11
+4,2.PS,"ZLM Tour, General classification",41535,EDMONDSON Alexander,20219,0.0,0,2023-06-11
+5,2.PS,"ZLM Tour, General classification",41535,BOL Cees,21930,0.0,0,2023-06-11
+6,2.PS,"ZLM Tour, General classification",41535,VAN DIJKE Tim,30642,0.0,0,2023-06-11
+7,2.PS,"ZLM Tour, General classification",41535,GHYS Robbe,26266,0.0,0,2023-06-11
+8,2.PS,"ZLM Tour, General classification",41535,BLOEM Joren,29896,0.0,0,2023-06-11
+9,2.PS,"ZLM Tour, General classification",41535,CAVENDISH Mark,3448,0.0,0,2023-06-11
+10,2.PS,"ZLM Tour, General classification",41535,DE VRIES Hartthijs,23351,0.0,0,2023-06-11
+1,2.PSs,"ZLM Tour, Stage 4 : Oosterhout - Oosterhout",41534,KOOIJ Olav,30643,0.0,0,2023-06-11
+1,1.1,Elfstedenronde - Brugge (prov.),41474,PHILIPSEN Jasper,26392,0.0,0,2023-06-11
+2,1.1,Elfstedenronde - Brugge (prov.),41474,EWAN Caleb,19651,0.0,0,2023-06-11
+3,1.1,Elfstedenronde - Brugge (prov.),41474,JAKOBSEN Fabio,23426,0.0,0,2023-06-11
+1,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,HUBY Antoine,30120,0.0,0,2023-06-11
+2,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,DALBY Simon,32795,0.0,0,2023-06-11
+3,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,DE CASSAN Davide,31819,0.0,0,2023-06-11
+4,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,CHRISTOPHERSEN Cedrik Bakke,34232,0.0,0,2023-06-11
+5,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,RACCANI Simone,30809,0.0,0,2023-06-11
+6,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,ROULAND Louis,32610,0.0,0,2023-06-11
+7,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,EULALIO Afonso Oliveira,30859,0.0,0,2023-06-11
+8,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,AZPARREN IRURZUN Enekoitz,34102,0.0,0,2023-06-11
+9,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,CAMRDA Karel,31373,0.0,0,2023-06-11
+10,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,DEL TORO ROMERO Isaac,33556,0.0,0,2023-06-11
+1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 3 : Jesenik - Jesenik",41545,ROOTKIN-GRAY Jack,32177,0.0,0,2023-06-11
+1,2.WT1s,"Critérium du Dauphiné, Stage 7 : Porte-de-Savoie - Croix-de-Fer",41520,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0,2023-06-10
+1,1.PS,Dwars door het Hageland,41473,TILLER Rasmus Fossum,25623,0.0,0,2023-06-10
+2,1.PS,Dwars door het Hageland,41473,VAN TRICHT Stan,28579,0.0,0,2023-06-10
+3,1.PS,Dwars door het Hageland,41473,VERMEERSCH Florian,28127,0.0,0,2023-06-10
+4,1.PS,Dwars door het Hageland,41473,LAMPAERT Yves,19941,0.0,0,2023-06-10
+5,1.PS,Dwars door het Hageland,41473,CLARKE Simon,3366,0.0,0,2023-06-10
+6,1.PS,Dwars door het Hageland,41473,VLIEGEN Loïc,19577,0.0,0,2023-06-10
+7,1.PS,Dwars door het Hageland,41473,WAERENSKJOLD Søren,29187,0.0,0,2023-06-10
+8,1.PS,Dwars door het Hageland,41473,BIERMANS Jenthe,22010,0.0,0,2023-06-10
+9,1.PS,Dwars door het Hageland,41473,VAN ASBROECK Tom,18504,0.0,0,2023-06-10
+10,1.PS,Dwars door het Hageland,41473,KOPECKY Matyas,33001,0.0,0,2023-06-10
 1,2.PSs,"ZLM Tour, Stage 3 : Roosendaal - Roosendaal (prov.)",41533,DE KLEIJN Arvid,22596,0.0,0,2023-06-10
 1,CCT2,Asian Cycling Championships (Rayong) I.T.T. (prov.),41481,FEDOROV Yevgeniy,29309,0.0,0,2023-06-10
 1,2.NCs,"Course de la Paix U23 - GP Jeseniky, Stage 2 : Bruntal - Cervenohorske sedlo (prov.)",41544,DALBY Simon,32795,0.0,0,2023-06-10
