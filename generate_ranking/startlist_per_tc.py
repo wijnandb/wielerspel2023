@@ -4,14 +4,14 @@ WIP. Giro is hardcoded, I should run this for all the GTs and I could run it for
 It's even possible to schedule when this script should run, because we have the date for each race
 
 """
-race = "giro"
-race_id = "13"
+race = "tour"
+race_id = "17"
 
 # read the CSV file
 with open('_data/startlist-filtered.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     data = list(reader)
-    # Filter the data by race_id equal to 13
+    # Filter the data by race_id equal to the given race_id
     filtered_data = [row for row in data if row['race_id'] == race_id]
     # Sort the data by team_captain in ascending order and price in descending order
     sorted_data = sorted(filtered_data, key=lambda x: (x['team_captain'], -float(x['price'])))

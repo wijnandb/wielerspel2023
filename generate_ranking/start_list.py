@@ -18,7 +18,7 @@ import requests
 from bs4 import BeautifulSoup
 import process_files, first_cycling, add_teamcaptains
 
-riders = process_files.read_csv_file('all_riders_cqranking.csv')
+riders = process_files.read_csv_file('all_riders_cqranking_with_fc_rider_id.csv')
 # unknown_riders = process_files.read_csv_file('unknown_riders.csv')
 
 # eventually we need to store it in a startlist csv
@@ -45,17 +45,19 @@ def get_riders(race_id, year='2023'):
             rows = body.find_all('tr')
             for row in rows:
                 tds = row.find_all('td')
-                # print(tds)
-                start_number = tds[0].text.strip()
-                country = tds[1].find('img').get('title')
-                rider = tds[1].find('a').get('title').strip()
-                link = tds[1].find('a').get('href').split('=')[1]
-                fc_rider_id = link.split('&')[0]
-                # print(fc_rider_id)
-                rider_id = first_cycling.ridername_to_id(rider, fc_rider_id, country)
-                ploegleider, ploegleider_id, points = add_teamcaptains.add_teamcaptain_to_startlist(rider_id)
-                # print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id)
-                startlist.append([race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points]) 
+                if len(tds) > 1:
+                    start_number = tds[0].text.strip()
+                    country = tds[1].find('img').get('title')
+                    rider = tds[1].find('a').get('title').strip()
+                    link = tds[1].find('a').get('href').split('=')[1]
+                    fc_rider_id = link.split('&')[0]
+                    # print(fc_rider_id)
+                    rider_id = first_cycling.ridername_to_id(rider, fc_rider_id)
+                    ploegleider, ploegleider_id, points = add_teamcaptains.add_teamcaptain_to_startlist(rider_id)
+                    
+                    if ploegleider:
+                        print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points)
+                        startlist.append([race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points]) 
 
         process_files.write_csv_file('startlist.csv', startlist)
 
@@ -70,4 +72,9 @@ def get_riders(race_id, year='2023'):
 #     print(c)
 #     get_riders(c[3], c[0])
 
-get_riders('13', '2023')
+"""
+Here I can call the function with the right race_id and year.
+Based on today's date, I call eitehr Giro (april-may), or Tour (june, july) or Vuelta (august, september)
+"""
+
+get_riders('17', '2023')

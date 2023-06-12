@@ -43,3 +43,14 @@ def add_teamcaptain(infile, outfile=None):
                 break
 
     process_files.write_csv_file(infile, results)
+
+
+def add_teamcaptain_to_startlist(rider_id):
+    """
+    Look up a rider_id from the "all_riders_cqranking_with_fc_rided_id.csv" file"
+    """
+    for rider in riders[1:]:
+        if rider_id == rider[0]:
+            return add_full_name(rider[3]), rider[3], rider[4]
+        
+    return '-', '-', '-'

@@ -23,7 +23,7 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{% link startlist/startlist.html %}">Giro</a></li>
+                        <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{{ '/tour/' | relative_url }}">Tour</a></li>
                         <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{% link renners.html %}">Verkochte renners</a></li>
                         <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{% link uitslagen.html %}">Uitslagen</a></li>
                     </ul>
@@ -38,17 +38,14 @@
             </div>
         </header>
         <!-- Content section-->
-        <div id="fb-root"></div>
-            <script async defer crossorigin="anonymous" src="https://connect.facebook.net/nl_NL/sdk.js#xfbml=1&version=v16.0" nonce="yHTksQcR"></script>
+        <!--div id="fb-root"></div>
+            <script async defer crossorigin="anonymous" src="https://connect.facebook.net/nl_NL/sdk.js#xfbml=1&version=v16.0" nonce="yHTksQcR"></script-->
         <section class="py-5">
             <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-10">
-                        <!--h2>{{ page.title }}</h2-->
-                        <p class="lead">{{ content }}</p>
-                        <p class="mb-0"><div class="fb-comments" data-href="https://wijnandb.github.io/wielerspel2023{{ page.url }}" data-width="100%" data-numposts="10"></div></p>
-                    </div>
-                </div>
+
+                    {{ content }}
+                        <!--p class="mb-0"><div class="fb-comments" data-href="https://wijnandb.github.io/wielerspel2023{{ page.url }}" data-width="100%" data-numposts="10"></div></p-->
+
             </div>
         </section>
             <!-- Footer-->
