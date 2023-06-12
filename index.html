@@ -2,26 +2,17 @@
 template: default
 title: "Stand Wielerspel"
 ---
-  <table class="table display compact" style="width:100%">
-    <tr>
-      <th>#</th>
-      <th>Ploegleider</th>
-      <th>punten</th>
-      <th>JPP</th>
-    </tr>
-    {% for member in site.data.ranking %}
-      <tr>
-        <td>{{ member.positie }}</td>
-        <td>
-          <a href="{{ site.baseurl }}{% link index.html %}ploegleiders/{{ member.short | downcase }}.html">
-            {{ member.ploegleider }}
-          </a>
-        </td>
-        <td>{{ member.punten }}</td>
-        <td>{{ member.JPP }}</td>
-      </tr>
-    {% endfor %}
-  </table>
+<div class="container">
+  <div class="row">
+    <div class="col-md-7">
+      {% include table.html %}
+    </div>
+    <div class="col-md-5">
+      {% include this_week.html %}
+    </div>
+  </div>
 
   <br />
-  <br />{% include latest_results.html %}
+  <br />
+ 
+{% include latest_results.html %}

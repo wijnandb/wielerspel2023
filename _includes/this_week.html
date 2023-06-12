@@ -1,0 +1,24 @@
+<h1>Races deze week</h1>
+<table class="table display compact" style="width:100%">
+    <thead>
+        <tr>
+            <th>start</th>
+            <th>eind</th>
+            <th>Race (cat)</th>
+            <th>Punten</th>
+            <th>JPP</th>
+        </tr>
+    </thead>
+    <tbody>
+      {% for item in site.data.current_races %}
+        <tr>
+          <td>{{ item.startdate | date: "%d-%m" }}</td>
+          <td>{{ item.enddate | date: "%d-%m" }}</td>
+          <td>{{ item.race }} ({{ item.category }})</td>
+          <td>{{ item.points }}</td>
+          <td>{{ item.jpp }}</td>
+          <td>{{ item.ploegleider }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+</table>
