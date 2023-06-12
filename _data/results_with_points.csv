@@ -24,9 +24,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.PS,"ZLM Tour, General classification",41535,CAVENDISH Mark,3448,0,10,2023-06-11,Kaspar
 10,2.PS,"ZLM Tour, General classification",41535,DE VRIES Hartthijs,23351,0,8,2023-06-11,-
 1,2.PSs,"ZLM Tour, Stage 4 : Oosterhout - Oosterhout",41534,KOOIJ Olav,30643,0.3,0,2023-06-11,Albert
-1,1.1,Elfstedenronde - Brugge (prov.),41474,PHILIPSEN Jasper,26392,2,0,2023-06-11,Nicky
-2,1.1,Elfstedenronde - Brugge (prov.),41474,EWAN Caleb,19651,0.3,0,2023-06-11,Paul
-3,1.1,Elfstedenronde - Brugge (prov.),41474,JAKOBSEN Fabio,23426,0.1,0,2023-06-11,Kaspar
+1,1.1,Elfstedenronde - Brugge,41474,PHILIPSEN Jasper,26392,2,0,2023-06-11,Nicky
+2,1.1,Elfstedenronde - Brugge,41474,EWAN Caleb,19651,0.3,0,2023-06-11,Paul
+3,1.1,Elfstedenronde - Brugge,41474,JAKOBSEN Fabio,23426,0.1,0,2023-06-11,Kaspar
 1,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,HUBY Antoine,30120,0.0,0,2023-06-11,-
 2,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,DALBY Simon,32795,0.0,0,2023-06-11,-
 3,2.NC,"Course de la Paix U23 - GP Jeseniky, General classification",41546,DE CASSAN Davide,31819,0.0,0,2023-06-11,-
