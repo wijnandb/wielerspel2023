@@ -27,7 +27,7 @@ startlist = [['race_id', 'start_number', 'rider', 'cq_rider_id', 'team', 'countr
 
 
 def get_riders(race_id, year='2023'):
-    start_url = "https://firstcycling.com/race.php?r="+race_id+"&y="+year+"&k=start"
+    start_url = "https://firstcycling.com/race.php?r="+race_id+"&y="+year+"&k=8"
     print(start_url)
 
     r = requests.get(start_url)
@@ -55,9 +55,8 @@ def get_riders(race_id, year='2023'):
                     rider_id = first_cycling.ridername_to_id(rider, fc_rider_id)
                     ploegleider, ploegleider_id, points = add_teamcaptains.add_teamcaptain_to_startlist(rider_id)
                     
-                    if ploegleider:
-                        print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points)
-                        startlist.append([race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points]) 
+                    print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points)
+                    startlist.append([race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points]) 
 
         process_files.write_csv_file('startlist.csv', startlist)
 
@@ -67,14 +66,14 @@ def get_riders(race_id, year='2023'):
     else:
         print(f"Error for {start_url}: {r.status_code}")
 
-# calendar = process_files.read_csv_file('calendar.csv')
-# for c in calendar: 
-#     print(c)
-#     get_riders(c[3], c[0])
+# calendar = process_files.read_csv_file('calendar2022.csv')
+# for c in calendar[1:]: 
+# #     print(c)
+#      get_riders(c[3], '2022')
 
 """
 Here I can call the function with the right race_id and year.
 Based on today's date, I call eitehr Giro (april-may), or Tour (june, july) or Vuelta (august, september)
 """
 
-get_riders('17', '2023')
+# get_riders('17', '2023')
