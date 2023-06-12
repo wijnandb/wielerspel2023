@@ -14,7 +14,7 @@
         <tr>
           <td>{{ item.startdate | date: "%d-%m" }}</td>
           <td>{{ item.enddate | date: "%d-%m" }}</td>
-          <td>{{ item.race }} ({{ item.category }})</td>
+          <td><a href="https://firstcycling.com/race.php?r={{ item.FC_race_id }}&y=2023&k=8" target="_new" title="Bekijk op FirstCycling.com">{{ item.race }} ({{ item.category }})</a></td>
           <td>{{ item.points }}</td>
           <td>{{ item.jpp }}</td>
           <td>{{ item.ploegleider }}</td>
