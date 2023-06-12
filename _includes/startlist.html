@@ -1,0 +1,29 @@
+{% assign riders_per_race = site.data.startlist-filtered | where: "race_id", page.race_id | sort: "team_captain_id" %}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th></th>
+            <th>renner</th>
+            <th>ploeg</th>
+            <th>land</th>
+            <th>ploegleider</th>
+            <th>prijs</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for rider in riders_per_race %}
+            <tr>
+                <td>{{ rider.start_number }}</td>
+                <td></td>
+                <td><a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ rider.cq_rider_id }}" target="_new">{{ rider.rider }}</a></td>
+                <td>{{ rider.team }}</td>
+                <td>{{ rider.country }}</td>
+                <td>{{ rider.team_captain }}</td>
+                <td>{{ rider.price }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
