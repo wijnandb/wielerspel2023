@@ -1,7 +1,7 @@
 on:
    
   schedule:
-    # UTC time, so one hour later here. 5 and 35 past 17 and 18
+    # UTC time, so one hour later here. 5 and 35 past 18 (winter) and 19 (summer)
     - cron: '35 2,17 * * *'
 
 jobs:
@@ -58,6 +58,3 @@ jobs:
         run: git fetch origin main
       - name: push code to master
         run: git push origin HEAD:main
-
-  # I also want to get and process the starting-lists
-  # maybe not here but on a separate schedule
