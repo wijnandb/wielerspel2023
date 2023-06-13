@@ -55,7 +55,7 @@ def get_riders(race_id, year='2023'):
                     rider_id = first_cycling.ridername_to_id(rider, fc_rider_id)
                     ploegleider, ploegleider_id, points = add_teamcaptains.add_teamcaptain_to_startlist(rider_id)
                     
-                    print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points)
+                    # print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points)
                     startlist.append([race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points]) 
 
         process_files.write_csv_file('startlist.csv', startlist)
@@ -73,7 +73,7 @@ def get_riders(race_id, year='2023'):
 
 """
 Here I can call the function with the right race_id and year.
-Based on today's date, I call eitehr Giro (april-may), or Tour (june, july) or Vuelta (august, september)
+Based on today's date, I call either Giro (april-may), or Tour (june, july) or Vuelta (august)
 """
 
 # get_riders('17', '2023')

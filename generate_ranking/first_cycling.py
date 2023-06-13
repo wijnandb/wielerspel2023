@@ -130,6 +130,7 @@ def ridername_to_id(name, fc_rider_id):
     from unidecode import unidecode
 
     for rider in riders[1:]:
+        # print(rider, len(rider))
         if len(rider) > 9:
             if int(fc_rider_id) == int(rider[9]):
                 # print(f"Match gevonden {name } op id voor { fc_rider_id }")
@@ -213,7 +214,7 @@ def get_calendar(year=YEAR, months=[1,2,3,4,5,6,7,8,9,10]):
         tablerows = tables[-1].find_all('tr')
         for row in tablerows[1:]:
             tds = row.find_all('td')
-            #print(tds)
+            # print(tds)
             category = tds[1].text.strip()
             if category not in ['1.2', '2.2', '1.2U', '2.2U','2.NC','RCRR','WCU','WCUT','CCUT','CCU','TTT']:
                 if category == '2.Pro':
@@ -237,7 +238,7 @@ def get_calendar(year=YEAR, months=[1,2,3,4,5,6,7,8,9,10]):
                         category_jpp += int(p[3])
                 if race_id not in races:
                     races.append(race_id)
-                    print(startdate, enddate, race,race_id, category, category_points, category_jpp)
+                    # print(startdate, enddate, race,race_id, category, category_points, category_jpp)
                     calendar.append([startdate, enddate, race, race_id, category, category_points, category_jpp])
         process_files.write_csv_file('calendar.csv', calendar)            
 
@@ -304,3 +305,24 @@ Het kan ook op datum.
 Door de trigger en de uit te voeren functie te scheiden, kun je die functie ook
 los van de trigger uitvoeren.
 """
+all_riders = process_files.read_csv_file('all_riders_cqranking_with_fc_rider_id.csv')
+
+def lookup_FC_rider_id(cq_rider_id):
+    for rider in all_riders[1:]:
+        if len(rider) > 9:
+            if rider[2] == cq_rider_id:
+                return rider[9]
+
+
+def add_FC_rider_ids():
+    new_list = [['renner_id','renner','rider','ploegleider','kosten','team','nationality','age','punten','JPP','FC_rider_id']]
+    sold_riders = process_files.read_csv_file('ploegen.csv')
+    for sold_rider in sold_riders[1:]:
+        # print(sold_rider)
+        fc_rider_id = lookup_FC_rider_id(sold_rider[0])
+        # print(fc_rider_id)
+        sold_rider.append(fc_rider_id)
+        new_list.append([sold_rider])
+        process_files.write_csv_file('ploegenplus.csv', new_list)
+
+# add_FC_rider_ids()

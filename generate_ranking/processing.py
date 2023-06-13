@@ -14,7 +14,7 @@ from decimal import *
 import process_files
 import process_points
 import add_teamcaptains
-#from datetime import datetime
+# from datetime import datetime
 """
 results.csv
 0 - rank
@@ -80,7 +80,7 @@ def add_up_points_per_teamcaptain(riders):
         team = [riders[0]]
         points = 0
         JPP = 0
-        #print(teamcaptain)
+        # print(teamcaptain)
         for rider in riders:
             if rider[3] == teamcaptain[0]:
                 # add to teamcaptain.csv
@@ -91,7 +91,7 @@ def add_up_points_per_teamcaptain(riders):
         process_files.write_csv_file("ploegleiders/"+teamcaptain[0].lower()+".csv", team)
         ranking.append([teamcaptain[0],teamcaptain[1], Decimal(points),int(JPP)])
 
-    #print(sorted(ranking))#, key=lambda x:(x[1], x[2], x[0])))
+    # print(sorted(ranking))#, key=lambda x:(x[1], x[2], x[0])))
     ranking = sorted(ranking, key=operator.itemgetter(2, 3), reverse=True)
     # append headers, 
     # add rank, with i for len(ranking)
@@ -99,8 +99,8 @@ def add_up_points_per_teamcaptain(riders):
     for i in range(len(ranking)):
         ranking_with_rank.append([i+1, ranking[i][0], ranking[i][1], ranking[i][2],ranking[i][3]])
     
-    for r in ranking_with_rank:
-        print(r)
+    # for r in ranking_with_rank:
+    #     print(r)
     #processtime = datetime.today().strftime('%Y-%m-%d#%H:%M:%S')
     process_files.write_csv_file("ranking.csv", ranking_with_rank)
 
@@ -113,10 +113,10 @@ new_results = process_files.read_csv_file('latest_results.csv')
 
 if process_points.add_points_to_results("all_results.csv", "results_with_points.csv"):
     if process_points.add_points_to_results("latest_results.csv", "latest_results_with_points.csv"):
-        print("Added points and JPP to results")
+        # print("Added points and JPP to results")
         add_up_points_per_rider()
         # here is the place where we should add the teamcaptain to the results
-        print("Adding teamcaptains to results")
+        # print("Adding teamcaptains to results")
         add_teamcaptains.add_teamcaptain("results_with_points.csv")
         add_teamcaptains.add_teamcaptain("latest_results_with_points.csv")
 
