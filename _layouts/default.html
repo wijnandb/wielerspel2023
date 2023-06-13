@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="nl">
     <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-LC3FJ3M4Y2"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-LC3FJ3M4Y2');
+        </script>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
@@ -23,7 +32,6 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link active" href="{{ '/tour/' | relative_url }}">Tour</a></li>
                         <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{% link renners.html %}">Verkochte renners</a></li>
                         <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{% link uitslagen.html %}">Uitslagen</a></li>
                     </ul>
