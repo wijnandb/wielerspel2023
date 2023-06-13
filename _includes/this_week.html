@@ -5,7 +5,7 @@
             <th>start</th>
             <th>eind</th>
             <th>Race (cat)</th>
-            <th>Punten</th>
+            <th scope="col" class="d-none d-lg-table-cell">Punten</th>
         </tr>
     </thead>
     <tbody>
@@ -14,7 +14,7 @@
           <td>{{ item.startdate | date: "%d-%m" }}</td>
           <td>{{ item.enddate | date: "%d-%m" }}</td>
           <td><a href="{{ site.baseurl }}/startlist/races/{{ item.FC_race_id }}.html">{{ item.race }} ({{ item.category }})</a></td>
-          <td>{{ item.points }}</td>
+          <td scope="col" class="d-none d-lg-table-cell">{{ item.points }}</td>
         </tr>
       {% endfor %}
     </tbody>
