@@ -51,10 +51,10 @@ def is_current_race(race):
         if race[1].isocalendar().week == currentweek + 2:
             # print(f"Meerdaagse koers eindigt {race}")
             return True
-        elif race[0].isocalendar().week < currentweek and race[1].isocalendar().week > currentweek:
+        elif race[0].isocalendar().week < currentweek and race[1].isocalendar().week >= currentweek:
             # print(f"Meerdaagse koers meer dan een week { race}")
             return True
-        elif race[4][:2] == "GT" and race[0].isocalendar().week < (currentweek + 4) and race[1].isocalendar().week > currentweek:
+        elif race[4][:2] == "GT" and race[0].isocalendar().week < (currentweek + 4) and race[1].isocalendar().week >= currentweek:
             return True
 
     return False
@@ -70,6 +70,7 @@ def is_current_race(race):
 current_races = [['startdate','enddate','race','FC_race_id','category','points','jpp']]    
 for race in calendar_with_dates:
     if is_current_race(race):
+        print(race)
         current_races.append(race)
         try:
             start_list.get_riders(race[3], '2023')
