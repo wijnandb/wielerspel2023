@@ -86,18 +86,18 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 60,12,Jasper Philipsen,26392,Alpecin-Deceuninck,BEL,Nick Veenstra,Nicky,11
 60,17,Gianni Vermeersch,18247,Alpecin-Deceuninck,BEL,Paul van Doorn,Paul,0
 60,21,Jasper Stuyven,18233,Trek-Segafredo,BEL,Pieter-Bas de Bruijn,PB,6
-60,26,Toms Skujins,16739,Trek-Segafredo,LAT,Kees van Ommeren,Kees,0
+60,24,Toms Skujins,16739,Trek-Segafredo,LAT,Kees van Ommeren,Kees,0
 60,31,Gerben Thijssen,27085,Intermarché-Circus-Wanty,BEL,Albert Kraaij,Albert,1
+60,33,Hugo Page,30663,Intermarché-Circus-Wanty,FRA,Albert Kraaij,Albert,1
 60,34,Lorenzo Rota,21958,Intermarché-Circus-Wanty,ITA,Paul van Doorn,Paul,3
+60,41,Caleb Ewan,19651,Lotto Dstny,AUS,Paul van Doorn,Paul,16
 60,47,Florian Vermeersch,28127,Lotto Dstny,BEL,Albert Kraaij,Albert,2
 60,51,John Degenkolb,9851,Team DSM,GER,Kaspar Burghard,Kaspar,1
 60,56,Casper van Uden,30636,Team DSM,NED,Jan Versluys,Jan,1
 60,57,Sam Welsford,23517,Team DSM,AUS,Pieter-Bas de Bruijn,PB,1
-60,61,Mark Cavendish,3448,Astana Qazaqstan Team,GBR,Kaspar Burghard,Kaspar,4
-60,62,Cees Bol,21930,Astana Qazaqstan Team,NED,Roy Smits,Roy,1
+60,61,Cees Bol,21930,Astana Qazaqstan Team,NED,Roy Smits,Roy,1
 60,71,Sep Vanmarcke,7728,Israel-Premier Tech,BEL,Jan Versluys,Jan,1
 60,72,Ben Hermans,4819,Israel-Premier Tech,BEL,Albert Kraaij,Albert,1
-60,75,Corbin Strong,29492,Israel-Premier Tech,NZL,Pieter-Bas de Bruijn,PB,1
 60,121,Vincenzo Albanese,24139,EOLO-Kometa Cycling Team,ITA,Harry Koene,Harry,1
 60,151,Alexander Kristoff,4179,Uno-X Pro Cycling Team,NOR,Nick Veenstra,Nicky,7
 60,156,Rasmus Tiller,25623,Uno-X Pro Cycling Team,NOR,Pieter-Bas de Bruijn,PB,1
@@ -108,13 +108,32 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 211,7,Tim Wellens,16722,UAE Team Emirates,BEL,Albert Kraaij,Albert,5
 211,11,Giovanni Aleotti,28451,BORA-hansgrohe,ITA,Wijnand Baretta,Wijnand,1
 211,16,Ide Schelling,26301,BORA-hansgrohe,NED,Harry Koene,Harry,2
-211,17,Matthew Walls,28509,BORA-hansgrohe,GBR,Pieter-Bas de Bruijn,PB,1
-211,23,Filippo Zana,27749,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2
-211,24,Dylan Groenewegen,19238,Team Jayco-AlUla,NED,Frank Rozemeijer,Frank,14
-211,27,Lucas Hamilton,25289,Team Jayco-AlUla,AUS,Albert Kraaij,Albert,1
+211,22,Dylan Groenewegen,19238,Team Jayco-AlUla,NED,Frank Rozemeijer,Frank,14
+211,23,Lucas Hamilton,25289,Team Jayco-AlUla,AUS,Albert Kraaij,Albert,1
+211,27,Filippo Zana,27749,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2
 211,31,Phil Bauhaus,20861,Bahrain Victorious,GER,Frank Vellinga,Vel,1
 211,33,Matej Mohoric,21145,Bahrain Victorious,SLO,Frank Rozemeijer,Frank,16
 211,36,Wout Poels,7751,Bahrain Victorious,NED,Roy Smits,Roy,1
+212,1,Michael Woods,20257,Israel-Premier Tech,CAN,Albert Kraaij,Albert,2
+212,4,Corbin Strong,29492,Israel-Premier Tech,NZL,Pieter-Bas de Bruijn,PB,1
+212,11,Filippo Ganna,24057,INEOS Grenadiers,ITA,Jan Versluys,Jan,16
+212,12,Lucas Plapp,29787,INEOS Grenadiers,AUS,Frank Vellinga,Vel,5
+212,15,Luke Rowe,13229,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,0
+212,17,Elia Viviani,13240,INEOS Grenadiers,ITA,Paul van Doorn,Paul,3
+212,21,Jesus Herrada,17534,Cofidis,ESP,Paul van Doorn,Paul,2
+212,25,Victor Lafay,26197,Cofidis,FRA,Jan Versluys,Jan,2
+212,31,Ruben Guerreiro,22683,Movistar Team,POR,Jan Versluys,Jan,1
+212,34,Ivan Sosa,26378,Movistar Team,COL,Nick Veenstra,Nicky,7
+212,35,Einer Rubio,27024,Movistar Team,COL,Frank Rozemeijer,Frank,0
+212,52,Nacer Bouhanni,16881,Team Arkéa-Samsic,FRA,Paul van Doorn,Paul,2
+212,64,Julien Simon,7834,TotalEnergies,FRA,Jan Versluys,Jan,1
+212,65,Jason Tesson,29883,TotalEnergies,FRA,Jan Versluys,Jan,1
+212,66,Anthony Turgis,21312,TotalEnergies,FRA,Frank Vellinga,Vel,3
+212,67,Dries van Gestel,21952,TotalEnergies,BEL,Roy Smits,Roy,2
+212,73,Odd Christian Eiking,21405,EF Education-EasyPost,NOR,Roy Smits,Roy,0
+212,75,Michael Valgren,18123,EF Education-EasyPost,DEN,Harry Koene,Harry,1
+212,126,Orluis Aular,24326,Caja Rural-Seguros RGA,VEN,Pieter-Bas de Bruijn,PB,1
+212,131,Benoît Cosnefroy,24189,AG2R Citroën Team,FRA,Pieter-Bas de Bruijn,PB,17
 17,,Benoît Cosnefroy,24189,AG2R Citroën Team,FRA,Pieter-Bas de Bruijn,PB,17
 17,,Ben O'Connor,23763,AG2R Citroën Team,AUS,Harry Koene,Harry,7
 17,,Mathieu van der Poel,21971,Alpecin-Deceuninck,NED,Frank Vellinga,Vel,40
