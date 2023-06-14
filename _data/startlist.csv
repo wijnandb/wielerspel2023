@@ -625,8 +625,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 212,101,Jordan Jegat,32860,CIC U Nantes Atlantique,FRA,-,-,-
 212,102,Yaël Joalland,30163,CIC U Nantes Atlantique,FRA,-,-,-
 212,103,Léo Danès,26350,CIC U Nantes Atlantique,FRA,-,-,-
-212,104,Pierre Barbier,25501,CIC U Nantes Atlantique,FRA,-,-,-
-212,105,Nolann Mahoudo,32899,CIC U Nantes Atlantique,FRA,-,-,-
+212,104,Enzo Boulet,,CIC U Nantes Atlantique,FRA,-,-,-
 212,106,Rasmus Søjberg Pedersen,32653,CIC U Nantes Atlantique,DEN,-,-,-
 212,107,Emmanuel Morin,24880,CIC U Nantes Atlantique,FRA,-,-,-
 212,111,Rudy Molard,11818,Groupama-FDJ,FRA,-,-,-
@@ -655,15 +654,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 212,143,Théo Delacroix,28508,St Michel-Mavic-Auber 93,FRA,-,-,-
 212,144,Joris Delbove,32181,St Michel-Mavic-Auber 93,FRA,-,-,-
 212,145,Thomas Devaux,28581,St Michel-Mavic-Auber 93,FRA,-,-,-
-212,146,Anthony Maldonado,17889,St Michel-Mavic-Auber 93,FRA,-,-,-
+212,146,Thomas Gachignard,32640,St Michel-Mavic-Auber 93,FRA,-,-,-
 212,147,Flavien Maurelet,20735,St Michel-Mavic-Auber 93,FRA,-,-,-
 212,151,Thomas Boudat,21308,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
 212,152,Célestin Guillon,31341,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
 212,153,Maxime Jarnet,28630,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
 212,154,Maximilien Juillard,32619,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
 212,155,Jérémy Leveau,19096,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
-212,156,Kenny Molly,24778,Van Rysel-Roubaix Lille Métropole,BEL,-,-,-
-212,157,Valentin Tabellion,29842,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
+212,156,Tom Mainguenaud,,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
 212,161,Jonathan Couanon,27468,Nice Métropole Côte d'Azur,FRA,-,-,-
 212,162,Paul Hennequin,32595,Nice Métropole Côte d'Azur,FRA,-,-,-
 212,163,Larry Valvasori,24479,Nice Métropole Côte d'Azur,LUX,-,-,-
@@ -676,7 +674,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 212,173,Joan Bou,27598,Euskaltel-Euskadi,ESP,-,-,-
 212,174,Ibai Azurmendi,25721,Euskaltel-Euskadi,ESP,-,-,-
 212,175,Unai Cuadrado,29424,Euskaltel-Euskadi,ESP,-,-,-
-212,176,Iker Ballarin,,Euskaltel-Euskadi,ESP,-,-,-
+212,176,Peio Goikoetxea,,Euskaltel-Euskadi,ESP,-,-,-
 212,177,Enekoitz Azparren,34102,Euskaltel-Euskadi,ESP,-,-,-
 17,,Benoît Cosnefroy,24189,AG2R Citroën Team,FRA,Pieter-Bas de Bruijn,PB,17
 17,,Ben O'Connor,23763,AG2R Citroën Team,AUS,Harry Koene,Harry,7
