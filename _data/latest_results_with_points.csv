@@ -1,42 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1s,"Tour de Suisse, Stage 6 : La Punt - Oberwil-Lieli (prov.)",41559,no result,13543,1,0,2023-06-16,-
+1,2.PSs,"Belgium Tour, Stage 3 : Beveren - Beveren I.T.T. (prov.)",41577,WAERENSKJOLD Søren,29187,0.3,0,2023-06-16,-
+1,2.PSs,"Tour of Slovenia, Stage 3 : Grosuplje - Postojna (prov.)",41583,SCHELLING Ide,26301,0.3,0,2023-06-16,Harry
+1,2.1s,"Route d'Occitanie, Stage 2 : Cazouls-Lès-Béziers - Graulhet (prov.)",41588,TESSON Jason,29883,0.2,0,2023-06-16,Jan
+1,NCT5,National Championships Finland (Muhos) I.T.T. (prov.),41495,MAKOGON Vladyslav,28629,0.5,0,2023-06-16,-
 1,2.WT1s,"Tour de Suisse, Stage 5 : Fiesch - La Punt (prov.)",41558,AYUSO PESQUERA Juan,31654,1,0,2023-06-15,Albert
 1,2.PSs,"Tour of Slovenia, Stage 2 : Zalec - Ormoz (prov.)",41582,GROENEWEGEN Dylan,19238,0.3,0,2023-06-15,Frank
 1,2.PSs,"Belgium Tour, Stage 2 : Merelbeke - Knokke-Heist (prov.)",41576,JAKOBSEN Fabio,23426,0.3,0,2023-06-15,Kaspar
 1,2.1s,"Route d'Occitanie, Stage 1 : Narbonne - Gruissan (prov.)",41587,VAN DEN BERG Marijn,27674,0.2,0,2023-06-15,-
+1,NCT5,National Championships Bermuda (Clearwater) I.T.T. (prov.),41493,HOPKINS Kaden,30107,0.5,0,2023-06-15,-
 1,2.WT1s,"Tour de Suisse, Stage 4 : Monthey - Leukerbad (prov.)",41557,GALL Felix,26383,1,0,2023-06-14,-
 1,2.PSs,"Belgium Tour, Stage 1 : Scherpenheuvel-Zichem - Scherpenheuvel-Zichem (prov.)",41575,PHILIPSEN Jasper,26392,0.3,0,2023-06-14,Nicky
 1,2.PSs,"Tour of Slovenia, Stage 1 : Celje - Rogaska Slatina (prov.)",41581,GROENEWEGEN Dylan,19238,0.3,0,2023-06-14,Frank
 1,2.WT1s,"Tour de Suisse, Stage 3 : Tafers - Villars-sur-Ollon (prov.)",41556,SKJELMOSE JENSEN Mattias,30166,1,0,2023-06-13,Kaspar
-1,1.PS,CIC - Mont Ventoux,41475,MARTINEZ Lenny,32721,4,50,2023-06-13,Kees
-2,1.PS,CIC - Mont Ventoux,41475,WOODS Michael,20257,1,35,2023-06-13,Albert
-3,1.PS,CIC - Mont Ventoux,41475,CARR Simon,30010,0.5,25,2023-06-13,-
-4,1.PS,CIC - Mont Ventoux,41475,RODRIGUEZ MARTIN Cristian,24102,0,20,2023-06-13,-
-5,1.PS,CIC - Mont Ventoux,41475,CHAMPOUSSIN Clément,27153,0,18,2023-06-13,Jan
-6,1.PS,CIC - Mont Ventoux,41475,SOSA CUERVO Ivan Ramiro,26378,0,16,2023-06-13,Nicky
-7,1.PS,CIC - Mont Ventoux,41475,POZZOVIVO Domenico,1999,0,14,2023-06-13,-
-8,1.PS,CIC - Mont Ventoux,41475,PARET-PEINTRE Valentin,31495,0,12,2023-06-13,-
-9,1.PS,CIC - Mont Ventoux,41475,CAMARGO PINEDA Diego Andres,28187,0,10,2023-06-13,-
-10,1.PS,CIC - Mont Ventoux,41475,BIZKARRA ETXEGIBEL Mikel,17006,0,8,2023-06-13,-
-1,CC2,Asian Cycling Championships (Rayong) R.R.,41483,BRUSSENSKIY Gleb,29310,1,0,2023-06-13,-
-2,CC2,Asian Cycling Championships (Rayong) R.R.,41483,GIDICH Yevgeniy,23806,0.0,0,2023-06-13,-
-3,CC2,Asian Cycling Championships (Rayong) R.R.,41483,ARASHIRO Yukiya,4021,0.0,0,2023-06-13,-
-4,CC2,Asian Cycling Championships (Rayong) R.R.,41483,KOISHI Yuma,21852,0.0,0,2023-06-13,-
-5,CC2,Asian Cycling Championships (Rayong) R.R.,41483,KIM Euro,28170,0.0,0,2023-06-13,-
-6,CC2,Asian Cycling Championships (Rayong) R.R.,41483,GANJKHANLOU Mohammad,25425,0.0,0,2023-06-13,-
-7,CC2,Asian Cycling Championships (Rayong) R.R.,41483,SAINBAYAR Jambaljamts,24289,0.0,0,2023-06-13,-
-8,CC2,Asian Cycling Championships (Rayong) R.R.,41483,LAU Wan Yau Vincent,24588,0.0,0,2023-06-13,-
-9,CC2,Asian Cycling Championships (Rayong) R.R.,41483,CAHYADI Aiman,20954,0.0,0,2023-06-13,-
-10,CC2,Asian Cycling Championships (Rayong) R.R.,41483,FEDOROV Yevgeniy,29309,0.0,0,2023-06-13,PB
-1,2.WT1s,"Tour de Suisse, Stage 2 : Beromünster - Nottwil (prov.)",41555,GIRMAY HAILU Biniam,29474,1,0,2023-06-12,Nicky
-1,2.WT1,"Critérium du Dauphiné, General classification",41522,VINGEGAARD RASMUSSEN Jonas,25740,10,50,2023-06-11,Arjan
-2,2.WT1,"Critérium du Dauphiné, General classification",41522,YATES Adam,18975,3,35,2023-06-11,Paul
-3,2.WT1,"Critérium du Dauphiné, General classification",41522,O'CONNOR Ben,23763,1,25,2023-06-11,Harry
-4,2.WT1,"Critérium du Dauphiné, General classification",41522,HINDLEY Jai,23948,0.5,20,2023-06-11,Kaspar
-5,2.WT1,"Critérium du Dauphiné, General classification",41522,HAIG Jack,21212,0.2,18,2023-06-11,Paul
-6,2.WT1,"Critérium du Dauphiné, General classification",41522,MARTIN Guillaume,19994,0,16,2023-06-11,Jan
-7,2.WT1,"Critérium du Dauphiné, General classification",41522,MEINTJES Louis,18413,0,14,2023-06-11,Wijnand
-8,2.WT1,"Critérium du Dauphiné, General classification",41522,TRAEEN Torstein,24068,0,12,2023-06-11,-
-9,2.WT1,"Critérium du Dauphiné, General classification",41522,RODRIGUEZ CANO Carlos,30836,0,10,2023-06-11,Roy
-10,2.WT1,"Critérium du Dauphiné, General classification",41522,ALAPHILIPPE Julian,18610,0,8,2023-06-11,Arjan
-1,2.WT1s,"Critérium du Dauphiné, Stage 8 : Le-Pont-de-Claix - La Bastille",41521,CICCONE Giulio,21812,1,0,2023-06-11,Nicky
-1,2.WT1r,"Tour de Suisse, Stage 1 : Einsiedeln - Einsiedeln I.T.T. (prov.)",41554,KÜNG Stefan,20960,0.0,0,2023-06-11,PB
