@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1s,"Tour de Suisse, Stage 7 : Tübach - Weinfelden (prov.)",41560,EVENEPOEL Remco,28377,0.0,0,2023-06-17
+1,2.PSs,"Belgium Tour, Stage 4 : Durbuy - Durbuy (prov.)",41578,VAN DER POEL Mathieu,21971,0.0,0,2023-06-17
+1,2.PSs,"Tour of Slovenia, Stage 4 : Ljubljana - Kobarid (prov.)",41584,PEÑA JIMENEZ Jesus David,29399,0.0,0,2023-06-17
+1,2.1s,"Route d'Occitanie, Stage 3 : Gimont - Nistos Cap Nestès (prov.)",41589,WOODS Michael,20257,0.0,0,2023-06-17
+1,NCT5,National Championships Rwanda (Nyacyonga) I.T.T. (prov.),41645,MUGISHA Moise,28740,0.0,0,2023-06-17
 1,2.WT1s,"Tour de Suisse, Stage 6 : La Punt - Oberwil-Lieli (prov.)",41559,no result,13543,0.0,0,2023-06-16
 1,2.PSs,"Belgium Tour, Stage 3 : Beveren - Beveren I.T.T. (prov.)",41577,WAERENSKJOLD Søren,29187,0.0,0,2023-06-16
 1,2.PSs,"Tour of Slovenia, Stage 3 : Grosuplje - Postojna (prov.)",41583,SCHELLING Ide,26301,0.0,0,2023-06-16
@@ -8,7 +13,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.PSs,"Tour of Slovenia, Stage 2 : Zalec - Ormoz (prov.)",41582,GROENEWEGEN Dylan,19238,0.0,0,2023-06-15
 1,2.PSs,"Belgium Tour, Stage 2 : Merelbeke - Knokke-Heist (prov.)",41576,JAKOBSEN Fabio,23426,0.0,0,2023-06-15
 1,2.1s,"Route d'Occitanie, Stage 1 : Narbonne - Gruissan (prov.)",41587,VAN DEN BERG Marijn,27674,0.0,0,2023-06-15
-1,NCT5,National Championships Bermuda (Clearwater) I.T.T. (prov.),41493,HOPKINS Kaden,30107,0.0,0,2023-06-15
-1,2.WT1s,"Tour de Suisse, Stage 4 : Monthey - Leukerbad (prov.)",41557,GALL Felix,26383,0.0,0,2023-06-14
-1,2.PSs,"Belgium Tour, Stage 1 : Scherpenheuvel-Zichem - Scherpenheuvel-Zichem (prov.)",41575,PHILIPSEN Jasper,26392,0.0,0,2023-06-14
-1,2.PSs,"Tour of Slovenia, Stage 1 : Celje - Rogaska Slatina (prov.)",41581,GROENEWEGEN Dylan,19238,0.0,0,2023-06-14
