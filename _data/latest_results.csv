@@ -1,13 +1,46 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1,"Tour de Suisse, General classification (prov.)",41562,SKJELMOSE JENSEN Mattias,30166,0.0,0,2023-06-18
+2,2.WT1,"Tour de Suisse, General classification (prov.)",41562,AYUSO PESQUERA Juan,31654,0.0,0,2023-06-18
+3,2.WT1,"Tour de Suisse, General classification (prov.)",41562,EVENEPOEL Remco,28377,0.0,0,2023-06-18
+4,2.WT1,"Tour de Suisse, General classification (prov.)",41562,KELDERMAN Wilco,15171,0.0,0,2023-06-18
+5,2.WT1,"Tour de Suisse, General classification (prov.)",41562,BARDET Romain,13566,0.0,0,2023-06-18
+6,2.WT1,"Tour de Suisse, General classification (prov.)",41562,URAN URAN Rigoberto,4099,0.0,0,2023-06-18
+7,2.WT1,"Tour de Suisse, General classification (prov.)",41562,UIJTDEBROEKS Cian,31803,0.0,0,2023-06-18
+8,2.WT1,"Tour de Suisse, General classification (prov.)",41562,GALL Felix,26383,0.0,0,2023-06-18
+9,2.WT1,"Tour de Suisse, General classification (prov.)",41562,TEUNS Dylan,17908,0.0,0,2023-06-18
+10,2.WT1,"Tour de Suisse, General classification (prov.)",41562,TEJADA CANACUE Harold Alfonso,26813,0.0,0,2023-06-18
+1,2.WT1s,"Tour de Suisse, Stage 8 : St Gallen - Abtwil I.T.T. (prov.)",41561,AYUSO PESQUERA Juan,31654,0.0,0,2023-06-18
+1,2.WT1r,"Tour de Suisse, Points classification (prov.)",41563,VAN AERT Wout,20730,0.0,0,2023-06-18
+1,2.WT1r,"Tour de Suisse, Mountains classification (prov.)",41564,EENKHOORN Pascal,24932,0.0,0,2023-06-18
+1,2.PS,"Belgium Tour, General classification (prov.)",41580,VAN DER POEL Mathieu,21971,0.0,0,2023-06-18
+2,2.PS,"Belgium Tour, General classification (prov.)",41580,WAERENSKJOLD Søren,29187,0.0,0,2023-06-18
+3,2.PS,"Belgium Tour, General classification (prov.)",41580,PEDERSEN Casper Phillip,23429,0.0,0,2023-06-18
+4,2.PS,"Belgium Tour, General classification (prov.)",41580,LAMPAERT Yves,19941,0.0,0,2023-06-18
+5,2.PS,"Belgium Tour, General classification (prov.)",41580,STUYVEN Jasper,18233,0.0,0,2023-06-18
+6,2.PS,"Belgium Tour, General classification (prov.)",41580,DE BUYST Jasper,19274,0.0,0,2023-06-18
+7,2.PS,"Belgium Tour, General classification (prov.)",41580,VERMEERSCH Florian,28127,0.0,0,2023-06-18
+8,2.PS,"Belgium Tour, General classification (prov.)",41580,HERMANS Ben,4819,0.0,0,2023-06-18
+9,2.PS,"Belgium Tour, General classification (prov.)",41580,VACEK Mathias,31713,0.0,0,2023-06-18
+10,2.PS,"Belgium Tour, General classification (prov.)",41580,ROTA Lorenzo,21958,0.0,0,2023-06-18
+1,2.PS,"Tour of Slovenia, General classification",41586,ZANA Filippo,27749,0.0,0,2023-06-18
+2,2.PS,"Tour of Slovenia, General classification",41586,MOHORIC Matej,21145,0.0,0,2023-06-18
+3,2.PS,"Tour of Slovenia, General classification",41586,ULISSI Diego,10023,0.0,0,2023-06-18
+4,2.PS,"Tour of Slovenia, General classification",41586,ALEOTTI Giovanni,28451,0.0,0,2023-06-18
+5,2.PS,"Tour of Slovenia, General classification",41586,PEÑA JIMENEZ Jesus David,29399,0.0,0,2023-06-18
+6,2.PS,"Tour of Slovenia, General classification",41586,FORTUNATO Lorenzo,25552,0.0,0,2023-06-18
+7,2.PS,"Tour of Slovenia, General classification",41586,ZWIEHOFF Ben,31491,0.0,0,2023-06-18
+8,2.PS,"Tour of Slovenia, General classification",41586,DOUBLE Paul,27721,0.0,0,2023-06-18
+9,2.PS,"Tour of Slovenia, General classification",41586,POELS Wout,7751,0.0,0,2023-06-18
+10,2.PS,"Tour of Slovenia, General classification",41586,LOPEZ CARAVACA Jordi,31278,0.0,0,2023-06-18
+1,2.PSs,"Belgium Tour, Stage 5 : Brussel - Brussel (prov.)",41579,JAKOBSEN Fabio,23426,0.0,0,2023-06-18
+1,2.PSs,"Tour of Slovenia, Stage 5 : Vrhnika - Novo Mesto",41585,MOHORIC Matej,21145,0.0,0,2023-06-18
+1,2.1,"Route d'Occitanie, General classification",41591,WOODS Michael,20257,0.0,0,2023-06-18
+2,2.1,"Route d'Occitanie, General classification",41591,RODRIGUEZ MARTIN Cristian,24102,0.0,0,2023-06-18
+3,2.1,"Route d'Occitanie, General classification",41591,STEINHAUSER Georg,30721,0.0,0,2023-06-18
+1,2.1s,"Route d'Occitanie, Stage 4 : Saint-Gaudens - Saint-Girons",41590,CARR Simon,30010,0.0,0,2023-06-18
+1,NC5,National Championships Finland (Oulu) R.R.,41496,JUNTUNEN Antti-Jussi,28631,0.0,0,2023-06-18
+1,NC5,National Championships Rwanda (Kinyinya - Batsinda) R.R.,41646,BYUKUSENGE Patrick,21690,0.0,0,2023-06-18
 1,2.WT1s,"Tour de Suisse, Stage 7 : Tübach - Weinfelden (prov.)",41560,EVENEPOEL Remco,28377,0.0,0,2023-06-17
 1,2.PSs,"Belgium Tour, Stage 4 : Durbuy - Durbuy (prov.)",41578,VAN DER POEL Mathieu,21971,0.0,0,2023-06-17
-1,2.PSs,"Tour of Slovenia, Stage 4 : Ljubljana - Kobarid (prov.)",41584,PEÑA JIMENEZ Jesus David,29399,0.0,0,2023-06-17
-1,2.1s,"Route d'Occitanie, Stage 3 : Gimont - Nistos Cap Nestès (prov.)",41589,WOODS Michael,20257,0.0,0,2023-06-17
-1,NCT5,National Championships Rwanda (Nyacyonga) I.T.T. (prov.),41645,MUGISHA Moise,28740,0.0,0,2023-06-17
-1,2.WT1s,"Tour de Suisse, Stage 6 : La Punt - Oberwil-Lieli (prov.)",41559,no result,13543,0.0,0,2023-06-16
-1,2.PSs,"Belgium Tour, Stage 3 : Beveren - Beveren I.T.T. (prov.)",41577,WAERENSKJOLD Søren,29187,0.0,0,2023-06-16
-1,2.PSs,"Tour of Slovenia, Stage 3 : Grosuplje - Postojna (prov.)",41583,SCHELLING Ide,26301,0.0,0,2023-06-16
-1,2.1s,"Route d'Occitanie, Stage 2 : Cazouls-Lès-Béziers - Graulhet (prov.)",41588,TESSON Jason,29883,0.0,0,2023-06-16
-1,NCT5,National Championships Finland (Muhos) I.T.T.,41495,MAKOGON Vladyslav,28629,0.0,0,2023-06-16
-1,2.WT1s,"Tour de Suisse, Stage 5 : Fiesch - La Punt (prov.)",41558,AYUSO PESQUERA Juan,31654,0.0,0,2023-06-15
-1,2.PSs,"Tour of Slovenia, Stage 2 : Zalec - Ormoz (prov.)",41582,GROENEWEGEN Dylan,19238,0.0,0,2023-06-15
+1,2.PSs,"Tour of Slovenia, Stage 4 : Ljubljana - Kobarid",41584,PEÑA JIMENEZ Jesus David,29399,0.0,0,2023-06-17
+1,2.1s,"Route d'Occitanie, Stage 3 : Gimont - Nistos Cap Nestès",41589,WOODS Michael,20257,0.0,0,2023-06-17
