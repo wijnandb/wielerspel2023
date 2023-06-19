@@ -1,681 +1,4 @@
 race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id,price
-16,1,Tom Pidcock,27708,INEOS Grenadiers,GBR,Albert Kraaij,Albert,20
-16,2,Kim Heiduk,29436,INEOS Grenadiers,GER,Albert Kraaij,Albert,0
-16,3,Michal Kwiatkowski,12923,INEOS Grenadiers,POL,Harry Koene,Harry,5
-16,4,Jhonnatan Narvaez,25157,INEOS Grenadiers,ECU,Nick Veenstra,Nicky,1
-16,5,Magnus Sheffield,31598,INEOS Grenadiers,USA,Jan Versluys,Jan,6
-16,6,Connor Swift,26437,INEOS Grenadiers,GBR,Pieter-Bas de Bruijn,PB,1
-16,7,Ben Tulett,30630,INEOS Grenadiers,GBR,Albert Kraaij,Albert,3
-16,11,Felix Gall,26383,AG2R Citroën Team,AUT,-,-,-
-16,12,Clement Berthet,31634,AG2R Citroën Team,FRA,-,-,-
-16,13,Mikaël Chérel,3371,AG2R Citroën Team,FRA,-,-,-
-16,14,Stan Dewulf,25655,AG2R Citroën Team,BEL,Kaspar Burghard,Kaspar,0
-16,15,Jaakko Hänninen,27211,AG2R Citroën Team,FIN,-,-,-
-16,16,Michael Schär,3152,AG2R Citroën Team,SUI,-,-,-
-16,17,Clément Venturini,21428,AG2R Citroën Team,FRA,-,-,-
-16,21,Kaden Groves,26637,Alpecin-Deceuninck,AUS,Frank Vellinga,Vel,4
-16,22,Silvan Dillier,16731,Alpecin-Deceuninck,SUI,-,-,-
-16,23,Michael Gogl,19858,Alpecin-Deceuninck,AUT,-,-,-
-16,24,Quinten Hermans,22077,Alpecin-Deceuninck,BEL,Frank Rozemeijer,Frank,1
-16,25,Søren Kragh Andersen,20793,Alpecin-Deceuninck,DEN,Frank Vellinga,Vel,2
-16,26,Xandro Meurisse,20165,Alpecin-Deceuninck,BEL,-,-,-
-16,27,Kristian Sbaragli,16702,Alpecin-Deceuninck,ITA,-,-,-
-16,31,Alexey Lutsenko,18455,Astana Qazaqstan Team,KAZ,Frank Vellinga,Vel,6
-16,32,Leonardo Basso,21800,Astana Qazaqstan Team,ITA,-,-,-
-16,33,Samuele Battistella,28450,Astana Qazaqstan Team,ITA,Frank Vellinga,Vel,2
-16,34,Fabio Felline,13169,Astana Qazaqstan Team,ITA,-,-,-
-16,35,Vadim Pronskiy,26676,Astana Qazaqstan Team,KAZ,-,-,-
-16,36,Harold Tejada,26813,Astana Qazaqstan Team,COL,-,-,-
-16,37,Simone Velasco,22662,Astana Qazaqstan Team,ITA,-,-,-
-16,41,Pello Bilbao,17881,Bahrain Victorious,ESP,Jan Versluys,Jan,6
-16,42,Nikias Arndt,16323,Bahrain Victorious,GER,-,-,-
-16,43,Filip Maciejuk,27941,Bahrain Victorious,POL,-,-,-
-16,44,Gino Mäder,26271,Bahrain Victorious,SUI,Bram van Ommeren,Bram,5
-16,45,Fran Miholjevic,31700,Bahrain Victorious,CRO,-,-,-
-16,46,Johan Price-Pejtersen,27805,Bahrain Victorious,DEN,-,-,-
-16,47,Antonio Tiberi,30649,Bahrain Victorious,ITA,-,-,-
-16,51,Maximilian Schachmann,20798,BORA-hansgrohe,GER,Bram van Ommeren,Bram,9
-16,52,Matteo Fabbro,24806,BORA-hansgrohe,ITA,-,-,-
-16,53,Marco Haller,15281,BORA-hansgrohe,AUT,Harry Koene,Harry,1
-16,54,Sergio Higuita,25026,BORA-hansgrohe,COL,Kaspar Burghard,Kaspar,15
-16,55,Jonas Koch,19616,BORA-hansgrohe,GER,-,-,-
-16,56,Jordi Meeus,26421,BORA-hansgrohe,BEL,Frank Vellinga,Vel,5
-16,57,Cian Uijtdebroeks,31803,BORA-hansgrohe,BEL,Frank Vellinga,Vel,2
-16,61,Ion Izagirre,14321,Cofidis,ESP,Harry Koene,Harry,2
-16,62,Piet Allegaert,22616,Cofidis,BEL,Frank Vellinga,Vel,0
-16,63,Bryan Coquard,18714,Cofidis,FRA,Jan Versluys,Jan,2
-16,64,Simon Geschke,4742,Cofidis,GER,-,-,-
-16,65,Jonathan Lastra,24698,Cofidis,ESP,-,-,-
-16,66,Alexis Renard,29969,Cofidis,FRA,-,-,-
-16,67,Rémy Rochas,24753,Cofidis,FRA,-,-,-
-16,71,Rigoberto Uran,4099,EF Education-EasyPost,COL,Bram van Ommeren,Bram,4
-16,72,Stefan Bissegger,26376,EF Education-EasyPost,SUI,Bram van Ommeren,Bram,4
-16,73,Mikkel Honore,25629,EF Education-EasyPost,DEN,Harry Koene,Harry,3
-16,74,Neilson Powless,24902,EF Education-EasyPost,USA,Harry Koene,Harry,6
-16,75,Jonas Rutsch,26438,EF Education-EasyPost,GER,-,-,-
-16,76,Thomas Scully,,EF Education-EasyPost,NZL,-,-,-
-16,77,Julius van den Berg,23361,EF Education-EasyPost,NED,-,-,-
-16,81,Stefan Küng,20960,Groupama-FDJ,SUI,Pieter-Bas de Bruijn,PB,11
-16,82,Arnaud Démare,16653,Groupama-FDJ,FRA,Wijnand Baretta,Wijnand,13
-16,83,Romain Grégoire,32766,Groupama-FDJ,FRA,-,-,-
-16,84,Quentin Pacher,20163,Groupama-FDJ,FRA,-,-,-
-16,85,Miles Scotson,21261,Groupama-FDJ,AUS,-,-,-
-16,86,Michael Storer,25335,Groupama-FDJ,AUS,Frank Vellinga,Vel,2
-16,87,Sam Watson,32161,Groupama-FDJ,GBR,-,-,-
-16,91,Biniam Girmay,29474,Intermarché-Circus-Wanty,ERI,Nick Veenstra,Nicky,19
-16,92,Lilian Calmejane,21439,Intermarché-Circus-Wanty,FRA,Jan Versluys,Jan,1
-16,93,Rui Costa,6807,Intermarché-Circus-Wanty,POR,-,-,-
-16,94,Dries De Pooter,22005,Intermarché-Circus-Wanty,BEL,-,-,-
-16,95,Adrien Petit,14273,Intermarché-Circus-Wanty,FRA,-,-,-
-16,96,Dion Smith,21036,Intermarché-Circus-Wanty,NZL,-,-,-
-16,97,Mike Teunissen,19165,Intermarché-Circus-Wanty,NED,Albert Kraaij,Albert,2
-16,101,Wout van Aert,20730,Jumbo-Visma,BEL,Frank Rozemeijer,Frank,61
-16,102,Koen Bouwman,20770,Jumbo-Visma,NED,Kaspar Burghard,Kaspar,4
-16,103,Rohan Dennis,12823,Jumbo-Visma,AUS,Albert Kraaij,Albert,1
-16,104,Robert Gesink,2364,Jumbo-Visma,NED,-,-,-
-16,105,Wilco Kelderman,15171,Jumbo-Visma,NED,Albert Kraaij,Albert,2
-16,106,Sam Oomen,21931,Jumbo-Visma,NED,Harry Koene,Harry,1
-16,107,Mick  van Dijke,30641,Jumbo-Visma,NED,Arjan Knibbe,Arjan,2
-16,111,Alex Aranburu,23940,Movistar Team,ESP,Jan Versluys,Jan,3
-16,112,Iván García Cortina,23497,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,1
-16,113,Gorka Izagirre,10070,Movistar Team,ESP,-,-,-
-16,114,Mathias Norsgaard,24924,Movistar Team,DEN,-,-,-
-16,115,Oier Lazkano,30595,Movistar Team,ESP,-,-,-
-16,116,Lluis Mas,12387,Movistar Team,ESP,-,-,-
-16,117,Gonzalo Serrano,22669,Movistar Team,ESP,Arjan Knibbe,Arjan,2
-16,121,Remco Evenepoel,28377,Soudal Quick-Step,BEL,Roy Smits,Roy,70
-16,122,Kasper Asgreen,23558,Soudal Quick-Step,DEN,Nick Veenstra,Nicky,10
-16,123,Mattia Cattaneo,16936,Soudal Quick-Step,ITA,Albert Kraaij,Albert,1
-16,124,James Knox,23403,Soudal Quick-Step,GBR,-,-,-
-16,125,Tim Merlier,17988,Soudal Quick-Step,BEL,Wijnand Baretta,Wijnand,14
-16,126,Mauro Schmid,29214,Soudal Quick-Step,SUI,Jan Versluys,Jan,4
-16,127,Bert Van Lerberghe,19483,Soudal Quick-Step,BEL,Arjan Knibbe,Arjan,1
-16,131,Matis Louvel,29982,Team Arkéa-Samsic,FRA,Paul van Doorn,Paul,3
-16,132,Louis Barré,30055,Team Arkéa-Samsic,FRA,-,-,-
-16,133,Ewen Costiou,32834,Team Arkéa-Samsic,FRA,-,-,-
-16,134,Mathis Le Berre,32636,Team Arkéa-Samsic,FRA,-,-,-
-16,135,Daniel McLay,18498,Team Arkéa-Samsic,GBR,-,-,-
-16,136,Luca Mozzato,28037,Team Arkéa-Samsic,ITA,Nick Veenstra,Nicky,2
-16,137,Andrii Ponomar,,Team Arkéa-Samsic,UKR,-,-,-
-16,141,Romain Bardet,13566,Team DSM,FRA,Jan Versluys,Jan,6
-16,142,Pavel Bittner,31555,Team DSM,CZE,-,-,-
-16,143,Matthew Dinham,29788,Team DSM,AUS,-,-,-
-16,144,Sean Flynn,29931,Team DSM,GBR,-,-,-
-16,145,Chris Hamilton,23885,Team DSM,AUS,-,-,-
-16,146,Marius Mayrhofer,29192,Team DSM,GER,-,-,-
-16,147,Kevin Vermaerke,29332,Team DSM,USA,-,-,-
-16,151,Matteo Sobrero,27033,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2
-16,152,Felix Engelhardt,29297,Team Jayco-AlUla,GER,-,-,-
-16,153,Welay Berhe,31740,Team Jayco-AlUla,ETH,-,-,-
-16,154,Christopher Juul-Jensen,,Team Jayco-AlUla,DEN,-,-,-
-16,155,Jan Maas,23350,Team Jayco-AlUla,NED,-,-,-
-16,156,Kelland O'Brien,27113,Team Jayco-AlUla,AUS,-,-,-
-16,157,Callum Scotson,25164,Team Jayco-AlUla,AUS,-,-,-
-16,161,Mattias Skjelmose Jensen,30166,Trek-Segafredo,DEN,Kaspar Burghard,Kaspar,7
-16,162,Filippo Baroncini,29419,Trek-Segafredo,ITA,-,-,-
-16,163,Julien Bernard,23357,Trek-Segafredo,FRA,-,-,-
-16,164,Tony Gallopin,7838,Trek-Segafredo,FRA,-,-,-
-16,165,Jacopo Mosca,22667,Trek-Segafredo,ITA,-,-,-
-16,166,Quinn Simmons,30666,Trek-Segafredo,USA,Bram van Ommeren,Bram,1
-16,167,Edward Theuns,16697,Trek-Segafredo,BEL,Harry Koene,Harry,0
-16,171,Juan Ayuso,31654,UAE Team Emirates,ESP,Albert Kraaij,Albert,21
-16,172,Sjoerd Bax,23306,UAE Team Emirates,NED,Pieter-Bas de Bruijn,PB,1
-16,173,George Bennett,12254,UAE Team Emirates,NZL,Nick Veenstra,Nicky,1
-16,174,Alessandro Covi,28298,UAE Team Emirates,ITA,Jan Versluys,Jan,3
-16,175,Finn Fisher-Black,30562,UAE Team Emirates,NZL,Jan Versluys,Jan,1
-16,176,Marc Hirschi,26509,UAE Team Emirates,SUI,Bram van Ommeren,Bram,10
-16,177,Jay Vine,29568,UAE Team Emirates,AUS,Frank Vellinga,Vel,2
-16,181,Dylan Teuns,17908,Israel-Premier Tech,BEL,Harry Koene,Harry,4
-16,182,Jakob Fuglsang,3828,Israel-Premier Tech,DEN,Kees van Ommeren,Kees,1
-16,183,Reto Hollenstein,7374,Israel-Premier Tech,SUI,-,-,-
-16,184,Hugo Houle,13438,Israel-Premier Tech,CAN,-,-,-
-16,185,Daryl Impey,1237,Israel-Premier Tech,RSA,-,-,-
-16,186,Krists Neilands,21113,Israel-Premier Tech,LAT,-,-,-
-16,187,Nick Schultz,22744,Israel-Premier Tech,AUS,-,-,-
-16,191,Lennert Van Eetvelt,32225,Lotto Dstny,BEL,-,-,-
-16,192,Johannes Adamietz,26533,Lotto Dstny,GER,-,-,-
-16,193,Cédric Beullens,25580,Lotto Dstny,BEL,-,-,-
-16,194,Pascal Eenkhoorn,24932,Lotto Dstny,NED,Harry Koene,Harry,1
-16,195,Andreas Kron,26420,Lotto Dstny,DEN,Paul van Doorn,Paul,1
-16,196,Sylvain Moniquet,26331,Lotto Dstny,BEL,-,-,-
-16,197,Michael Schwarzmann,15182,Lotto Dstny,GER,-,-,-
-16,201,Damien Howson,18239,Q36.5 Pro Cycling Team,AUS,-,-,-
-16,202,Gianluca Brambilla,7279,Q36.5 Pro Cycling Team,ITA,-,-,-
-16,203,Walter Calzoni,32557,Q36.5 Pro Cycling Team,ITA,-,-,-
-16,204,Mark Donovan,27964,Q36.5 Pro Cycling Team,GBR,-,-,-
-16,205,Carl Fredrik Hagen,23436,Q36.5 Pro Cycling Team,NOR,-,-,-
-16,206,Tobias Ludvigsson,16694,Q36.5 Pro Cycling Team,SWE,-,-,-
-16,207,Nickolas Zukowsky,26354,Q36.5 Pro Cycling Team,CAN,-,-,-
-16,211,Peter Sagan,12193,TotalEnergies,SVK,Roy Smits,Roy,5
-16,212,Maciej Bodnar,2378,TotalEnergies,POL,-,-,-
-16,213,Jérémy Cabot,25852,TotalEnergies,FRA,-,-,-
-16,214,Valentin Ferron,28375,TotalEnergies,FRA,-,-,-
-16,215,Lorrenzo Manzin,21343,TotalEnergies,FRA,-,-,-
-16,216,Daniel Oss,7148,TotalEnergies,ITA,-,-,-
-16,217,Paul Ourselin,23509,TotalEnergies,FRA,-,-,-
-16,221,Yannis Voisard,27977,Tudor Pro Cycling Team,SUI,-,-,-
-16,222,Jacob Eriksson,27920,Tudor Pro Cycling Team,SWE,-,-,-
-16,223,Alexander Kamp,19391,Tudor Pro Cycling Team,DEN,-,-,-
-16,224,Arthur Kluckers,29382,Tudor Pro Cycling Team,LUX,-,-,-
-16,225,Sebastien Reichenbach,13740,Tudor Pro Cycling Team,SUI,-,-,-
-16,226,Joel Suter,27256,Tudor Pro Cycling Team,SUI,-,-,-
-16,227,Roland Thalmann,23566,Tudor Pro Cycling Team,SUI,-,-,-
-10459,1,Diego Camargo,28187,EF Education-EasyPost,COL,-,-,-
-10459,2,Simon Carr,30010,EF Education-EasyPost,GBR,-,-,-
-10459,3,Odd Christian Eiking,21405,EF Education-EasyPost,NOR,Roy Smits,Roy,0
-10459,4,Merhawi Kudus,20784,EF Education-EasyPost,ERI,-,-,-
-10459,5,Mark Padun,24293,EF Education-EasyPost,UKR,Pieter-Bas de Bruijn,PB,1
-10459,7,Georg Steinhauser,30721,EF Education-EasyPost,GER,-,-,-
-10459,11,Jesus Herrada,17534,Cofidis,ESP,Paul van Doorn,Paul,2
-10459,12,François Bidard,21444,Cofidis,FRA,-,-,-
-10459,13,Thomas Champion,31288,Cofidis,FRA,-,-,-
-10459,14,Jose Herrada,3367,Cofidis,ESP,-,-,-
-10459,15,Harrison Wood,30333,Cofidis,GBR,-,-,-
-10459,16,Axel Mariault,30008,Cofidis,FRA,-,-,-
-10459,17,Hugo Toumire,31339,Cofidis,FRA,-,-,-
-10459,21,Alex Baudin,32146,AG2R Citroën Team,FRA,-,-,-
-10459,22,Valentin Retailleau,29868,AG2R Citroën Team,FRA,-,-,-
-10459,23,Paul Lapeira,30615,AG2R Citroën Team,FRA,-,-,-
-10459,24,Valentin Paret-Peintre,31495,AG2R Citroën Team,FRA,-,-,-
-10459,25,Nicolas Prodhomme,27594,AG2R Citroën Team,FRA,-,-,-
-10459,26,Bastien Tronchon,32134,AG2R Citroën Team,FRA,-,-,-
-10459,31,Reuben Thompson,30682,Groupama-FDJ,NZL,-,-,-
-10459,32,Lorenzo Germani,31635,Groupama-FDJ,ITA,-,-,-
-10459,33,Lars van den Berg,26333,Groupama-FDJ,NED,-,-,-
-10459,34,Lenny Martinez,32721,Groupama-FDJ,FRA,Kees van Ommeren,Kees,1
-10459,35,Rudy Molard,11818,Groupama-FDJ,FRA,-,-,-
-10459,36,Clément Davy,27248,Groupama-FDJ,FRA,-,-,-
-10459,37,Enzo Paleni,31636,Groupama-FDJ,FRA,-,-,-
-10459,41,Imanol Erviti,1760,Movistar Team,ESP,-,-,-
-10459,42,Abner González,29768,Movistar Team,PUR,-,-,-
-10459,43,William Barta,23362,Movistar Team,USA,-,-,-
-10459,44,Einer Rubio,27024,Movistar Team,COL,Frank Rozemeijer,Frank,0
-10459,45,Vinicius Rangel,31179,Movistar Team,BRA,-,-,-
-10459,46,Sergio Samitier,27637,Movistar Team,ESP,-,-,-
-10459,47,Ivan Sosa,26378,Movistar Team,COL,Nick Veenstra,Nicky,7
-10459,51,Cristian Rodriguez,24102,Team Arkéa-Samsic,ESP,-,-,-
-10459,52,Maxime Bouet,5262,Team Arkéa-Samsic,FRA,-,-,-
-10459,53,Clément Champoussin,27153,Team Arkéa-Samsic,FRA,Jan Versluys,Jan,1
-10459,54,Elie Gesbert,22912,Team Arkéa-Samsic,FRA,-,-,-
-10459,55,Kevin Ledanois,21452,Team Arkéa-Samsic,FRA,-,-,-
-10459,56,Michel Ries,27381,Team Arkéa-Samsic,LUX,-,-,-
-10459,57,Alessandro Verre,30808,Team Arkéa-Samsic,ITA,-,-,-
-10459,61,Chris Froome,5789,Israel-Premier Tech,GBR,-,-,-
-10459,62,Michael Woods,20257,Israel-Premier Tech,CAN,Albert Kraaij,Albert,2
-10459,63,Guillaume Boivin,10856,Israel-Premier Tech,CAN,-,-,-
-10459,64,Domenico Pozzovivo,1999,Israel-Premier Tech,ITA,-,-,-
-10459,65,Matthew Riccitello,31559,Israel-Premier Tech,USA,-,-,-
-10459,66,Stephen Williams,24346,Israel-Premier Tech,GBR,-,-,-
-10459,67,Pau Marti,,Israel-Premier Tech,ESP,-,-,-
-10459,71,Julen Amezqueta,24101,Caja Rural-Seguros RGA,ESP,-,-,-
-10459,72,Abel Balderstone,34079,Caja Rural-Seguros RGA,ESP,-,-,-
-10459,73,Jhojan Garcia,26478,Caja Rural-Seguros RGA,COL,-,-,-
-10459,74,Mulu Hailemichael,,Caja Rural-Seguros RGA,ETH,-,-,-
-10459,75,Calum Johnston,30492,Caja Rural-Seguros RGA,GBR,-,-,-
-10459,76,Orluis Aular,24326,Caja Rural-Seguros RGA,VEN,Pieter-Bas de Bruijn,PB,1
-10459,77,Josu Etxeberria,31287,Caja Rural-Seguros RGA,ESP,-,-,-
-10459,81,Fabien Doubey,24719,TotalEnergies,FRA,-,-,-
-10459,82,Sandy Dujardin,28583,TotalEnergies,FRA,-,-,-
-10459,83,Alan Jousseaume,29824,TotalEnergies,FRA,-,-,-
-10459,84,Pierre Latour,20156,TotalEnergies,FRA,Kaspar Burghard,Kaspar,2
-10459,85,Julien Simon,7834,TotalEnergies,FRA,Jan Versluys,Jan,1
-10459,86,Geoffrey Soupe,13560,TotalEnergies,FRA,-,-,-
-10459,87,Dries van Gestel,21952,TotalEnergies,BEL,Roy Smits,Roy,2
-10459,91,Asier Etxeberria,30007,Euskaltel-Euskadi,ESP,-,-,-
-10459,92,Mikel Bizkarra,17006,Euskaltel-Euskadi,ESP,-,-,-
-10459,93,Joan Bou,27598,Euskaltel-Euskadi,ESP,-,-,-
-10459,94,Ibai Azurmendi,25721,Euskaltel-Euskadi,ESP,-,-,-
-10459,95,Unai Cuadrado,29424,Euskaltel-Euskadi,ESP,-,-,-
-10459,96,Peio Goikoetxea,,Euskaltel-Euskadi,ESP,-,-,-
-10459,97,Enekoitz Azparren,34102,Euskaltel-Euskadi,ESP,-,-,-
-10459,101,Roger Adriá,27469,Equipo Kern Pharma,ESP,-,-,-
-10459,102,Jon Agirre,30023,Equipo Kern Pharma,ESP,-,-,-
-10459,103,Pablo Castrillo,34135,Equipo Kern Pharma,ESP,-,-,-
-10459,105,José Félix Parra,29074,Equipo Kern Pharma,ESP,-,-,-
-10459,106,Ibon Ruiz,30746,Equipo Kern Pharma,ESP,-,-,-
-10459,107,Carlos Garcia,31286,Equipo Kern Pharma,ESP,-,-,-
-10459,111,Niklas Eg,25032,Uno-X Pro Cycling Team,DEN,-,-,-
-10459,112,Jacob Hindsgaul Madsen,29275,Uno-X Pro Cycling Team,DEN,-,-,-
-10459,113,Marcus Sander Hansen,29946,Uno-X Pro Cycling Team,DEN,-,-,-
-10459,114,Ådne Holter,30167,Uno-X Pro Cycling Team,NOR,-,-,-
-10459,115,Magnus Kulset,31460,Uno-X Pro Cycling Team,NOR,-,-,-
-10459,116,Johannes Kulset,,Uno-X Pro Cycling Team,NOR,-,-,-
-10459,117,Idar Andersen,27652,Uno-X Pro Cycling Team,NOR,-,-,-
-10459,121,Pelayo Sanchez Mayo,31655,Burgos-BH,ESP,-,-,-
-10459,122,Jose Manuel Diaz,24103,Burgos-BH,ESP,-,-,-
-10459,123,Angel Madrazo,10629,Burgos-BH,ESP,-,-,-
-10459,124,Daniel Navarro,1358,Burgos-BH,ESP,-,-,-
-10459,125,Mario Aparicio,31664,Burgos-BH,ESP,-,-,-
-10459,126,Eric Fagundez,28445,Burgos-BH,URU,-,-,-
-10459,131,Edouard Bonnefoix,,Nice Métropole Côte d'Azur,FRA,-,-,-
-10459,132,Tristan Delacroix,32136,Nice Métropole Côte d'Azur,FRA,-,-,-
-10459,133,Maxime Urruty,27078,Nice Métropole Côte d'Azur,FRA,-,-,-
-10459,134,Jean Goubert,,Nice Métropole Côte d'Azur,FRA,-,-,-
-10459,135,Julian Lino,27253,Nice Métropole Côte d'Azur,FRA,-,-,-
-10459,136,Andrea Mifsud,31622,Nice Métropole Côte d'Azur,FRA,-,-,-
-10459,137,Larry Valvasori,24479,Nice Métropole Côte d'Azur,LUX,-,-,-
-10459,141,Mateu Estelrich,31763,Electro Hiper Europa,ESP,-,-,-
-10459,142,Victor Martinez Garcia,10888,Electro Hiper Europa,ESP,-,-,-
-10459,143,Jose Maria Garcia Soriano,32323,Electro Hiper Europa,ESP,-,-,-
-10459,144,Jose Luis Faura Asensio,21349,Electro Hiper Europa,ESP,-,-,-
-10459,145,Xavier Cañellas,25311,Electro Hiper Europa,ESP,-,-,-
-10459,146,Jose Maria Martin Muñoz,32323,Electro Hiper Europa,ESP,-,-,-
-10459,147,Alex Molenaar,28085,Electro Hiper Europa,NED,-,-,-
-10459,151,Jordan Jegat,32860,CIC U Nantes Atlantique,FRA,-,-,-
-10459,152,Yaël Joalland,30163,CIC U Nantes Atlantique,FRA,-,-,-
-10459,153,Léo Danès,26350,CIC U Nantes Atlantique,FRA,-,-,-
-10459,154,Maël Guégan,28466,CIC U Nantes Atlantique,FRA,-,-,-
-10459,155,Noa Isidore,34396,CIC U Nantes Atlantique,FRA,-,-,-
-10459,156,Hubert Grygowski,,CIC U Nantes Atlantique,POL,-,-,-
-60,1,Fabio Jakobsen,23426,Soudal Quick-Step,NED,Kaspar Burghard,Kaspar,23
-60,2,Tim Declercq,16895,Soudal Quick-Step,BEL,-,-,-
-60,3,Yves Lampaert,19941,Soudal Quick-Step,BEL,Harry Koene,Harry,1
-60,4,Michael Mørkøv,2870,Soudal Quick-Step,DEN,-,-,-
-60,5,Casper Pedersen,23429,Soudal Quick-Step,DEN,-,-,-
-60,6,Jannik Steimle,25081,Soudal Quick-Step,GER,Jan Versluys,Jan,1
-60,7,Stan Van Tricht,28579,Soudal Quick-Step,BEL,Jan Versluys,Jan,1
-60,11,Mathieu van der Poel,21971,Alpecin-Deceuninck,NED,Frank Vellinga,Vel,40
-60,12,Jasper Philipsen,26392,Alpecin-Deceuninck,BEL,Nick Veenstra,Nicky,11
-60,13,Dries De Bondt,22005,Alpecin-Deceuninck,BEL,-,-,-
-60,14,Senne Leysen,24226,Alpecin-Deceuninck,BEL,-,-,-
-60,15,Jonas Rickaert,21374,Alpecin-Deceuninck,BEL,-,-,-
-60,16,Ramon Sinkeldam,9957,Alpecin-Deceuninck,NED,-,-,-
-60,17,Gianni Vermeersch,18247,Alpecin-Deceuninck,BEL,Paul van Doorn,Paul,0
-60,21,Jasper Stuyven,18233,Trek-Segafredo,BEL,Pieter-Bas de Bruijn,PB,6
-60,22,Thibau Nys,32185,Trek-Segafredo,BEL,-,-,-
-60,23,Emils Liepins,18296,Trek-Segafredo,LAT,-,-,-
-60,24,Toms Skujins,16739,Trek-Segafredo,LAT,Kees van Ommeren,Kees,0
-60,25,Asbjørn Hellemose,31464,Trek-Segafredo,DEN,-,-,-
-60,26,Mathias Vacek,31713,Trek-Segafredo,CZE,-,-,-
-60,27,Otto Vergaerde,21288,Trek-Segafredo,BEL,-,-,-
-60,31,Gerben Thijssen,27085,Intermarché-Circus-Wanty,BEL,Albert Kraaij,Albert,1
-60,32,Aimé De Gendt,21998,Intermarché-Circus-Wanty,BEL,-,-,-
-60,33,Hugo Page,30663,Intermarché-Circus-Wanty,FRA,Albert Kraaij,Albert,1
-60,34,Lorenzo Rota,21958,Intermarché-Circus-Wanty,ITA,Paul van Doorn,Paul,3
-60,35,Sven Erik Bystrøm,18608,Intermarché-Circus-Wanty,NOR,-,-,-
-60,36,Boy van Poppel,7104,Intermarché-Circus-Wanty,NED,-,-,-
-60,37,Loic Vliegen,19577,Intermarché-Circus-Wanty,BEL,-,-,-
-60,41,Caleb Ewan,19651,Lotto Dstny,AUS,Paul van Doorn,Paul,16
-60,42,Jarrad Drizners,28419,Lotto Dstny,AUS,-,-,-
-60,43,Frederik Frison,20643,Lotto Dstny,BEL,-,-,-
-60,44,Sébastien Grignard,30617,Lotto Dstny,BEL,-,-,-
-60,45,Jacopo Guarnieri,7776,Lotto Dstny,ITA,-,-,-
-60,46,Jasper De Buyst,19274,Lotto Dstny,BEL,-,-,-
-60,47,Florian Vermeersch,28127,Lotto Dstny,BEL,Albert Kraaij,Albert,2
-60,51,John Degenkolb,9851,Team DSM,GER,Kaspar Burghard,Kaspar,1
-60,52,Joost Brinkman,,Team DSM,NED,-,-,-
-60,53,Alex Edmondson,20219,Team DSM,AUS,-,-,-
-60,54,Nils Eekhoff,26429,Team DSM,NED,-,-,-
-60,55,Niklas Märkl,27685,Team DSM,GER,-,-,-
-60,56,Casper van Uden,30636,Team DSM,NED,Jan Versluys,Jan,1
-60,57,Sam Welsford,23517,Team DSM,AUS,Pieter-Bas de Bruijn,PB,1
-60,61,Cees Bol,21930,Astana Qazaqstan Team,NED,Roy Smits,Roy,1
-60,62,Yuriy Natarov,24278,Astana Qazaqstan Team,KAZ,-,-,-
-60,63,Nurbergen Nurlykhassym,29577,Astana Qazaqstan Team,KAZ,-,-,-
-60,64,Cristian Scaroni,27002,Astana Qazaqstan Team,ITA,-,-,-
-60,65,Manuele Boaro,7682,Astana Qazaqstan Team,ITA,-,-,-
-60,66,Davide Martinelli,20093,Astana Qazaqstan Team,ITA,-,-,-
-60,67,Gleb Syritsa,29927,Astana Qazaqstan Team,RUS,-,-,-
-60,71,Sep Vanmarcke,7728,Israel-Premier Tech,BEL,Jan Versluys,Jan,1
-60,72,Ben Hermans,4819,Israel-Premier Tech,BEL,Albert Kraaij,Albert,1
-60,73,Jens Reynders,26449,Israel-Premier Tech,BEL,-,-,-
-60,74,Oded Kogut,31902,Israel-Premier Tech,ISR,-,-,-
-60,75,Guy Sagiv,21757,Israel-Premier Tech,ISR,-,-,-
-60,76,Tom Van Asbroeck,18504,Israel-Premier Tech,BEL,-,-,-
-60,77,Marco Frigo,29320,Israel-Premier Tech,ITA,-,-,-
-60,81,Jenno Berckmoes,32588,Team Flanders-Baloise,BEL,-,-,-
-60,82,Vito  Braet,29801,Team Flanders-Baloise,BEL,-,-,-
-60,83,Alex Colman,27727,Team Flanders-Baloise,BEL,-,-,-
-60,84,Sander De Pestel,6829,Team Flanders-Baloise,BEL,-,-,-
-60,85,Elias Maris,30532,Team Flanders-Baloise,BEL,-,-,-
-60,86,Aaron Van Poucke,28577,Team Flanders-Baloise,BEL,-,-,-
-60,87,Ward Vanhoof,29079,Team Flanders-Baloise,BEL,-,-,-
-60,91,Cériel Desal,29273,Bingoal WB,BEL,-,-,-
-60,92,Remy Mertz,21980,Bingoal WB,BEL,-,-,-
-60,93,Matteo Malucelli,23467,Bingoal WB,ITA,-,-,-
-60,94,Ludovic Robeet,20893,Bingoal WB,BEL,-,-,-
-60,95,Luca Van Boven,31597,Bingoal WB,BEL,-,-,-
-60,96,Guillaume Van Keirsbulck,16718,Bingoal WB,BEL,-,-,-
-60,97,Kenneth Van Rooy,20084,Bingoal WB,BEL,-,-,-
-60,101,Ryan Christensen,23872,Bolton Equities Black Spoke,NZL,-,-,-
-60,102,Logan Currie,30604,Bolton Equities Black Spoke,NZL,-,-,-
-60,103,James Fouche,26674,Bolton Equities Black Spoke,NZL,-,-,-
-60,104,Aaron Gate,13153,Bolton Equities Black Spoke,NZL,-,-,-
-60,105,Ollie Jones,,Bolton Equities Black Spoke,NZL,-,-,-
-60,106,Jacob Scott,25028,Bolton Equities Black Spoke,GBR,-,-,-
-60,107,Rory Townsend,25102,Bolton Equities Black Spoke,IRL,-,-,-
-60,111,Stefano Gandin,25680,Team corratec - Selle Italia,ITA,-,-,-
-60,112,Charlie Quarterman,26450,Team corratec - Selle Italia,GBR,-,-,-
-60,113,Lorenzo Quartucci,30047,Team corratec - Selle Italia,ITA,-,-,-
-60,114,Jan Stöckli,32974,Team corratec - Selle Italia,SUI,-,-,-
-60,115,Etienne van Empel,20642,Team corratec - Selle Italia,NED,-,-,-
-60,116,Attilio Viviani,26827,Team corratec - Selle Italia,ITA,-,-,-
-60,117,Samuele Zambelli,28403,Team corratec - Selle Italia,ITA,-,-,-
-60,121,Vincenzo Albanese,24139,EOLO-Kometa Cycling Team,ITA,Harry Koene,Harry,1
-60,122,Erik Fetter,29642,EOLO-Kometa Cycling Team,HUN,-,-,-
-60,123,Giovanni Lonardi,25634,EOLO-Kometa Cycling Team,ITA,-,-,-
-60,124,Mirco Maestri,20073,EOLO-Kometa Cycling Team,ITA,-,-,-
-60,125,David Martin,20093,EOLO-Kometa Cycling Team,ESP,-,-,-
-60,126,Andrea Pietrobon,,EOLO-Kometa Cycling Team,ITA,-,-,-
-60,127,Javier Serrano,30684,EOLO-Kometa Cycling Team,ESP,-,-,-
-60,131,Scott McGill,28506,Human Powered Health,USA,-,-,-
-60,132,August Jensen,17088,Human Powered Health,NOR,-,-,-
-60,133,Wessel Krul,,Human Powered Health,NED,-,-,-
-60,134,Bart Lemmen,32252,Human Powered Health,NED,-,-,-
-60,135,Barnabas Peak,27066,Human Powered Health,HUN,-,-,-
-60,136,Gijs Van Hoecke,16938,Human Powered Health,BEL,-,-,-
-60,137,Matthew Gibson,,Human Powered Health,GBR,-,-,-
-60,141,Hamish Beadle,,Team Novo Nordisk,NZL,-,-,-
-60,142,Declan Irvine,,Team Novo Nordisk,AUS,-,-,-
-60,143,Matyas Kopecky,33001,Team Novo Nordisk,CZE,-,-,-
-60,144,Peter Kusztor,1843,Team Novo Nordisk,HUN,-,-,-
-60,145,Andrea Peron,19343,Team Novo Nordisk,ITA,-,-,-
-60,146,Umberto Poli,,Team Novo Nordisk,ITA,-,-,-
-60,147,Filippo Ridolfo,31990,Team Novo Nordisk,ITA,-,-,-
-60,151,Alexander Kristoff,4179,Uno-X Pro Cycling Team,NOR,Nick Veenstra,Nicky,7
-60,152,Jonas Abrahamsen,22233,Uno-X Pro Cycling Team,NOR,-,-,-
-60,153,Stian Fredheim,32797,Uno-X Pro Cycling Team,NOR,-,-,-
-60,154,William Blume Levy,30711,Uno-X Pro Cycling Team,DEN,-,-,-
-60,155,Erik Resell,26475,Uno-X Pro Cycling Team,NOR,-,-,-
-60,156,Rasmus Tiller,25623,Uno-X Pro Cycling Team,NOR,Pieter-Bas de Bruijn,PB,1
-60,157,Søren Wærenskjold,29187,Uno-X Pro Cycling Team,NOR,-,-,-
-60,161,Dietmar Ledegen,,Baloise Trek Lions,BEL,-,-,-
-60,162,David Haverdings,,Baloise Trek Lions,NED,-,-,-
-60,163,Ward Huybs,,Baloise Trek Lions,BEL,-,-,-
-60,164,Daan Marien,,Baloise Trek Lions,BEL,-,-,-
-60,165,Joris Nieuwenhuis,23304,Baloise Trek Lions,NED,-,-,-
-60,166,Pim Ronhaar,30780,Baloise Trek Lions,NED,-,-,-
-60,167,Lars van der Haar,26333,Baloise Trek Lions,NED,-,-,-
-60,171,Eli Iserbyt,,Pauwels Sauzen - Bingoal,BEL,-,-,-
-60,172,Kay De Bruyckere,26740,Pauwels Sauzen - Bingoal,BEL,-,-,-
-60,173,Ryan Kamp,29459,Pauwels Sauzen - Bingoal,NED,-,-,-
-60,174,Yorben Lauryssen,,Pauwels Sauzen - Bingoal,BEL,-,-,-
-60,175,Angelo van den Bossche,,Pauwels Sauzen - Bingoal,BEL,-,-,-
-60,176,Lukas Vanderlinden,,Pauwels Sauzen - Bingoal,BEL,-,-,-
-60,177,Michael Vanthourenhout,,Pauwels Sauzen - Bingoal,BEL,-,-,-
-60,181,Stijn Daemen,,BEAT Cycling Club,NED,-,-,-
-60,182,Gil D'Heygere,27550,BEAT Cycling Club,BEL,-,-,-
-60,183,Guillaume Visser,,BEAT Cycling Club,NED,-,-,-
-60,184,Vincent Hoppezak,27735,BEAT Cycling Club,NED,-,-,-
-60,185,Lucas Janssen,32962,BEAT Cycling Club,NED,-,-,-
-60,186,Jochem Kerckhaert,,BEAT Cycling Club,NED,-,-,-
-60,187,Emiel Vermeulen,22019,BEAT Cycling Club,BEL,-,-,-
-60,191,Timothy Dupont,7948,Tarteletto-Isorex,BEL,-,-,-
-60,192,Maxime De Poorter,26946,Tarteletto-Isorex,BEL,-,-,-
-60,193,Jonas Geens,,Tarteletto-Isorex,BEL,-,-,-
-60,194,Andreas Goeman,28131,Tarteletto-Isorex,BEL,-,-,-
-60,195,Gianni Marchand,21532,Tarteletto-Isorex,BEL,-,-,-
-60,196,Thomas Joseph,23677,Tarteletto-Isorex,BEL,-,-,-
-60,197,Kobe Vanoverschelde,,Tarteletto-Isorex,BEL,-,-,-
-60,201,Zak Coleman,,VolkerWessels CT,GBR,-,-,-
-60,202,Timo De Jong,28087,VolkerWessels CT,NED,-,-,-
-60,203,Jasper Haest,33152,VolkerWessels CT,NED,-,-,-
-60,204,Bert-Jan Lindeman,10453,VolkerWessels CT,NED,-,-,-
-60,205,Peter Schulting,4146,VolkerWessels CT,NED,-,-,-
-60,206,Daan Van Sintmaartensdijk,27592,VolkerWessels CT,NED,-,-,-
-60,207,Thimo Willems,27105,VolkerWessels CT,BEL,-,-,-
-211,1,Rui Oliveira,24030,UAE Team Emirates,POR,-,-,-
-211,2,Felix Groß,19548,UAE Team Emirates,GER,Albert Kraaij,Albert,1
-211,3,Alvaro Hodeg,26396,UAE Team Emirates,COL,Albert Kraaij,Albert,1
-211,4,Sebastian Molano,23463,UAE Team Emirates,COL,Pieter-Bas de Bruijn,PB,1
-211,5,Domen Novak,22069,UAE Team Emirates,SLO,-,-,-
-211,6,Diego Ulissi,10023,UAE Team Emirates,ITA,Paul van Doorn,Paul,2
-211,7,Tim Wellens,16722,UAE Team Emirates,BEL,Albert Kraaij,Albert,5
-211,11,Giovanni Aleotti,28451,BORA-hansgrohe,ITA,Wijnand Baretta,Wijnand,1
-211,12,Shane Archbold,10601,BORA-hansgrohe,NZL,-,-,-
-211,13,Cesare Benedetti,7530,BORA-hansgrohe,POL,-,-,-
-211,14,Florian Lipowitz,30805,BORA-hansgrohe,GER,-,-,-
-211,15,Luis-Joe Lührs,32695,BORA-hansgrohe,GER,-,-,-
-211,16,Ide Schelling,26301,BORA-hansgrohe,NED,Harry Koene,Harry,2
-211,17,Ben Zwiehoff,31491,BORA-hansgrohe,GER,-,-,-
-211,21,Alessandro De Marchi,7268,Team Jayco-AlUla,ITA,-,-,-
-211,22,Dylan Groenewegen,19238,Team Jayco-AlUla,NED,Frank Rozemeijer,Frank,14
-211,23,Lucas Hamilton,25289,Team Jayco-AlUla,AUS,Albert Kraaij,Albert,1
-211,24,Luka Mezgec,15789,Team Jayco-AlUla,SLO,-,-,-
-211,25,Jesus David Peña,29399,Team Jayco-AlUla,COL,-,-,-
-211,26,Lukas Pöstlberger,18313,Team Jayco-AlUla,AUT,-,-,-
-211,27,Filippo Zana,27749,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2
-211,31,Phil Bauhaus,20861,Bahrain Victorious,GER,Frank Vellinga,Vel,1
-211,32,Nicolo Buratti,31820,Bahrain Victorious,ITA,-,-,-
-211,33,Matej Mohoric,21145,Bahrain Victorious,SLO,Frank Rozemeijer,Frank,16
-211,34,Dusan Rajovic,25600,Bahrain Victorious,SBA,-,-,-
-211,35,Cameron Scott,27116,Bahrain Victorious,AUS,-,-,-
-211,36,Wout Poels,7751,Bahrain Victorious,NED,Roy Smits,Roy,1
-211,41,Kristian Aasvold,22044,Human Powered Health,NOR,-,-,-
-211,42,Stanislaw Aniolkowski,24940,Human Powered Health,POL,-,-,-
-211,43,Alan Banaszek,24948,Human Powered Health,POL,-,-,-
-211,44,Charles-Etienne Chrétien,27729,Human Powered Health,CAN,-,-,-
-211,45,Paul Double,27721,Human Powered Health,GBR,-,-,-
-211,46,Sebastian Schönberger,20936,Human Powered Health,AUT,-,-,-
-211,47,Embret Svestad-Bårdseng,,Human Powered Health,NOR,-,-,-
-211,51,Davide Bais,28523,EOLO-Kometa Cycling Team,ITA,-,-,-
-211,52,Alessandro Fancellu,29221,EOLO-Kometa Cycling Team,ITA,-,-,-
-211,53,Lorenzo Fortunato,25552,EOLO-Kometa Cycling Team,ITA,-,-,-
-211,54,Andrea Garosio,21298,EOLO-Kometa Cycling Team,ITA,-,-,-
-211,55,Alex Martin,32583,EOLO-Kometa Cycling Team,ESP,-,-,-
-211,56,Davide Piganzoli,32232,EOLO-Kometa Cycling Team,ITA,-,-,-
-211,57,Fernando Tercero,32613,EOLO-Kometa Cycling Team,ESP,-,-,-
-211,61,Louis Blouwe,29120,Bingoal WB,BEL,-,-,-
-211,62,Floris De Tier,20459,Bingoal WB,BEL,-,-,-
-211,63,Johan Meens,31677,Bingoal WB,BEL,-,-,-
-211,64,Dimitri Peyskens,17842,Bingoal WB,BEL,-,-,-
-211,65,Lennert Teugels,27102,Bingoal WB,BEL,-,-,-
-211,66,Marco Tizza,19237,Bingoal WB,ITA,-,-,-
-211,67,Aaron Van der Beken,28577,Bingoal WB,BEL,-,-,-
-211,71,Luca Colnaghi,27762,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
-211,72,Davide Gabburo,20196,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
-211,73,Martin Marcellusi,29845,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
-211,74,Alessandro Santaromita,30553,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
-211,75,Alex Tolio,29321,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
-211,76,Alessandro Tonelli,19901,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
-211,77,Samuele Zoccarato,28600,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
-211,81,Xabier Azparren,30660,Euskaltel-Euskadi,ESP,-,-,-
-211,82,Carlos Canal,30708,Euskaltel-Euskadi,ESP,-,-,-
-211,83,Unai Iribar,28237,Euskaltel-Euskadi,ESP,-,-,-
-211,84,Xabier Isasa,32785,Euskaltel-Euskadi,ESP,-,-,-
-211,85,Txomin Juaristi,27111,Euskaltel-Euskadi,ESP,-,-,-
-211,86,Andoni Lopez de Abetxuko,31266,Euskaltel-Euskadi,ESP,-,-,-
-211,87,Gotzon Martín,27134,Euskaltel-Euskadi,ESP,-,-,-
-211,91,Matteo Amella,,Team corratec - Selle Italia,ITA,-,-,-
-211,92,Davide Baldaccini,28532,Team corratec - Selle Italia,ITA,-,-,-
-211,93,Nicolas Dalla Valle,26998,Team corratec - Selle Italia,ITA,-,-,-
-211,94,Alessandro Iacchi,29213,Team corratec - Selle Italia,ITA,-,-,-
-211,95,Marco Murgano,,Team corratec - Selle Italia,ITA,-,-,-
-211,96,Veljko Stojnic,28650,Team corratec - Selle Italia,SBA,-,-,-
-211,97,Karel Vacek,29174,Team corratec - Selle Italia,CZE,-,-,-
-211,101,Urko Berrade,27108,Equipo Kern Pharma,ESP,-,-,-
-211,102,Hector Carretero,25643,Equipo Kern Pharma,ESP,-,-,-
-211,103,Raúl García,30678,Equipo Kern Pharma,ESP,-,-,-
-211,104,Jordi Lopez Caravaca,31278,Equipo Kern Pharma,ESP,-,-,-
-211,105,Martí  Márquez,27094,Equipo Kern Pharma,ESP,-,-,-
-211,106,Mikel Retegi,,Equipo Kern Pharma,ESP,-,-,-
-211,107,Pau Miquel Delgado,32609,Equipo Kern Pharma,ESP,-,-,-
-211,111,Negasi Haylu Abreha,29240,Q36.5 Pro Cycling Team,ETH,-,-,-
-211,112,Matteo Badilatti,24246,Q36.5 Pro Cycling Team,SUI,-,-,-
-211,113,Marcel Camprubí,34030,Q36.5 Pro Cycling Team,ESP,-,-,-
-211,114,Fabio Christen,31719,Q36.5 Pro Cycling Team,SUI,-,-,-
-211,115,Tom Devriendt,18503,Q36.5 Pro Cycling Team,BEL,-,-,-
-211,116,Alessandro Fedeli,24807,Q36.5 Pro Cycling Team,ITA,-,-,-
-211,117,Matteo Moschetti,27126,Q36.5 Pro Cycling Team,ITA,-,-,-
-211,121,Fernando Barceló,27079,Caja Rural-Seguros RGA,ESP,-,-,-
-211,122,Jon Barrenetxea,31685,Caja Rural-Seguros RGA,ESP,-,-,-
-211,123,Jefferson Cepeda,23549,Caja Rural-Seguros RGA,ECU,-,-,-
-211,124,David González,28647,Caja Rural-Seguros RGA,ESP,-,-,-
-211,125,Joel Nicolau,29873,Caja Rural-Seguros RGA,ESP,-,-,-
-211,126,Eduard Prades,12400,Caja Rural-Seguros RGA,ESP,-,-,-
-211,127,Michal Schlegel,22719,Caja Rural-Seguros RGA,CZE,-,-,-
-211,131,Nils Brun,31643,Tudor Pro Cycling Team,SUI,-,-,-
-211,132,Aloïs Charrin,29846,Tudor Pro Cycling Team,FRA,-,-,-
-211,133,Luc Wirtgen,27209,Tudor Pro Cycling Team,LUX,-,-,-
-211,134,Lucas Eriksson,23531,Tudor Pro Cycling Team,SWE,-,-,-
-211,135,Petr Kelemen,29981,Tudor Pro Cycling Team,CZE,-,-,-
-211,136,Simon Pellaud,18632,Tudor Pro Cycling Team,SUI,-,-,-
-211,137,Robin Froidevaux,26377,Tudor Pro Cycling Team,SUI,-,-,-
-211,141,Tilen Finkst,25230,Adria Mobil,SLO,-,-,-
-211,142,Gal Glivar,31800,Adria Mobil,SLO,-,-,-
-211,143,Kristjan Hocevar,,Adria Mobil,SLO,-,-,-
-211,144,Aljaz Jarc,27925,Adria Mobil,SLO,-,-,-
-211,145,Dimitar Jovanoski,34220,Adria Mobil,MKD,-,-,-
-211,146,Kristjan Koren,2454,Adria Mobil,SLO,-,-,-
-211,147,Bostijan Murn,,Adria Mobil,SLO,-,-,-
-211,151,Vid Jeromel,,Cycling Team Kranj,SLO,-,-,-
-211,152,Nejc Komac,,Cycling Team Kranj,SLO,-,-,-
-211,153,Gasper Otonicar,,Cycling Team Kranj,SLO,-,-,-
-211,154,Teo Pecnik,,Cycling Team Kranj,SLO,-,-,-
-211,155,Luka Ziherl,32314,Cycling Team Kranj,SLO,-,-,-
-211,156,Jaka Vovk,32702,Cycling Team Kranj,SLO,-,-,-
-211,161,Natan Gregorcic,,Ljubljana Gusto Santic,SLO,-,-,-
-211,162,Dylan Hopkins,30870,Ljubljana Gusto Santic,AUS,-,-,-
-211,163,Jernej Hribar,,Ljubljana Gusto Santic,SLO,-,-,-
-211,164,Fabijan Kralj,33244,Ljubljana Gusto Santic,SLO,-,-,-
-211,165,Viktor Potocki,27896,Ljubljana Gusto Santic,CRO,-,-,-
-211,166,Anze Skok,29629,Ljubljana Gusto Santic,SLO,-,-,-
-211,167,Dan Andrej Tomsic,,Ljubljana Gusto Santic,SLO,-,-,-
-211,171,Pirmin Benz,29411,Team Vorarlberg,GER,-,-,-
-211,172,Antoine Berlin,30845,Team Vorarlberg,MON,-,-,-
-211,173,Oscar Cabedo,27362,Team Vorarlberg,ESP,-,-,-
-211,174,Jon Knolle,27883,Team Vorarlberg,GER,-,-,-
-211,175,Lukas Meiler,22219,Team Vorarlberg,GER,-,-,-
-211,176,Colin Stüssi,20681,Team Vorarlberg,SUI,-,-,-
-211,177,Moran Vermeulen,27271,Team Vorarlberg,AUT,-,-,-
-211,181,Marek Canecky,7941,RRK Group-Pierre Baguette-Benzinol,SVK,-,-,-
-211,182,Tomas Kalojiros,,RRK Group-Pierre Baguette-Benzinol,CZE,-,-,-
-211,183,Christian Haas,,RRK Group-Pierre Baguette-Benzinol,SVK,-,-,-
-211,184,Andrej Liska,,RRK Group-Pierre Baguette-Benzinol,SVK,-,-,-
-211,185,Martin Gavenda,,RRK Group-Pierre Baguette-Benzinol,SVK,-,-,-
-211,186,Martin Voltr,,RRK Group-Pierre Baguette-Benzinol,CZE,-,-,-
-211,187,Daniel Vysocan,,RRK Group-Pierre Baguette-Benzinol,CZE,-,-,-
-211,191,Gregor Matija Cerne,28664,Slovenia,SLO,-,-,-
-211,192,Ziga Horvat,26424,Slovenia,SLO,-,-,-
-211,193,Marko Pavlic,19608,Slovenia,SLO,-,-,-
-211,194,Jaka Primozic,27067,Slovenia,SLO,-,-,-
-211,195,Mihael Stajnar,20819,Slovenia,SLO,-,-,-
-211,196,Luka Vrhovnik,29630,Slovenia,SLO,-,-,-
-211,197,Leon Sarc,20931,Slovenia,SLO,-,-,-
-212,1,Michael Woods,20257,Israel-Premier Tech,CAN,Albert Kraaij,Albert,2
-212,2,Chris Froome,5789,Israel-Premier Tech,GBR,-,-,-
-212,3,Guillaume Boivin,10856,Israel-Premier Tech,CAN,-,-,-
-212,4,Corbin Strong,29492,Israel-Premier Tech,NZL,Pieter-Bas de Bruijn,PB,1
-212,5,Omer Goldstein,24485,Israel-Premier Tech,ISR,-,-,-
-212,6,Stephen Williams,24346,Israel-Premier Tech,GBR,-,-,-
-212,7,Domenico Pozzovivo,1999,Israel-Premier Tech,ITA,-,-,-
-212,11,Filippo Ganna,24057,INEOS Grenadiers,ITA,Jan Versluys,Jan,16
-212,12,Lucas Plapp,29787,INEOS Grenadiers,AUS,Frank Vellinga,Vel,5
-212,13,Michael Leonard,,INEOS Grenadiers,CAN,-,-,-
-212,14,Brandon Rivera,26283,INEOS Grenadiers,COL,-,-,-
-212,15,Luke Rowe,13229,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,0
-212,16,Joshua Tarling,34297,INEOS Grenadiers,GBR,-,-,-
-212,17,Elia Viviani,13240,INEOS Grenadiers,ITA,Paul van Doorn,Paul,3
-212,21,Jesus Herrada,17534,Cofidis,ESP,Paul van Doorn,Paul,2
-212,22,François Bidard,21444,Cofidis,FRA,-,-,-
-212,23,Thomas Champion,31288,Cofidis,FRA,-,-,-
-212,24,Jose Herrada,3367,Cofidis,ESP,-,-,-
-212,25,Victor Lafay,26197,Cofidis,FRA,Jan Versluys,Jan,2
-212,26,Axel Mariault,30008,Cofidis,FRA,-,-,-
-212,27,Hugo Toumire,31339,Cofidis,FRA,-,-,-
-212,31,Ruben Guerreiro,22683,Movistar Team,POR,Jan Versluys,Jan,1
-212,32,Imanol Erviti,1760,Movistar Team,ESP,-,-,-
-212,33,Abner González,29768,Movistar Team,PUR,-,-,-
-212,34,Ivan Sosa,26378,Movistar Team,COL,Nick Veenstra,Nicky,7
-212,35,Einer Rubio,27024,Movistar Team,COL,Frank Rozemeijer,Frank,0
-212,36,Vinicius Rangel,31179,Movistar Team,BRA,-,-,-
-212,37,Sergio Samitier,27637,Movistar Team,ESP,-,-,-
-212,41,Niklas Eg,25032,Uno-X Pro Cycling Team,DEN,-,-,-
-212,42,Jacob Hindsgaul Madsen,29275,Uno-X Pro Cycling Team,DEN,-,-,-
-212,43,Marcus Sander Hansen,29946,Uno-X Pro Cycling Team,DEN,-,-,-
-212,44,Ådne Holter,30167,Uno-X Pro Cycling Team,NOR,-,-,-
-212,45,Magnus Kulset,31460,Uno-X Pro Cycling Team,NOR,-,-,-
-212,46,Johannes Kulset,,Uno-X Pro Cycling Team,NOR,-,-,-
-212,47,Idar Andersen,27652,Uno-X Pro Cycling Team,NOR,-,-,-
-212,51,Elie Gesbert,22912,Team Arkéa-Samsic,FRA,-,-,-
-212,52,Nacer Bouhanni,16881,Team Arkéa-Samsic,FRA,Paul van Doorn,Paul,2
-212,53,Michel Ries,27381,Team Arkéa-Samsic,LUX,-,-,-
-212,54,Alessandro Verre,30808,Team Arkéa-Samsic,ITA,-,-,-
-212,55,Jenthe Biermans,22010,Team Arkéa-Samsic,BEL,-,-,-
-212,56,Laurent Pichon,14296,Team Arkéa-Samsic,FRA,-,-,-
-212,57,Cristian Rodriguez,24102,Team Arkéa-Samsic,ESP,-,-,-
-212,61,Fabien Doubey,24719,TotalEnergies,FRA,-,-,-
-212,62,Sandy Dujardin,28583,TotalEnergies,FRA,-,-,-
-212,63,Alan Jousseaume,29824,TotalEnergies,FRA,-,-,-
-212,64,Julien Simon,7834,TotalEnergies,FRA,Jan Versluys,Jan,1
-212,65,Jason Tesson,29883,TotalEnergies,FRA,Jan Versluys,Jan,1
-212,66,Anthony Turgis,21312,TotalEnergies,FRA,Frank Vellinga,Vel,3
-212,67,Dries van Gestel,21952,TotalEnergies,BEL,Roy Smits,Roy,2
-212,71,Diego Camargo,28187,EF Education-EasyPost,COL,-,-,-
-212,72,Simon Carr,30010,EF Education-EasyPost,GBR,-,-,-
-212,73,Odd Christian Eiking,21405,EF Education-EasyPost,NOR,Roy Smits,Roy,0
-212,74,Georg Steinhauser,30721,EF Education-EasyPost,GER,-,-,-
-212,75,Michael Valgren,18123,EF Education-EasyPost,DEN,Harry Koene,Harry,1
-212,76,Marijn van den Berg,27674,EF Education-EasyPost,NED,-,-,-
-212,77,Lukasz Wisniowski,18780,EF Education-EasyPost,POL,-,-,-
-212,81,José Félix Parra,29074,Equipo Kern Pharma,ESP,-,-,-
-212,82,Roger Adriá,27469,Equipo Kern Pharma,ESP,-,-,-
-212,83,Pablo Castrillo,34135,Equipo Kern Pharma,ESP,-,-,-
-212,84,Iñigo Elosegui,26986,Equipo Kern Pharma,ESP,-,-,-
-212,85,Carlos Garcia,31286,Equipo Kern Pharma,ESP,-,-,-
-212,86,Jon Agirre,30023,Equipo Kern Pharma,ESP,-,-,-
-212,87,Ibon Ruiz,30746,Equipo Kern Pharma,ESP,-,-,-
-212,91,Pelayo Sanchez Mayo,31655,Burgos-BH,ESP,-,-,-
-212,92,Jose Manuel Diaz,24103,Burgos-BH,ESP,-,-,-
-212,93,Angel Madrazo,10629,Burgos-BH,ESP,-,-,-
-212,94,Daniel Navarro,1358,Burgos-BH,ESP,-,-,-
-212,95,Mario Aparicio,31664,Burgos-BH,ESP,-,-,-
-212,96,Eric Fagundez,28445,Burgos-BH,URU,-,-,-
-212,97,Cyril Barthe,27156,Burgos-BH,FRA,-,-,-
-212,101,Jordan Jegat,32860,CIC U Nantes Atlantique,FRA,-,-,-
-212,102,Yaël Joalland,30163,CIC U Nantes Atlantique,FRA,-,-,-
-212,103,Léo Danès,26350,CIC U Nantes Atlantique,FRA,-,-,-
-212,104,Enzo Boulet,,CIC U Nantes Atlantique,FRA,-,-,-
-212,106,Rasmus Søjberg Pedersen,32653,CIC U Nantes Atlantique,DEN,-,-,-
-212,107,Emmanuel Morin,24880,CIC U Nantes Atlantique,FRA,-,-,-
-212,111,Rudy Molard,11818,Groupama-FDJ,FRA,-,-,-
-212,112,Paul Penhoët,30686,Groupama-FDJ,FRA,-,-,-
-212,113,Enzo Paleni,31636,Groupama-FDJ,FRA,-,-,-
-212,114,Clément Davy,27248,Groupama-FDJ,FRA,-,-,-
-212,115,Lorenzo Germani,31635,Groupama-FDJ,ITA,-,-,-
-212,116,Bram Welten,24933,Groupama-FDJ,NED,-,-,-
-212,117,Lars van den Berg,26333,Groupama-FDJ,NED,-,-,-
-212,121,Julen Amezqueta,24101,Caja Rural-Seguros RGA,ESP,-,-,-
-212,122,Abel Balderstone,34079,Caja Rural-Seguros RGA,ESP,-,-,-
-212,123,Jhojan Garcia,26478,Caja Rural-Seguros RGA,COL,-,-,-
-212,124,Mulu Hailemichael,,Caja Rural-Seguros RGA,ETH,-,-,-
-212,125,Calum Johnston,30492,Caja Rural-Seguros RGA,GBR,-,-,-
-212,126,Orluis Aular,24326,Caja Rural-Seguros RGA,VEN,Pieter-Bas de Bruijn,PB,1
-212,127,Josu Etxeberria,31287,Caja Rural-Seguros RGA,ESP,-,-,-
-212,131,Benoît Cosnefroy,24189,AG2R Citroën Team,FRA,Pieter-Bas de Bruijn,PB,17
-212,132,Paul Lapeira,30615,AG2R Citroën Team,FRA,-,-,-
-212,133,Alex Baudin,32146,AG2R Citroën Team,FRA,-,-,-
-212,134,Nicolas Prodhomme,27594,AG2R Citroën Team,FRA,-,-,-
-212,135,Valentin Paret-Peintre,31495,AG2R Citroën Team,FRA,-,-,-
-212,136,Bastien Tronchon,32134,AG2R Citroën Team,FRA,-,-,-
-212,137,Andrea Vendrame,22170,AG2R Citroën Team,ITA,-,-,-
-212,141,Romain Cardis,19112,St Michel-Mavic-Auber 93,FRA,-,-,-
-212,142,Nicolas Debeaumarché,28514,St Michel-Mavic-Auber 93,FRA,-,-,-
-212,143,Théo Delacroix,28508,St Michel-Mavic-Auber 93,FRA,-,-,-
-212,144,Joris Delbove,32181,St Michel-Mavic-Auber 93,FRA,-,-,-
-212,145,Thomas Devaux,28581,St Michel-Mavic-Auber 93,FRA,-,-,-
-212,146,Thomas Gachignard,32640,St Michel-Mavic-Auber 93,FRA,-,-,-
-212,147,Flavien Maurelet,20735,St Michel-Mavic-Auber 93,FRA,-,-,-
-212,151,Thomas Boudat,21308,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
-212,152,Célestin Guillon,31341,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
-212,153,Maxime Jarnet,28630,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
-212,154,Maximilien Juillard,32619,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
-212,155,Jérémy Leveau,19096,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
-212,156,Tom Mainguenaud,,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-
-212,161,Jonathan Couanon,27468,Nice Métropole Côte d'Azur,FRA,-,-,-
-212,162,Paul Hennequin,32595,Nice Métropole Côte d'Azur,FRA,-,-,-
-212,163,Larry Valvasori,24479,Nice Métropole Côte d'Azur,LUX,-,-,-
-212,164,Axel Narbonne-Zuccarelli,29156,Nice Métropole Côte d'Azur,FRA,-,-,-
-212,165,Jean-Louis Le Ny,30533,Nice Métropole Côte d'Azur,FRA,-,-,-
-212,166,Andrea Mifsud,31622,Nice Métropole Côte d'Azur,FRA,-,-,-
-212,167,Maxime Urruty,27078,Nice Métropole Côte d'Azur,FRA,-,-,-
-212,171,Asier Etxeberria,30007,Euskaltel-Euskadi,ESP,-,-,-
-212,172,Mikel Bizkarra,17006,Euskaltel-Euskadi,ESP,-,-,-
-212,173,Joan Bou,27598,Euskaltel-Euskadi,ESP,-,-,-
-212,174,Ibai Azurmendi,25721,Euskaltel-Euskadi,ESP,-,-,-
-212,175,Unai Cuadrado,29424,Euskaltel-Euskadi,ESP,-,-,-
-212,176,Peio Goikoetxea,,Euskaltel-Euskadi,ESP,-,-,-
-212,177,Enekoitz Azparren,34102,Euskaltel-Euskadi,ESP,-,-,-
 17,,Benoît Cosnefroy,24189,AG2R Citroën Team,FRA,Pieter-Bas de Bruijn,PB,17
 17,,Ben O'Connor,23763,AG2R Citroën Team,AUS,Harry Koene,Harry,7
 17,,Mathieu van der Poel,21971,Alpecin-Deceuninck,NED,Frank Vellinga,Vel,40
@@ -697,3 +20,152 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Romain Bardet,13566,Team DSM,FRA,Jan Versluys,Jan,6
 17,,Mads Pedersen,21992,Trek-Segafredo,DEN,Harry Koene,Harry,18
 17,,Tadej Pogacar,26526,UAE Team Emirates,SLO,Kees van Ommeren,Kees,83
+258,,Stijn Appel,30664,ABLOC CT,NED,-,-,-
+258,,Jelle Johannink,29206,ABLOC CT,NED,-,-,-
+258,,Antti-Jussi Juntunen,28631,ABLOC CT,FIN,-,-,-
+258,,Jesper Rasch,29098,ABLOC CT,NED,-,-,-
+258,,Frank van den Broek,33648,ABLOC CT,NED,-,-,-
+258,,Meindert Weulink,29915,ABLOC CT,NED,-,-,-
+258,,Ayco Bastiaens,31825,Alpecin-Deceuninck Dev. Team,BEL,-,-,-
+258,,Simon Dehairs,32634,Alpecin-Deceuninck Dev. Team,BEL,-,-,-
+258,,Axel Laurance,31621,Alpecin-Deceuninck Dev. Team,FRA,Jan Versluys,Jan,1
+258,,Witse Meeussen,,Alpecin-Deceuninck Dev. Team,BEL,-,-,-
+258,,Henri Uhlig,30827,Alpecin-Deceuninck Dev. Team,GER,-,-,-
+258,,Luca Vergallito,,Alpecin-Deceuninck Dev. Team,ITA,-,-,-
+258,,Karel Camrda,31373,ATT Investments,CZE,-,-,-
+258,,Tomas Jakoubek,27851,ATT Investments,CZE,-,-,-
+258,,Jan Kaspar,30143,ATT Investments,CZE,-,-,-
+258,,Jiri Petrus,23666,ATT Investments,CZE,-,-,-
+258,,Michal Schuran,26567,ATT Investments,CZE,-,-,-
+258,,Matus Stocek,28567,ATT Investments,SVK,-,-,-
+258,,Enzo Decker,33329,BIKE AID,GER,-,-,-
+258,,Vinzent Dorn,,BIKE AID,GER,-,-,-
+258,,Wesley Mol,,BIKE AID,NED,-,-,-
+258,,Eric Muhoza,32170,BIKE AID,RWA,-,-,-
+258,,Dawit Yemane,27022,BIKE AID,ERI,-,-,-
+258,,Adrian Zuger,34642,BIKE AID,GER,-,-,-
+258,,Cesare Benedetti,7530,BORA-hansgrohe,POL,-,-,-
+258,,Patrick Gamper,25096,BORA-hansgrohe,AUT,-,-,-
+258,,Patrick Konrad,16058,BORA-hansgrohe,AUT,Albert Kraaij,Albert,1
+258,,Florian Lipowitz,30805,BORA-hansgrohe,GER,-,-,-
+258,,Luis-Joe Lührs,32695,BORA-hansgrohe,GER,-,-,-
+258,,Frederik Wandahl,30710,BORA-hansgrohe,DEN,-,-,-
+258,,Yordan Andreev,21728,Bulgaria,BUL,-,-,-
+258,,Petar Dimitrov,32216,Bulgaria,BUL,-,-,-
+258,,Nikolay Genov,26097,Bulgaria,BUL,-,-,-
+258,,Borislav Ivanov,,Bulgaria,BUL,-,-,-
+258,,Martin Papanov,30052,Bulgaria,BUL,-,-,-
+258,,Yordan Petrov,,Bulgaria,BUL,-,-,-
+258,,Jo Hashikawa,34525,EF Education-NIPPO Development,JPN,-,-,-
+258,,Kazutoshi Kariya,,EF Education-NIPPO Development,JPN,-,-,-
+258,,Toby Perry,33071,EF Education-NIPPO Development,GBR,-,-,-
+258,,Marc Pritzen,28290,EF Education-NIPPO Development,RSA,-,-,-
+258,,Kiya Rogora,33542,EF Education-NIPPO Development,ETH,-,-,-
+258,,Felix Stehli,31651,EF Education-NIPPO Development,SUI,-,-,-
+258,,Domenico Cirlincione,33089,Gallina Ecotek Lucchini,ITA,-,-,-
+258,,Lorenzo Ferroni,,Gallina Ecotek Lucchini,ITA,-,-,-
+258,,Emil Schandorff Iwersen,31705,Gallina Ecotek Lucchini,DEN,-,-,-
+258,,Matteo Tarolla,,Gallina Ecotek Lucchini,ITA,-,-,-
+258,,Marco Tonti,,Gallina Ecotek Lucchini,ITA,-,-,-
+258,,Diomedes Velandia,,Gallina Ecotek Lucchini,COL,-,-,-
+258,,Giacomo Ballabio,29180,Global 6 Cycling,ITA,-,-,-
+258,,Ivan Moreno,26853,Global 6 Cycling,ESP,-,-,-
+258,,Callum Ormiston,29773,Global 6 Cycling,RSA,-,-,-
+258,,Michal Paluta,,Global 6 Cycling,POL,-,-,-
+258,,Nicolas  Sessler,,Global 6 Cycling,BRA,-,-,-
+258,,Tom Wirtgen,23431,Global 6 Cycling,LUX,-,-,-
+258,,Luca Colnaghi,27762,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
+258,,Filippo Magli,29779,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
+258,,Martin Marcellusi,29845,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
+258,,Alessandro Santaromita,30553,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
+258,,Manuele Tarozzi,29884,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
+258,,Alex Tolio,29321,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-
+258,,Marcin Budzinski,29523,HRE Mazowsze Serce Polski,POL,-,-,-
+258,,Tomasz Budzinski,29522,HRE Mazowsze Serce Polski,POL,-,-,-
+258,,Eduard Michael Grosu,13803,HRE Mazowsze Serce Polski,ROM,-,-,-
+258,,Jakub Kaczmarek,20566,HRE Mazowsze Serce Polski,POL,-,-,-
+258,,Jeppe Aaskov Pallesen,28675,HRE Mazowsze Serce Polski,DEN,-,-,-
+258,,Adam Stachowiak,13390,HRE Mazowsze Serce Polski,POL,-,-,-
+258,,Victor Campenaerts,20184,Lotto Dstny,BEL,Frank Vellinga,Vel,2
+258,,Sylvain Moniquet,26331,Lotto Dstny,BEL,-,-,-
+258,,Michael Schwarzmann,15182,Lotto Dstny,GER,-,-,-
+258,,Rüdiger Selig,10954,Lotto Dstny,GER,-,-,-
+258,,Eduardo Sepulveda,18487,Lotto Dstny,ARG,-,-,-
+258,,Lennert Van Eetvelt,32225,Lotto Dstny,BEL,-,-,-
+258,,Ioan Dobrin,,Mentorise Elite Team,ROM,-,-,-
+258,,Stefan Dragoiu,,Mentorise Elite Team,ROM,-,-,-
+258,,Adi Marcu,,Mentorise Elite Team,ROM,-,-,-
+258,,Gerhard-Cristin Moldansky,28789,Mentorise Elite Team,ROM,-,-,-
+258,,Mattew-Denis Piciu,32687,Mentorise Elite Team,ROM,-,-,-
+258,,Iustin Vaidian,,Mentorise Elite Team,ROM,-,-,-
+258,,Isaac Del Toro,,Mexico,MEX,-,-,-
+258,,Jose Antonio Escarcega,7793,Mexico,MEX,-,-,-
+258,,Carlos Alfonso Garcia,,Mexico,MEX,-,-,-
+258,,Jorge Peyrot Balvanera,32039,Mexico,MEX,-,-,-
+258,,David Ruvalcaba Reyes,34044,Mexico,MEX,-,-,-
+258,,Michael Zarate Animas,,Mexico,MEX,-,-,-
+258,,Davide Bauce,29140,MG.K vis Colors for Peace VPM,ITA,-,-,-
+258,,Francesco Carollo,32028,MG.K vis Colors for Peace VPM,ITA,-,-,-
+258,,Mattia Di Felice,,MG.K vis Colors for Peace VPM,ITA,-,-,-
+258,,Ben Granger,,MG.K vis Colors for Peace VPM,GBR,-,-,-
+258,,Edoardo Martinelli,,MG.K vis Colors for Peace VPM,ITA,-,-,-
+258,,Negasi Haylu Abreha,29240,Q36.5 Pro Cycling Team,ETH,-,-,-
+258,,Matteo Badilatti,24246,Q36.5 Pro Cycling Team,SUI,-,-,-
+258,,Corey Davis,,Q36.5 Pro Cycling Team,USA,-,-,-
+258,,Tom Devriendt,18503,Q36.5 Pro Cycling Team,BEL,-,-,-
+258,,Carl Fredrik Hagen,23436,Q36.5 Pro Cycling Team,NOR,-,-,-
+258,,Szymon Sajnok,25611,Q36.5 Pro Cycling Team,POL,-,-,-
+258,,Tudor Cazaceanu,,Romania,ROM,-,-,-
+258,,Daniel Crista,21715,Romania,ROM,-,-,-
+258,,Valentin Plesea,20227,Romania,ROM,-,-,-
+258,,Luigi-Ionut Raducu,30200,Romania,ROM,-,-,-
+258,,Cristian Raileanu,13770,Romania,ROM,-,-,-
+258,,Serghei Tvetcov,8079,Romania,ROM,-,-,-
+258,,Harry Birchill,33552,Saint Piran,GBR,-,-,-
+258,,Zeb Kyffin,,Saint Piran,GBR,-,-,-
+258,,Adam Lewis,,Saint Piran,GBR,-,-,-
+258,,Alexandar Richardson,26681,Saint Piran,GBR,-,-,-
+258,,Jack Rootkin-Gray,32177,Saint Piran,GBR,-,-,-
+258,,Bradley Symonds,,Saint Piran,GBR,-,-,-
+258,,Henri Appelbaum,,Saris Rouvy Sauerland Team,GER,-,-,-
+258,,Dominik Bauer,,Saris Rouvy Sauerland Team,GER,-,-,-
+258,,Julian Borresch,,Saris Rouvy Sauerland Team,GER,-,-,-
+258,,Silas Koech,,Saris Rouvy Sauerland Team,GER,-,-,-
+258,,Jonathan-Malte Rottmann,,Saris Rouvy Sauerland Team,GER,-,-,-
+258,,Lennart Voege,,Saris Rouvy Sauerland Team,GER,-,-,-
+258,,Catalin Buta,,Sofer-Savini Due-OMZ,ROM,-,-,-
+258,,Lorenzo Di Camillo,26111,Sofer-Savini Due-OMZ,ITA,-,-,-
+258,,Emil Dima,25233,Sofer-Savini Due-OMZ,ROM,-,-,-
+258,,Mihnea-Alexandru Harasim,,Sofer-Savini Due-OMZ,ROM,-,-,-
+258,,Conor Schunk,,Sofer-Savini Due-OMZ,USA,-,-,-
+258,,Batuhan Özgür,,Sofer-Savini Due-OMZ,TUR,-,-,-
+258,,Davide Bomboi,30543,TdT-Unibet,BEL,-,-,-
+258,,Jordy Bouts,26267,TdT-Unibet,BEL,-,-,-
+258,,Hartthijs de Vries,23351,TdT-Unibet,NED,-,-,-
+258,,Abram Stockman,26406,TdT-Unibet,BEL,-,-,-
+258,,Harry Tanfield,23507,TdT-Unibet,GBR,-,-,-
+258,,Bas Tietema,,TdT-Unibet,NED,-,-,-
+258,,Matteo Amella,,Team corratec - Selle Italia,ITA,-,-,-
+258,,Valerio Conti,21295,Team corratec - Selle Italia,ITA,-,-,-
+258,,Alessandro Iacchi,29213,Team corratec - Selle Italia,ITA,-,-,-
+258,,Nicolas Tivani,22472,Team corratec - Selle Italia,ARG,-,-,-
+258,,Karel Vacek,29174,Team corratec - Selle Italia,CZE,-,-,-
+258,,Etienne van Empel,20642,Team corratec - Selle Italia,NED,-,-,-
+258,,Emanuele Ansaloni,,Team Technipes #InEmiliaRomagna,ITA,-,-,-
+258,,Romaric Forques,,Team Technipes #InEmiliaRomagna,FRA,-,-,-
+258,,Andrea Innocenti,28560,Team Technipes #InEmiliaRomagna,ITA,-,-,-
+258,,Alessandro Monaco,27206,Team Technipes #InEmiliaRomagna,ITA,-,-,-
+258,,Martin Nessler,29874,Team Technipes #InEmiliaRomagna,ITA,-,-,-
+258,,Gabriele Petrelli,,Team Technipes #InEmiliaRomagna,ITA,-,-,-
+258,,Magnus Brynsrud,,Uno-X Pro Cycling Team,NOR,-,-,-
+258,,Simon Dalby,32795,Uno-X Pro Cycling Team,DEN,-,-,-
+258,,Niklas Eg,25032,Uno-X Pro Cycling Team,DEN,-,-,-
+258,,Anders Halland Johannessen,31420,Uno-X Pro Cycling Team,NOR,-,-,-
+258,,Johannes Kulset,,Uno-X Pro Cycling Team,NOR,-,-,-
+258,,Truls Nordhagen,32322,Uno-X Pro Cycling Team,NOR,-,-,-
+258,,Kevin Bonaldo,31444,Work Service-Vitalcare-Dynatek,ITA,-,-,-
+258,,Filippo Dignani,31906,Work Service-Vitalcare-Dynatek,ITA,-,-,-
+258,,Giacomo Garavaglia,27201,Work Service-Vitalcare-Dynatek,ITA,-,-,-
+258,,Lorenzo Ginestra,30554,Work Service-Vitalcare-Dynatek,ITA,-,-,-
+258,,Samuele Mion,,Work Service-Vitalcare-Dynatek,ITA,-,-,-
+258,,Christian Danilo Pase,,Work Service-Vitalcare-Dynatek,ITA,-,-,-
