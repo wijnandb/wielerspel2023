@@ -1,8 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,NCT5,National Championships Estonia (Viljandis) I.T.T. (prov.),41700,TAARAMÄE Rein,1646,0.5,0,2023-06-20,-
-1,NCT5,National Championships Mongolia () I.T.T. (prov.),41794,BATMUNKH Maralerdene,21965,0.5,0,2023-06-20,-
-1,NCT5,National Championships China () I.T.T. (prov.),41726,XUE Ming,31679,0.5,0,2023-06-20,-
-1,NC5,National Championships China () R.R. (prov.),41727,MA Binyan,30611,1,0,2023-06-19,-
+1,NCT1,National Championships Great Britain (Croft Circuit) I.T.T. (prov.),41663,TARLING Joshua,34297,2,0,2023-06-21,-
+1,NCT5,National Championships Latvia (Bikernieku) I.T.T. (prov.),41699,SKUJINS Toms,16739,0.5,0,2023-06-21,Kees
+1,NCT5,National Championships Kazakhstan (Taldykorgan) I.T.T. (prov.),41692,LUTSENKO Alexey,18455,0.5,0,2023-06-21,Vel
+1,NCT5,National Championships Estonia (Viljandis) I.T.T.,41700,TAARAMÄE Rein,1646,0.5,0,2023-06-20,-
+1,NCT5,National Championships Mongolia (Altanbulag) I.T.T. (prov.),41794,BATMUNKH Maralerdene,21965,0.5,0,2023-06-20,-
+1,NCT5,National Championships China (Chun'an) I.T.T.,41726,XUE Ming,31679,0.5,0,2023-06-20,-
+1,NC5,National Championships China (Chun'an) R.R.,41727,MA Binyan,30611,1,0,2023-06-19,-
 1,2.WT1,"Tour de Suisse, General classification",41562,SKJELMOSE JENSEN Mattias,30166,10,50,2023-06-18,Kaspar
 2,2.WT1,"Tour de Suisse, General classification",41562,AYUSO PESQUERA Juan,31654,3,35,2023-06-18,Albert
 3,2.WT1,"Tour de Suisse, General classification",41562,EVENEPOEL Remco,28377,1,25,2023-06-18,Roy
@@ -42,5 +45,4 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,2.1,"Route d'Occitanie, General classification",41591,RODRIGUEZ MARTIN Cristian,24102,0.3,0,2023-06-18,-
 3,2.1,"Route d'Occitanie, General classification",41591,STEINHAUSER Georg,30721,0.1,0,2023-06-18,-
 1,2.1s,"Route d'Occitanie, Stage 4 : Saint-Gaudens - Saint-Girons",41590,CARR Simon,30010,0.2,0,2023-06-18,-
-1,NC5,National Championships Ukraine () R.R. (prov.),41793,BILYI Maksym,30933,1,0,2023-06-18,-
-1,NC5,National Championships Finland (Oulu) R.R.,41496,JUNTUNEN Antti-Jussi,28631,1,0,2023-06-18,-
+1,NC5,National Championships Ukraine (Turka) R.R.,41793,BILYI Maksym,30933,1,0,2023-06-18,-
