@@ -7,19 +7,39 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Guillaume Martin,19994,Cofidis,FRA,Jan Versluys,Jan,4
 17,,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,4
 17,,Richard Carapaz,21342,EF Education-EasyPost,ECU,Wijnand Baretta,Wijnand,32
+17,,David Gaudu,24255, Groupama-FDJ,FRA,Nick Veenstra,Nicky,9
+17,,Stefan Küng,20960, Groupama-FDJ,SUI,Pieter-Bas de Bruijn,PB,11
+17,,Valentin Madouas,24758, Groupama-FDJ,FRA,Pieter-Bas de Bruijn,PB,6
+17,,Thibaut Pinot,13080, Groupama-FDJ,FRA,Nick Veenstra,Nicky,4
 17,,Egan Bernal,24926,INEOS Grenadiers,COL,Paul van Doorn,Paul,28
 17,,Daniel Martinez,23503,INEOS Grenadiers,COL,Bram van Ommeren,Bram,12
 17,,Carlos Rodriguez,30836,INEOS Grenadiers,ESP,Roy Smits,Roy,12
+17,,Louis Meintjes,18413,Intermarché-Circus-Wanty,RSA,Wijnand Baretta,Wijnand,1
 17,,Dylan Teuns,17908,Israel-Premier Tech,BEL,Harry Koene,Harry,4
 17,,Wout van Aert,20730,Jumbo-Visma,BEL,Frank Rozemeijer,Frank,61
 17,,Jonas Vingegaard,25740,Jumbo-Visma,DEN,Arjan Knibbe,Arjan,43
+17,,Victor Campenaerts,20184, Lotto Dstny,BEL,Frank Vellinga,Vel,2
+17,,Pascal Eenkhoorn,24932, Lotto Dstny,NED,Harry Koene,Harry,1
+17,,Caleb Ewan,19651, Lotto Dstny,AUS,Paul van Doorn,Paul,16
+17,,Florian Vermeersch,28127, Lotto Dstny,BEL,Albert Kraaij,Albert,2
+17,,Enric Mas,22794,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,17
 17,,Julian Alaphilippe,18610,Soudal Quick-Step,FRA,Arjan Knibbe,Arjan,40
 17,,Romain Bardet,13566,Team DSM,FRA,Jan Versluys,Jan,6
 17,,Mads Pedersen,21992,Trek-Segafredo,DEN,Harry Koene,Harry,18
 17,,Tadej Pogacar,26526,UAE Team Emirates,SLO,Kees van Ommeren,Kees,83
-17,,Tobias Halland Johannessen,31567,Uno-X Pro Cycling Team,NOR,Albert Kraaij,Albert,2
-17,,Alexander Kristoff,4179,Uno-X Pro Cycling Team,NOR,Nick Veenstra,Nicky,7
-17,,Rasmus Tiller,25623,Uno-X Pro Cycling Team,NOR,Pieter-Bas de Bruijn,PB,1
+17,,Tobias Halland Johannessen,31567, Uno-X Pro Cycling Team,NOR,Albert Kraaij,Albert,2
+17,,Alexander Kristoff,4179, Uno-X Pro Cycling Team,NOR,Nick Veenstra,Nicky,7
+17,,Rasmus Tiller,25623, Uno-X Pro Cycling Team,NOR,Pieter-Bas de Bruijn,PB,1
+38,1,Leo Hayter,30635,INEOS Grenadiers,GBR,Wijnand Baretta,Wijnand,1
+38,3,Lucas Plapp,29787,INEOS Grenadiers,AUS,Frank Vellinga,Vel,5
+38,6,Pavel Sivakov,24934,INEOS Grenadiers,FRA,Paul van Doorn,Paul,7
+38,21,Pascal Ackermann,20917,UAE Team Emirates,GER,Frank Vellinga,Vel,5
+38,24,George Bennett,12254,UAE Team Emirates,NZL,Nick Veenstra,Nicky,1
+38,25,Alessandro Covi,28298,UAE Team Emirates,ITA,Jan Versluys,Jan,3
+38,26,Davide Formolo,18749,UAE Team Emirates,ITA,Nick Veenstra,Nicky,2
+38,27,Marc Hirschi,26509,UAE Team Emirates,SUI,Bram van Ommeren,Bram,10
+38,35,Gianni Vermeersch,18247,Alpecin-Deceuninck,BEL,Paul van Doorn,Paul,0
+38,36,Robert Stannard,26409,Alpecin-Deceuninck,AUS,Kees van Ommeren,Kees,2
 258,,Axel Laurance,31621,Alpecin-Deceuninck Dev. Team,FRA,Jan Versluys,Jan,1
 258,,Patrick Konrad,16058,BORA-hansgrohe,AUT,Albert Kraaij,Albert,1
 258,,Victor Campenaerts,20184,Lotto Dstny,BEL,Frank Vellinga,Vel,2

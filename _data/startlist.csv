@@ -8,26 +8,175 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Alexis Renard,29969,Cofidis,FRA,-,-,-
 17,,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,4
 17,,Richard Carapaz,21342,EF Education-EasyPost,ECU,Wijnand Baretta,Wijnand,32
+17,,David Gaudu,24255, Groupama-FDJ,FRA,Nick Veenstra,Nicky,9
+17,,Kevin Geniets,25763, Groupama-FDJ,LUX,-,-,-
+17,,Stefan Küng,20960, Groupama-FDJ,SUI,Pieter-Bas de Bruijn,PB,11
+17,,Olivier Le Gac,18234, Groupama-FDJ,FRA,-,-,-
+17,,Valentin Madouas,24758, Groupama-FDJ,FRA,Pieter-Bas de Bruijn,PB,6
+17,,Quentin Pacher,20163, Groupama-FDJ,FRA,-,-,-
+17,,Thibaut Pinot,13080, Groupama-FDJ,FRA,Nick Veenstra,Nicky,4
+17,,Lars van den Berg,26333, Groupama-FDJ,NED,-,-,-
 17,,Egan Bernal,24926,INEOS Grenadiers,COL,Paul van Doorn,Paul,28
 17,,Daniel Martinez,23503,INEOS Grenadiers,COL,Bram van Ommeren,Bram,12
 17,,Carlos Rodriguez,30836,INEOS Grenadiers,ESP,Roy Smits,Roy,12
+17,,Louis Meintjes,18413,Intermarché-Circus-Wanty,RSA,Wijnand Baretta,Wijnand,1
 17,,Chris Froome,5789,Israel-Premier Tech,GBR,-,-,-
 17,,Daryl Impey,1237,Israel-Premier Tech,RSA,-,-,-
 17,,Dylan Teuns,17908,Israel-Premier Tech,BEL,Harry Koene,Harry,4
 17,,Wout van Aert,20730,Jumbo-Visma,BEL,Frank Rozemeijer,Frank,61
 17,,Jonas Vingegaard,25740,Jumbo-Visma,DEN,Arjan Knibbe,Arjan,43
+17,,Victor Campenaerts,20184, Lotto Dstny,BEL,Frank Vellinga,Vel,2
+17,,Jasper De Buyst,19274, Lotto Dstny,BEL,-,-,-
+17,,Pascal Eenkhoorn,24932, Lotto Dstny,NED,Harry Koene,Harry,1
+17,,Caleb Ewan,19651, Lotto Dstny,AUS,Paul van Doorn,Paul,16
+17,,Frederik Frison,20643, Lotto Dstny,BEL,-,-,-
+17,,Jacopo Guarnieri,7776, Lotto Dstny,ITA,-,-,-
+17,,Maxim Van Gils,28521, Lotto Dstny,BEL,-,-,-
+17,,Florian Vermeersch,28127, Lotto Dstny,BEL,Albert Kraaij,Albert,2
+17,,Enric Mas,22794,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,17
 17,,Julian Alaphilippe,18610,Soudal Quick-Step,FRA,Arjan Knibbe,Arjan,40
 17,,Romain Bardet,13566,Team DSM,FRA,Jan Versluys,Jan,6
 17,,Mads Pedersen,21992,Trek-Segafredo,DEN,Harry Koene,Harry,18
 17,,Tadej Pogacar,26526,UAE Team Emirates,SLO,Kees van Ommeren,Kees,83
-17,,Jonas Abrahamsen,22233,Uno-X Pro Cycling Team,NOR,-,-,-
-17,,Anthon Charmig,26474,Uno-X Pro Cycling Team,DEN,-,-,-
-17,,Jonas Gregaard,23437,Uno-X Pro Cycling Team,DEN,-,-,-
-17,,Tobias Halland Johannessen,31567,Uno-X Pro Cycling Team,NOR,Albert Kraaij,Albert,2
-17,,Alexander Kristoff,4179,Uno-X Pro Cycling Team,NOR,Nick Veenstra,Nicky,7
-17,,Rasmus Tiller,25623,Uno-X Pro Cycling Team,NOR,Pieter-Bas de Bruijn,PB,1
-17,,Torstein Træen,24068,Uno-X Pro Cycling Team,NOR,-,-,-
-17,,Søren Wærenskjold,29187,Uno-X Pro Cycling Team,NOR,-,-,-
+17,,Jonas Abrahamsen,22233, Uno-X Pro Cycling Team,NOR,-,-,-
+17,,Anthon Charmig,26474, Uno-X Pro Cycling Team,DEN,-,-,-
+17,,Jonas Gregaard,23437, Uno-X Pro Cycling Team,DEN,-,-,-
+17,,Tobias Halland Johannessen,31567, Uno-X Pro Cycling Team,NOR,Albert Kraaij,Albert,2
+17,,Alexander Kristoff,4179, Uno-X Pro Cycling Team,NOR,Nick Veenstra,Nicky,7
+17,,Rasmus Tiller,25623, Uno-X Pro Cycling Team,NOR,Pieter-Bas de Bruijn,PB,1
+17,,Torstein Træen,24068, Uno-X Pro Cycling Team,NOR,-,-,-
+17,,Søren Wærenskjold,29187, Uno-X Pro Cycling Team,NOR,-,-,-
+38,1,Leo Hayter,30635,INEOS Grenadiers,GBR,Wijnand Baretta,Wijnand,1
+38,2,Michael Leonard,,INEOS Grenadiers,CAN,-,-,-
+38,3,Lucas Plapp,29787,INEOS Grenadiers,AUS,Frank Vellinga,Vel,5
+38,4,Salvatore Puccio,13272,INEOS Grenadiers,ITA,-,-,-
+38,5,Brandon Rivera,26283,INEOS Grenadiers,COL,-,-,-
+38,6,Pavel Sivakov,24934,INEOS Grenadiers,FRA,Paul van Doorn,Paul,7
+38,7,Joshua Tarling,34297,INEOS Grenadiers,GBR,-,-,-
+38,11,Felix Engelhardt,29297,Team Jayco-AlUla,GER,-,-,-
+38,12,Tsgabu Grmay,18053,Team Jayco-AlUla,ETH,-,-,-
+38,13,Amund Grøndahl Jansen,20715,Team Jayco-AlUla,NOR,-,-,-
+38,14,Jesus David Peña,29399,Team Jayco-AlUla,COL,-,-,-
+38,15,Lukas Pöstlberger,18313,Team Jayco-AlUla,AUT,-,-,-
+38,16,Callum Scotson,25164,Team Jayco-AlUla,AUS,-,-,-
+38,21,Pascal Ackermann,20917,UAE Team Emirates,GER,Frank Vellinga,Vel,5
+38,22,Ivo Oliveira,25513,UAE Team Emirates,POR,-,-,-
+38,23,Rui Oliveira,24030,UAE Team Emirates,POR,-,-,-
+38,24,George Bennett,12254,UAE Team Emirates,NZL,Nick Veenstra,Nicky,1
+38,25,Alessandro Covi,28298,UAE Team Emirates,ITA,Jan Versluys,Jan,3
+38,26,Davide Formolo,18749,UAE Team Emirates,ITA,Nick Veenstra,Nicky,2
+38,27,Marc Hirschi,26509,UAE Team Emirates,SUI,Bram van Ommeren,Bram,10
+38,31,Tobias Bayer,27932,Alpecin-Deceuninck,AUT,-,-,-
+38,32,Jimmy Janssens,17741,Alpecin-Deceuninck,BEL,-,-,-
+38,33,Alexander Krieger,16001,Alpecin-Deceuninck,GER,-,-,-
+38,34,Jason Osborne,28860,Alpecin-Deceuninck,GER,-,-,-
+38,35,Gianni Vermeersch,18247,Alpecin-Deceuninck,BEL,Paul van Doorn,Paul,0
+38,36,Robert Stannard,26409,Alpecin-Deceuninck,AUS,Kees van Ommeren,Kees,2
+38,37,Kristian Sbaragli,16702,Alpecin-Deceuninck,ITA,-,-,-
+38,41,Floris De Tier,20459,Bingoal WB,BEL,-,-,-
+38,42,Alexis Guérin,20155,Bingoal WB,FRA,-,-,-
+38,43,Johan Meens,31677,Bingoal WB,BEL,-,-,-
+38,44,Remy Mertz,21980,Bingoal WB,BEL,-,-,-
+38,45,Marco Tizza,19237,Bingoal WB,ITA,-,-,-
+38,46,Aaron Van der Beken,28577,Bingoal WB,BEL,-,-,-
+38,47,Nathan Vandepitte,29278,Bingoal WB,FRA,-,-,-
+38,51,Simone Bevilacqua,26964,EOLO-Kometa Cycling Team,ITA,-,-,-
+38,52,Alessandro Fancellu,29221,EOLO-Kometa Cycling Team,ITA,-,-,-
+38,53,Andrea Garosio,21298,EOLO-Kometa Cycling Team,ITA,-,-,-
+38,54,Alex Martin,32583,EOLO-Kometa Cycling Team,ESP,-,-,-
+38,55,Andrea Pietrobon,,EOLO-Kometa Cycling Team,ITA,-,-,-
+38,56,Fernando Tercero,32613,EOLO-Kometa Cycling Team,ESP,-,-,-
+38,61,Josef Dirnbauer,,Team Felbermayr Simplon Wels,AUT,-,-,-
+38,62,Daniel Federspiel,9863,Team Felbermayr Simplon Wels,AUT,-,-,-
+38,63,Michael Kukrle,21827,Team Felbermayr Simplon Wels,CZE,-,-,-
+38,64,Matthias Reutimann,25628,Team Felbermayr Simplon Wels,SUI,-,-,-
+38,65,Felix Ritzinger,27270,Team Felbermayr Simplon Wels,AUT,-,-,-
+38,66,Emanuel Zangerle,31768,Team Felbermayr Simplon Wels,AUT,-,-,-
+38,67,Riccardo Zoidl,6828,Team Felbermayr Simplon Wels,AUT,-,-,-
+38,71,Jaka Primozic,27067,Hrinkow Advarics,SLO,-,-,-
+38,72,Jonas Rapp,22528,Hrinkow Advarics,GER,-,-,-
+38,73,Riccardo Verza,26173,Hrinkow Advarics,ITA,-,-,-
+38,74,Daniel Eichinger,26010,Hrinkow Advarics,AUT,-,-,-
+38,75,Michael Konczer,30863,Hrinkow Advarics,AUT,-,-,-
+38,76,Timon Loderer,24527,Hrinkow Advarics,GER,-,-,-
+38,77,Edward Ravasi,21305,Hrinkow Advarics,ITA,-,-,-
+38,81,Antoine Berlin,30845,Team Vorarlberg,MON,-,-,-
+38,82,Oscar Cabedo,27362,Team Vorarlberg,ESP,-,-,-
+38,83,Dominik Amann,,Team Vorarlberg,AUT,-,-,-
+38,84,Lukas Meiler,22219,Team Vorarlberg,GER,-,-,-
+38,85,Lukas Rüegg,26939,Team Vorarlberg,SUI,-,-,-
+38,86,Colin Stüssi,20681,Team Vorarlberg,SUI,-,-,-
+38,87,Moran Vermeulen,27271,Team Vorarlberg,AUT,-,-,-
+38,91,Paul Buschek,,Tirol KTM Cycling Team,AUT,-,-,-
+38,92,Simen Evertsen-Hegreberg,,Tirol KTM Cycling Team,NOR,-,-,-
+38,93,Alexander Hajek,33111,Tirol KTM Cycling Team,AUT,-,-,-
+38,94,David Paumann,,Tirol KTM Cycling Team,AUT,-,-,-
+38,95,Sebastian Putz,33412,Tirol KTM Cycling Team,AUT,-,-,-
+38,96,Linus Rosner,30826,Tirol KTM Cycling Team,GER,-,-,-
+38,97,Marco Schrettl,33112,Tirol KTM Cycling Team,AUT,-,-,-
+38,101,Daniel Auer,21020,WSA KTM Graz p/b Leomo,AUT,-,-,-
+38,102,Philipp Hofbauer,31756,WSA KTM Graz p/b Leomo,AUT,-,-,-
+38,103,Maximilian Kabas,31011,WSA KTM Graz p/b Leomo,AUT,-,-,-
+38,104,Stinus Kæmpe,33860,WSA KTM Graz p/b Leomo,AUS,-,-,-
+38,105,Martin Messner,31009,WSA KTM Graz p/b Leomo,AUT,-,-,-
+38,106,Maximilian Schmidbauer,31008,WSA KTM Graz p/b Leomo,AUT,-,-,-
+38,107,Thomas Tichler,,WSA KTM Graz p/b Leomo,AUT,-,-,-
+38,111,Tilen Finkst,25230,Adria Mobil,SLO,-,-,-
+38,112,Gal Glivar,31800,Adria Mobil,SLO,-,-,-
+38,113,Kristjan Hocevar,,Adria Mobil,SLO,-,-,-
+38,114,Aljaz Jarc,27925,Adria Mobil,SLO,-,-,-
+38,115,Dimitar Jovanoski,34220,Adria Mobil,MKD,-,-,-
+38,116,Kristjan Koren,2454,Adria Mobil,SLO,-,-,-
+38,117,Bostijan Murn,,Adria Mobil,SLO,-,-,-
+38,121,Anton Albrecht,,P&S Benotti,GER,-,-,-
+38,122,Nick Bangert,,P&S Benotti,GER,-,-,-
+38,123,Albert Gathemann,,P&S Benotti,GER,-,-,-
+38,124,Tobias Nolde,26489,P&S Benotti,GER,-,-,-
+38,125,Jannis Peter,29412,P&S Benotti,GER,-,-,-
+38,126,Dominik Röber,,P&S Benotti,GER,-,-,-
+38,127,Jakob Schmidt,31386,P&S Benotti,GER,-,-,-
+38,131,Jan Barta,2990,Elkov-Kasper,CZE,-,-,-
+38,132,Michael Boros,18873,Elkov-Kasper,CZE,-,-,-
+38,133,Dominik Neuman,25602,Elkov-Kasper,CZE,-,-,-
+38,134,Tomas Pridal,,Elkov-Kasper,CZE,-,-,-
+38,135,Filip Reha,30864,Elkov-Kasper,CZE,-,-,-
+38,136,Adam Toupalik,23787,Elkov-Kasper,CZE,-,-,-
+38,137,Matej Zahalka,21143,Elkov-Kasper,CZE,-,-,-
+38,141,Lukas Kubis,29513,Dukla Banská Bystrica,SVK,-,-,-
+38,142,Samuel Tuka,33081,Dukla Banská Bystrica,SVK,-,-,-
+38,143,Pavol Rovder,31021,Dukla Banská Bystrica,SVK,-,-,-
+38,144,Filip Lohinský,32294,Dukla Banská Bystrica,SVK,-,-,-
+38,145,David Kasko,28685,Dukla Banská Bystrica,SVK,-,-,-
+38,146,Denis Hoza,,Dukla Banská Bystrica,SVK,-,-,-
+38,147,Jakub Galovic,,Dukla Banská Bystrica,SVK,-,-,-
+38,151,Mathias Bregnhøj,25637,Leopard Togt Pro Cycling,DEN,-,-,-
+38,152,Miguel Heidemann,28564,Leopard Togt Pro Cycling,GER,-,-,-
+38,153,Oliver Knudsen,28556,Leopard Togt Pro Cycling,DEN,-,-,-
+38,154,Andreas Stokbro,24953,Leopard Togt Pro Cycling,DEN,-,-,-
+38,155,Cedric Pries,30036,Leopard Togt Pro Cycling,LUX,-,-,-
+38,156,Kasper Viberg Søgaard,,Leopard Togt Pro Cycling,DEN,-,-,-
+38,157,Nick van der Lijke,21843,Leopard Togt Pro Cycling,NED,-,-,-
+38,161,Luca Dreßler,31804,Team Lotto-Kern Haus,GER,-,-,-
+38,162,Jakob Geßner,29406,Team Lotto-Kern Haus,GER,-,-,-
+38,163,Jan Hugger,,Team Lotto-Kern Haus,GER,-,-,-
+38,164,Joshua Huppertz,21408,Team Lotto-Kern Haus,GER,-,-,-
+38,165,Pierre-Pascal Keup,30724,Team Lotto-Kern Haus,GER,-,-,-
+38,166,Christian Koch,23760,Team Lotto-Kern Haus,GER,-,-,-
+38,167,Romet Pajur,,Team Lotto-Kern Haus,EST,-,-,-
+38,171,Mario Gamper,,Santic-Wibatech,AUT,-,-,-
+38,172,Fabian Schormair,21049,Santic-Wibatech,GER,-,-,-
+38,173,Stefan Brandlmeier,,Santic-Wibatech,GER,-,-,-
+38,174,Jonas Messerschmidt,30960,Santic-Wibatech,GER,-,-,-
+38,175,Piotr Pekala,28657,Santic-Wibatech,POL,-,-,-
+38,176,Szymon Tracz,,Santic-Wibatech,POL,-,-,-
+38,177,Bartlomiej Proc,29132,Santic-Wibatech,POL,-,-,-
+38,181,Piotr Brozyna,23375,Voster ATS Team,POL,-,-,-
+38,182,Mateusz Grabis,22533,Voster ATS Team,POL,-,-,-
+38,183,Jakub Murias,28519,Voster ATS Team,POL,-,-,-
+38,184,Maciej Paterski,8555,Voster ATS Team,POL,-,-,-
+38,185,Igor Sek,,Voster ATS Team,POL,-,-,-
+38,186,Artur Sowinski,27240,Voster ATS Team,POL,-,-,-
+38,187,Patryk Stosz,21238,Voster ATS Team,POL,-,-,-
 258,,Stijn Appel,30664,ABLOC CT,NED,-,-,-
 258,,Jelle Johannink,29206,ABLOC CT,NED,-,-,-
 258,,Antti-Jussi Juntunen,28631,ABLOC CT,FIN,-,-,-
