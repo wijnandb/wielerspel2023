@@ -43,7 +43,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 21014,CARTHY Hugh,CARTHY Hugh,Bram,3,EFE,GBR,29,1,47
 6177,CARUSO Damiano,CARUSO Damiano,Jan,1,TBV,ITA,36,6,59
 16936,CATTANEO Mattia,CATTANEO Mattia,Albert,1,SOQ,ITA,33,0,0
-22910,CAVAGNA Rémi,CAVAGNA Rémi,Harry,4,SOQ,FRA,28,0.4,20
+22910,CAVAGNA Rémi,CAVAGNA Rémi,Harry,4,SOQ,FRA,28,2.4,20
 3448,CAVENDISH Mark,CAVENDISH Mark,Kaspar,4,???,GBR,38,2.5,35
 27153,CHAMPOUSSIN Clément,CHAMPOUSSIN Clément,Jan,1,ARK,FRA,25,0,36
 16941,CHAVES Jhoan,CHAVES RUBIO Jhoan Esteban,Jan,1,EFE,COL,33,5,50
@@ -74,7 +74,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24873,FOSS Tobias,FOSS Tobias Svendsen,Harry,7,TJV,NOR,26,0,20
 19335,FRAILE Omar,FRAILE MATARRANZ Omar,Arjan,1,IGD,ESP,33,0.3,0
 3828,FUGLSANG Jakob,FUGLSANG Jakob,Kees,1,IPT,DEN,38,0,0
-24057,GANNA Filippo,GANNA Filippo,Jan,16,IGD,ITA,27,6,129
+24057,GANNA Filippo,GANNA Filippo,Jan,16,IGD,ITA,27,8,129
 23497,GARCIA CORTINA Ivan,GARCIA CORTINA Ivan,PB,1,MOV,ESP,28,0.2,18
 24255,GAUDU David,GAUDU David,Nicky,9,GFC,FRA,27,4.5,110
 20777,GAVIRIA Fernando,GAVIRIA RENDON Fernando,Albert,3,MOV,COL,29,2.3,49
@@ -167,7 +167,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29787,PLAPP Lucas,PLAPP Lucas,Vel,5,IGD,AUS,23,2,35
 29528,PLOWRIGHT Jensen,PLOWRIGHT Jensen,Frank,1,ADC,AUS,23,0,0
 7751,POELS Wout,POELS Wout,Roy,1,TBV,NED,36,0,26
-26526,POGACAR Tadej,POGACAR Tadej,Kees,83,UAD,SLO,25,61.9,295
+26526,POGACAR Tadej,POGACAR Tadej,Kees,83,UAD,SLO,25,62.9,295
 17940,POLANC Jan,POLANC Jan,Vel,1,UAD,SLO,31,0,0
 20847,POLITT Nils,POLITT Nils,Albert,3,BOH,GER,29,0,22
 24902,POWLESS Neilson,POWLESS Neilson,Harry,6,EFE,USA,27,5.6,73
@@ -219,7 +219,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 10023,ULISSI Diego,ULISSI Diego,Paul,2,UAD,ITA,34,0.8,71
 4099,URAN URAN Rigoberto,URAN URAN Rigoberto,Bram,4,EFE,COL,36,0,24
 18123,VALGREN Michael,VALGREN HUNDAHL (ANDERSEN) Michael,Harry,1,EFD,DEN,31,0,0
-27198,VALTER Attila,VALTER Attila,Kees,2,TJV,HUN,25,0.2,38
+27198,VALTER Attila,VALTER Attila,Kees,2,TJV,HUN,25,0.7,38
 20730,VAN AERT Wout,VAN AERT Wout,Frank,61,TJV,BEL,29,18.0,155
 3333,VAN AVERMAET Greg,VAN AVERMAET Greg,Albert,1,ACT,BEL,38,2,0
 17794,VAN BAARLE Dylan,VAN BAARLE Dylan,Nicky,7,TJV,NED,31,10,50
