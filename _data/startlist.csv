@@ -14,11 +14,6 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Guillaume Martin,19994,Cofidis,FRA,Jan Versluys,Jan,4
 17,,Alexis Renard,29969,Cofidis,FRA,-,-,-
 17,,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,4
-17,,Bryan Coquard,18714,Cofidis,FRA,Jan Versluys,Jan,2
-17,,Ion Izagirre,14321,Cofidis,ESP,Harry Koene,Harry,2
-17,,Guillaume Martin,19994,Cofidis,FRA,Jan Versluys,Jan,4
-17,,Alexis Renard,29969,Cofidis,FRA,-,-,-
-17,,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,4
 17,,Richard Carapaz,21342,EF Education-EasyPost,ECU,Wijnand Baretta,Wijnand,32
 17,,David Gaudu,24255, Groupama-FDJ,FRA,Nick Veenstra,Nicky,9
 17,,Kevin Geniets,25763, Groupama-FDJ,LUX,-,-,-
@@ -47,7 +42,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Florian Vermeersch,28127, Lotto Dstny,BEL,Albert Kraaij,Albert,2
 17,,Enric Mas,22794,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,17
 17,,Julian Alaphilippe,18610,Soudal Quick-Step,FRA,Arjan Knibbe,Arjan,40
-17,,Romain Bardet,13566,Team DSM,FRA,Jan Versluys,Jan,6
+17,,Romain Bardet,13566, Team DSM,FRA,Jan Versluys,Jan,6
+17,,John Degenkolb,9851, Team DSM,GER,Kaspar Burghard,Kaspar,1
+17,,Matthew Dinham,29788, Team DSM,AUS,-,-,-
+17,,Alex Edmondson,20219, Team DSM,AUS,-,-,-
+17,,Nils Eekhoff,26429, Team DSM,NED,-,-,-
+17,,Chris Hamilton,23885, Team DSM,AUS,-,-,-
+17,,Kevin Vermaerke,29332, Team DSM,USA,-,-,-
+17,,Sam Welsford,23517, Team DSM,AUS,Pieter-Bas de Bruijn,PB,1
 17,,Mads Pedersen,21992,Trek-Segafredo,DEN,Harry Koene,Harry,18
 17,,Tadej Pogacar,26526,UAE Team Emirates,SLO,Kees van Ommeren,Kees,83
 17,,Jonas Abrahamsen,22233, Uno-X Pro Cycling Team,NOR,-,-,-
