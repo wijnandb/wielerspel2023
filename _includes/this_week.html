@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <th>start</th>
-            <th>eind</th>
+            <th scope="col" class="d-none d-lg-table-cell">eind</th>
             <th>Race (cat)</th>
             <th scope="col" class="d-none d-lg-table-cell">Punten</th>
         </tr>
@@ -12,7 +12,7 @@
       {% for item in site.data.current_races %}
         <tr>
           <td>{{ item.startdate | date: "%d-%m" }}</td>
-          <td>{{ item.enddate | date: "%d-%m" }}</td>
+          <td scope="col" class="d-none d-lg-table-cell">{{ item.enddate | date: "%d-%m" }}</td>
           <td><a href="{{ site.baseurl }}/startlist/races/{{ item.FC_race_id }}.html">{{ item.race }} ({{ item.category }})</a></td>
           <td scope="col" class="d-none d-lg-table-cell">{{ item.points }}</td>
         </tr>
