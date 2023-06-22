@@ -72,9 +72,9 @@ for race in calendar_with_dates:
     if is_current_race(race):
         print(race)
         current_races.append(race)
+        create_html_file(race)
         try:
             start_list.get_riders(race[3], '2023')
-            create_html_file(race)
         except:
             print("No startlist found")
         
