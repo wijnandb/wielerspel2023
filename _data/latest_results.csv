@@ -1,48 +1,18 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,NCT1,National Championships Great Britain (Croft Circuit) I.T.T. (prov.),41663,TARLING Joshua,34297,0.0,0,2023-06-21
-1,NCT5,National Championships Latvia (Bikernieku) I.T.T. (prov.),41699,SKUJINS Toms,16739,0.0,0,2023-06-21
-1,NCT5,National Championships Kazakhstan (Taldykorgan) I.T.T. (prov.),41692,LUTSENKO Alexey,18455,0.0,0,2023-06-21
+1,NCT3,National Championships Slovenia (Pokljuka) I.T.T. (prov.),41659,POGACAR Tadej,26526,0.0,0,2023-06-22
+1,NCT1,National Championships France (Hazebrouck-Cassel) I.T.T. (prov.),41653,CAVAGNA Rémi,22910,0.0,0,2023-06-22
+1,NCT1,National Championships Italy (Sarche) I.T.T. (prov.),41665,GANNA Filippo,24057,0.0,0,2023-06-22
+1,NC5,National Championships Mongolia () R.R. (prov.),41795,SAINBAYAR Jambaljamts,24289,0.0,0,2023-06-22
+1,NCT5,National Championships Algeria () I.T.T. (prov.),41714,REGUIGUI Youcef,13311,0.0,0,2023-06-22
+1,NCT5,National Championships Sweden (Björklinge) I.T.T. (prov.),41710,AHLSSON Jacob,30000,0.0,0,2023-06-22
+1,NCT5,National Championships Hungary (Debrecen) I.T.T. (prov.),41702,VALTER Attila,27198,0.0,0,2023-06-22
+1,NCT5,National Championships Ethiopia () I.T.T. (prov.),41797,GRMAY Tsgabu Gebremaryam,18053,0.0,0,2023-06-22
+1,NCT1,National Championships Netherlands (Elspeet) I.T.T.,41657,VAN EMDEN Jos,3795,0.0,0,2023-06-21
+1,NCT1,National Championships Great Britain (Croft Circuit) I.T.T.,41663,TARLING Joshua,34297,0.0,0,2023-06-21
+1,NCT5,National Championships Latvia (Bikernieku) I.T.T.,41699,SKUJINS Toms,16739,0.0,0,2023-06-21
+1,NCT5,National Championships Luxembourg (Berbourg) I.T.T.,41694,KIRSCH Alex,19545,0.0,0,2023-06-21
+1,NCT5,National Championships Kazakhstan (Taldykorgan) I.T.T.,41692,LUTSENKO Alexey,18455,0.0,0,2023-06-21
 1,NCT5,National Championships Estonia (Viljandis) I.T.T.,41700,TAARAMÄE Rein,1646,0.0,0,2023-06-20
-1,NCT5,National Championships Mongolia (Altanbulag) I.T.T. (prov.),41794,BATMUNKH Maralerdene,21965,0.0,0,2023-06-20
+1,NCT5,National Championships Mongolia (Altanbulag) I.T.T.,41794,BATMUNKH Maralerdene,21965,0.0,0,2023-06-20
 1,NCT5,National Championships China (Chun'an) I.T.T.,41726,XUE Ming,31679,0.0,0,2023-06-20
 1,NC5,National Championships China (Chun'an) R.R.,41727,MA Binyan,30611,0.0,0,2023-06-19
-1,2.WT1,"Tour de Suisse, General classification",41562,SKJELMOSE JENSEN Mattias,30166,0.0,0,2023-06-18
-2,2.WT1,"Tour de Suisse, General classification",41562,AYUSO PESQUERA Juan,31654,0.0,0,2023-06-18
-3,2.WT1,"Tour de Suisse, General classification",41562,EVENEPOEL Remco,28377,0.0,0,2023-06-18
-4,2.WT1,"Tour de Suisse, General classification",41562,KELDERMAN Wilco,15171,0.0,0,2023-06-18
-5,2.WT1,"Tour de Suisse, General classification",41562,BARDET Romain,13566,0.0,0,2023-06-18
-6,2.WT1,"Tour de Suisse, General classification",41562,URAN URAN Rigoberto,4099,0.0,0,2023-06-18
-7,2.WT1,"Tour de Suisse, General classification",41562,UIJTDEBROEKS Cian,31803,0.0,0,2023-06-18
-8,2.WT1,"Tour de Suisse, General classification",41562,GALL Felix,26383,0.0,0,2023-06-18
-9,2.WT1,"Tour de Suisse, General classification",41562,TEUNS Dylan,17908,0.0,0,2023-06-18
-10,2.WT1,"Tour de Suisse, General classification",41562,TEJADA CANACUE Harold Alfonso,26813,0.0,0,2023-06-18
-1,2.WT1s,"Tour de Suisse, Stage 8 : St Gallen - Abtwil I.T.T.",41561,AYUSO PESQUERA Juan,31654,0.0,0,2023-06-18
-1,2.WT1r,"Tour de Suisse, Points classification",41563,VAN AERT Wout,20730,0.0,0,2023-06-18
-1,2.WT1r,"Tour de Suisse, Mountains classification",41564,EENKHOORN Pascal,24932,0.0,0,2023-06-18
-1,2.PS,"Belgium Tour, General classification",41580,VAN DER POEL Mathieu,21971,0.0,0,2023-06-18
-2,2.PS,"Belgium Tour, General classification",41580,WAERENSKJOLD Søren,29187,0.0,0,2023-06-18
-3,2.PS,"Belgium Tour, General classification",41580,PEDERSEN Casper Phillip,23429,0.0,0,2023-06-18
-4,2.PS,"Belgium Tour, General classification",41580,LAMPAERT Yves,19941,0.0,0,2023-06-18
-5,2.PS,"Belgium Tour, General classification",41580,STUYVEN Jasper,18233,0.0,0,2023-06-18
-6,2.PS,"Belgium Tour, General classification",41580,DE BUYST Jasper,19274,0.0,0,2023-06-18
-7,2.PS,"Belgium Tour, General classification",41580,VERMEERSCH Florian,28127,0.0,0,2023-06-18
-8,2.PS,"Belgium Tour, General classification",41580,HERMANS Ben,4819,0.0,0,2023-06-18
-9,2.PS,"Belgium Tour, General classification",41580,VACEK Mathias,31713,0.0,0,2023-06-18
-10,2.PS,"Belgium Tour, General classification",41580,SKUJINS Toms,16739,0.0,0,2023-06-18
-1,2.PS,"Tour of Slovenia, General classification",41586,ZANA Filippo,27749,0.0,0,2023-06-18
-2,2.PS,"Tour of Slovenia, General classification",41586,MOHORIC Matej,21145,0.0,0,2023-06-18
-3,2.PS,"Tour of Slovenia, General classification",41586,ULISSI Diego,10023,0.0,0,2023-06-18
-4,2.PS,"Tour of Slovenia, General classification",41586,ALEOTTI Giovanni,28451,0.0,0,2023-06-18
-5,2.PS,"Tour of Slovenia, General classification",41586,PEÑA JIMENEZ Jesus David,29399,0.0,0,2023-06-18
-6,2.PS,"Tour of Slovenia, General classification",41586,FORTUNATO Lorenzo,25552,0.0,0,2023-06-18
-7,2.PS,"Tour of Slovenia, General classification",41586,ZWIEHOFF Ben,31491,0.0,0,2023-06-18
-8,2.PS,"Tour of Slovenia, General classification",41586,DOUBLE Paul,27721,0.0,0,2023-06-18
-9,2.PS,"Tour of Slovenia, General classification",41586,POELS Wout,7751,0.0,0,2023-06-18
-10,2.PS,"Tour of Slovenia, General classification",41586,LOPEZ CARAVACA Jordi,31278,0.0,0,2023-06-18
-1,2.PSs,"Belgium Tour, Stage 5 : Brussel - Brussel",41579,JAKOBSEN Fabio,23426,0.0,0,2023-06-18
-1,2.PSs,"Tour of Slovenia, Stage 5 : Vrhnika - Novo Mesto",41585,MOHORIC Matej,21145,0.0,0,2023-06-18
-1,2.1,"Route d'Occitanie, General classification",41591,WOODS Michael,20257,0.0,0,2023-06-18
-2,2.1,"Route d'Occitanie, General classification",41591,RODRIGUEZ MARTIN Cristian,24102,0.0,0,2023-06-18
-3,2.1,"Route d'Occitanie, General classification",41591,STEINHAUSER Georg,30721,0.0,0,2023-06-18
-1,2.1s,"Route d'Occitanie, Stage 4 : Saint-Gaudens - Saint-Girons",41590,CARR Simon,30010,0.0,0,2023-06-18
-1,NC5,National Championships Ukraine (Turka) R.R.,41793,BILYI Maksym,30933,0.0,0,2023-06-18
