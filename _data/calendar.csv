@@ -13,7 +13,9 @@ startdate,enddate,race,race_id,category,points,JPP
 2023-01-30,2023-02-03,Saudi Tour,868,2.1,2.4,0
 2023-02-01,2023-02-05,Volta Comunitat Valenciana,319,2.PS,5.5,208
 2023-02-01,2023-02-05,Étoile de Bessèges,106,2.1,2.4,0
+2023-02-08,,CC Africa TTT,462,CCTT,0,0
 2023-02-09,,CC Africa ITT,369,CCTT,0,0
+2023-02-10,,CC Africa Mixed Relay,15151,CCTT,0,0
 2023-02-10,,Muscat Classic,18946,1.1,2.4,0
 2023-02-11,2023-02-15,Tour of Oman,57,2.PS,5.5,208
 2023-02-11,,Vuelta a Murcia,74,1.1,2.4,0
@@ -99,23 +101,25 @@ startdate,enddate,race,race_id,category,points,JPP
 2023-05-25,2023-05-28,Boucles de la Mayenne,343,2.PS,5.5,208
 2023-05-26,2023-05-27,Tour of Estonia,250,2.1,2.4,0
 2023-05-26,2023-05-29,Tour of Norway,71,2.PS,5.5,208
-2023-05-27,,Grote Prijs Marcel Kint,3838,1.1,2.4,0
+2023-05-27,,Van Merksteijn Fences Classic,3838,1.1,2.4,0
 2023-05-29,,Ronde van Limburg,437,1.1,2.4,0
 2023-05-30,,Mercan Tour Classic Alpes-Maritimes,13188,1.1,2.4,0
 2023-06-02,,Giro dell'Appennino,149,1.1,2.4,0
 2023-06-03,,Heistse Pijl,349,1.1,2.4,0
 2023-06-04,,Brussels Classic,64,1.PS,5.5,208
 2023-06-04,2023-06-11,Critérium Dauphiné,15,2.WT1,14.7,208
+2023-06-07,,CC Asia Mixed Relay,21139,CCTT,0,0
 2023-06-07,2023-06-11,ZLM Tour,213,2.PS,5.5,208
 2023-06-09,,GP Kanton Aargau,199,1.1,2.4,0
+2023-06-10,,CC Asia ITT,361,CCTT,0,0
 2023-06-10,,Dwars door het Hageland,425,1.PS,5.5,208
 2023-06-11,,Elfstedenronde,8515,1.1,2.4,0
 2023-06-11,2023-06-18,Tour de Suisse,16,2.WT1,14.7,208
-2023-06-13,,Mont Ventoux Dénivelé Challenge,10459,1.PS,5.5,208
-2023-06-14,2023-06-18,Belgium Tour,60,2.PS,5.5,208
+2023-06-13,,CC Asia RR,363,CCRR,0,0
+2023-06-13,,CIC - Mont Ventoux,10459,1.PS,5.5,208
 2023-06-14,2023-06-18,Tour of Slovenia,211,2.PS,5.5,208
+2023-06-14,2023-06-18,Belgium Tour,60,2.PS,5.5,208
 2023-06-15,2023-06-18,Route d'Occitanie,212,2.1,2.4,0
-2023-06-28,,Circuit Franco-Belge,231,1.PS,5.5,208
 2023-07-01,2023-07-23,Tour de France,17,GT1,117.0,208
 2023-07-02,2023-07-06,Österreich-Rundfahrt,38,2.1,2.4,0
 2023-07-06,2023-07-09,Sibiu Cycling Tour,258,2.1,2.4,0
@@ -131,7 +135,6 @@ startdate,enddate,race,race_id,category,points,JPP
 2023-08-06,,World Championship RR,26,WCRR,39.5,208
 2023-08-08,,World Championship Mixed Relay,12533,WCTT,14.7,208
 2023-08-09,2023-08-20,Volta a Portugal,197,2.1,2.4,0
-2023-08-09,,World Championship ITT-U23,46,WCUT,0,0
 2023-08-10,,World Championship ITT,27,WCTT,14.7,208
 2023-08-13,,Polynormande,203,1.1,2.4,0
 2023-08-15,2023-08-19,PostNord Danmark Rundt,32,2.PS,5.5,208
@@ -173,6 +176,7 @@ startdate,enddate,race,race_id,category,points,JPP
 2023-09-24,,CC Europe RR,4019,CCRR,0,0
 2023-09-24,,Paris-Chauny,949,1.1,2.4,0
 2023-09-26,2023-10-01,CRO Race,773,2.1,2.4,0
+2023-09-28,,Circuit Franco-Belge,231,1.PS,5.5,208
 2023-09-28,,Coppa Agostoni,262,1.1,2.4,0
 2023-09-30,,Giro dell'Emilia,29,1.PS,5.5,208
 2023-10-01,,Famenne Ardenne Classic,7660,1.1,2.4,0
