@@ -1,13 +1,22 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,NCT3,National Championships Slovenia (Pokljuka) I.T.T. (prov.),41659,POGACAR Tadej,26526,1,0,2023-06-22,Kees
-1,NCT1,National Championships France (Hazebrouck-Cassel) I.T.T. (prov.),41653,CAVAGNA Rémi,22910,2,0,2023-06-22,Harry
-1,NCT1,National Championships Italy (Sarche) I.T.T. (prov.),41665,GANNA Filippo,24057,2,0,2023-06-22,Jan
-1,NCT5,"National Championships Czech Republic (Tlmace, SVK) I.T.T. (prov.)",41686,OTRUBA Jakub,27006,0.5,0,2023-06-22,-
-1,NCT5,National Championships Poland (Myszyniec) I.T.T. (prov.),41682,KWIATKOWSKI Michal,12923,0.5,0,2023-06-22,Harry
+1,NCT3,National Championships Slovenia (Pokljuka) I.T.T.,41659,POGACAR Tadej,26526,1,0,2023-06-22,Kees
+1,NCT1,National Championships France (Hazebrouck-Cassel) I.T.T.,41653,CAVAGNA Rémi,22910,2,0,2023-06-22,Harry
+1,NCT1,National Championships Belgium (Herzele) I.T.T.,41651,VAN AERT Wout,20730,2,0,2023-06-22,Frank
+1,NCT1,National Championships Denmark (Aalborg) I.T.T. (prov.),41661,ASGREEN Kasper,23558,2,0,2023-06-22,Nicky
+1,NCT1,National Championships Italy (Sarche) I.T.T.,41665,GANNA Filippo,24057,2,0,2023-06-22,Jan
+1,NCT3,National Championships United States (Oak Ridge) I.T.T. (prov.),41673,MCNULTY Brandon,26508,1,0,2023-06-22,Kees
+1,NCT5,National Championships Ireland (Dungannon) I.T.T. (prov.),41690,MULLEN Ryan,20921,0.5,0,2023-06-22,-
+1,NCT5,National Championships Lithuania (Alytus) I.T.T.,41698,MIKUTIS Aivaras,30387,0.5,0,2023-06-22,-
+1,NCT5,"National Championships Czech Republic (Tlmace, SVK) I.T.T.",41686,OTRUBA Jakub,27006,0.5,0,2023-06-22,-
+1,NCT5,National Championships Poland (Myszyniec) I.T.T.,41682,KWIATKOWSKI Michal,12923,0.5,0,2023-06-22,Harry
+1,NCT3,National Championships Norway (Oltedal) I.T.T.,41667,WAERENSKJOLD Søren,29187,1,0,2023-06-22,-
 1,NC5,National Championships Mongolia () R.R. (prov.),41795,SAINBAYAR Jambaljamts,24289,1,0,2023-06-22,-
+1,NCT5,National Championships Croatia () I.T.T. (prov.),41716,MIHOLJEVIC Fran,31700,0.5,0,2023-06-22,-
+1,NCT5,National Championships Hungary (Debrecen) I.T.T.,41702,VALTER Attila,27198,0.5,0,2023-06-22,Kees
+1,NCT5,National Championships Slovakia (Tlmace) I.T.T. (prov.),41688,STOCEK Matus,28567,0.5,0,2023-06-22,-
+1,NCT5,National Championships Sweden (Björklinge) I.T.T.,41710,AHLSSON Jacob,30000,0.5,0,2023-06-22,-
 1,NCT5,National Championships Algeria () I.T.T. (prov.),41714,REGUIGUI Youcef,13311,0.5,0,2023-06-22,-
-1,NCT5,National Championships Sweden (Björklinge) I.T.T. (prov.),41710,AHLSSON Jacob,30000,0.5,0,2023-06-22,-
-1,NCT5,National Championships Hungary (Debrecen) I.T.T. (prov.),41702,VALTER Attila,27198,0.5,0,2023-06-22,Kees
+1,NCT5,National Championships Iceland (Thorlakshofn) I.T.T. (prov.),41750,JONSSON David,32346,0.5,0,2023-06-22,-
 1,NCT5,National Championships Ethiopia () I.T.T. (prov.),41797,GRMAY Tsgabu Gebremaryam,18053,0.5,0,2023-06-22,-
 1,NCT1,National Championships Netherlands (Elspeet) I.T.T.,41657,VAN EMDEN Jos,3795,2,0,2023-06-21,-
 1,NCT1,National Championships Great Britain (Croft Circuit) I.T.T.,41663,TARLING Joshua,34297,2,0,2023-06-21,-
