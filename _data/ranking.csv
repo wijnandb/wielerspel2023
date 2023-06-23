@@ -1,15 +1,15 @@
-positie,short,ploegleider,punten,JPP
-1,Vel,Frank Vellinga,85.7,652
-2,Bram,Bram van Ommeren,75.4,480
-3,Albert,Albert Kraaij,73.2,996
-4,Kees,Kees van Ommeren,72.4,469
-5,Nicky,Nick Veenstra,61.3,705
-6,Arjan,Arjan Knibbe,57.9,234
-7,Paul,Paul van Doorn,48.5,816
-8,Jan,Jan Versluys,47.0,872
-9,Wijnand,Wijnand Baretta,44.8,529
-10,Kaspar,Kaspar Burghard,44.6,551
-11,Roy,Roy Smits,37.1,348
-12,PB,Pieter-Bas de Bruijn,32.1,872
-13,Harry,Harry Koene,30.0,677
-14,Frank,Frank Rozemeijer,29.3,333
+positie,short,ploegleider,punten,JPP,bonus,totaal
+1,Vel,Frank Vellinga,85.7,652,4.5,90.2
+2,Bram,Bram van Ommeren,75.4,480,2.63,78.03
+3,Albert,Albert Kraaij,73.2,996,15,88.2
+4,Kees,Kees van Ommeren,72.4,469,2.25,74.65
+5,Nicky,Nick Veenstra,61.3,705,6,67.3
+6,Arjan,Arjan Knibbe,57.9,234,0,0
+7,Paul,Paul van Doorn,48.5,816,7.5,56.0
+8,Jan,Jan Versluys,47.0,872,10.50,59.0
+9,Wijnand,Wijnand Baretta,44.8,529,3,47.8
+10,Kaspar,Kaspar Burghard,44.6,551,3.75,48.35
+11,Roy,Roy Smits,37.1,348,1.88,38.98
+12,PB,Pieter-Bas de Bruijn,32.1,872,10.50,41.1
+13,Harry,Harry Koene,30.0,677,5.25,35.25
+14,Frank,Frank Rozemeijer,29.3,333,1.5,30.8
