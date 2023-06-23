@@ -42,7 +42,7 @@ def calculate_jpp():
     jpp_bonus = process_files.read_csv_file('jpp.csv')
     # order ranking by JPP descending
     ranking.sort(key=lambda x: x[4], reverse=True)
-    for i in range (1,14):
+    for i in range (1,15):
         ranking[i][5] = jpp_bonus[i][2]
         ranking[i][6] = Decimal(ranking[i][3]) + Decimal(ranking[i][5])
         print(ranking[i])
@@ -70,6 +70,7 @@ def redistribute_jpp_equals(data):
                 jpp_bonus_avg = jpp_bonus_sum / jpp_counts[jpp]
                 bonus_map[jpp] = round(jpp_bonus_avg, 2)
             row[5] = str(bonus_map[jpp])
+            row[6] = str(Decimal(row[3]) + Decimal(row[5]))
 
     total_bonus = sum([Decimal(row[5]) for row in data[1:]])
     bonus_correct = total_bonus == Decimal('75.01')
