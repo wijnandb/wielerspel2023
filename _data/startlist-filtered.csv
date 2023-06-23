@@ -21,8 +21,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Egan Bernal,24926,INEOS Grenadiers,COL,Paul van Doorn,Paul,28
 17,,Daniel Martinez,23503,INEOS Grenadiers,COL,Bram van Ommeren,Bram,12
 17,,Carlos Rodriguez,30836,INEOS Grenadiers,ESP,Roy Smits,Roy,12
-17,,Louis Meintjes,18413,Intermarché-Circus-Wanty,RSA,Wijnand Baretta,Wijnand,1
-17,,Dylan Teuns,17908,Israel-Premier Tech,BEL,Harry Koene,Harry,4
+17,,Lilian Calmejane,21439, Intermarché-Circus-Wanty,FRA,Jan Versluys,Jan,1
+17,,Biniam Girmay,29474, Intermarché-Circus-Wanty,ERI,Nick Veenstra,Nicky,19
+17,,Louis Meintjes,18413, Intermarché-Circus-Wanty,RSA,Wijnand Baretta,Wijnand,1
+17,,Mike Teunissen,19165, Intermarché-Circus-Wanty,NED,Albert Kraaij,Albert,2
+17,,Simon Clarke,3366, Israel-Premier Tech,AUS,Pieter-Bas de Bruijn,PB,0
+17,,Corbin Strong,29492, Israel-Premier Tech,NZL,Pieter-Bas de Bruijn,PB,1
+17,,Dylan Teuns,17908, Israel-Premier Tech,BEL,Harry Koene,Harry,4
+17,,Michael Woods,20257, Israel-Premier Tech,CAN,Albert Kraaij,Albert,2
 17,,Wout van Aert,20730,Jumbo-Visma,BEL,Frank Rozemeijer,Frank,61
 17,,Jonas Vingegaard,25740,Jumbo-Visma,DEN,Arjan Knibbe,Arjan,43
 17,,Victor Campenaerts,20184, Lotto Dstny,BEL,Frank Vellinga,Vel,2
@@ -34,6 +40,8 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Romain Bardet,13566, Team DSM,FRA,Jan Versluys,Jan,6
 17,,John Degenkolb,9851, Team DSM,GER,Kaspar Burghard,Kaspar,1
 17,,Sam Welsford,23517, Team DSM,AUS,Pieter-Bas de Bruijn,PB,1
+17,,Dylan Groenewegen,19238, Team Jayco-AlUla,NED,Frank Rozemeijer,Frank,14
+17,,Simon Yates,17893, Team Jayco-AlUla,GBR,Pieter-Bas de Bruijn,PB,13
 17,,Mads Pedersen,21992,Trek-Segafredo,DEN,Harry Koene,Harry,18
 17,,Tadej Pogacar,26526,UAE Team Emirates,SLO,Kees van Ommeren,Kees,83
 17,,Tobias Halland Johannessen,31567, Uno-X Pro Cycling Team,NOR,Albert Kraaij,Albert,2

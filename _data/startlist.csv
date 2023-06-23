@@ -26,10 +26,22 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Egan Bernal,24926,INEOS Grenadiers,COL,Paul van Doorn,Paul,28
 17,,Daniel Martinez,23503,INEOS Grenadiers,COL,Bram van Ommeren,Bram,12
 17,,Carlos Rodriguez,30836,INEOS Grenadiers,ESP,Roy Smits,Roy,12
-17,,Louis Meintjes,18413,Intermarché-Circus-Wanty,RSA,Wijnand Baretta,Wijnand,1
-17,,Chris Froome,5789,Israel-Premier Tech,GBR,-,-,-
-17,,Daryl Impey,1237,Israel-Premier Tech,RSA,-,-,-
-17,,Dylan Teuns,17908,Israel-Premier Tech,BEL,Harry Koene,Harry,4
+17,,Lilian Calmejane,21439, Intermarché-Circus-Wanty,FRA,Jan Versluys,Jan,1
+17,,Rui Costa,6807, Intermarché-Circus-Wanty,POR,-,-,-
+17,,Biniam Girmay,29474, Intermarché-Circus-Wanty,ERI,Nick Veenstra,Nicky,19
+17,,Louis Meintjes,18413, Intermarché-Circus-Wanty,RSA,Wijnand Baretta,Wijnand,1
+17,,Adrien Petit,14273, Intermarché-Circus-Wanty,FRA,-,-,-
+17,,Dion Smith,21036, Intermarché-Circus-Wanty,NZL,-,-,-
+17,,Mike Teunissen,19165, Intermarché-Circus-Wanty,NED,Albert Kraaij,Albert,2
+17,,Georg Zimmermann,25165, Intermarché-Circus-Wanty,GER,-,-,-
+17,,Guillaume Boivin,10856, Israel-Premier Tech,CAN,-,-,-
+17,,Simon Clarke,3366, Israel-Premier Tech,AUS,Pieter-Bas de Bruijn,PB,0
+17,,Hugo Houle,13438, Israel-Premier Tech,CAN,-,-,-
+17,,Krists Neilands,21113, Israel-Premier Tech,LAT,-,-,-
+17,,Nick Schultz,22744, Israel-Premier Tech,AUS,-,-,-
+17,,Corbin Strong,29492, Israel-Premier Tech,NZL,Pieter-Bas de Bruijn,PB,1
+17,,Dylan Teuns,17908, Israel-Premier Tech,BEL,Harry Koene,Harry,4
+17,,Michael Woods,20257, Israel-Premier Tech,CAN,Albert Kraaij,Albert,2
 17,,Wout van Aert,20730,Jumbo-Visma,BEL,Frank Rozemeijer,Frank,61
 17,,Jonas Vingegaard,25740,Jumbo-Visma,DEN,Arjan Knibbe,Arjan,43
 17,,Victor Campenaerts,20184, Lotto Dstny,BEL,Frank Vellinga,Vel,2
@@ -50,6 +62,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Chris Hamilton,23885, Team DSM,AUS,-,-,-
 17,,Kevin Vermaerke,29332, Team DSM,USA,-,-,-
 17,,Sam Welsford,23517, Team DSM,AUS,Pieter-Bas de Bruijn,PB,1
+17,,Lawson Craddock,18062, Team Jayco-AlUla,USA,-,-,-
+17,,Luke Durbridge,16466, Team Jayco-AlUla,AUS,-,-,-
+17,,Dylan Groenewegen,19238, Team Jayco-AlUla,NED,Frank Rozemeijer,Frank,14
+17,,Chris Harper,25066, Team Jayco-AlUla,AUS,-,-,-
+17,,Christopher Juul-Jensen,, Team Jayco-AlUla,DEN,-,-,-
+17,,Luka Mezgec,15789, Team Jayco-AlUla,SLO,-,-,-
+17,,Elmar Reinders,18467, Team Jayco-AlUla,NED,-,-,-
+17,,Simon Yates,17893, Team Jayco-AlUla,GBR,Pieter-Bas de Bruijn,PB,13
 17,,Mads Pedersen,21992,Trek-Segafredo,DEN,Harry Koene,Harry,18
 17,,Tadej Pogacar,26526,UAE Team Emirates,SLO,Kees van Ommeren,Kees,83
 17,,Jonas Abrahamsen,22233, Uno-X Pro Cycling Team,NOR,-,-,-
