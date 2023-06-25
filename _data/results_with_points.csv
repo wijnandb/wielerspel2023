@@ -1,17 +1,21 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.WT3,National Championships Italy (Comano Terme) R.R. (prov.),41666,VELASCO Simone,22662,5,50,2023-06-24,-
-2,1.WT3,National Championships Italy (Comano Terme) R.R. (prov.),41666,ROTA Lorenzo,21958,2,35,2023-06-24,Paul
-3,1.WT3,National Championships Italy (Comano Terme) R.R. (prov.),41666,SBARAGLI Kristian,16702,1,25,2023-06-24,-
-4,1.WT3,National Championships Italy (Comano Terme) R.R. (prov.),41666,MAGLI Filippo,29779,0,20,2023-06-24,-
-5,1.WT3,National Championships Italy (Comano Terme) R.R. (prov.),41666,TRENTIN Matteo,13270,0,18,2023-06-24,Nicky
-6,1.WT3,National Championships Italy (Comano Terme) R.R. (prov.),41666,FORMOLO Davide,18749,0,16,2023-06-24,Nicky
-7,1.WT3,National Championships Italy (Comano Terme) R.R. (prov.),41666,BARONCINI Filippo,29419,0,14,2023-06-24,-
-8,1.WT3,National Championships Italy (Comano Terme) R.R. (prov.),41666,CONCA Filippo,28649,0,12,2023-06-24,-
-9,1.WT3,National Championships Italy (Comano Terme) R.R. (prov.),41666,SCARONI Christian,27002,0,10,2023-06-24,-
-10,1.WT3,National Championships Italy (Comano Terme) R.R. (prov.),41666,BATTISTELLA Samuele,28450,0,8,2023-06-24,Vel
-1,NCT5,National Championships Austria (Erpfendorf) I.T.T. (prov.),41680,GAMPER Patrick,25096,0.5,0,2023-06-24,-
+1,1.WT3,National Championships Italy (Comano Terme) R.R.,41666,VELASCO Simone,22662,5,50,2023-06-24,-
+2,1.WT3,National Championships Italy (Comano Terme) R.R.,41666,ROTA Lorenzo,21958,2,35,2023-06-24,Paul
+3,1.WT3,National Championships Italy (Comano Terme) R.R.,41666,SBARAGLI Kristian,16702,1,25,2023-06-24,-
+4,1.WT3,National Championships Italy (Comano Terme) R.R.,41666,MAGLI Filippo,29779,0,20,2023-06-24,-
+5,1.WT3,National Championships Italy (Comano Terme) R.R.,41666,TRENTIN Matteo,13270,0,18,2023-06-24,Nicky
+6,1.WT3,National Championships Italy (Comano Terme) R.R.,41666,FORMOLO Davide,18749,0,16,2023-06-24,Nicky
+7,1.WT3,National Championships Italy (Comano Terme) R.R.,41666,BARONCINI Filippo,29419,0,14,2023-06-24,-
+8,1.WT3,National Championships Italy (Comano Terme) R.R.,41666,CONCA Filippo,28649,0,12,2023-06-24,-
+9,1.WT3,National Championships Italy (Comano Terme) R.R.,41666,SCARONI Christian,27002,0,10,2023-06-24,-
+10,1.WT3,National Championships Italy (Comano Terme) R.R.,41666,BATTISTELLA Samuele,28450,0,8,2023-06-24,Vel
+1,NCT5,National Championships Austria (Erpfendorf) I.T.T.,41680,GAMPER Patrick,25096,0.5,0,2023-06-24,-
+1,NC5,National Championships Croatia (Ludbreg) R.R.,41715,POTOCKI Viktor,27896,1,0,2023-06-24,-
 1,NC5,National Championships Israel (Urim) R.R.,41487,EINHORN Itamar,27315,1,0,2023-06-24,-
-1,NCT5,National Championships Turkey (Eskisehir) I.T.T. (prov.),41718,ÖRKEN Ahmet,19560,0.5,0,2023-06-24,-
+1,NCT5,National Championships Turkey (Eskisehir) I.T.T.,41718,ÖRKEN Ahmet,19560,0.5,0,2023-06-24,-
+1,NC5,National Championships Iceland (Thingvellir) R.R. (prov.),41751,OMARSSON Ingvar,21882,1,0,2023-06-24,-
+1,NCT5,National Championships Paraguay (Complejo Tosa) I.T.T. (prov.),41754,RIVEROS DIARTE Francisco Daniel,21625,0.5,0,2023-06-24,-
+1,NCT5,National Championships Laos () I.T.T. (prov.),41800,PHOUNSAVATH DESTRIBOIS Alex Ariya,16649,0.5,0,2023-06-24,-
 1,NCT5,National Championships Angola (Sumbe) I.T.T. (prov.),41799,MARCELINO Dario Antonio,20335,0.5,0,2023-06-24,-
 1,NCT1,National Championships Spain (Sevilla la Nueva) I.T.T.,41655,CASTROVIEJO NICOLAS Jonathan,9811,2,0,2023-06-23,-
 1,NCT5,National Championships Canada (Edmonton) I.T.T.,41684,GEE Derek,26869,0.5,0,2023-06-23,-
