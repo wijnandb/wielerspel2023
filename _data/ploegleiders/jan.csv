@@ -1,5 +1,5 @@
 renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
-23940,ARANBURU Alexander,ARANBURU DEBA Alexander,Jan,3,MOV,ESP,28,0,26
+23940,ARANBURU Alexander,ARANBURU DEBA Alexander,Jan,3,MOV,ESP,28,1,51
 13566,BARDET Romain,BARDET Romain,Jan,6,DSM,FRA,33,0.2,56
 15791,BEVIN Patrick,BEVIN Patrick,Jan,1,DSM,NZL,32,0,0
 17881,BILBAO Pello,BILBAO LOPEZ DE ARMENTIA Pello,Jan,6,TBV,ESP,33,2.1,79
@@ -21,7 +21,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29214,SCHMID Mauro,SCHMID Mauro,Jan,4,SOQ,SUI,24,2.2,18
 31598,SHEFFIELD Magnus,SHEFFIELD Magnus,Jan,6,IGD,USA,21,1.5,55
 7834,SIMON Julien,SIMON Julien,Jan,1,TEN,FRA,38,0,0
-25081,STEIMLE Jannik,STEIMLE Jannik,Jan,1,SOQ,GER,27,0,0
+25081,STEIMLE Jannik,STEIMLE Jannik,Jan,1,SOQ,GER,27,0,20
 28437,STEWART Jake,STEWART Jake,Jan,2,GFC,GBR,24,0,0
 29883,TESSON Jason,TESSON Jason,Jan,1,TEN,FRA,25,0.6,12
 19242,VAN POPPEL Danny,VAN POPPEL Danny,Jan,1,BOH,NED,30,2,10
