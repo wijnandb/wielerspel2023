@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.WT3,National Championships Belgium (Izegem) R.R.,41652,EVENEPOEL Remco,28377,5,50,2023-06-25,Roy
+2,1.WT3,National Championships Belgium (Izegem) R.R.,41652,SEGAERT Alec,33567,2,35,2023-06-25,-
+3,1.WT3,National Championships Belgium (Izegem) R.R.,41652,STUYVEN Jasper,18233,1,25,2023-06-25,PB
+4,1.WT3,National Championships Belgium (Izegem) R.R.,41652,BENOOT Tiesj,21244,0,20,2023-06-25,Paul
+5,1.WT3,National Championships Belgium (Izegem) R.R.,41652,DE BUYST Jasper,19274,0,18,2023-06-25,-
+6,1.WT3,National Championships Belgium (Izegem) R.R.,41652,DEWULF Stan,25655,0,16,2023-06-25,Kaspar
+7,1.WT3,National Championships Belgium (Izegem) R.R.,41652,CAMPENAERTS Victor,20184,0,14,2023-06-25,Vel
+8,1.WT3,National Championships Belgium (Izegem) R.R.,41652,DUPONT Timothy,7948,0,12,2023-06-25,-
+9,1.WT3,National Championships Belgium (Izegem) R.R.,41652,VAN ASBROECK Tom,18504,0,10,2023-06-25,-
+10,1.WT3,National Championships Belgium (Izegem) R.R.,41652,VAN KEIRSBULCK Guillaume,16718,0,8,2023-06-25,-
 1,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,MADOUAS Valentin,24758,5,50,2023-06-25,PB
 2,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,MOLARD Rudy,11818,2,35,2023-06-25,-
 3,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,BERNARD Julien,23357,1,25,2023-06-25,-
@@ -21,17 +31,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 7,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,ADRIA OLIVERAS Roger,27469,0,14,2023-06-25,-
 8,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,LOPEZ CARAVACA Jordi,31278,0,12,2023-06-25,-
 9,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,GUTIERREZ SANCHEZ Carlos,31380,0,10,2023-06-25,-
-10,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,GONZALEZ David,35361,0,8,2023-06-25,-
-1,1.WT3,National Championships Belgium (Izegem) R.R.,41652,EVENEPOEL Remco,28377,5,50,2023-06-25,Roy
-2,1.WT3,National Championships Belgium (Izegem) R.R.,41652,SEGAERT Alec,33567,2,35,2023-06-25,-
-3,1.WT3,National Championships Belgium (Izegem) R.R.,41652,STUYVEN Jasper,18233,1,25,2023-06-25,PB
-4,1.WT3,National Championships Belgium (Izegem) R.R.,41652,BENOOT Tiesj,21244,0,20,2023-06-25,Paul
-5,1.WT3,National Championships Belgium (Izegem) R.R.,41652,DE BUYST Jasper,19274,0,18,2023-06-25,-
-6,1.WT3,National Championships Belgium (Izegem) R.R.,41652,DEWULF Stan,25655,0,16,2023-06-25,Kaspar
-7,1.WT3,National Championships Belgium (Izegem) R.R.,41652,CAMPENAERTS Victor,20184,0,14,2023-06-25,Vel
-8,1.WT3,National Championships Belgium (Izegem) R.R.,41652,DUPONT Timothy,7948,0,12,2023-06-25,-
-9,1.WT3,National Championships Belgium (Izegem) R.R.,41652,VAN ASBROECK Tom,18504,0,10,2023-06-25,-
-10,1.WT3,National Championships Belgium (Izegem) R.R.,41652,VAN KEIRSBULCK Guillaume,16718,0,8,2023-06-25,-
+10,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,GONZALEZ TIRADO David,35361,0,8,2023-06-25,-
 1,1.WT3,National Championships Netherlands (Sittard-Geleen) R.R.,41658,VAN BAARLE Dylan,17794,5,50,2023-06-25,Nicky
 2,1.WT3,National Championships Netherlands (Sittard-Geleen) R.R.,41658,KOOIJ Olav,30643,2,35,2023-06-25,Albert
 3,1.WT3,National Championships Netherlands (Sittard-Geleen) R.R.,41658,VAN DER POEL Mathieu,21971,1,25,2023-06-25,Vel
@@ -62,9 +62,10 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,41664,SHAW James,24546,0,12,2023-06-25,-
 9,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,41664,GOLLIKER Joshua,34336,0,10,2023-06-25,-
 10,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,41664,WOOD Harrison,30333,0,8,2023-06-25,-
-1,1.1,National Championships United States (Knoxville) R.R. (prov.),41674,SIMMONS Quinn,30666,2,0,2023-06-25,Bram
-2,1.1,National Championships United States (Knoxville) R.R. (prov.),41674,WILLIAMS Tyler,20965,0.3,0,2023-06-25,-
-3,1.1,National Championships United States (Knoxville) R.R. (prov.),41674,STITES Tyler,26461,0.1,0,2023-06-25,-
+1,NC5,National Championships Canada (Edmonton) R.R.,41683,ZUKOWSKY Nickolas,26354,1,0,2023-06-25,-
+1,1.1,National Championships United States (Knoxville) R.R.,41674,SIMMONS Quinn,30666,2,0,2023-06-25,Bram
+2,1.1,National Championships United States (Knoxville) R.R.,41674,WILLIAMS Tyler,20965,0.3,0,2023-06-25,-
+3,1.1,National Championships United States (Knoxville) R.R.,41674,STITES Tyler,26461,0.1,0,2023-06-25,-
 1,NC5,National Championships Ireland (Dungannon) R.R.,41689,HEALY Ben,28846,1,0,2023-06-25,-
 1,NC5,"National Championships Czech Republic (Tlmace, SVK) R.R.",41685,VACEK Mathias,31713,1,0,2023-06-25,-
 1,NC5,National Championships Poland (Ostroleka) R.R.,41681,BANASZEK Alan,24948,1,0,2023-06-25,-
@@ -89,4 +90,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,NC5,National Championships Eritrea () R.R. (prov.),41678,AMAN Awet,34016,1,0,2023-06-25,-
 1,NC5,National Championships Algeria (Tipaza) R.R.,41713,BENGAYOU Abdelraouf,26894,1,0,2023-06-25,-
 1,NC5,National Championships Sweden (Uppsala) R.R.,41709,ERIKSSON Lucas,23531,1,0,2023-06-25,-
-1,NC5,National Championships Romania () R.R.,41705,TVETCOV Serghei,8079,1,0,2023-06-25,-
