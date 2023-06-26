@@ -4,33 +4,5 @@ template: default
 ploegleider: Paul
 ---
 
-<table class="table display compact" id="table_id" style="width:100%">
-    <thead>
-        <tr>
-            <th>Renner</th>
-            <th>Team</th>
-            <th>Nationaliteit</th>
-            <th>Ploegleider</th>
-            <th>Kosten</th>
-            <th>Punten</th>
-            <th>JPP</th>
-        </tr>
-    </thead>
-    <tbody>
-        {% assign riders = site.data.riders_with_points %}
-        {% for member in riders %}
-            {% if member.ploegleider == page.ploegleider %}
-                <tr>
-                    <td>{{ member.renner }}</td>
-                    <td>{{ member.team }}</td>
-                    <td>{{ member.nationality }}</td>
-                    <td>{{ member.ploegleider }}</td>
-                    <td>{{ member.kosten }}</td>
-                    <td>{{ member.punten }}</td>
-                    <td>{{ member.JPP }}</td>
-                </tr>
-            {% endif %}
-        {% endfor %}
-    </tbody>
-  </table>
+{% include team.html %}
   
