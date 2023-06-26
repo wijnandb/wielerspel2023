@@ -4,8 +4,10 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Oliver Naesen,21392, AG2R Citroën Team,BEL,Harry Koene,Harry,1
 17,,Ben O'Connor,23763, AG2R Citroën Team,AUS,Harry Koene,Harry,7
 17,,Aurélien Paret-Peintre,24110, AG2R Citroën Team,FRA,Nick Veenstra,Nicky,0
-17,,Jasper Philipsen,26392,Alpecin-Deceuninck,BEL,Nick Veenstra,Nicky,11
-17,,Mathieu van der Poel,21971,Alpecin-Deceuninck,NED,Frank Vellinga,Vel,40
+17,,Søren Kragh Andersen,20793, Alpecin-Deceuninck,DEN,Frank Vellinga,Vel,2
+17,,Quinten Hermans,22077, Alpecin-Deceuninck,BEL,Frank Rozemeijer,Frank,1
+17,,Jasper Philipsen,26392, Alpecin-Deceuninck,BEL,Nick Veenstra,Nicky,11
+17,,Mathieu van der Poel,21971, Alpecin-Deceuninck,NED,Frank Vellinga,Vel,40
 17,,Cees Bol,21930, Astana Qazaqstan Team,NED,Roy Smits,Roy,1
 17,,Mark Cavendish,3448, Astana Qazaqstan Team,GBR,Kaspar Burghard,Kaspar,4
 17,,Yevgeniy Fedorov,29309, Astana Qazaqstan Team,KAZ,Pieter-Bas de Bruijn,PB,1
@@ -27,10 +29,11 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Jordi Meeus,26421, BORA-hansgrohe,BEL,Frank Vellinga,Vel,5
 17,,Nils Politt,20847, BORA-hansgrohe,GER,Albert Kraaij,Albert,3
 17,,Danny van Poppel,19242, BORA-hansgrohe,NED,Jan Versluys,Jan,1
-17,,Bryan Coquard,18714,Cofidis,FRA,Jan Versluys,Jan,2
-17,,Ion Izagirre,14321,Cofidis,ESP,Harry Koene,Harry,2
-17,,Guillaume Martin,19994,Cofidis,FRA,Jan Versluys,Jan,4
-17,,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,4
+17,,Bryan Coquard,18714, Cofidis,FRA,Jan Versluys,Jan,2
+17,,Ion Izagirre,14321, Cofidis,ESP,Harry Koene,Harry,2
+17,,Victor Lafay,26197, Cofidis,FRA,Jan Versluys,Jan,2
+17,,Guillaume Martin,19994, Cofidis,FRA,Jan Versluys,Jan,4
+17,,Axel Zingle,31263, Cofidis,FRA,Paul van Doorn,Paul,4
 17,,Richard Carapaz,21342,EF Education-EasyPost,ECU,Wijnand Baretta,Wijnand,32
 17,,David Gaudu,24255, Groupama-FDJ,FRA,Nick Veenstra,Nicky,9
 17,,Stefan Küng,20960, Groupama-FDJ,SUI,Pieter-Bas de Bruijn,PB,11
@@ -67,11 +70,20 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Matteo Jorgenson,28057, Movistar Team,USA,Albert Kraaij,Albert,1
 17,,Enric Mas,22794, Movistar Team,ESP,Pieter-Bas de Bruijn,PB,17
 17,,Julian Alaphilippe,18610,Soudal Quick-Step,FRA,Arjan Knibbe,Arjan,40
+17,,Warren Barguil,17627, Team Arkéa-Samsic,FRA,Nick Veenstra,Nicky,3
+17,,Clément Champoussin,27153, Team Arkéa-Samsic,FRA,Jan Versluys,Jan,1
+17,,Matis Louvel,29982, Team Arkéa-Samsic,FRA,Paul van Doorn,Paul,3
+17,,Luca Mozzato,28037, Team Arkéa-Samsic,ITA,Nick Veenstra,Nicky,2
 17,,Romain Bardet,13566, Team DSM,FRA,Jan Versluys,Jan,6
 17,,John Degenkolb,9851, Team DSM,GER,Kaspar Burghard,Kaspar,1
 17,,Sam Welsford,23517, Team DSM,AUS,Pieter-Bas de Bruijn,PB,1
 17,,Dylan Groenewegen,19238, Team Jayco-AlUla,NED,Frank Rozemeijer,Frank,14
 17,,Simon Yates,17893, Team Jayco-AlUla,GBR,Pieter-Bas de Bruijn,PB,13
+17,,Edvald Boasson-Hagen,4377, TotalEnergies,NOR,Bram van Ommeren,Bram,0
+17,,Mathieu Burgaudeau,27151, TotalEnergies,FRA,Paul van Doorn,Paul,1
+17,,Pierre Latour,20156, TotalEnergies,FRA,Kaspar Burghard,Kaspar,2
+17,,Peter Sagan,12193, TotalEnergies,SVK,Roy Smits,Roy,5
+17,,Anthony Turgis,21312, TotalEnergies,FRA,Frank Vellinga,Vel,3
 17,,Giulio Ciccone,21812, Trek-Segafredo,ITA,Nick Veenstra,Nicky,4
 17,,Juan Pedro Lopez,27132, Trek-Segafredo,ESP,Pieter-Bas de Bruijn,PB,1
 17,,Mads Pedersen,21992, Trek-Segafredo,DEN,Harry Koene,Harry,18
