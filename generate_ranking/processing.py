@@ -91,17 +91,18 @@ def add_up_points_per_teamcaptain(riders):
         process_files.write_csv_file("ploegleiders/"+teamcaptain[0].lower()+".csv", team)
         ranking.append([teamcaptain[0],teamcaptain[1], Decimal(points),int(JPP)])
 
-    # print(sorted(ranking))#, key=lambda x:(x[1], x[2], x[0])))
     ranking = sorted(ranking, key=operator.itemgetter(2, 3), reverse=True)
     # append headers, 
     # add rank, with i for len(ranking)
     ranking_with_rank = [['positie','short','ploegleider','punten','JPP','bonus','totaal']]
     for i in range(len(ranking)):
         ranking_with_rank.append([i+1, ranking[i][0], ranking[i][1], ranking[i][2],ranking[i][3],0,0])
-    
+
+    ranking_with_rank[1:] = process_points.calculate_jpp(ranking_with_rank[1:])
+
     process_files.write_csv_file("ranking.csv", ranking_with_rank)
     # add bonus based on JPP won
-    process_points.calculate_jpp()
+    # process_points.calculate_jpp()
 
 
 points = process_files.read_csv_file('points.csv')
