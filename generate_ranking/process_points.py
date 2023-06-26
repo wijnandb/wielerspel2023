@@ -41,7 +41,7 @@ def calculate_jpp():
     # open the jackpot distribution from jpp.csv
     jpp_bonus = process_files.read_csv_file('jpp.csv')
     # order ranking by JPP descending
-    ranking.sort(key=lambda x: int(x[4]), reverse=True)
+    ranking[1:].sort(key=lambda x: int(x[4]), reverse=True)
     for i in range (1,15):
         ranking[i][5] = jpp_bonus[i][2]
         ranking[i][6] = Decimal(ranking[i][3]) + Decimal(ranking[i][5])
