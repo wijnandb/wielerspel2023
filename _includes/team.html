@@ -16,7 +16,7 @@
         {% for member in riders %}
             {% if member.ploegleider == page.ploegleider %}
                 <tr>
-                    <td><img src="/assets/img/flags/{{ member.nationality }}.png" ALT="{{ member.nationality }}" title="{{ member.nationality }}" width="30"> {{ member.renner }}</td>
+                    <td><img src="{{ site.baseurl }}/assets/img/flags/{{ member.nationality }}.png" ALT="{{ member.nationality }}" title="{{ member.nationality }}" width="30"> {{ member.renner }}</td>
                     <td>{{ member.team }}</td>
                     <td scope="col" class="d-none d-lg-table-cell">{{ member.nationality }}</td>
                     <td scope="col" class="d-none d-md-table-cell">{{ member.ploegleider }}</td>
