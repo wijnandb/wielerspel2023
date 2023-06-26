@@ -1,8 +1,22 @@
 race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id,price
-17,,Benoît Cosnefroy,24189,AG2R Citroën Team,FRA,Pieter-Bas de Bruijn,PB,17
-17,,Ben O'Connor,23763,AG2R Citroën Team,AUS,Harry Koene,Harry,7
+17,,Clément Berthet,31634, AG2R Citroën Team,FRA,-,-,-
+17,,Benoît Cosnefroy,24189, AG2R Citroën Team,FRA,Pieter-Bas de Bruijn,PB,17
+17,,Stan Dewulf,25655, AG2R Citroën Team,BEL,Kaspar Burghard,Kaspar,0
+17,,Felix Gall,26383, AG2R Citroën Team,AUT,-,-,-
+17,,Oliver Naesen,21392, AG2R Citroën Team,BEL,Harry Koene,Harry,1
+17,,Ben O'Connor,23763, AG2R Citroën Team,AUS,Harry Koene,Harry,7
+17,,Aurélien Paret-Peintre,24110, AG2R Citroën Team,FRA,Nick Veenstra,Nicky,0
+17,,Nans Peters,22703, AG2R Citroën Team,FRA,-,-,-
 17,,Jasper Philipsen,26392,Alpecin-Deceuninck,BEL,Nick Veenstra,Nicky,11
 17,,Mathieu van der Poel,21971,Alpecin-Deceuninck,NED,Frank Vellinga,Vel,40
+17,,Cees Bol,21930, Astana Qazaqstan Team,NED,Roy Smits,Roy,1
+17,,Mark Cavendish,3448, Astana Qazaqstan Team,GBR,Kaspar Burghard,Kaspar,4
+17,,David De La Cruz,12719, Astana Qazaqstan Team,ESP,-,-,-
+17,,Yevgeniy Fedorov,29309, Astana Qazaqstan Team,KAZ,Pieter-Bas de Bruijn,PB,1
+17,,Alexey Lutsenko,18455, Astana Qazaqstan Team,KAZ,Frank Vellinga,Vel,6
+17,,Gianni Moscon,22676, Astana Qazaqstan Team,ITA,Pieter-Bas de Bruijn,PB,2
+17,,Luis León Sánchez,333, Astana Qazaqstan Team,ESP,Albert Kraaij,Albert,1
+17,,Harold Tejada,26813, Astana Qazaqstan Team,COL,-,-,-
 17,,Nikias Arndt,16323, Bahrain Victorious,GER,-,-,-
 17,,Phil Bauhaus,20861, Bahrain Victorious,GER,Frank Vellinga,Vel,1
 17,,Pello Bilbao,17881, Bahrain Victorious,ESP,Jan Versluys,Jan,6
@@ -11,13 +25,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Matej Mohoric,21145, Bahrain Victorious,SLO,Frank Rozemeijer,Frank,16
 17,,Wout Poels,7751, Bahrain Victorious,NED,Roy Smits,Roy,1
 17,,Fred Wright,28446, Bahrain Victorious,GBR,Jan Versluys,Jan,5
-17,,Emanuel Buchmann,18739,BORA-hansgrohe,GER,Pieter-Bas de Bruijn,PB,2
-17,,Marco Haller,15281,BORA-hansgrohe,AUT,Harry Koene,Harry,1
-17,,Jai Hindley,23948,BORA-hansgrohe,AUS,Kaspar Burghard,Kaspar,13
-17,,Bob Jungels,17901,BORA-hansgrohe,LUX,Frank Vellinga,Vel,3
-17,,Jordi Meeus,26421,BORA-hansgrohe,BEL,Frank Vellinga,Vel,5
-17,,Nils Politt,20847,BORA-hansgrohe,GER,Albert Kraaij,Albert,3
-17,,Danny van Poppel,19242,BORA-hansgrohe,NED,Jan Versluys,Jan,1
+17,,Emanuel Buchmann,18739, BORA-hansgrohe,GER,Pieter-Bas de Bruijn,PB,2
+17,,Marco Haller,15281, BORA-hansgrohe,AUT,Harry Koene,Harry,1
+17,,Jai Hindley,23948, BORA-hansgrohe,AUS,Kaspar Burghard,Kaspar,13
+17,,Bob Jungels,17901, BORA-hansgrohe,LUX,Frank Vellinga,Vel,3
+17,,Patrick Konrad,16058, BORA-hansgrohe,AUT,Albert Kraaij,Albert,1
+17,,Jordi Meeus,26421, BORA-hansgrohe,BEL,Frank Vellinga,Vel,5
+17,,Nils Politt,20847, BORA-hansgrohe,GER,Albert Kraaij,Albert,3
+17,,Danny van Poppel,19242, BORA-hansgrohe,NED,Jan Versluys,Jan,1
 17,,Bryan Coquard,18714,Cofidis,FRA,Jan Versluys,Jan,2
 17,,Ion Izagirre,14321,Cofidis,ESP,Harry Koene,Harry,2
 17,,Guillaume Martin,19994,Cofidis,FRA,Jan Versluys,Jan,4
@@ -32,9 +47,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Quentin Pacher,20163, Groupama-FDJ,FRA,-,-,-
 17,,Thibaut Pinot,13080, Groupama-FDJ,FRA,Nick Veenstra,Nicky,4
 17,,Lars van den Berg,26333, Groupama-FDJ,NED,-,-,-
-17,,Egan Bernal,24926,INEOS Grenadiers,COL,Paul van Doorn,Paul,28
-17,,Daniel Martinez,23503,INEOS Grenadiers,COL,Bram van Ommeren,Bram,12
-17,,Carlos Rodriguez,30836,INEOS Grenadiers,ESP,Roy Smits,Roy,12
+17,,Egan Bernal,24926, INEOS Grenadiers,COL,Paul van Doorn,Paul,28
+17,,Jonathan Castroviejo,9811, INEOS Grenadiers,ESP,-,-,-
+17,,Omar Fraile,19335, INEOS Grenadiers,ESP,Arjan Knibbe,Arjan,1
+17,,Michal Kwiatkowski,12923, INEOS Grenadiers,POL,Harry Koene,Harry,5
+17,,Daniel Martinez,23503, INEOS Grenadiers,COL,Bram van Ommeren,Bram,12
+17,,Tom Pidcock,27708, INEOS Grenadiers,GBR,Albert Kraaij,Albert,20
+17,,Carlos Rodriguez,30836, INEOS Grenadiers,ESP,Roy Smits,Roy,12
+17,,Ben Turner,27923, INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,1
 17,,Lilian Calmejane,21439, Intermarché-Circus-Wanty,FRA,Jan Versluys,Jan,1
 17,,Rui Costa,6807, Intermarché-Circus-Wanty,POR,-,-,-
 17,,Biniam Girmay,29474, Intermarché-Circus-Wanty,ERI,Nick Veenstra,Nicky,19
@@ -51,8 +71,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Corbin Strong,29492, Israel-Premier Tech,NZL,Pieter-Bas de Bruijn,PB,1
 17,,Dylan Teuns,17908, Israel-Premier Tech,BEL,Harry Koene,Harry,4
 17,,Michael Woods,20257, Israel-Premier Tech,CAN,Albert Kraaij,Albert,2
-17,,Wout van Aert,20730,Jumbo-Visma,BEL,Frank Rozemeijer,Frank,61
-17,,Jonas Vingegaard,25740,Jumbo-Visma,DEN,Arjan Knibbe,Arjan,43
+17,,Tiesj Benoot,21244, Jumbo-Visma,BEL,Paul van Doorn,Paul,1
+17,,Wilco Kelderman,15171, Jumbo-Visma,NED,Albert Kraaij,Albert,2
+17,,Sepp Kuss,25653, Jumbo-Visma,USA,Nick Veenstra,Nicky,3
+17,,Christophe Laporte,19953, Jumbo-Visma,FRA,Kaspar Burghard,Kaspar,15
+17,,Wout van Aert,20730, Jumbo-Visma,BEL,Frank Rozemeijer,Frank,61
+17,,Dylan van Baarle,17794, Jumbo-Visma,NED,Nick Veenstra,Nicky,7
+17,,Nathan Van Hooydonck,22015, Jumbo-Visma,BEL,-,-,-
+17,,Jonas Vingegaard,25740, Jumbo-Visma,DEN,Arjan Knibbe,Arjan,43
 17,,Victor Campenaerts,20184, Lotto Dstny,BEL,Frank Vellinga,Vel,2
 17,,Jasper De Buyst,19274, Lotto Dstny,BEL,-,-,-
 17,,Pascal Eenkhoorn,24932, Lotto Dstny,NED,Harry Koene,Harry,1
@@ -61,7 +87,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Jacopo Guarnieri,7776, Lotto Dstny,ITA,-,-,-
 17,,Maxim Van Gils,28521, Lotto Dstny,BEL,-,-,-
 17,,Florian Vermeersch,28127, Lotto Dstny,BEL,Albert Kraaij,Albert,2
-17,,Enric Mas,22794,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,17
+17,,Alex Aranburu,23940, Movistar Team,ESP,Jan Versluys,Jan,3
+17,,Ruben Guerreiro,22683, Movistar Team,POR,Jan Versluys,Jan,1
+17,,Gorka Izagirre,10070, Movistar Team,ESP,-,-,-
+17,,Matteo Jorgenson,28057, Movistar Team,USA,Albert Kraaij,Albert,1
+17,,Enric Mas,22794, Movistar Team,ESP,Pieter-Bas de Bruijn,PB,17
+17,,Gregor Mühlberger,21128, Movistar Team,AUT,-,-,-
+17,,Nelson Oliveira,13274, Movistar Team,POR,-,-,-
+17,,Antonio Pedrero,19078, Movistar Team,ESP,-,-,-
 17,,Julian Alaphilippe,18610,Soudal Quick-Step,FRA,Arjan Knibbe,Arjan,40
 17,,Romain Bardet,13566, Team DSM,FRA,Jan Versluys,Jan,6
 17,,John Degenkolb,9851, Team DSM,GER,Kaspar Burghard,Kaspar,1
@@ -79,8 +112,22 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Luka Mezgec,15789, Team Jayco-AlUla,SLO,-,-,-
 17,,Elmar Reinders,18467, Team Jayco-AlUla,NED,-,-,-
 17,,Simon Yates,17893, Team Jayco-AlUla,GBR,Pieter-Bas de Bruijn,PB,13
-17,,Mads Pedersen,21992,Trek-Segafredo,DEN,Harry Koene,Harry,18
-17,,Tadej Pogacar,26526,UAE Team Emirates,SLO,Kees van Ommeren,Kees,83
+17,,Giulio Ciccone,21812, Trek-Segafredo,ITA,Nick Veenstra,Nicky,4
+17,,Tony Gallopin,7838, Trek-Segafredo,FRA,-,-,-
+17,,Alex Kirsch,19545, Trek-Segafredo,LUX,-,-,-
+17,,Juan Pedro Lopez,27132, Trek-Segafredo,ESP,Pieter-Bas de Bruijn,PB,1
+17,,Mads Pedersen,21992, Trek-Segafredo,DEN,Harry Koene,Harry,18
+17,,Quinn Simmons,30666, Trek-Segafredo,USA,Bram van Ommeren,Bram,1
+17,,Mattias Skjelmose Jensen,30166, Trek-Segafredo,DEN,Kaspar Burghard,Kaspar,7
+17,,Jasper Stuyven,18233, Trek-Segafredo,BEL,Pieter-Bas de Bruijn,PB,6
+17,,Mikkel Bjerg,26388, UAE Team Emirates,DEN,Kees van Ommeren,Kees,2
+17,,Felix Großschartner,19548, UAE Team Emirates,AUT,Albert Kraaij,Albert,1
+17,,Vegard Stake Laengen,11213, UAE Team Emirates,NOR,-,-,-
+17,,Rafal Majka,14310, UAE Team Emirates,POL,Kees van Ommeren,Kees,1
+17,,Tadej Pogacar,26526, UAE Team Emirates,SLO,Kees van Ommeren,Kees,83
+17,,Marc Soler,23299, UAE Team Emirates,ESP,Frank Vellinga,Vel,2
+17,,Matteo Trentin,13270, UAE Team Emirates,ITA,Nick Veenstra,Nicky,4
+17,,Adam Yates,18975, UAE Team Emirates,GBR,Paul van Doorn,Paul,12
 17,,Jonas Abrahamsen,22233, Uno-X Pro Cycling Team,NOR,-,-,-
 17,,Anthon Charmig,26474, Uno-X Pro Cycling Team,DEN,-,-,-
 17,,Jonas Gregaard,23437, Uno-X Pro Cycling Team,DEN,-,-,-
