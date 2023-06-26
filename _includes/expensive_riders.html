@@ -1,6 +1,6 @@
-{% assign topriders = site.data.riders_with_points | sort: 'punten' | reverse %}
+{% assign topriders = site.data.riders_with_points | sort: 'kosten' | reverse %}
 
-<h2>Beste renners</h2>
+<h2>Duurste renners</h2>
 <table class="table table-striped">
   <thead>
     <tr>
@@ -12,7 +12,7 @@
     </tr>
   </thead>
   <tbody>
-  {% for rider in topriders | limit: 100 -%}
+  {% for rider in topriders | limit: 10 -%}
   <tr>
     <td>{{ rider.rider }}</td>
     <td>{{ rider.ploegleider }}</td>
