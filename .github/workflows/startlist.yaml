@@ -18,6 +18,8 @@ jobs:
         run: pip install requests bs4 unidecode
       - name: run startlist scraper
         run: python generate_ranking/current_races.py
+      - name: run script to create riders per tc overview
+        run: python generate_ranking/startlist_per_tc.py
       - name: set user
         run: |
          git config --global user.email "wb@retta.nl"
