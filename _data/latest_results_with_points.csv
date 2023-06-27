@@ -62,6 +62,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,41664,SHAW James,24546,0,12,2023-06-25,-
 9,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,41664,GOLLIKER Joshua,34336,0,10,2023-06-25,-
 10,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,41664,WOOD Harrison,30333,0,8,2023-06-25,-
+1,NC5,National Championships Eritrea (Asmara) R.R. (prov.),41678,AMAN Awet,34016,1,0,2023-06-25,-
 1,NC5,National Championships Canada (Edmonton) R.R.,41683,ZUKOWSKY Nickolas,26354,1,0,2023-06-25,-
 1,1.1,National Championships United States (Knoxville) R.R.,41674,SIMMONS Quinn,30666,2,0,2023-06-25,Bram
 2,1.1,National Championships United States (Knoxville) R.R.,41674,WILLIAMS Tyler,20965,0.3,0,2023-06-25,-
@@ -87,6 +88,5 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,National Championships Norway (Sandnes) R.R.,41668,DVERSNES Fredrik,28553,2,0,2023-06-25,-
 2,1.1,National Championships Norway (Sandnes) R.R.,41668,KRISTOFF Alexander,4179,0.3,0,2023-06-25,Nicky
 3,1.1,National Championships Norway (Sandnes) R.R.,41668,ABRAHAMSEN Jonas,22233,0.1,0,2023-06-25,-
-1,NC5,National Championships Eritrea () R.R. (prov.),41678,AMAN Awet,34016,1,0,2023-06-25,-
+1,NC5,National Championships Romania (Agnita) R.R.,41705,TVETCOV Serghei,8079,1,0,2023-06-25,-
 1,NC5,National Championships Algeria (Tipaza) R.R.,41713,BENGAYOU Abdelraouf,26894,1,0,2023-06-25,-
-1,NC5,National Championships Sweden (Uppsala) R.R.,41709,ERIKSSON Lucas,23531,1,0,2023-06-25,-
