@@ -28,7 +28,7 @@ with open('_data/startlist-filtered.csv', newline='') as csvfile:
             data[team_captain] = {'riders': [row], 'price': price}
     
 # generate the HTML output
-output = '---\nlayout: default\ntitle: Aantal en punten per poegleider\npermalink: /startlijsten/'+race+'/\n---\n\n'
+output = '---\nlayout: default\ntitle: Aantal en punten per poegleider\n---\n\n'
 output += '{% include startlist-links.html %}\n\n'
 output += '<table class="table table-striped">\n'
 for team_captain, team_data in data.items():
@@ -50,5 +50,5 @@ for team_captain, team_data in data.items():
 output += '</table>\n\n'
 
 # write the output to an HTML file
-with open('startlist/riders.html', 'w') as htmlfile:
+with open('startlist/races/GT/index.html', 'w') as htmlfile:
     htmlfile.write(output)
