@@ -13,7 +13,11 @@
         <tr>
           <td>{{ item.startdate | date: "%d-%m" }}</td>
           <td scope="col" class="d-none d-lg-table-cell">{{ item.enddate | date: "%d-%m" }}</td>
-          <td><a href="{{ site.baseurl }}/startlist/races/{{ item.FC_race_id }}.html">{{ item.race }} ({{ item.category }})</a></td>
+          {% if item.category contains "GT" %}
+            <td><a href="{{ site.baseurl }}/startlist/races/GT/">{{ item.race }} ({{ item.category }})</a></td>
+          {% else %}
+            <td><a href="{{ site.baseurl }}/startlist/races/{{ item.FC_race_id }}.html">{{ item.race }} ({{ item.category }})</a></td>
+          {% endif %}
           <td scope="col" class="d-none d-lg-table-cell">{{ item.points }}</td>
         </tr>
       {% endfor %}
