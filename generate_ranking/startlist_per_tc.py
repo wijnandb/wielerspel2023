@@ -4,7 +4,7 @@ WIP. Tour is hardcoded, I should run this for all the GTs and I could run it for
 It's even possible to schedule when this script should run, because we have the date for each race
 
 """
-race = "tour"
+race = "Tour de France"
 race_id = "17"
 
 # read the CSV file
@@ -28,7 +28,7 @@ with open('_data/startlist-filtered.csv', newline='') as csvfile:
             data[team_captain] = {'riders': [row], 'price': price}
     
 # generate the HTML output
-output = '---\nlayout: default\ntitle: Aantal en punten per poegleider\n---\n\n'
+output = '---\nlayout: default\ntitle: Startlijst '+ race + ' per poegleider\n---\n\n'
 output += '{% include startlist-links.html %}\n\n'
 output += '<table class="table table-striped">\n'
 for team_captain, team_data in data.items():
