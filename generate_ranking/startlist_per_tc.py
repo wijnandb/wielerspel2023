@@ -1,6 +1,6 @@
 import csv
 """
-WIP. Giro is hardcoded, I should run this for all the GTs and I could run it for every race to come.
+WIP. Tour is hardcoded, I should run this for all the GTs and I could run it for every race to come.
 It's even possible to schedule when this script should run, because we have the date for each race
 
 """
