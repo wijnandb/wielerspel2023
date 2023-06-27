@@ -28,7 +28,7 @@ with open('_data/startlist-filtered.csv', newline='') as csvfile:
             data[team_captain] = {'riders': [row], 'price': price}
     
 # generate the HTML output
-output = '---\nlayout: default\ntitle: Startlijst '+ race + ' per poegleider\n---\n\n'
+output = '---\nlayout: default\ntitle: Startlijst '+ race + ' per ploegleider\n---\n\n'
 output += '{% include startlist-links.html %}\n\n'
 output += '<table class="table table-striped">\n'
 for team_captain, team_data in data.items():
