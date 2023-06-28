@@ -66,6 +66,12 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Wout van Aert,20730, Jumbo-Visma,BEL,Frank Rozemeijer,Frank,61
 17,,Dylan van Baarle,17794, Jumbo-Visma,NED,Nick Veenstra,Nicky,7
 17,,Jonas Vingegaard,25740, Jumbo-Visma,DEN,Arjan Knibbe,Arjan,43
+17,,Giulio Ciccone,21812, Lidl-Trek,ITA,Nick Veenstra,Nicky,4
+17,,Juan Pedro Lopez,27132, Lidl-Trek,ESP,Pieter-Bas de Bruijn,PB,1
+17,,Mads Pedersen,21992, Lidl-Trek,DEN,Harry Koene,Harry,18
+17,,Quinn Simmons,30666, Lidl-Trek,USA,Bram van Ommeren,Bram,1
+17,,Mattias Skjelmose Jensen,30166, Lidl-Trek,DEN,Kaspar Burghard,Kaspar,7
+17,,Jasper Stuyven,18233, Lidl-Trek,BEL,Pieter-Bas de Bruijn,PB,6
 17,,Victor Campenaerts,20184, Lotto Dstny,BEL,Frank Vellinga,Vel,2
 17,,Pascal Eenkhoorn,24932, Lotto Dstny,NED,Harry Koene,Harry,1
 17,,Caleb Ewan,19651, Lotto Dstny,AUS,Paul van Doorn,Paul,16
@@ -83,9 +89,9 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Clément Champoussin,27153, Team Arkéa-Samsic,FRA,Jan Versluys,Jan,1
 17,,Matis Louvel,29982, Team Arkéa-Samsic,FRA,Paul van Doorn,Paul,3
 17,,Luca Mozzato,28037, Team Arkéa-Samsic,ITA,Nick Veenstra,Nicky,2
-17,,Romain Bardet,13566, Team DSM,FRA,Jan Versluys,Jan,6
-17,,John Degenkolb,9851, Team DSM,GER,Kaspar Burghard,Kaspar,1
-17,,Sam Welsford,23517, Team DSM,AUS,Pieter-Bas de Bruijn,PB,1
+17,,Romain Bardet,13566, Team dsm-firmenich,FRA,Jan Versluys,Jan,6
+17,,John Degenkolb,9851, Team dsm-firmenich,GER,Kaspar Burghard,Kaspar,1
+17,,Sam Welsford,23517, Team dsm-firmenich,AUS,Pieter-Bas de Bruijn,PB,1
 17,,Dylan Groenewegen,19238, Team Jayco-AlUla,NED,Frank Rozemeijer,Frank,14
 17,,Simon Yates,17893, Team Jayco-AlUla,GBR,Pieter-Bas de Bruijn,PB,13
 17,,Edvald Boasson-Hagen,4377, TotalEnergies,NOR,Bram van Ommeren,Bram,0
@@ -93,12 +99,6 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,,Pierre Latour,20156, TotalEnergies,FRA,Kaspar Burghard,Kaspar,2
 17,,Peter Sagan,12193, TotalEnergies,SVK,Roy Smits,Roy,5
 17,,Anthony Turgis,21312, TotalEnergies,FRA,Frank Vellinga,Vel,3
-17,,Giulio Ciccone,21812, Trek-Segafredo,ITA,Nick Veenstra,Nicky,4
-17,,Juan Pedro Lopez,27132, Trek-Segafredo,ESP,Pieter-Bas de Bruijn,PB,1
-17,,Mads Pedersen,21992, Trek-Segafredo,DEN,Harry Koene,Harry,18
-17,,Quinn Simmons,30666, Trek-Segafredo,USA,Bram van Ommeren,Bram,1
-17,,Mattias Skjelmose Jensen,30166, Trek-Segafredo,DEN,Kaspar Burghard,Kaspar,7
-17,,Jasper Stuyven,18233, Trek-Segafredo,BEL,Pieter-Bas de Bruijn,PB,6
 17,,Mikkel Bjerg,26388, UAE Team Emirates,DEN,Kees van Ommeren,Kees,2
 17,,Felix Großschartner,19548, UAE Team Emirates,AUT,Albert Kraaij,Albert,1
 17,,Rafal Majka,14310, UAE Team Emirates,POL,Kees van Ommeren,Kees,1
