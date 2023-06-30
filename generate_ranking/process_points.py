@@ -22,13 +22,6 @@ def add_points_to_results(input, output):
     return True
 
 
-def trigger_correction_GT():
-    """
-    The actual function to determine correction points is in correction_GT.py
-    """
-    pass
-
-
 def calculate_jpp(ranking):
     """
     Look up the JPP for all team_captains.
