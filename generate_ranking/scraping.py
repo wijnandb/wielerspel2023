@@ -10,6 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 import process_files, count_riders, change_category, first_cycling
 from datetime import datetime
+from decimal import *
 # from operator import itemgetter
 
 
@@ -50,6 +51,7 @@ def get_results():
     base_result_url = "https://cqranking.com/men/asp/gen/start.asp"
     b = base_result_url
     r = requests.get(b)
+    # print(r)
     soup = BeautifulSoup(r.text, "html.parser")
     result_table =  soup.find("table", ["borderNoOpac"])
     row_tags = result_table.find_all('tr')[1:] # skipping the header rows
@@ -98,21 +100,107 @@ def get_results():
 
 
 def get_jersey_ranking(race_name, race_id, category, date):
+    stage = first_cycling.stagename_to_number(race_name)
+    print(f"Stage: {stage}")
+    if int(stage) == 21:
+        print("This is the last stage of a GT, we need to correct the jersey ranking")
+        correction_jersey_ranking(race_name, race_id, category, date)
+    else:
+        points = 0
+        JPP = 0
+        # WIP: get the year from date. Now using default year in first_cycling.scrape_result
+        rider_id, rider = first_cycling.scrape_result(race_name, 'gc')
+        if rider_id:
+            new_results.append([-4, category, "Leiderstrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+        rider_id, rider = first_cycling.scrape_result(race_name, 'youth')
+        if rider_id:
+            new_results.append([-1, category, "Jongerentrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+        rider_id, rider = first_cycling.scrape_result(race_name, 'point')
+        if rider_id:
+            new_results.append([-2, category, "Puntentrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+        rider_id, rider = first_cycling.scrape_result(race_name, 'mountain')
+        if rider_id:
+            new_results.append([-3, category, "Bergtrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+
+
+def correction_jersey_ranking(race_name, race_id, category, date):
+    """
+    We call this on the last stage of a GT. Instead of adding points for wearing a jersey,
+    we need to substract them (because the winner of a jersey gets points for winning it,
+    and no (extra) points for wearing it).
+    """
+    category = category[:3] + 'c'
+    jerseys = ['youth','gc','point','mountain']
+    jersey_names = ['jongerentrui','leiderstrui','puntentrui','bergtrui']
+    if race_name[:4].lower() == 'tour':
+        GT = "Tour de France"
+    elif race_name[:4].lower() == 'giro':
+        GT = "Giro d'Italia"
+    elif race_name[:6].lower() == 'vuelta':
+        GT = "Vuelta a España"
+    else:
+        print("Race niet gevonden, kan niet checken op First Cycling")
+    
+    for i in range(4):
+        jersey = jerseys[i]
+        jersey_name = jersey_names[i]
+        specialrace_id = int(race_id) + i
+        # print(int(specialrace_id))
+        rider_id, rider = first_cycling.scrape_result(race_name, jersey)
+        # print(race_id, rider, rider_id)
+        points = points_earned_for_wearing_jersey(race_id, jersey, rider_id, rider)
+        new_results.append([0, category, "Correctie dragen " + jersey_name + " in " + GT, int(specialrace_id), rider.strip(), int(rider_id), float(points), 0, date])
+
+
+def points_earned_for_wearing_jersey(race_id, jersey, rider_id, rider):
+    """ 
+    I am getting this from the results file.
+    So I guess I open it, look for the rider_id, the race_id and the position. Careful though:
+    The race_id is different for every stage!
+
+    Maybe I can use the "contains", to check if the name of the GrandTour is in the name of the race 
+
+    In python I use: if "tour" in race_name:
+
+    We are using negative integers as positions to award points for wearing a jersey,
+    so we're looking for those negative integers. But, that only works for the first GT, after that
+    we also need to look at the race_id.
+    """
+    if jersey == "gc":
+        position = -4 
+    elif jersey == "youth":
+        position = -1
+    elif jersey == "point":
+        position = -2
+    elif jersey == "mountain":
+        position = -3
+    else:
+        l=jersey
+
+    results_with_points = process_files.read_csv_file("results_with_points.csv")
+    # print(results_with_points)
     points = 0
-    JPP = 0
-    # WIP: get the year from date. Now using default year in first_cycling.scrape_result
-    rider_id, rider = first_cycling.scrape_result(race_name, 'gc')
-    if rider_id:
-        new_results.append([-4, category, "Leiderstrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
-    rider_id, rider = first_cycling.scrape_result(race_name, 'youth')
-    if rider_id:
-        new_results.append([-1, category, "Jongerentrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
-    rider_id, rider = first_cycling.scrape_result(race_name, 'point')
-    if rider_id:
-        new_results.append([-2, category, "Puntentrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
-    rider_id, rider = first_cycling.scrape_result(race_name, 'mountain')
-    if rider_id:
-        new_results.append([-3, category, "Bergtrui na " + race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+    for result in results_with_points[1:]:
+        if int(result[0]) == int(position):
+            # print(f"Found position: {result[0]}")
+            if int(result[5]) == int(rider_id):
+                # print(f"Found rider: {result[5]}")
+
+                points = points + Decimal(result[6])
+                # rider = result[4]
+                ploegleider = result[9]
+    if points > 0:
+        """ The winner of the jersey has earned points for wearing the jersey.
+        This is the amount we need to substract"""
+        points = -points
+    return points
+    #     # print(0, "GTc", "Correctie voor dragen en winnen trui in Grote Ronde", tour_id, rider, rider_id, points)
+    #     results_with_points.append([0, "GTc", "Correctie voor dragen en winnen " + jersey + " trui in Grote Ronde", rider, rider_id, points,race_id,today,ploegleider])
+    #     print(results_with_points[-1])
+    #     # if this is correct, write the results back to the file
+    #     process_files.write_csv_file("results_with_points.csv", results_with_points)
+
+# get_jersey_ranking("Giro d’Italia, Stage 21 : Roma - Roma (135 km)", "41369", "GT2s", "2023-05-28")
 
 
 def get_results_per_race(race_id, race_name, category, country=None):
