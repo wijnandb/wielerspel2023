@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,NC5,National Championships Philippines (Tagaytay) R.R. (prov.),41477,CARCUEVA Jonel,27578,1,0,2023-06-30,-
 1,NCT5,National Championships Philippines (Tagaytay) I.T.T. (prov.),41476,PASCUAL Joshua,35158,0.5,0,2023-06-28,-
 1,1.WT3,National Championships Belgium (Izegem) R.R.,41652,EVENEPOEL Remco,28377,5,50,2023-06-25,Roy
 2,1.WT3,National Championships Belgium (Izegem) R.R.,41652,SEGAERT Alec,33567,2,35,2023-06-25,-
@@ -73,13 +74,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,NC5,National Championships Poland (Ostroleka) R.R.,41681,BANASZEK Alan,24948,1,0,2023-06-25,-
 1,NC5,National Championships Austria (Hollenstein an der Ybbs) R.R.,41679,MÜHLBERGER Gregor,21128,1,0,2023-06-25,-
 1,NC5,National Championships Portugal (Mogadouro) R.R.,41676,OLIVEIRA Ivo Emanuel Alves,25513,1,0,2023-06-25,-
-1,1.WT3,National Championships Germany (Bad Dürrheim) R.R.,41672,BUCHMANN Emanuel,18739,5,50,2023-06-25,PB
-2,1.WT3,National Championships Germany (Bad Dürrheim) R.R.,41672,DENZ Nico,21504,2,35,2023-06-25,-
-3,1.WT3,National Championships Germany (Bad Dürrheim) R.R.,41672,SCHACHMANN Maximilian,20798,1,25,2023-06-25,Bram
-4,1.WT3,National Championships Germany (Bad Dürrheim) R.R.,41672,STEIMLE Jannik,25081,0,20,2023-06-25,Jan
-5,1.WT3,National Championships Germany (Bad Dürrheim) R.R.,41672,RUTSCH Jonas,26438,0,18,2023-06-25,-
-6,1.WT3,National Championships Germany (Bad Dürrheim) R.R.,41672,BRENNER Marco,31323,0,16,2023-06-25,-
-7,1.WT3,National Championships Germany (Bad Dürrheim) R.R.,41672,SCHWARZMANN Michael,15182,0,14,2023-06-25,-
-8,1.WT3,National Championships Germany (Bad Dürrheim) R.R.,41672,ZIMMERMANN Georg,25165,0,12,2023-06-25,-
-9,1.WT3,National Championships Germany (Bad Dürrheim) R.R.,41672,GESCHKE Simon,4742,0,10,2023-06-25,-
-10,1.WT3,National Championships Germany (Bad Dürrheim) R.R.,41672,HOLLMANN Juri,27818,0,8,2023-06-25,-
