@@ -175,13 +175,13 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,216,Pierre Latour,20156, TotalEnergies,FRA,Kaspar Burghard,Kaspar,2
 17,217,Daniel Oss,7148, TotalEnergies,ITA,-,-,-
 17,218,Anthony Turgis,21312, TotalEnergies,FRA,Frank Vellinga,Vel,3
-38,1,Leo Hayter,30635,INEOS Grenadiers,GBR,Wijnand Baretta,Wijnand,1
-38,2,Michael Leonard,,INEOS Grenadiers,CAN,-,-,-
+38,1,Kim Heiduk,29436,INEOS Grenadiers,GER,Albert Kraaij,Albert,0
+38,2,Jhonnatan Narvaez,25157,INEOS Grenadiers,ECU,Nick Veenstra,Nicky,1
 38,3,Lucas Plapp,29787,INEOS Grenadiers,AUS,Frank Vellinga,Vel,5
 38,4,Salvatore Puccio,13272,INEOS Grenadiers,ITA,-,-,-
 38,5,Brandon Rivera,26283,INEOS Grenadiers,COL,-,-,-
 38,6,Pavel Sivakov,24934,INEOS Grenadiers,FRA,Paul van Doorn,Paul,7
-38,7,Joshua Tarling,34297,INEOS Grenadiers,GBR,-,-,-
+38,7,Luke Rowe,13229,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,0
 38,11,Felix Engelhardt,29297,Team Jayco-AlUla,GER,-,-,-
 38,12,Tsgabu Grmay,18053,Team Jayco-AlUla,ETH,-,-,-
 38,13,Amund Grøndahl Jansen,20715,Team Jayco-AlUla,NOR,-,-,-
@@ -212,9 +212,10 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 38,51,Simone Bevilacqua,26964,EOLO-Kometa Cycling Team,ITA,-,-,-
 38,52,Alessandro Fancellu,29221,EOLO-Kometa Cycling Team,ITA,-,-,-
 38,53,Andrea Garosio,21298,EOLO-Kometa Cycling Team,ITA,-,-,-
-38,54,Alex Martin,32583,EOLO-Kometa Cycling Team,ESP,-,-,-
-38,55,Andrea Pietrobon,,EOLO-Kometa Cycling Team,ITA,-,-,-
-38,56,Fernando Tercero,32613,EOLO-Kometa Cycling Team,ESP,-,-,-
+38,54,David Martin,20093,EOLO-Kometa Cycling Team,ESP,-,-,-
+38,55,Simone Raccani,30809,EOLO-Kometa Cycling Team,ITA,-,-,-
+38,56,Samuele Rivi,28522,EOLO-Kometa Cycling Team,ITA,-,-,-
+38,57,Javier Serrano,30684,EOLO-Kometa Cycling Team,ESP,-,-,-
 38,61,Josef Dirnbauer,,Team Felbermayr Simplon Wels,AUT,-,-,-
 38,62,Daniel Federspiel,9863,Team Felbermayr Simplon Wels,AUT,-,-,-
 38,63,Michael Kukrle,21827,Team Felbermayr Simplon Wels,CZE,-,-,-
