@@ -5,7 +5,7 @@ on:
          
   schedule:
     # UTC time, so one (winter) or two hours (summer) later here. 5 and 35 past 18 or 19
-    - cron: '5 8/5 26-30 6 *'
+    - cron: '5 17 * * *'
 
 jobs:
   scrape-startlist:
