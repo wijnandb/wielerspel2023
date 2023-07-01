@@ -190,8 +190,10 @@ def stagename_to_number(name):
     stage =  name.split(':')[0].strip().lower()
     if stage[-2].isnumeric():
         stage_number = stage[-2:]
+        print(f"Double digit stage: {stage_number}")
     elif stage[-1].isnumeric():
         stage_number = stage[-1:]
+        print(f"Single digit stage: {stage_number}")
     else:
         stage_number = 0
     return stage_number
