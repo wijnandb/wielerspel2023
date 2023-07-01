@@ -105,7 +105,7 @@ def scrape_result(racename, jersey, year=YEAR):
                 # print(f"Found {name} as wearer of {jersey} jersey in cell 4")
             fc_rider_id = link.split('&')[0]
             # print(f"Found rider_id {fc_rider_id} for {name}")
-            rider_id = ridername_to_id(name, fc_rider_id)
+            rider_id, country = ridername_to_id(name, fc_rider_id)
             return rider_id, name
         else:
             print(f"Did not find a number 1, in race { race_id } for year { year}")
