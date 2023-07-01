@@ -128,6 +128,8 @@ def ridername_to_id(name, fc_rider_id):
     - Full name, with last name(s) first and then first name(s)
     Let's start simple, just loop over the riders until I have a match, which means the
     full name from first cycling equals the full name at CQranking.
+
+    Also retutning the country
     """
     from unidecode import unidecode
 
@@ -136,7 +138,7 @@ def ridername_to_id(name, fc_rider_id):
         if len(rider) > 9:
             if int(fc_rider_id) == int(rider[9]):
                 # print(f"Match gevonden {name } op id voor { fc_rider_id }")
-                return rider[2]
+                return rider[2], rider[6]
 
     for rider in riders[1:]:
         if unidecode(rider[4].lower()) == unidecode(name.lower()):
@@ -147,7 +149,7 @@ def ridername_to_id(name, fc_rider_id):
                 process_files.write_csv_file('all_riders_cqranking_with_fc_rider_id.csv', riders)
             else:
                 print(f"Length of rider is {len(rider)}, so I'm not adding the fc_rider_id to the list")
-            return rider[2]
+            return rider[2], rider[6]
     """
     If we get here, the names aren't exactly the same. 
     This means it's a bit harder to find, let's step up our game.
@@ -165,7 +167,7 @@ def ridername_to_id(name, fc_rider_id):
                 process_files.write_csv_file('all_riders_cqranking_with_fc_rider_id.csv', riders)
             else:
                 print(f"Length of { rider[4] } is {len(rider)}, so I'm not adding the fc_rider_id to the list")
-            return rider[2]
+            return rider[2], rider[6]
 
 """
 Tour de France : 17

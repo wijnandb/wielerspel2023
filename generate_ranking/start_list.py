@@ -39,6 +39,7 @@ def get_riders(race_id, year='2023'):
 
         # the first table is empty, the others are the teams
         for table in result_tables[2:]:
+            # print(table)
             header = table.find('th')
             team = header.text
             body = table.find('tbody')
@@ -47,12 +48,13 @@ def get_riders(race_id, year='2023'):
                 tds = row.find_all('td')
                 if len(tds) > 1:
                     start_number = tds[0].text.strip()
-                    country = tds[1].find('img').get('title')
+                    # country = tds[1].find('img').get('title')
+                    # country = ""
                     rider = tds[1].find('a').get('title').strip()
                     link = tds[1].find('a').get('href').split('=')[1]
                     fc_rider_id = link.split('&')[0]
                     # print(fc_rider_id)
-                    rider_id = first_cycling.ridername_to_id(rider, fc_rider_id)
+                    rider_id, country = first_cycling.ridername_to_id(rider, fc_rider_id)
                     ploegleider, ploegleider_id, points = add_teamcaptains.add_teamcaptain_to_startlist(rider_id)
                     
                     # print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points)
