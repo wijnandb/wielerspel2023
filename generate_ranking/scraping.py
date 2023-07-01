@@ -88,7 +88,8 @@ def get_results():
                 if category[:3] == 'NCT':
                     category = count_riders.change_category_NCTT(country)
                     print(f"New category for {race_name}, changed to {category}")
-                if race_id in [41810]:
+                if race_id == '41810':
+                    print("change category to GT1s")
                     category = 'GT1s'
                 new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
                 # this is where we get the results for jersey wearers in GT from first_cycling
