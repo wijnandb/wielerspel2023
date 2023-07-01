@@ -1,8 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,GT1r,"Tour de France, Stage 1 : Bilbao - Bilbao (prov.)",41810,YATES Adam,18975,0.0,0,2023-07-01
-1,NC5,National Championships Philippines (Tagaytay) R.R. (prov.),41477,CARCUEVA Jonel,27578,0.0,0,2023-06-30
-1,NCT5,National Championships Greece (Aliartos) I.T.T. (prov.),41724,GIANNOUTSOS Miltiadis,27213,0.0,0,2023-06-30
-1,NCT5,National Championships Philippines (Tagaytay) I.T.T. (prov.),41476,PASCUAL Joshua,35158,0.0,0,2023-06-28
+1,NC5,National Championships Philippines (Tagaytay) R.R.,41477,CARCUEVA Jonel,27578,0.0,0,2023-06-30
+1,NCT5,National Championships Greece (Aliartos) I.T.T.,41724,GIANNOUTSOS Miltiadis,27213,0.0,0,2023-06-30
+1,NCT5,National Championships Philippines (Tagaytay) I.T.T.,41476,PASCUAL Joshua,35158,0.0,0,2023-06-28
 1,1.WT3,National Championships Belgium (Izegem) R.R.,41652,EVENEPOEL Remco,28377,0.0,0,2023-06-25
 2,1.WT3,National Championships Belgium (Izegem) R.R.,41652,SEGAERT Alec,33567,0.0,0,2023-06-25
 3,1.WT3,National Championships Belgium (Izegem) R.R.,41652,STUYVEN Jasper,18233,0.0,0,2023-06-25
@@ -66,6 +66,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,41664,SHAW James,24546,0.0,0,2023-06-25
 9,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,41664,GOLLIKER Joshua,34336,0.0,0,2023-06-25
 10,1.WT3,National Championships Great Britain (Saltburn-by-the-Sea) R.R.,41664,WOOD Harrison,30333,0.0,0,2023-06-25
-1,NC5,National Championships Eritrea (Asmara) R.R. (prov.),41678,AMAN Awet,34016,0.0,0,2023-06-25
+1,NC5,National Championships Eritrea (Asmara) R.R.,41678,AMAN Awet,34016,0.0,0,2023-06-25
 1,NC5,"National Championships Czech Republic (Tlmace, SVK) R.R.",41685,VACEK Mathias,31713,0.0,0,2023-06-25
 1,NC5,National Championships Canada (Edmonton) R.R.,41683,ZUKOWSKY Nickolas,26354,0.0,0,2023-06-25
