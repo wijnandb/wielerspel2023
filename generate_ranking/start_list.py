@@ -23,7 +23,7 @@ riders = process_files.read_csv_file('all_riders_cqranking_with_fc_rider_id.csv'
 
 # eventually we need to store it in a startlist csv
 # but for now we just print it
-startlist = [['race_id', 'start_number', 'rider', 'cq_rider_id', 'team', 'country', 'team_captain', 'team_captain_id', 'price']]
+startlist = [['race_id', 'start_number', 'rider', 'cq_rider_id', 'team', 'country', 'team_captain', 'team_captain_id', 'price', 'dropped-out']]
 
 
 def get_riders(race_id, year='2023'):
@@ -53,12 +53,17 @@ def get_riders(race_id, year='2023'):
                     rider = tds[1].find('a').get('title').strip()
                     link = tds[1].find('a').get('href').split('=')[1]
                     fc_rider_id = link.split('&')[0]
+                    style = tds[1].find('a').get('style')
+                    if style:
+                        dropped_out = 1
+                    else:
+                        dropped_out = ""
                     # print(fc_rider_id)
                     rider_id, country = first_cycling.ridername_to_id(rider, fc_rider_id)
                     ploegleider, ploegleider_id, points = add_teamcaptains.add_teamcaptain_to_startlist(rider_id)
                     
-                    # print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points)
-                    startlist.append([race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points]) 
+                    # print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points,dropped_out)
+                    startlist.append([race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points,dropped_out]) 
 
         process_files.write_csv_file('startlist.csv', startlist)
 
@@ -78,4 +83,4 @@ Here I can call the function with the right race_id and year.
 Based on today's date, I call either Giro (april-may), or Tour (june, july) or Vuelta (august)
 """
 
-# get_riders('17', '2023')
+# get_riders('13', '2023')
