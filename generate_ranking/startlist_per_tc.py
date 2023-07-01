@@ -48,7 +48,7 @@ for race, race_id in races:
                     team = rider['team']
                     country = rider['country']
                     price = rider['price']
-                    if rider['dropped-out'] == '1':
+                    if rider['dropped_out'] == '1':
                         output += f'\t<tr style="text-decoration: line-through; font-style: italic;">\n'
                     else:
                         output += '\t<tr>\n'

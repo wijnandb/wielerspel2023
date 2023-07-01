@@ -23,7 +23,7 @@ riders = process_files.read_csv_file('all_riders_cqranking_with_fc_rider_id.csv'
 
 # eventually we need to store it in a startlist csv
 # but for now we just print it
-startlist = [['race_id', 'start_number', 'rider', 'cq_rider_id', 'team', 'country', 'team_captain', 'team_captain_id', 'price', 'dropped-out']]
+startlist = [['race_id', 'start_number', 'rider', 'cq_rider_id', 'team', 'country', 'team_captain', 'team_captain_id', 'price', 'dropped_out']]
 
 
 def get_riders(race_id, year='2023'):
@@ -83,4 +83,4 @@ Here I can call the function with the right race_id and year.
 Based on today's date, I call either Giro (april-may), or Tour (june, july) or Vuelta (august)
 """
 
-# get_riders('13', '2023')
+get_riders('17', '2023')

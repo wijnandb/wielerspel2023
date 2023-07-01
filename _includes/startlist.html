@@ -14,7 +14,7 @@
     </thead>
     <tbody>
         {% for rider in riders_per_race %}
-            <tr{% if rider.dropped-out %} style="text-decoration: line-through; font-style: italic;"{% endif %}>
+            <tr{% if rider.dropped_out %} style="text-decoration: line-through; font-style: italic;"{% endif %}>
                 <td>{{ rider.start_number }}</td>
                 <td></td>
                 <td><img src="{{ site.baseurl }}/assets/img/flags/{{ rider.country }}.png" ALT="{{ rider.nationality }}" title="{{ rider.nationality }}" width="30">  <a href="https://cqranking.com/men/asp/gen/rider.asp?riderid={{ rider.cq_rider_id }}" target="_new">{{ rider.rider }}</a></td>
