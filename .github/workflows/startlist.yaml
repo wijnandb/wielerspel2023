@@ -1,7 +1,7 @@
 on:
-  push:
-    branches:
-      - main
+#  push:
+#    branches:
+#      - main
          
   schedule:
     # UTC time, so one (winter) or two hours (summer) later here. 5 and 35 past 18 or 19
