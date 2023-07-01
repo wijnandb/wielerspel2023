@@ -1,5 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,GT1r,"Tour de France, Stage 1 : Bilbao - Bilbao (prov.)",41810,YATES Adam,18975,7,0,2023-07-01,Paul
+1,GT1s,"Tour de France, Stage 1 : Bilbao - Bilbao (prov.)",41810,YATES Adam,18975,3,0,2023-07-01,Paul
+-4,GT1s,"Leiderstrui na Tour de France, Stage 1 : Bilbao - Bilbao (prov.)",41810,Yates Adam,18975,1,0,2023-07-01,Paul
+-1,GT1s,"Jongerentrui na Tour de France, Stage 1 : Bilbao - Bilbao (prov.)",41810,Pogacar Tadej,26526,0.1,0,2023-07-01,Kees
+-2,GT1s,"Puntentrui na Tour de France, Stage 1 : Bilbao - Bilbao (prov.)",41810,Yates Adam,18975,0.2,0,2023-07-01,Paul
+-3,GT1s,"Bergtrui na Tour de France, Stage 1 : Bilbao - Bilbao (prov.)",41810,Powless Neilson,24902,0.2,0,2023-07-01,Harry
 1,NC5,National Championships Philippines (Tagaytay) R.R.,41477,CARCUEVA Jonel,27578,1,0,2023-06-30,-
 1,NCT5,National Championships Greece (Aliartos) I.T.T.,41724,GIANNOUTSOS Miltiadis,27213,0.5,0,2023-06-30,-
 1,NCT5,National Championships Philippines (Tagaytay) I.T.T.,41476,PASCUAL Joshua,35158,0.5,0,2023-06-28,-
