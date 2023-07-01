@@ -83,4 +83,4 @@ Here I can call the function with the right race_id and year.
 Based on today's date, I call either Giro (april-may), or Tour (june, july) or Vuelta (august)
 """
 
-get_riders('17', '2023')
+# get_riders('17', '2023')
