@@ -1,5 +1,5 @@
 renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
-20917,ACKERMANN Pascal,ACKERMANN Pascal,Vel,5,UAD,GER,29,3,35
+20917,ACKERMANN Pascal,ACKERMANN Pascal,Vel,5,UAD,GER,29,3.2,35
 24794,AFFINI Edoardo,AFFINI Edoardo,Paul,3,TJV,ITA,27,0,0
 18610,ALAPHILIPPE Julian,ALAPHILIPPE Julian,Arjan,40,SOQ,FRA,31,5,58
 24139,ALBANESE Vincenzo,ALBANESE Vincenzo,Harry,1,EOK,ITA,27,0.1,0
@@ -116,7 +116,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 20960,KÜNG Stefan,KÜNG Stefan,PB,11,GFC,SUI,30,1.8,68
 25653,KUSS Sepp,KUSS Sepp,Nicky,3,TJV,USA,29,1,18
 12923,KWIATKOWSKI Michal,KWIATKOWSKI Michal,Harry,5,IGD,POL,33,0.5,0
-26197,LAFAY Victor,LAFAY Victor,Jan,2,COF,FRA,27,2,36
+26197,LAFAY Victor,LAFAY Victor,Jan,2,COF,FRA,27,5.2,36
 19941,LAMPAERT Yves,LAMPAERT Yves,Harry,1,SOQ,BEL,32,1,65
 14319,LANDA Mikel,LANDA MEANA Mikel,Harry,10,TBV,ESP,34,5.2,141
 19953,LAPORTE Christophe,LAPORTE Christophe,Kaspar,15,TJV,FRA,31,18.0,149
@@ -167,10 +167,10 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29787,PLAPP Lucas,PLAPP Lucas,Vel,5,IGD,AUS,23,2,35
 29528,PLOWRIGHT Jensen,PLOWRIGHT Jensen,Frank,1,ADC,AUS,23,0,0
 7751,POELS Wout,POELS Wout,Roy,1,TBV,NED,36,0,26
-26526,POGACAR Tadej,POGACAR Tadej,Kees,83,UAD,SLO,25,65.0,295
+26526,POGACAR Tadej,POGACAR Tadej,Kees,83,UAD,SLO,25,65.1,295
 17940,POLANC Jan,POLANC Jan,Vel,1,UAD,SLO,31,0,0
 20847,POLITT Nils,POLITT Nils,Albert,3,BOH,GER,29,2,22
-24902,POWLESS Neilson,POWLESS Neilson,Harry,6,EFE,USA,27,5.8,73
+24902,POWLESS Neilson,POWLESS Neilson,Harry,6,EFE,USA,27,6.0,73
 12843,QUINTANA Nairo,QUINTANA ROJAS Nairo Alexander,Roy,5,???,COL,33,1,25
 30836,RODRIGUEZ Carlos,RODRIGUEZ CANO Carlos,Roy,12,IGD,ESP,22,0,38
 20719,ROGLIC Primoz,ROGLIC Primoz,Bram,38,TJV,SLO,34,52.0,150
@@ -248,7 +248,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 23517,WELSFORD Samuel,WELSFORD Samuel,PB,1,DSM,AUS,27,5.3,95
 20257,WOODS Michael,WOODS Michael,Albert,2,IPT,CAN,37,3.7,71
 28446,WRIGHT Fred,WRIGHT Fred,Jan,5,TBV,GBR,24,5,62
-18975,YATES Adam,YATES Adam,Paul,12,UAD,GBR,31,19.7,110
+18975,YATES Adam,YATES Adam,Paul,12,UAD,GBR,31,20.7,110
 17893,YATES Simon,YATES Simon,PB,13,JAY,GBR,31,4.5,65
 27749,ZANA Filippo,ZANA Filippo,Vel,2,JAY,ITA,24,6,50
 31263,ZINGLE Axel,ZINGLE Axel,Paul,4,COF,FRA,25,2.6,61
