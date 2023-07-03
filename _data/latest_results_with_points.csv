@@ -1,11 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT1s,"Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,PHILIPSEN Jasper,26392,3,0,2023-07-03,Nicky
+-4,GT1s,"Leiderstrui na Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,Yates Adam,18975,1,0,2023-07-03,Paul
+-1,GT1s,"Jongerentrui na Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,Pogacar Tadej,26526,0.1,0,2023-07-03,Kees
+-2,GT1s,"Puntentrui na Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,Lafay Victor,26197,0.2,0,2023-07-03,Jan
+-3,GT1s,"Bergtrui na Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,Powless Neilson,24902,0.2,0,2023-07-03,Harry
+1,2.1s,"Österreich-Rundfahrt / Tour of Austria, Stage 2 : St. Anton - Innsbruck (prov.)",41914,NARVAEZ PRADO Jhonatan Manuel,25157,0.2,0,2023-07-03,Nicky
 1,GT1s,"Tour de France, Stage 2 : Vitoria Gasteiz - San Sebastian (prov.)",41811,LAFAY Victor,26197,3,0,2023-07-02,Jan
 -4,GT1s,"Leiderstrui na Tour de France, Stage 2 : Vitoria Gasteiz - San Sebastian (prov.)",41811,Yates Adam,18975,1,0,2023-07-02,Paul
 -1,GT1s,"Jongerentrui na Tour de France, Stage 2 : Vitoria Gasteiz - San Sebastian (prov.)",41811,Pogacar Tadej,26526,0.1,0,2023-07-02,Kees
 -2,GT1s,"Puntentrui na Tour de France, Stage 2 : Vitoria Gasteiz - San Sebastian (prov.)",41811,Lafay Victor,26197,0.2,0,2023-07-02,Jan
 -3,GT1s,"Bergtrui na Tour de France, Stage 2 : Vitoria Gasteiz - San Sebastian (prov.)",41811,Powless Neilson,24902,0.2,0,2023-07-02,Harry
 1,2.1s,"Österreich-Rundfahrt / Tour of Austria, Stage 1 : Dornbirn - Dornbirn (prov.)",41913,ACKERMANN Pascal,20917,0.2,0,2023-07-02,Vel
-1,NC5,National Championships Greece (Delphi) R.R. (prov.),41725,BOUGLAS Georgios,12982,1,0,2023-07-02,-
+1,NC5,National Championships Greece (Delphi) R.R.,41725,BOUGLAS Georgios,12982,1,0,2023-07-02,-
 1,NC5,"National Championships Singapore (Pulau Bintan, INA) R.R.",41774,MUN Yong Liang Willy,25528,1,0,2023-07-02,-
 1,GT1s,"Tour de France, Stage 1 : Bilbao - Bilbao (prov.)",41810,YATES Adam,18975,3,0,2023-07-01,Paul
 -4,GT1s,"Leiderstrui na Tour de France, Stage 1 : Bilbao - Bilbao (prov.)",41810,Yates Adam,18975,1,0,2023-07-01,Paul
@@ -35,16 +41,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,LOUVEL Matis,29982,0,12,2023-06-25,Paul
 9,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,PEREZ Anthony,17632,0,10,2023-06-25,-
 10,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,JARNET Maxime,28630,0,8,2023-06-25,-
-1,1.1,National Championships Slovenia (Radovljica) R.R.,41660,POGACAR Tadej,26526,2,0,2023-06-25,Kees
-2,1.1,National Championships Slovenia (Radovljica) R.R.,41660,MEZGEC Luka,15789,0.3,0,2023-06-25,-
-3,1.1,National Championships Slovenia (Radovljica) R.R.,41660,MOHORIC Matej,21145,0.1,0,2023-06-25,Frank
-1,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,LAZKANO LOPEZ Oier,30595,5,50,2023-06-25,-
-2,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,AYUSO PESQUERA Juan,31654,2,35,2023-06-25,Albert
-3,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,ARANBURU DEBA Alexander,23940,1,25,2023-06-25,Jan
-4,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,HERRADA LOPEZ Jesus,17534,0,20,2023-06-25,Paul
-5,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,SORARRAIN AGIRREZABALA Gorka,34221,0,18,2023-06-25,-
-6,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,BARRENETXEA GOLZARRI Jon,31685,0,16,2023-06-25,-
-7,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,ADRIA OLIVERAS Roger,27469,0,14,2023-06-25,-
-8,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,LOPEZ CARAVACA Jordi,31278,0,12,2023-06-25,-
-9,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,GUTIERREZ SANCHEZ Carlos,31380,0,10,2023-06-25,-
-10,1.WT3,National Championships Spain (San Lorenzo de El Escorial) R.R.,41656,GONZALEZ TIRADO David,35361,0,8,2023-06-25,-
