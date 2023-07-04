@@ -1,10 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT1s,"Tour de France, Stage 4 : Dax - Nogaro (prov.)",41813,PHILIPSEN Jasper,26392,3,0,2023-07-04,Nicky
+-4,GT1s,"Leiderstrui na Tour de France, Stage 4 : Dax - Nogaro (prov.)",41813,Yates Adam,18975,1,0,2023-07-04,Paul
+-1,GT1s,"Jongerentrui na Tour de France, Stage 4 : Dax - Nogaro (prov.)",41813,Pogacar Tadej,26526,0.1,0,2023-07-04,Kees
+-2,GT1s,"Puntentrui na Tour de France, Stage 4 : Dax - Nogaro (prov.)",41813,Philipsen Jasper,26392,0.2,0,2023-07-04,Nicky
+-3,GT1s,"Bergtrui na Tour de France, Stage 4 : Dax - Nogaro (prov.)",41813,Powless Neilson,24902,0.2,0,2023-07-04,Harry
+1,2.1s,"Österreich-Rundfahrt / Tour of Austria, Stage 3 : Sillian - St. Johann Alpendorf (prov.)",41915,NARVAEZ PRADO Jhonatan Manuel,25157,0.2,0,2023-07-04,Nicky
 1,GT1s,"Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,PHILIPSEN Jasper,26392,3,0,2023-07-03,Nicky
 -4,GT1s,"Leiderstrui na Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,Yates Adam,18975,1,0,2023-07-03,Paul
 -1,GT1s,"Jongerentrui na Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,Pogacar Tadej,26526,0.1,0,2023-07-03,Kees
 -2,GT1s,"Puntentrui na Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,Lafay Victor,26197,0.2,0,2023-07-03,Jan
 -3,GT1s,"Bergtrui na Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,Powless Neilson,24902,0.2,0,2023-07-03,Harry
 1,2.1s,"Österreich-Rundfahrt / Tour of Austria, Stage 2 : St. Anton - Innsbruck (prov.)",41914,NARVAEZ PRADO Jhonatan Manuel,25157,0.2,0,2023-07-03,Nicky
+1,NC5,National Championships Iran () R.R. (prov.),41719,SAFARZADEH Saeid,3685,1,0,2023-07-03,-
 1,GT1s,"Tour de France, Stage 2 : Vitoria Gasteiz - San Sebastian (prov.)",41811,LAFAY Victor,26197,3,0,2023-07-02,Jan
 -4,GT1s,"Leiderstrui na Tour de France, Stage 2 : Vitoria Gasteiz - San Sebastian (prov.)",41811,Yates Adam,18975,1,0,2023-07-02,Paul
 -1,GT1s,"Jongerentrui na Tour de France, Stage 2 : Vitoria Gasteiz - San Sebastian (prov.)",41811,Pogacar Tadej,26526,0.1,0,2023-07-02,Kees
@@ -20,24 +27,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -3,GT1s,"Bergtrui na Tour de France, Stage 1 : Bilbao - Bilbao (prov.)",41810,Powless Neilson,24902,0.2,0,2023-07-01,Harry
 1,NC5,National Championships Philippines (Tagaytay) R.R.,41477,CARCUEVA Jonel,27578,1,0,2023-06-30,-
 1,NCT5,National Championships Greece (Aliartos) I.T.T.,41724,GIANNOUTSOS Miltiadis,27213,0.5,0,2023-06-30,-
-1,NCT5,National Championships Philippines (Tagaytay) I.T.T.,41476,PASCUAL Joshua,35158,0.5,0,2023-06-28,-
-1,1.WT3,National Championships Belgium (Izegem) R.R.,41652,EVENEPOEL Remco,28377,5,50,2023-06-25,Roy
-2,1.WT3,National Championships Belgium (Izegem) R.R.,41652,SEGAERT Alec,33567,2,35,2023-06-25,-
-3,1.WT3,National Championships Belgium (Izegem) R.R.,41652,STUYVEN Jasper,18233,1,25,2023-06-25,PB
-4,1.WT3,National Championships Belgium (Izegem) R.R.,41652,BENOOT Tiesj,21244,0,20,2023-06-25,Paul
-5,1.WT3,National Championships Belgium (Izegem) R.R.,41652,DE BUYST Jasper,19274,0,18,2023-06-25,-
-6,1.WT3,National Championships Belgium (Izegem) R.R.,41652,DEWULF Stan,25655,0,16,2023-06-25,Kaspar
-7,1.WT3,National Championships Belgium (Izegem) R.R.,41652,CAMPENAERTS Victor,20184,0,14,2023-06-25,Vel
-8,1.WT3,National Championships Belgium (Izegem) R.R.,41652,DUPONT Timothy,7948,0,12,2023-06-25,-
-9,1.WT3,National Championships Belgium (Izegem) R.R.,41652,VAN ASBROECK Tom,18504,0,10,2023-06-25,-
-10,1.WT3,National Championships Belgium (Izegem) R.R.,41652,VAN KEIRSBULCK Guillaume,16718,0,8,2023-06-25,-
-1,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,MADOUAS Valentin,24758,5,50,2023-06-25,PB
-2,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,MOLARD Rudy,11818,2,35,2023-06-25,-
-3,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,BERNARD Julien,23357,1,25,2023-06-25,-
-4,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,GALLOPIN Tony,7838,0,20,2023-06-25,-
-5,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,PETERS Nans,22703,0,18,2023-06-25,-
-6,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,GESBERT Elie,22912,0,16,2023-06-25,-
-7,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,PINOT Thibaut,13080,0,14,2023-06-25,Nicky
-8,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,LOUVEL Matis,29982,0,12,2023-06-25,Paul
-9,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,PEREZ Anthony,17632,0,10,2023-06-25,-
-10,1.WT3,National Championships France (Hazebrouck-Cassel) R.R.,41654,JARNET Maxime,28630,0,8,2023-06-25,-
