@@ -1,10 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT1s,"Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,HINDLEY Jai,23948,3,0,2023-07-05,Kaspar
+-4,GT1s,"Leiderstrui na Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,Hindley Jai,23948,1,0,2023-07-05,Kaspar
+-1,GT1s,"Jongerentrui na Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,Pogacar Tadej,26526,0.1,0,2023-07-05,Kees
+-2,GT1s,"Puntentrui na Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,Philipsen Jasper,26392,0.2,0,2023-07-05,Nicky
+-3,GT1s,"Bergtrui na Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,Gall Felix,26383,0.2,0,2023-07-05,-
+1,2.1s,"Österreich-Rundfahrt / Tour of Austria, Stage 4 : St. Johann Alpendorf - Steyr (prov.)",41916,SOBRERO Matteo,27033,0.2,0,2023-07-05,Vel
 1,GT1s,"Tour de France, Stage 4 : Dax - Nogaro (prov.)",41813,PHILIPSEN Jasper,26392,3,0,2023-07-04,Nicky
 -4,GT1s,"Leiderstrui na Tour de France, Stage 4 : Dax - Nogaro (prov.)",41813,Yates Adam,18975,1,0,2023-07-04,Paul
 -1,GT1s,"Jongerentrui na Tour de France, Stage 4 : Dax - Nogaro (prov.)",41813,Pogacar Tadej,26526,0.1,0,2023-07-04,Kees
 -2,GT1s,"Puntentrui na Tour de France, Stage 4 : Dax - Nogaro (prov.)",41813,Philipsen Jasper,26392,0.2,0,2023-07-04,Nicky
 -3,GT1s,"Bergtrui na Tour de France, Stage 4 : Dax - Nogaro (prov.)",41813,Powless Neilson,24902,0.2,0,2023-07-04,Harry
 1,2.1s,"Österreich-Rundfahrt / Tour of Austria, Stage 3 : Sillian - St. Johann Alpendorf (prov.)",41915,NARVAEZ PRADO Jhonatan Manuel,25157,0.2,0,2023-07-04,Nicky
+1,NCT5,National Championships Iran () I.T.T. (prov.),41720,SAFARZADEH Saeid,3685,0.5,0,2023-07-04,-
 1,GT1s,"Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,PHILIPSEN Jasper,26392,3,0,2023-07-03,Nicky
 -4,GT1s,"Leiderstrui na Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,Yates Adam,18975,1,0,2023-07-03,Paul
 -1,GT1s,"Jongerentrui na Tour de France, Stage 3 : Amorebieta-Etxano - Bayonne (prov.)",41812,Pogacar Tadej,26526,0.1,0,2023-07-03,Kees
