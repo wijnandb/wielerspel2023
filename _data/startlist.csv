@@ -148,7 +148,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,183,Jasper De Buyst,19274, Lotto Dstny,BEL,-,-,-,
 17,184,Pascal Eenkhoorn,24932, Lotto Dstny,NED,Harry Koene,Harry,1,
 17,185,Frederik Frison,20643, Lotto Dstny,BEL,-,-,-,
-17,186,Jacopo Guarnieri,7776, Lotto Dstny,ITA,-,-,-,
+17,186,Jacopo Guarnieri,7776, Lotto Dstny,ITA,-,-,-,1
 17,187,Maxim Van Gils,28521, Lotto Dstny,BEL,-,-,-,
 17,188,Florian Vermeersch,28127, Lotto Dstny,BEL,Albert Kraaij,Albert,2,
 17,191,Mark Cavendish,3448, Astana Qazaqstan Team,GBR,Kaspar Burghard,Kaspar,4,
@@ -157,7 +157,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,194,Yevgeniy Fedorov,29309, Astana Qazaqstan Team,KAZ,Pieter-Bas de Bruijn,PB,1,
 17,195,Alexey Lutsenko,18455, Astana Qazaqstan Team,KAZ,Frank Vellinga,Vel,6,
 17,196,Gianni Moscon,22676, Astana Qazaqstan Team,ITA,Pieter-Bas de Bruijn,PB,2,
-17,197,Luis León Sánchez,333, Astana Qazaqstan Team,ESP,Albert Kraaij,Albert,1,
+17,197,Luis León Sánchez,333, Astana Qazaqstan Team,ESP,Albert Kraaij,Albert,1,1
 17,198,Harold Tejada,26813, Astana Qazaqstan Team,COL,-,-,-,
 17,201,Alexander Kristoff,4179, Uno-X Pro Cycling Team,NOR,Nick Veenstra,Nicky,7,
 17,202,Jonas Abrahamsen,22233, Uno-X Pro Cycling Team,NOR,-,-,-,
