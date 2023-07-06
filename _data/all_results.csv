@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,GT1s,"Tour de France, Stage 6 : Tarbes - Cautarets-Cambasque (prov.)",41815,POGACAR Tadej,26526,0.0,0,2023-07-06
+-4,GT1s,"Leiderstrui na Tour de France, Stage 6 : Tarbes - Cautarets-Cambasque (prov.)",41815,Vingegaard Jonas,25740,0.0,0,2023-07-06
+-1,GT1s,"Jongerentrui na Tour de France, Stage 6 : Tarbes - Cautarets-Cambasque (prov.)",41815,Pogacar Tadej,26526,0.0,0,2023-07-06
+-2,GT1s,"Puntentrui na Tour de France, Stage 6 : Tarbes - Cautarets-Cambasque (prov.)",41815,Philipsen Jasper,26392,0.0,0,2023-07-06
+-3,GT1s,"Bergtrui na Tour de France, Stage 6 : Tarbes - Cautarets-Cambasque (prov.)",41815,Powless Neilson,24902,0.0,0,2023-07-06
+1,2.1,"Österreich-Rundfahrt / Tour of Austria, General classification (prov.)",41834,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2023-07-06
+2,2.1,"Österreich-Rundfahrt / Tour of Austria, General classification (prov.)",41834,OSBORNE Jason,28860,0.0,0,2023-07-06
+3,2.1,"Österreich-Rundfahrt / Tour of Austria, General classification (prov.)",41834,PEÑA JIMENEZ Jesus David,29399,0.0,0,2023-07-06
+1,2.1s,"Österreich-Rundfahrt / Tour of Austria, Stage 5 : Ybbs - Sonntagberg (prov.)",41917,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2023-07-06
+1,2.1s,"Sibiu Cycling Tour, Stage 1 : Sibiu - Sibiu (prov.)",41835,BENNETT Sam,13362,0.0,0,2023-07-06
+1,NCT5,National Championships South Korea () I.T.T. (prov.),41731,JANG Kyung-gu,12885,0.0,0,2023-07-06
 1,GT1s,"Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,HINDLEY Jai,23948,0.0,0,2023-07-05
 -4,GT1s,"Leiderstrui na Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,Hindley Jai,23948,0.0,0,2023-07-05
 -1,GT1s,"Jongerentrui na Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,Pogacar Tadej,26526,0.0,0,2023-07-05
