@@ -237,7 +237,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 258,101,Giacomo Garavaglia,27201,Work Service-Vitalcare-Dynatek,ITA,-,-,-,
 258,102,Lorenzo Ginestra,30554,Work Service-Vitalcare-Dynatek,ITA,-,-,-,
 258,103,Christian Danilo Pase,30554,Work Service-Vitalcare-Dynatek,,-,-,-,
-258,104,Samuele Mion,30554,Work Service-Vitalcare-Dynatek,,-,-,-,
+258,104,Samuele Mion,30554,Work Service-Vitalcare-Dynatek,,-,-,-,1
 258,105,Nicola Venchiarutti,30554,Work Service-Vitalcare-Dynatek,,-,-,-,
 258,111,Luuk Herben,30554,ABLOC CT,,-,-,-,
 258,112,Luke Verburg,30554,ABLOC CT,,-,-,-,
@@ -245,7 +245,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 258,114,Mike Schuch,28631,ABLOC CT,,-,-,-,
 258,115,Otto van Zanden,28631,ABLOC CT,,-,-,-,
 258,116,Philip Heijnen,28631,ABLOC CT,,-,-,-,
-258,121,Emanuele Ansaloni,28631,Team Technipes #InEmiliaRomagna,,-,-,-,
+258,121,Emanuele Ansaloni,28631,Team Technipes #InEmiliaRomagna,,-,-,-,1
 258,122,Davide Dapporto,30681,Team Technipes #InEmiliaRomagna,ITA,-,-,-,
 258,123,Alessandro Monaco,27206,Team Technipes #InEmiliaRomagna,ITA,-,-,-,
 258,124,Martin Nessler,29874,Team Technipes #InEmiliaRomagna,ITA,-,-,-,
@@ -307,7 +307,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 258,222,Carlos Alfonso Garcia,30200,Mexico,,-,-,-,
 258,223,Nils Daniel Gutierrez,30200,Mexico,,-,-,-,
 258,224,David Ruvalcaba Reyes,34044,Mexico,MEX,-,-,-,1
-258,225,Jose Antonio Escarcega,7793,Mexico,VEN,-,-,-,
+258,225,Jose Antonio Escarcega,7793,Mexico,VEN,-,-,-,1
 258,226,Michael Zarate Animas,7793,Mexico,,-,-,-,
 258,231,Preslav Balabanov,7793,Bulgaria,,-,-,-,
 258,232,Borislav Ivanov,7793,Bulgaria,,-,-,-,
