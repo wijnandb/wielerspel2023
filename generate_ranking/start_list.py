@@ -49,7 +49,7 @@ def get_riders(race_id, year='2023'):
                 if len(tds) > 1:
                     start_number = tds[0].text.strip()
                     # country = tds[1].find('img').get('title')
-                    # country = ""
+                    country = ""
                     rider = tds[1].find('a').get('title').strip()
                     link = tds[1].find('a').get('href').split('=')[1]
                     fc_rider_id = link.split('&')[0]
@@ -59,8 +59,11 @@ def get_riders(race_id, year='2023'):
                     else:
                         dropped_out = ""
                     # print(fc_rider_id)
-                    rider_id, country = first_cycling.ridername_to_id(rider, fc_rider_id)
-                    ploegleider, ploegleider_id, points = add_teamcaptains.add_teamcaptain_to_startlist(rider_id)
+                    try:
+                        rider_id, country = first_cycling.ridername_to_id(rider, fc_rider_id)
+                        ploegleider, ploegleider_id, points = add_teamcaptains.add_teamcaptain_to_startlist(rider_id)
+                    except:
+                        pass
                     
                     # print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points,dropped_out)
                     startlist.append([race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points,dropped_out]) 
@@ -83,4 +86,4 @@ Here I can call the function with the right race_id and year.
 Based on today's date, I call either Giro (april-may), or Tour (june, july) or Vuelta (august)
 """
 
-# get_riders('17', '2023')
+# get_riders('258', '2023')
