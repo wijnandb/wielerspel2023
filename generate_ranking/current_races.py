@@ -43,28 +43,35 @@ def create_html_file(c):
 
 
 def is_current_race(race):
-    # These are the races that are on this week
-    if race[0].isocalendar().week == currentweek or race[0].isocalendar().week == currentweek + 1:
-        # print(f"Eendaagse koers of start meerdaagse koers {race}")
+    """
+    For races that are going on now, or are starting with a week, we want to create a startlist.
+    There are one day races and races that span multiple days.
+    Starting with all racves, we can eliminate one-day races that have already been run, so where there
+    is only a startdate and it is in the past.
+    Also, for multiple day races that are in the past, we can skip those too
+
+    """
+    days_in_future = 7
+    # skip multiple day races in the past
+    if race[1]:
+        # these are the multiple day races
+        if race[1].date() < today.date():
+            # the finish is in the past, so skip
+            return False
+        elif race[0].date() < today.date() + timedelta(days=days_in_future):
+            print(f"{race} Finish in the future, start in the past, now or in near future")
+            return True
+    # now checking one day races
+    elif race[0].date() < today.date():
+        # print(f"{race} in the past")
+        return False
+    elif race[0].date() < today.date() + timedelta(days=days_in_future):
+        print(f"One day race to show: {race}")
         return True
-    elif race[1] != "":
-        if race[1].isocalendar().week == currentweek + 2:
-            # print(f"Meerdaagse koers eindigt {race}")
-            return True
-        elif race[0].isocalendar().week < currentweek and race[1].isocalendar().week >= currentweek:
-            # print(f"Meerdaagse koers meer dan een week { race}")
-            return True
-        elif race[4][:2] == "GT" and race[0].isocalendar().week < (currentweek + 4) and race[1].isocalendar().week >= currentweek:
-            return True
+    else:
+        # print("Future one day race")
+        return False
 
-    return False
-
-# def is_current_race(race):
-#     if (race[0]+timedelta(days=7)) > today:
-#         print(f"Current race: {race[4]}")
-#         return True
-#     else:
-#         return False
 
 
 current_races = [['startdate','enddate','race','FC_race_id','category','points','jpp']]    
