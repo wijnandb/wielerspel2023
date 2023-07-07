@@ -49,7 +49,7 @@ for race, race_id in races:
                     country = rider['country']
                     price = rider['price']
                     if rider['dropped_out'] == '1':
-                        output += f'\t<tr style="text-decoration: line-through; font-style: italic;">\n'
+                        output += f'\t<tr style="text-decoration: line-through; font-style: italic; color: red;">\n'
                     else:
                         output += '\t<tr>\n'
                     output += f'\t<td>{start_number}</td><td>{name}</td><td>{team}</td><td>{country}</td><td>{price}</td></tr>\n'
@@ -58,3 +58,4 @@ for race, race_id in races:
             # write the output to an HTML file
             with open('startlist/races/GT/index.html', 'w') as htmlfile:
                 htmlfile.write(output)
+                print(f"created startlist per tc for { race }")
