@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT1s,"Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,PEDERSEN Mads,21992,3,0,2023-07-08,Harry
+-4,GT1s,"Leiderstrui na Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,Vingegaard Jonas,25740,1,0,2023-07-08,Arjan
+-1,GT1s,"Jongerentrui na Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,Pogacar Tadej,26526,0.1,0,2023-07-08,Kees
+-2,GT1s,"Puntentrui na Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,Philipsen Jasper,26392,0.2,0,2023-07-08,Nicky
+-3,GT1s,"Bergtrui na Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,Powless Neilson,24902,0.2,0,2023-07-08,Harry
 1,GT1s,"Tour de France, Stage 7 : Mont de Marsan - Bordeaux (prov.)",41816,PHILIPSEN Jasper,26392,3,0,2023-07-07,Nicky
 -4,GT1s,"Leiderstrui na Tour de France, Stage 7 : Mont de Marsan - Bordeaux (prov.)",41816,Vingegaard Jonas,25740,1,0,2023-07-07,Arjan
 -1,GT1s,"Jongerentrui na Tour de France, Stage 7 : Mont de Marsan - Bordeaux (prov.)",41816,Pogacar Tadej,26526,0.1,0,2023-07-07,Kees
