@@ -151,7 +151,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,186,Jacopo Guarnieri,7776, Lotto Dstny,ITA,-,-,-,1
 17,187,Maxim Van Gils,28521, Lotto Dstny,BEL,-,-,-,
 17,188,Florian Vermeersch,28127, Lotto Dstny,BEL,Albert Kraaij,Albert,2,
-17,191,Mark Cavendish,3448, Astana Qazaqstan Team,GBR,Kaspar Burghard,Kaspar,4,
+17,191,Mark Cavendish,3448, Astana Qazaqstan Team,GBR,Kaspar Burghard,Kaspar,4,1
 17,192,Cees Bol,21930, Astana Qazaqstan Team,NED,Roy Smits,Roy,1,
 17,193,David De La Cruz,12719, Astana Qazaqstan Team,ESP,-,-,-,
 17,194,Yevgeniy Fedorov,29309, Astana Qazaqstan Team,KAZ,Pieter-Bas de Bruijn,PB,1,
@@ -170,7 +170,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,211,Peter Sagan,12193, TotalEnergies,SVK,Roy Smits,Roy,5,
 17,212,Edvald Boasson-Hagen,4377, TotalEnergies,NOR,Bram van Ommeren,Bram,0,
 17,213,Mathieu Burgaudeau,27151, TotalEnergies,FRA,Paul van Doorn,Paul,1,
-17,214,Steff Cras,24257, TotalEnergies,BEL,-,-,-,
+17,214,Steff Cras,24257, TotalEnergies,BEL,-,-,-,1
 17,215,Valentin Ferron,28375, TotalEnergies,FRA,-,-,-,
 17,216,Pierre Latour,20156, TotalEnergies,FRA,Kaspar Burghard,Kaspar,2,
 17,217,Daniel Oss,7148, TotalEnergies,ITA,-,-,-,
