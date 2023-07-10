@@ -1,23 +1,40 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour of Qinghai Lake, Stage 2 : Duoba - Guide (prov.)",41842,SINSCHEK Nils,28544,0.0,0,2023-07-10
 1,GT1s,"Tour de France, Stage 9 : Saint Léonard de Noblat - Puy de Dôme (prov.)",41818,WOODS Michael,20257,0.0,0,2023-07-09
 -4,GT1s,"Leiderstrui na Tour de France, Stage 9 : Saint Léonard de Noblat - Puy de Dôme (prov.)",41818,Vingegaard Jonas,25740,0.0,0,2023-07-09
 -1,GT1s,"Jongerentrui na Tour de France, Stage 9 : Saint Léonard de Noblat - Puy de Dôme (prov.)",41818,Pogacar Tadej,26526,0.0,0,2023-07-09
 -2,GT1s,"Puntentrui na Tour de France, Stage 9 : Saint Léonard de Noblat - Puy de Dôme (prov.)",41818,Philipsen Jasper,26392,0.0,0,2023-07-09
 -3,GT1s,"Bergtrui na Tour de France, Stage 9 : Saint Léonard de Noblat - Puy de Dôme (prov.)",41818,Powless Neilson,24902,0.0,0,2023-07-09
 1,2.PSs,"Tour of Qinghai Lake, Stage 1 : Xining - Xining (prov.)",41841,DUPONT Timothy,7948,0.0,0,2023-07-09
-1,2.1s,"Sibiu Cycling Tour, Stage 4a : Sibiu - Sibiu (prov.)",41838,BENNETT Sam,13362,0.0,0,2023-07-09
+1,2.1,"Sibiu Cycling Tour, General classification",41840,DONOVAN Mark,27964,0.0,0,2023-07-09
+2,2.1,"Sibiu Cycling Tour, General classification",41840,VAN EETVELT Lennert,32225,0.0,0,2023-07-09
+3,2.1,"Sibiu Cycling Tour, General classification",41840,OTRUBA Jakub,27006,0.0,0,2023-07-09
+1,2.1s,"Sibiu Cycling Tour, Stage 4b : Sibiu I.T.T.",41918,BOGUSLAWSKI Marceli,28026,0.0,0,2023-07-09
+1,2.1s,"Sibiu Cycling Tour, Stage 4a : Sibiu - Sibiu",41838,BENNETT Sam,13362,0.0,0,2023-07-09
+1,NC5,National Championships Lebanon (Zaarour) R.R.,41771,HANNOUCHE Gilbert,30438,0.0,0,2023-07-09
+1,NC5,National Championships Cameroon (Yaoundé) R.R. (prov.),41749,TELLA Arthuce Jodele,18396,0.0,0,2023-07-09
+1,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,SOBOLY Eugeniy,35441,0.0,0,2023-07-09
+2,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,KARALIOK Yauheni,24119,0.0,0,2023-07-09
+3,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,BAYDIKOV Ilya,30193,0.0,0,2023-07-09
+4,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,SHAUCHENKA Serhei,27485,0.0,0,2023-07-09
+5,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,STROKAU Vasili,22745,0.0,0,2023-07-09
+6,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,MAZUR Dzianis,29951,0.0,0,2023-07-09
+7,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,HARAKHAVIK Uladzimir,22746,0.0,0,2023-07-09
+8,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,KIRYIEVICH Artur,32143,0.0,0,2023-07-09
+9,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,SHMANTSAR Aliaksei,31584,0.0,0,2023-07-09
+10,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,TURCHANKA Pavel,31583,0.0,0,2023-07-09
 1,GT1s,"Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,PEDERSEN Mads,21992,0.0,0,2023-07-08
 -4,GT1s,"Leiderstrui na Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,Vingegaard Jonas,25740,0.0,0,2023-07-08
 -1,GT1s,"Jongerentrui na Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,Pogacar Tadej,26526,0.0,0,2023-07-08
 -2,GT1s,"Puntentrui na Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,Philipsen Jasper,26392,0.0,0,2023-07-08
 -3,GT1s,"Bergtrui na Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,Powless Neilson,24902,0.0,0,2023-07-08
-1,2.1s,"Sibiu Cycling Tour, Stage 3 : Brezoi - Paltinis (prov.)",41837,SCHACHMANN Maximilian,20798,0.0,0,2023-07-08
+1,2.1s,"Sibiu Cycling Tour, Stage 3 : Brezoi - Paltinis",41837,SCHACHMANN Maximilian,20798,0.0,0,2023-07-08
 1,GT1s,"Tour de France, Stage 7 : Mont de Marsan - Bordeaux (prov.)",41816,PHILIPSEN Jasper,26392,0.0,0,2023-07-07
 -4,GT1s,"Leiderstrui na Tour de France, Stage 7 : Mont de Marsan - Bordeaux (prov.)",41816,Vingegaard Jonas,25740,0.0,0,2023-07-07
 -1,GT1s,"Jongerentrui na Tour de France, Stage 7 : Mont de Marsan - Bordeaux (prov.)",41816,Pogacar Tadej,26526,0.0,0,2023-07-07
 -2,GT1s,"Puntentrui na Tour de France, Stage 7 : Mont de Marsan - Bordeaux (prov.)",41816,Philipsen Jasper,26392,0.0,0,2023-07-07
 -3,GT1s,"Bergtrui na Tour de France, Stage 7 : Mont de Marsan - Bordeaux (prov.)",41816,Powless Neilson,24902,0.0,0,2023-07-07
-1,2.1s,"Sibiu Cycling Tour, Stage 2 : Sibiu - Balea Lake (prov.)",41836,VAN EETVELT Lennert,32225,0.0,0,2023-07-07
+1,2.1s,"Sibiu Cycling Tour, Stage 2 : Sibiu - Balea Lake",41836,VAN EETVELT Lennert,32225,0.0,0,2023-07-07
 1,NC5,National Championships South Korea (Yangyang) R.R.,41732,PARK Keon-woo,20025,0.0,0,2023-07-07
 1,XX,Central American & Caribbean Games (Usulutan) R.R.,41921,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2023-07-07
 2,XX,Central American & Caribbean Games (Usulutan) R.R.,41921,LOPEZ MORENO Miguel Angel,23334,0.0,0,2023-07-07
@@ -37,14 +54,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1,"Österreich-Rundfahrt / Tour of Austria, General classification",41834,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2023-07-06
 2,2.1,"Österreich-Rundfahrt / Tour of Austria, General classification",41834,OSBORNE Jason,28860,0.0,0,2023-07-06
 3,2.1,"Österreich-Rundfahrt / Tour of Austria, General classification",41834,PEÑA JIMENEZ Jesus David,29399,0.0,0,2023-07-06
-1,2.1s,"Österreich-Rundfahrt / Tour of Austria, Stage 5 : Ybbs - Sonntagberg",41917,NARVAEZ PRADO Jhonatan Manuel,25157,0.0,0,2023-07-06
-1,2.1s,"Sibiu Cycling Tour, Stage 1 : Sibiu - Sibiu (prov.)",41835,BENNETT Sam,13362,0.0,0,2023-07-06
-1,NCT5,National Championships South Korea (Yangyang) I.T.T.,41731,JANG Kyung-gu,12885,0.0,0,2023-07-06
-1,NE,National Championships Belarus () I.T.T.,41922,KARALIOK Yauheni,24119,0.0,0,2023-07-06
-2,NE,National Championships Belarus () I.T.T.,41922,MAZUR Dzianis,29951,0.0,0,2023-07-06
-3,NE,National Championships Belarus () I.T.T.,41922,RAMANAU Raman,21294,0.0,0,2023-07-06
-1,GT1s,"Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,HINDLEY Jai,23948,0.0,0,2023-07-05
--4,GT1s,"Leiderstrui na Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,Hindley Jai,23948,0.0,0,2023-07-05
--1,GT1s,"Jongerentrui na Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,Pogacar Tadej,26526,0.0,0,2023-07-05
--2,GT1s,"Puntentrui na Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,Philipsen Jasper,26392,0.0,0,2023-07-05
--3,GT1s,"Bergtrui na Tour de France, Stage 5 : Pau - Laruns (prov.)",41814,Gall Felix,26383,0.0,0,2023-07-05
