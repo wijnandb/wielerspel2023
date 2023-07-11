@@ -189,7 +189,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,16,Yuanfeng Yu,31128,China,,-,-,-,
 127,17,Shuai Lian,31128,China,,-,-,-,
 127,21,Maral-Erdene Batmunkh,31128,Mongolia,,-,-,-,
-127,22,Bolor-Erdene Enkhtaivan,31128,Mongolia,,-,-,-,
+127,22,Bolor-Erdene Enkhtaivan,31128,Mongolia,,-,-,-,1
 127,23,Myagmarsuren Baasankhuu,11321,Mongolia,MGL,-,-,-,
 127,24,Amartuvshin Battsengel,11321,Mongolia,,-,-,-,
 127,25,Bold Iderbold,28257,Mongolia,MGL,-,-,-,
@@ -251,12 +251,12 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,106,Zeyao Lu,33347,Bodywrap LTWOO Cycling Team,,-,-,-,
 127,107,Zhenghao Fu,33347,Bodywrap LTWOO Cycling Team,,-,-,-,
 127,111,Marcelo Felipe,21923,7 Eleven Cliqq-Air21 by Roadbike Philippines,PHI,-,-,-,
-127,112,Ryan Tugawin,21923,7 Eleven Cliqq-Air21 by Roadbike Philippines,,-,-,-,
+127,112,Ryan Tugawin,21923,7 Eleven Cliqq-Air21 by Roadbike Philippines,,-,-,-,1
 127,113,Ismael Grospe,28615,7 Eleven Cliqq-Air21 by Roadbike Philippines,PHI,-,-,-,
 127,114,Nichol Pareja,30502,7 Eleven Cliqq-Air21 by Roadbike Philippines,PHI,-,-,-,
-127,115,Ivan Sembrano,30502,7 Eleven Cliqq-Air21 by Roadbike Philippines,,-,-,-,
+127,115,Ivan Sembrano,30502,7 Eleven Cliqq-Air21 by Roadbike Philippines,,-,-,-,1
 127,116,Joshua Pascual,30502,7 Eleven Cliqq-Air21 by Roadbike Philippines,,-,-,-,
-127,117,Jude Gabriel Francisco,30502,7 Eleven Cliqq-Air21 by Roadbike Philippines,,-,-,-,
+127,117,Jude Gabriel Francisco,30502,7 Eleven Cliqq-Air21 by Roadbike Philippines,,-,-,-,1
 127,121,Yikui Niu,22552,Li Ning Star,CHN,-,-,-,
 127,122,Zhihui Jiang,22552,Li Ning Star,,-,-,-,
 127,123,Aliaksei Shnyrko,22552,Li Ning Star,,-,-,-,
@@ -265,7 +265,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,126,Luhao Li,22664,Li Ning Star,,-,-,-,
 127,127,Li Jun Bai,32229,Li Ning Star,BEL,-,-,-,
 127,131,Prasetyo Firdaus,32229,Nusantara Cycling Team,,-,-,-,1
-127,132,Adrian Sevadil,32229,Nusantara Cycling Team,,-,-,-,
+127,132,Adrian Sevadil,32229,Nusantara Cycling Team,,-,-,-,1
 127,133,Hossein Alizadeh,32229,Nusantara Cycling Team,,-,-,-,
 127,134,Woro Fitrianto,32229,Nusantara Cycling Team,,-,-,-,
 127,135,Muhammad Ridwan,32229,Nusantara Cycling Team,,-,-,-,
@@ -274,7 +274,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,141,Pengyang Shi,32229,Shandong Green Orange CT,,-,-,-,
 127,142,Mingchen Sun,32229,Shandong Green Orange CT,,-,-,-,
 127,143,Wangqiang Bao,32229,Shandong Green Orange CT,,-,-,-,
-127,144,Chengshuo Miao,32229,Shandong Green Orange CT,,-,-,-,
+127,144,Chengshuo Miao,32229,Shandong Green Orange CT,,-,-,-,1
 127,145,Jia Jun Han,32229,Shandong Green Orange CT,,-,-,-,
 127,146,He Jiang,32229,Shandong Green Orange CT,,-,-,-,
 127,147,Kai Sun,32229,Shandong Green Orange CT,,-,-,-,
@@ -284,7 +284,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,154,Jinchun Liu,26258,Shenzhen Xidesheng Cycling Team,CHN,-,-,-,
 127,155,Erik Bergström Frisk,26258,Shenzhen Xidesheng Cycling Team,,-,-,-,
 127,156,Ruibiao Zhang,26258,Shenzhen Xidesheng Cycling Team,,-,-,-,
-127,157,Chenli Zhao,26258,Shenzhen Xidesheng Cycling Team,,-,-,-,
+127,157,Chenli Zhao,26258,Shenzhen Xidesheng Cycling Team,,-,-,-,1
 127,161,Jack Aitken,29789,St George Continental CT,AUS,-,-,-,
 127,162,William Cooper,28516,St George Continental CT,USA,-,-,-,
 127,163,Riley Fleming,30958,St George Continental CT,AUS,-,-,-,
