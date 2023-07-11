@@ -1,4 +1,20 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT1s,"Tour de France, Stage 10 : Vulcania - Issoire (prov.)",41819,BILBAO LOPEZ DE ARMENTIA Pello,17881,3,0,2023-07-11,Jan
+-4,GT1s,"Leiderstrui na Tour de France, Stage 10 : Vulcania - Issoire (prov.)",41819,Vingegaard Jonas,25740,1,0,2023-07-11,Arjan
+-1,GT1s,"Jongerentrui na Tour de France, Stage 10 : Vulcania - Issoire (prov.)",41819,Pogacar Tadej,26526,0.1,0,2023-07-11,Kees
+-2,GT1s,"Puntentrui na Tour de France, Stage 10 : Vulcania - Issoire (prov.)",41819,Philipsen Jasper,26392,0.2,0,2023-07-11,Nicky
+-3,GT1s,"Bergtrui na Tour de France, Stage 10 : Vulcania - Issoire (prov.)",41819,Powless Neilson,24902,0.2,0,2023-07-11,Harry
+1,2.PSs,"Tour of Qinghai Lake, Stage 3 : Guide - Huzhu (prov.)",41843,BALDACCINI Davide,28532,0.3,0,2023-07-11,-
+1,XX,Pan Arab Games (Tipaza) I.T.T. (prov.),41926,EL KOURAJI Mohcine,25448,0.0,0,2023-07-11,-
+2,XX,Pan Arab Games (Tipaza) I.T.T. (prov.),41926,MADAN Ahmed,30992,0.0,0,2023-07-11,-
+3,XX,Pan Arab Games (Tipaza) I.T.T. (prov.),41926,NASER Ahmed,30993,0.0,0,2023-07-11,-
+4,XX,Pan Arab Games (Tipaza) I.T.T. (prov.),41926,AMARI Hamza,32533,0.0,0,2023-07-11,-
+5,XX,Pan Arab Games (Tipaza) I.T.T. (prov.),41926,EL ARBAOUI Adil,26207,0.0,0,2023-07-11,-
+6,XX,Pan Arab Games (Tipaza) I.T.T. (prov.),41926,ALALI Abdul Jasim,35005,0.0,0,2023-07-11,-
+7,XX,Pan Arab Games (Tipaza) I.T.T. (prov.),41926,ALOMRANI Ahmed,35502,0.0,0,2023-07-11,-
+8,XX,Pan Arab Games (Tipaza) I.T.T. (prov.),41926,REGUIGUI Youcef,13311,0.0,0,2023-07-11,-
+9,XX,Pan Arab Games (Tipaza) I.T.T. (prov.),41926,ALKHATER Fadhel,29468,0.0,0,2023-07-11,-
+10,XX,Pan Arab Games (Tipaza) I.T.T. (prov.),41926,ALKULAIF Alhur,35504,0.0,0,2023-07-11,-
 1,2.PSs,"Tour of Qinghai Lake, Stage 2 : Duoba - Guide (prov.)",41842,SINSCHEK Nils,28544,0.3,0,2023-07-10,-
 1,GT1s,"Tour de France, Stage 9 : Saint Léonard de Noblat - Puy de Dôme (prov.)",41818,WOODS Michael,20257,3,0,2023-07-09,Albert
 -4,GT1s,"Leiderstrui na Tour de France, Stage 9 : Saint Léonard de Noblat - Puy de Dôme (prov.)",41818,Vingegaard Jonas,25740,1,0,2023-07-09,Arjan
@@ -13,16 +29,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.1s,"Sibiu Cycling Tour, Stage 4a : Sibiu - Sibiu",41838,BENNETT Sam,13362,0.2,0,2023-07-09,PB
 1,NC5,National Championships Lebanon (Zaarour) R.R.,41771,HANNOUCHE Gilbert,30438,1,0,2023-07-09,-
 1,NC5,National Championships Cameroon (Yaoundé) R.R. (prov.),41749,TELLA Arthuce Jodele,18396,1,0,2023-07-09,-
-1,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,SOBOLY Eugeniy,35441,0.0,0,2023-07-09,-
-2,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,KARALIOK Yauheni,24119,0.0,0,2023-07-09,-
-3,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,BAYDIKOV Ilya,30193,0.0,0,2023-07-09,-
-4,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,SHAUCHENKA Serhei,27485,0.0,0,2023-07-09,-
-5,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,STROKAU Vasili,22745,0.0,0,2023-07-09,-
-6,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,MAZUR Dzianis,29951,0.0,0,2023-07-09,-
-7,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,HARAKHAVIK Uladzimir,22746,0.0,0,2023-07-09,-
-8,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,KIRYIEVICH Artur,32143,0.0,0,2023-07-09,-
-9,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,SHMANTSAR Aliaksei,31584,0.0,0,2023-07-09,-
-10,NE,National Championships Belarus (Mozyr) R.R. (prov.),41748,TURCHANKA Pavel,31583,0.0,0,2023-07-09,-
+1,NE,National Championships Belarus (Mozyr) R.R.,41748,SOBAL Yauheni,933,0.0,0,2023-07-09,-
+2,NE,National Championships Belarus (Mozyr) R.R.,41748,KARALIOK Yauheni,24119,0.0,0,2023-07-09,-
+3,NE,National Championships Belarus (Mozyr) R.R.,41748,BAYDIKOV Ilya,30193,0.0,0,2023-07-09,-
+4,NE,National Championships Belarus (Mozyr) R.R.,41748,SHAUCHENKA Serhei,27485,0.0,0,2023-07-09,-
+5,NE,National Championships Belarus (Mozyr) R.R.,41748,STROKAU Vasili,22745,0.0,0,2023-07-09,-
+6,NE,National Championships Belarus (Mozyr) R.R.,41748,MAZUR Dzianis,29951,0.0,0,2023-07-09,-
+7,NE,National Championships Belarus (Mozyr) R.R.,41748,HARAKHAVIK Uladzimir,22746,0.0,0,2023-07-09,-
+8,NE,National Championships Belarus (Mozyr) R.R.,41748,KIRYIEVICH Artur,32143,0.0,0,2023-07-09,-
+9,NE,National Championships Belarus (Mozyr) R.R.,41748,SHMANTSAR Aliaksei,31584,0.0,0,2023-07-09,-
+10,NE,National Championships Belarus (Mozyr) R.R.,41748,TURCHANKA Pavel,31583,0.0,0,2023-07-09,-
 1,GT1s,"Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,PEDERSEN Mads,21992,3,0,2023-07-08,Harry
 -4,GT1s,"Leiderstrui na Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,Vingegaard Jonas,25740,1,0,2023-07-08,Arjan
 -1,GT1s,"Jongerentrui na Tour de France, Stage 8 : Libourne - Limoges (prov.)",41817,Pogacar Tadej,26526,0.1,0,2023-07-08,Kees
