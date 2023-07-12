@@ -135,14 +135,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,166,Christopher Juul-Jensen,9896, Team Jayco-AlUla,DEN,-,-,-,
 17,167,Luka Mezgec,15789, Team Jayco-AlUla,SLO,-,-,-,
 17,168,Elmar Reinders,18467, Team Jayco-AlUla,NED,-,-,-,
-17,171,Warren Barguil,17627, Team Arkéa-Samsic,FRA,Nick Veenstra,Nicky,3,
-17,172,Jenthe Biermans,22010, Team Arkéa-Samsic,BEL,-,-,-,
-17,173,Clément Champoussin,27153, Team Arkéa-Samsic,FRA,Jan Versluys,Jan,1,
-17,174,Anthony Delaplace,12100, Team Arkéa-Samsic,FRA,-,-,-,
-17,175,Simon Guglielmi,26387, Team Arkéa-Samsic,FRA,-,-,-,
-17,176,Matis Louvel,29982, Team Arkéa-Samsic,FRA,Paul van Doorn,Paul,3,
-17,177,Luca Mozzato,28037, Team Arkéa-Samsic,ITA,Nick Veenstra,Nicky,2,
-17,178,Laurent Pichon,14296, Team Arkéa-Samsic,FRA,-,-,-,
+17,171,Warren Barguil,17627, Arkéa-Samsic,FRA,Nick Veenstra,Nicky,3,
+17,172,Jenthe Biermans,22010, Arkéa-Samsic,BEL,-,-,-,
+17,173,Clément Champoussin,27153, Arkéa-Samsic,FRA,Jan Versluys,Jan,1,
+17,174,Anthony Delaplace,12100, Arkéa-Samsic,FRA,-,-,-,
+17,175,Simon Guglielmi,26387, Arkéa-Samsic,FRA,-,-,-,
+17,176,Matis Louvel,29982, Arkéa-Samsic,FRA,Paul van Doorn,Paul,3,
+17,177,Luca Mozzato,28037, Arkéa-Samsic,ITA,Nick Veenstra,Nicky,2,
+17,178,Laurent Pichon,14296, Arkéa-Samsic,FRA,-,-,-,
 17,181,Caleb Ewan,19651, Lotto Dstny,AUS,Paul van Doorn,Paul,16,
 17,182,Victor Campenaerts,20184, Lotto Dstny,BEL,Frank Vellinga,Vel,2,
 17,183,Jasper De Buyst,19274, Lotto Dstny,BEL,-,-,-,
@@ -176,32 +176,32 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,217,Daniel Oss,7148, TotalEnergies,ITA,-,-,-,
 17,218,Anthony Turgis,21312, TotalEnergies,FRA,Frank Vellinga,Vel,3,
 127,2,Xianjing Lyu,28143,China Glory Continental CT,CHN,-,-,-,
-127,3,Haoyu Su,32068,China Glory Continental CT,CHN,-,-,-,
+127,3,Haoyu Su,32068,China Glory Continental CT,CHN,-,-,-,1
 127,4,Willie Smit,19894,China Glory Continental CT,RSA,-,-,-,
 127,5,James Piccoli,21644,China Glory Continental CT,CAN,-,-,-,
 127,6,Julien Trarieux,24752,China Glory Continental CT,FRA,-,-,-,
 127,7,Lucas De Rossi,25715,China Glory Continental CT,FRA,-,-,-,
-127,11,Geng Teng,29610,China,CHN,-,-,-,
+127,11,Geng Teng,29610,China,CHN,-,-,-,1
 127,12,Ruidong Wang,29610,China,,-,-,-,
 127,13,Yutao Shen,31128,China,CHN,-,-,-,
-127,14,Jinyang Ju,31128,China,,-,-,-,
+127,14,Jinyang Ju,31128,China,,-,-,-,1
 127,15,Binyan Ma,31128,China,,-,-,-,
 127,16,Yuanfeng Yu,31128,China,,-,-,-,
 127,17,Shuai Lian,31128,China,,-,-,-,
 127,21,Maral-Erdene Batmunkh,31128,Mongolia,,-,-,-,
 127,22,Bolor-Erdene Enkhtaivan,31128,Mongolia,,-,-,-,1
 127,23,Myagmarsuren Baasankhuu,11321,Mongolia,MGL,-,-,-,
-127,24,Amartuvshin Battsengel,11321,Mongolia,,-,-,-,
-127,25,Bold Iderbold,28257,Mongolia,MGL,-,-,-,
+127,24,Amartuvshin Battsengel,11321,Mongolia,,-,-,-,1
+127,25,Bold Iderbold,28257,Mongolia,MGL,-,-,-,1
 127,26,Bilguunjargal Erdenebat,26172,Mongolia,MGL,-,-,-,
 127,27,Temuulen Khadbaatar,26172,Mongolia,,-,-,-,
 127,31,Navuti Liphongyu,16609,Thailand,THA,-,-,-,
 127,32,Noppachai Klahan,31282,Thailand,THA,-,-,-,
 127,33,Peerapol Chawchiangkwang,11810,Thailand,THA,-,-,-,
-127,34,Tullatorn Sosalam,11810,Thailand,,-,-,-,
-127,35,Ratchanon Yaowarat,29449,Thailand,THA,-,-,-,
+127,34,Tullatorn Sosalam,11810,Thailand,,-,-,-,1
+127,35,Ratchanon Yaowarat,29449,Thailand,THA,-,-,-,1
 127,36,Sarawut Sirironnachai,18945,Thailand,THA,-,-,-,
-127,37,Thanakhan Chaiyasombat,28399,Thailand,THA,-,-,-,
+127,37,Thanakhan Chaiyasombat,28399,Thailand,THA,-,-,-,1
 127,41,James Oram,19829,Bolton Equities Black Spoke,NZL,-,-,-,
 127,42,Paul Wright,28243,Bolton Equities Black Spoke,NZL,-,-,-,
 127,43,Ryan Christensen,23872,Bolton Equities Black Spoke,NZL,-,-,-,
@@ -240,7 +240,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,91,Jelle Johannink,29206,ABLOC CT,NED,-,-,-,
 127,92,Lars Loohuis,29462,ABLOC CT,NED,-,-,-,
 127,93,Martijn Rasenberg,29462,ABLOC CT,,-,-,-,
-127,94,Martin Pluto,27358,ABLOC CT,LAT,-,-,-,
+127,94,Martin Pluto,27358,ABLOC CT,LAT,-,-,-,1
 127,95,Nils Sinschek,28544,ABLOC CT,NED,-,-,-,
 127,96,Meindert Weulink,29915,ABLOC CT,NED,-,-,-,
 127,97,Frank van den Broek,33648,ABLOC CT,NED,-,-,-,
@@ -267,19 +267,19 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,131,Prasetyo Firdaus,32229,Nusantara Cycling Team,,-,-,-,1
 127,132,Adrian Sevadil,32229,Nusantara Cycling Team,,-,-,-,1
 127,133,Hossein Alizadeh,32229,Nusantara Cycling Team,,-,-,-,
-127,134,Woro Fitrianto,32229,Nusantara Cycling Team,,-,-,-,
+127,134,Woro Fitrianto,32229,Nusantara Cycling Team,,-,-,-,1
 127,135,Muhammad Ridwan,32229,Nusantara Cycling Team,,-,-,-,
 127,136,Muh Imam Arifin,32229,Nusantara Cycling Team,,-,-,-,
-127,137,Muhamad Herlangga,32229,Nusantara Cycling Team,,-,-,-,
-127,141,Pengyang Shi,32229,Shandong Green Orange CT,,-,-,-,
+127,137,Muhamad Herlangga,32229,Nusantara Cycling Team,,-,-,-,1
+127,141,Pengyang Shi,32229,Shandong Green Orange CT,,-,-,-,1
 127,142,Mingchen Sun,32229,Shandong Green Orange CT,,-,-,-,
-127,143,Wangqiang Bao,32229,Shandong Green Orange CT,,-,-,-,
+127,143,Wangqiang Bao,32229,Shandong Green Orange CT,,-,-,-,1
 127,144,Chengshuo Miao,32229,Shandong Green Orange CT,,-,-,-,1
 127,145,Jia Jun Han,32229,Shandong Green Orange CT,,-,-,-,
 127,146,He Jiang,32229,Shandong Green Orange CT,,-,-,-,
 127,147,Kai Sun,32229,Shandong Green Orange CT,,-,-,-,
 127,151,Yuheng Li,31683,Shenzhen Xidesheng Cycling Team,CHN,-,-,-,
-127,152,Hannes Bergström Frisk,31683,Shenzhen Xidesheng Cycling Team,,-,-,-,
+127,152,Hannes Bergström Frisk,31683,Shenzhen Xidesheng Cycling Team,,-,-,-,1
 127,153,Xi Li,19646,Shenzhen Xidesheng Cycling Team,GER,Pieter-Bas de Bruijn,PB,1,
 127,154,Jinchun Liu,26258,Shenzhen Xidesheng Cycling Team,CHN,-,-,-,
 127,155,Erik Bergström Frisk,26258,Shenzhen Xidesheng Cycling Team,,-,-,-,
@@ -316,13 +316,13 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,202,Jinsong Li,25327,The Hurricane & Thunder CT,CHN,-,-,-,
 127,203,Yanze Li,25327,The Hurricane & Thunder CT,,-,-,-,
 127,204,Yourui Pan,25327,The Hurricane & Thunder CT,,-,-,-,
-127,205,Aoling Liu,25327,The Hurricane & Thunder CT,,-,-,-,
+127,205,Aoling Liu,25327,The Hurricane & Thunder CT,,-,-,-,1
 127,206,Xuan Ye Chen,25327,The Hurricane & Thunder CT,,-,-,-,
-127,207,Yucheng Huang,25327,The Hurricane & Thunder CT,,-,-,-,
+127,207,Yucheng Huang,25327,The Hurricane & Thunder CT,,-,-,-,1
 127,211,Zhishan Zhang,22557,Tianyoude Hotel Cycling Team,CHN,-,-,-,
 127,212,Jiancai Wang,24021,Tianyoude Hotel Cycling Team,CHN,-,-,-,
 127,213,Zisen Liu,24021,Tianyoude Hotel Cycling Team,,-,-,-,
-127,214,Yecid Arturo Sierra,25027,Tianyoude Hotel Cycling Team,COL,-,-,-,
+127,214,Yecid Sierra,25027,Tianyoude Hotel Cycling Team,COL,-,-,-,
 127,215,Saeid Safarzadeh,3685,Tianyoude Hotel Cycling Team,IRI,-,-,-,
 127,216,Yeisson Quetama,3685,Tianyoude Hotel Cycling Team,,-,-,-,
 127,217,Pengwu Zhu,3685,Tianyoude Hotel Cycling Team,,-,-,-,
