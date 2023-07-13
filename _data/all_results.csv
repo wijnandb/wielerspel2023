@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,GT1s,"Tour de France, Stage 12 : Roanne - Belleville-en-Beaujolais (prov.)",41821,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2023-07-13
+-4,GT1s,"Leiderstrui na Tour de France, Stage 12 : Roanne - Belleville-en-Beaujolais (prov.)",41821,Vingegaard Jonas,25740,0.0,0,2023-07-13
+-1,GT1s,"Jongerentrui na Tour de France, Stage 12 : Roanne - Belleville-en-Beaujolais (prov.)",41821,Pogacar Tadej,26526,0.0,0,2023-07-13
+-2,GT1s,"Puntentrui na Tour de France, Stage 12 : Roanne - Belleville-en-Beaujolais (prov.)",41821,Philipsen Jasper,26392,0.0,0,2023-07-13
+-3,GT1s,"Bergtrui na Tour de France, Stage 12 : Roanne - Belleville-en-Beaujolais (prov.)",41821,Powless Neilson,24902,0.0,0,2023-07-13
+1,2.PSs,"Tour of Qinghai Lake, Stage 5 : Menyuan - Qilian (prov.)",41845,ZANONCELLO Enrico,28364,0.0,0,2023-07-13
 1,GT1s,"Tour de France, Stage 11 : Clermont-Ferrand - Moulins (prov.)",41820,PHILIPSEN Jasper,26392,0.0,0,2023-07-12
 -4,GT1s,"Leiderstrui na Tour de France, Stage 11 : Clermont-Ferrand - Moulins (prov.)",41820,Vingegaard Jonas,25740,0.0,0,2023-07-12
 -1,GT1s,"Jongerentrui na Tour de France, Stage 11 : Clermont-Ferrand - Moulins (prov.)",41820,Pogacar Tadej,26526,0.0,0,2023-07-12
