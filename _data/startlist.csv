@@ -44,7 +44,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,53,Remi Cavagna,22910, Soudal Quick-Step,FRA,Harry Koene,Harry,4,
 17,54,Tim Declercq,16895, Soudal Quick-Step,BEL,-,-,-,
 17,55,Dries Devenyns,4684, Soudal Quick-Step,BEL,-,-,-,
-17,56,Fabio Jakobsen,23426, Soudal Quick-Step,NED,Kaspar Burghard,Kaspar,23,
+17,56,Fabio Jakobsen,23426, Soudal Quick-Step,NED,Kaspar Burghard,Kaspar,23,1
 17,57,Yves Lampaert,19941, Soudal Quick-Step,BEL,Harry Koene,Harry,1,
 17,58,Michael Mørkøv,2870, Soudal Quick-Step,DEN,-,-,-,
 17,62,Mikel Landa,14319, Bahrain Victorious,ESP,Harry Koene,Harry,10,
@@ -153,7 +153,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,188,Florian Vermeersch,28127, Lotto Dstny,BEL,Albert Kraaij,Albert,2,
 17,191,Mark Cavendish,3448, Astana Qazaqstan Team,GBR,Kaspar Burghard,Kaspar,4,1
 17,192,Cees Bol,21930, Astana Qazaqstan Team,NED,Roy Smits,Roy,1,
-17,193,David De La Cruz,12719, Astana Qazaqstan Team,ESP,-,-,-,
+17,193,David de la Cruz,12719, Astana Qazaqstan Team,ESP,-,-,-,1
 17,194,Yevgeniy Fedorov,29309, Astana Qazaqstan Team,KAZ,Pieter-Bas de Bruijn,PB,1,
 17,195,Alexey Lutsenko,18455, Astana Qazaqstan Team,KAZ,Frank Vellinga,Vel,6,
 17,196,Gianni Moscon,22676, Astana Qazaqstan Team,ITA,Pieter-Bas de Bruijn,PB,2,
@@ -228,7 +228,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,73,Asier Etxeberria,30007,Euskaltel-Euskadi,ESP,-,-,-,
 127,74,Joan Bou,27598,Euskaltel-Euskadi,ESP,-,-,-,
 127,75,Ibai Azurmendi,25721,Euskaltel-Euskadi,ESP,-,-,-,
-127,76,Peio Goikoetxea,25721,Euskaltel-Euskadi,,-,-,-,
+127,76,Peio Goikoetxea,25721,Euskaltel-Euskadi,,-,-,-,1
 127,77,Iker Ballarin,25721,Euskaltel-Euskadi,,-,-,-,
 127,81,Henok Mulubrhan,28186,Green Project-Bardiani CSF-Faizanè,ERI,-,-,-,
 127,82,Riccardo Lucca,29876,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-,
@@ -249,16 +249,16 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,104,Hongao Ma,33347,Bodywrap LTWOO Cycling Team,,-,-,-,1
 127,105,Yihua Fan,33347,Bodywrap LTWOO Cycling Team,,-,-,-,
 127,106,Zeyao Lu,33347,Bodywrap LTWOO Cycling Team,,-,-,-,
-127,107,Zhenghao Fu,33347,Bodywrap LTWOO Cycling Team,,-,-,-,
+127,107,Zhenghao Fu,33347,Bodywrap LTWOO Cycling Team,,-,-,-,1
 127,111,Marcelo Felipe,21923,7 Eleven Cliqq-Air21 by Roadbike Philippines,PHI,-,-,-,
 127,112,Ryan Tugawin,21923,7 Eleven Cliqq-Air21 by Roadbike Philippines,,-,-,-,1
-127,113,Ismael Grospe,28615,7 Eleven Cliqq-Air21 by Roadbike Philippines,PHI,-,-,-,
+127,113,Ismael Grospe,28615,7 Eleven Cliqq-Air21 by Roadbike Philippines,PHI,-,-,-,1
 127,114,Nichol Pareja,30502,7 Eleven Cliqq-Air21 by Roadbike Philippines,PHI,-,-,-,
 127,115,Ivan Sembrano,30502,7 Eleven Cliqq-Air21 by Roadbike Philippines,,-,-,-,1
 127,116,Joshua Pascual,30502,7 Eleven Cliqq-Air21 by Roadbike Philippines,,-,-,-,
 127,117,Jude Gabriel Francisco,30502,7 Eleven Cliqq-Air21 by Roadbike Philippines,,-,-,-,1
 127,121,Yikui Niu,22552,Li Ning Star,CHN,-,-,-,
-127,122,Zhihui Jiang,22552,Li Ning Star,,-,-,-,
+127,122,Zhihui Jiang,22552,Li Ning Star,,-,-,-,1
 127,123,Aliaksei Shnyrko,22552,Li Ning Star,,-,-,-,
 127,124,Junqi Shao,22552,Li Ning Star,,-,-,-,
 127,125,Roniel Campos,22664,Li Ning Star,VEN,-,-,-,
@@ -277,7 +277,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,144,Chengshuo Miao,32229,Shandong Green Orange CT,,-,-,-,1
 127,145,Jia Jun Han,32229,Shandong Green Orange CT,,-,-,-,
 127,146,He Jiang,32229,Shandong Green Orange CT,,-,-,-,
-127,147,Kai Sun,32229,Shandong Green Orange CT,,-,-,-,
+127,147,Kai Sun,32229,Shandong Green Orange CT,,-,-,-,1
 127,151,Yuheng Li,31683,Shenzhen Xidesheng Cycling Team,CHN,-,-,-,
 127,152,Hannes Bergström Frisk,31683,Shenzhen Xidesheng Cycling Team,,-,-,-,1
 127,153,Xi Li,19646,Shenzhen Xidesheng Cycling Team,GER,Pieter-Bas de Bruijn,PB,1,
@@ -317,7 +317,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,203,Yanze Li,25327,The Hurricane & Thunder CT,,-,-,-,
 127,204,Yourui Pan,25327,The Hurricane & Thunder CT,,-,-,-,
 127,205,Aoling Liu,25327,The Hurricane & Thunder CT,,-,-,-,1
-127,206,Xuan Ye Chen,25327,The Hurricane & Thunder CT,,-,-,-,
+127,206,Xuan Ye Chen,25327,The Hurricane & Thunder CT,,-,-,-,1
 127,207,Yucheng Huang,25327,The Hurricane & Thunder CT,,-,-,-,1
 127,211,Zhishan Zhang,22557,Tianyoude Hotel Cycling Team,CHN,-,-,-,
 127,212,Jiancai Wang,24021,Tianyoude Hotel Cycling Team,CHN,-,-,-,
@@ -325,4 +325,4 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,214,Yecid Sierra,25027,Tianyoude Hotel Cycling Team,COL,-,-,-,
 127,215,Saeid Safarzadeh,3685,Tianyoude Hotel Cycling Team,IRI,-,-,-,
 127,216,Yeisson Quetama,3685,Tianyoude Hotel Cycling Team,,-,-,-,
-127,217,Pengwu Zhu,3685,Tianyoude Hotel Cycling Team,,-,-,-,
+127,217,Pengwu Zhu,3685,Tianyoude Hotel Cycling Team,,-,-,-,1
