@@ -19,7 +19,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,25,Daniel Martinez,23503, INEOS Grenadiers,COL,Bram van Ommeren,Bram,12,
 17,26,Tom Pidcock,27708, INEOS Grenadiers,GBR,Albert Kraaij,Albert,20,
 17,27,Carlos Rodriguez,30836, INEOS Grenadiers,ESP,Roy Smits,Roy,12,
-17,28,Ben Turner,27923, INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,1,
+17,28,Ben Turner,27923, INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,1,1
 17,31,David Gaudu,24255, Groupama-FDJ,FRA,Nick Veenstra,Nicky,9,
 17,33,Stefan Küng,20960, Groupama-FDJ,SUI,Pieter-Bas de Bruijn,PB,11,
 17,35,Valentin Madouas,24758, Groupama-FDJ,FRA,Pieter-Bas de Bruijn,PB,6,
@@ -91,7 +91,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,173,Clément Champoussin,27153, Arkéa-Samsic,FRA,Jan Versluys,Jan,1,
 17,176,Matis Louvel,29982, Arkéa-Samsic,FRA,Paul van Doorn,Paul,3,
 17,177,Luca Mozzato,28037, Arkéa-Samsic,ITA,Nick Veenstra,Nicky,2,
-17,181,Caleb Ewan,19651, Lotto Dstny,AUS,Paul van Doorn,Paul,16,
+17,181,Caleb Ewan,19651, Lotto Dstny,AUS,Paul van Doorn,Paul,16,1
 17,182,Victor Campenaerts,20184, Lotto Dstny,BEL,Frank Vellinga,Vel,2,
 17,184,Pascal Eenkhoorn,24932, Lotto Dstny,NED,Harry Koene,Harry,1,
 17,188,Florian Vermeersch,28127, Lotto Dstny,BEL,Albert Kraaij,Albert,2,
