@@ -210,7 +210,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,46,Logan Currie,30604,Bolton Equities Black Spoke,NZL,-,-,-,
 127,47,Josh Burnett,31888,Bolton Equities Black Spoke,NZL,-,-,-,
 127,51,Camilo Ardila,30067,Burgos-BH,COL,-,-,-,
-127,52,Miguel Angel Fernandez,23334,Burgos-BH,COL,Nick Veenstra,Nicky,5,
+127,52,Miguel Angel Fernandez,23334,Burgos-BH,COL,Nick Veenstra,Nicky,5,1
 127,53,Angel Fuentes,29113,Burgos-BH,ESP,-,-,-,
 127,54,Mario Aparicio,31664,Burgos-BH,ESP,-,-,-,
 127,55,Eric Fagundez,28445,Burgos-BH,URU,-,-,-,
@@ -286,7 +286,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,156,Ruibiao Zhang,26258,Shenzhen Xidesheng Cycling Team,,-,-,-,
 127,157,Chenli Zhao,26258,Shenzhen Xidesheng Cycling Team,,-,-,-,1
 127,161,Jack Aitken,29789,St George Continental CT,AUS,-,-,-,
-127,162,William Cooper,28516,St George Continental CT,USA,-,-,-,
+127,162,William Cooper,28516,St George Continental CT,USA,-,-,-,1
 127,163,Riley Fleming,30958,St George Continental CT,AUS,-,-,-,
 127,164,Cameron Ivory,23868,St George Continental CT,AUS,-,-,-,
 127,165,Connor Reardon,23868,St George Continental CT,,-,-,-,
@@ -309,7 +309,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,191,Oscar Sevilla,128,Team Medellin-EPM,ESP,-,-,-,
 127,192,Fabio Duarte,5165,Team Medellin-EPM,COL,-,-,-,
 127,193,Aldemar Reyes,23308,Team Medellin-EPM,COL,-,-,-,
-127,194,Yeison Reyes,25007,Team Medellin-EPM,COL,-,-,-,
+127,194,Yeison Reyes,25007,Team Medellin-EPM,COL,-,-,-,1
 127,195,Wilmar Paredes,25007,Team Medellin-EPM,,-,-,-,
 127,196,Danny Osorio,18792,Team Medellin-EPM,COL,-,-,-,
 127,197,Victor Ocampo,28144,Team Medellin-EPM,COL,-,-,-,
