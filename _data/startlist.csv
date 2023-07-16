@@ -34,10 +34,10 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,41,Richard Carapaz,21342, EF Education-EasyPost,ECU,Wijnand Baretta,Wijnand,32,1
 17,42,Andrey Amador,4972, EF Education-EasyPost,CRC,-,-,-,
 17,43,Alberto Bettiol,20697, EF Education-EasyPost,ITA,Pieter-Bas de Bruijn,PB,1,
-17,44,Esteban Chaves,16941, EF Education-EasyPost,COL,Jan Versluys,Jan,1,
+17,44,Esteban Chaves,16941, EF Education-EasyPost,COL,Jan Versluys,Jan,1,1
 17,45,Magnus Cort,19448, EF Education-EasyPost,DEN,Frank Vellinga,Vel,4,
 17,46,Neilson Powless,24902, EF Education-EasyPost,USA,Harry Koene,Harry,6,
-17,47,James Shaw,24546, EF Education-EasyPost,GBR,-,-,-,
+17,47,James Shaw,24546, EF Education-EasyPost,GBR,-,-,-,1
 17,48,Rigoberto Uran,4099, EF Education-EasyPost,COL,Bram van Ommeren,Bram,4,
 17,51,Julian Alaphilippe,18610, Soudal Quick-Step,FRA,Arjan Knibbe,Arjan,40,
 17,52,Kasper Asgreen,23558, Soudal Quick-Step,DEN,Nick Veenstra,Nicky,10,
@@ -86,11 +86,11 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,105,Søren Kragh Andersen,20793, Alpecin-Deceuninck,DEN,Frank Vellinga,Vel,2,
 17,106,Jasper Philipsen,26392, Alpecin-Deceuninck,BEL,Nick Veenstra,Nicky,11,
 17,107,Jonas Rickaert,21374, Alpecin-Deceuninck,BEL,-,-,-,
-17,108,Ramon Sinkeldam,9957, Alpecin-Deceuninck,NED,-,-,-,
+17,108,Ramon Sinkeldam,9957, Alpecin-Deceuninck,NED,-,-,-,1
 17,111,Biniam Girmay,29474, Intermarché-Circus-Wanty,ERI,Nick Veenstra,Nicky,19,
 17,112,Lilian Calmejane,21439, Intermarché-Circus-Wanty,FRA,Jan Versluys,Jan,1,
 17,113,Rui Costa,6807, Intermarché-Circus-Wanty,POR,-,-,-,
-17,114,Louis Meintjes,18413, Intermarché-Circus-Wanty,RSA,Wijnand Baretta,Wijnand,1,
+17,114,Louis Meintjes,18413, Intermarché-Circus-Wanty,RSA,Wijnand Baretta,Wijnand,1,1
 17,115,Adrien Petit,14273, Intermarché-Circus-Wanty,FRA,-,-,-,
 17,116,Dion Smith,21036, Intermarché-Circus-Wanty,NZL,-,-,-,
 17,117,Mike Teunissen,19165, Intermarché-Circus-Wanty,NED,Albert Kraaij,Albert,2,
@@ -104,14 +104,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,127,Alexis Renard,29969, Cofidis,FRA,-,-,-,
 17,128,Axel Zingle,31263, Cofidis,FRA,Paul van Doorn,Paul,4,
 17,131,Enric Mas,22794, Movistar Team,ESP,Pieter-Bas de Bruijn,PB,17,1
-17,132,Ruben Guerreiro,22683, Movistar Team,POR,Jan Versluys,Jan,1,
+17,132,Ruben Guerreiro,22683, Movistar Team,POR,Jan Versluys,Jan,1,1
 17,133,Alex Aranburu,23940, Movistar Team,ESP,Jan Versluys,Jan,3,
 17,134,Gorka Izagirre,10070, Movistar Team,ESP,-,-,-,
 17,135,Matteo Jorgenson,28057, Movistar Team,USA,Albert Kraaij,Albert,1,
 17,136,Gregor Mühlberger,21128, Movistar Team,AUT,-,-,-,
 17,137,Nelson Oliveira,13274, Movistar Team,POR,-,-,-,
-17,138,Antonio Pedrero,19078, Movistar Team,ESP,-,-,-,
-17,141,Romain Bardet,13566, Team dsm-firmenich,FRA,Jan Versluys,Jan,6,
+17,138,Antonio Pedrero,19078, Movistar Team,ESP,-,-,-,1
+17,141,Romain Bardet,13566, Team dsm-firmenich,FRA,Jan Versluys,Jan,6,1
 17,142,John Degenkolb,9851, Team dsm-firmenich,GER,Kaspar Burghard,Kaspar,1,
 17,143,Matthew Dinham,29788, Team dsm-firmenich,AUS,-,-,-,
 17,144,Alex Edmondson,20219, Team dsm-firmenich,AUS,-,-,-,
@@ -175,19 +175,19 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,216,Pierre Latour,20156, TotalEnergies,FRA,Kaspar Burghard,Kaspar,2,
 17,217,Daniel Oss,7148, TotalEnergies,ITA,-,-,-,
 17,218,Anthony Turgis,21312, TotalEnergies,FRA,Frank Vellinga,Vel,3,
-127,2,Xianjing Lyu,28143,China Glory Continental CT,CHN,-,-,-,
+127,2,Xianjing Lyu,28143,China Glory Continental CT,CHN,-,-,-,1
 127,3,Haoyu Su,32068,China Glory Continental CT,CHN,-,-,-,1
 127,4,Willie Smit,19894,China Glory Continental CT,RSA,-,-,-,
 127,5,James Piccoli,21644,China Glory Continental CT,CAN,-,-,-,
 127,6,Julien Trarieux,24752,China Glory Continental CT,FRA,-,-,-,
 127,7,Lucas De Rossi,25715,China Glory Continental CT,FRA,-,-,-,
 127,11,Geng Teng,29610,China,CHN,-,-,-,1
-127,12,Ruidong Wang,29610,China,,-,-,-,
+127,12,Ruidong Wang,29610,China,,-,-,-,1
 127,13,Yutao Shen,31128,China,CHN,-,-,-,
 127,14,Jinyang Ju,31128,China,,-,-,-,1
 127,15,Binyan Ma,31128,China,,-,-,-,
 127,16,Yuanfeng Yu,31128,China,,-,-,-,
-127,17,Shuai Lian,31128,China,,-,-,-,
+127,17,Shuai Lian,31128,China,,-,-,-,1
 127,21,Maral-Erdene Batmunkh,31128,Mongolia,,-,-,-,
 127,22,Bolor-Erdene Enkhtaivan,31128,Mongolia,,-,-,-,1
 127,23,Myagmarsuren Baasankhuu,11321,Mongolia,MGL,-,-,-,
@@ -207,7 +207,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,43,Ryan Christensen,23872,Bolton Equities Black Spoke,NZL,-,-,-,
 127,44,Luke Mudgway,23499,Bolton Equities Black Spoke,NZL,-,-,-,
 127,45,Josh Kench,30914,Bolton Equities Black Spoke,NZL,-,-,-,
-127,46,Logan Currie,30604,Bolton Equities Black Spoke,NZL,-,-,-,
+127,46,Logan Currie,30604,Bolton Equities Black Spoke,NZL,-,-,-,1
 127,47,Josh Burnett,31888,Bolton Equities Black Spoke,NZL,-,-,-,
 127,51,Camilo Ardila,30067,Burgos-BH,COL,-,-,-,
 127,52,Miguel Angel Fernandez,23334,Burgos-BH,COL,Nick Veenstra,Nicky,5,1
@@ -247,7 +247,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,101,Kuicheng Wang,33347,Bodywrap LTWOO Cycling Team,CHN,-,-,-,
 127,102,Gaoshang Niu,33347,Bodywrap LTWOO Cycling Team,,-,-,-,
 127,104,Hongao Ma,33347,Bodywrap LTWOO Cycling Team,,-,-,-,1
-127,105,Yihua Fan,33347,Bodywrap LTWOO Cycling Team,,-,-,-,
+127,105,Yihua Fan,33347,Bodywrap LTWOO Cycling Team,,-,-,-,1
 127,106,Zeyao Lu,33347,Bodywrap LTWOO Cycling Team,,-,-,-,
 127,107,Zhenghao Fu,33347,Bodywrap LTWOO Cycling Team,,-,-,-,1
 127,111,Marcelo Felipe,21923,7 Eleven Cliqq-Air21 by Roadbike Philippines,PHI,-,-,-,1
@@ -291,7 +291,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 127,164,Cameron Ivory,23868,St George Continental CT,AUS,-,-,-,
 127,165,Connor Reardon,23868,St George Continental CT,,-,-,-,
 127,166,Matthew Rice,29500,St George Continental CT,AUS,-,-,-,
-127,167,Dylan Sunderland,23947,St George Continental CT,AUS,-,-,-,
+127,167,Dylan Sunderland,23947,St George Continental CT,AUS,-,-,-,1
 127,171,Gianni Marchand,21532,Tarteletto-Isorex,BEL,-,-,-,
 127,172,Timothy Dupont,7948,Tarteletto-Isorex,BEL,-,-,-,
 127,173,Torsten Demeyere,7948,Tarteletto-Isorex,,-,-,-,
