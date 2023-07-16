@@ -201,3 +201,4 @@ Resultaten gecheckt: 2023-07-14 16:08:15.849916
 Resultaten gecheckt: 2023-07-14 17:07:25.526461 
 Resultaten gecheckt: 2023-07-15 17:07:16.739616 
 Resultaten gecheckt: 2023-07-16 16:07:49.987932 
+Resultaten gecheckt: 2023-07-16 17:07:17.777382 
