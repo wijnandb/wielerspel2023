@@ -16,7 +16,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,21,Egan Bernal,24926, INEOS Grenadiers,COL,Paul van Doorn,Paul,28,
 17,23,Omar Fraile,19335, INEOS Grenadiers,ESP,Arjan Knibbe,Arjan,1,
 17,24,Michal Kwiatkowski,12923, INEOS Grenadiers,POL,Harry Koene,Harry,5,
-17,25,Daniel Martinez,23503, INEOS Grenadiers,COL,Bram van Ommeren,Bram,12,
+17,25,Daniel Martinez,23503, INEOS Grenadiers,COL,Bram van Ommeren,Bram,12,1
 17,26,Tom Pidcock,27708, INEOS Grenadiers,GBR,Albert Kraaij,Albert,20,
 17,27,Carlos Rodriguez,30836, INEOS Grenadiers,ESP,Roy Smits,Roy,12,
 17,28,Ben Turner,27923, INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,1,1
@@ -109,5 +109,3 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,213,Mathieu Burgaudeau,27151, TotalEnergies,FRA,Paul van Doorn,Paul,1,
 17,216,Pierre Latour,20156, TotalEnergies,FRA,Kaspar Burghard,Kaspar,2,
 17,218,Anthony Turgis,21312, TotalEnergies,FRA,Frank Vellinga,Vel,3,
-127,52,Miguel Angel Fernandez,23334,Burgos-BH,COL,Nick Veenstra,Nicky,5,1
-127,153,Xi Li,19646,Shenzhen Xidesheng Cycling Team,GER,Pieter-Bas de Bruijn,PB,1,
