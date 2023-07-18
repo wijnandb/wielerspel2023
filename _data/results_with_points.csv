@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,GT1s,"Tour de France, Stage 16 : Passy - Combloux I.T.T. (prov.)",41825,VINGEGAARD RASMUSSEN Jonas,25740,3,0,2023-07-18,Arjan
+-4,GT1s,"Leiderstrui na Tour de France, Stage 16 : Passy - Combloux I.T.T. (prov.)",41825,Vingegaard Jonas,25740,1,0,2023-07-18,Arjan
+-1,GT1s,"Jongerentrui na Tour de France, Stage 16 : Passy - Combloux I.T.T. (prov.)",41825,Pogacar Tadej,26526,0.1,0,2023-07-18,Kees
+-2,GT1s,"Puntentrui na Tour de France, Stage 16 : Passy - Combloux I.T.T. (prov.)",41825,Philipsen Jasper,26392,0.2,0,2023-07-18,Nicky
+-3,GT1s,"Bergtrui na Tour de France, Stage 16 : Passy - Combloux I.T.T. (prov.)",41825,Ciccone Giulio,21812,0.2,0,2023-07-18,Nicky
 1,GT1s,"Tour de France, Stage 15 : Les Gets - Saint-Gervais Mont Blanc (prov.)",41824,POELS Wout,7751,3,0,2023-07-16,Roy
 -4,GT1s,"Leiderstrui na Tour de France, Stage 15 : Les Gets - Saint-Gervais Mont Blanc (prov.)",41824,Vingegaard Jonas,25740,1,0,2023-07-16,Arjan
 -1,GT1s,"Jongerentrui na Tour de France, Stage 15 : Les Gets - Saint-Gervais Mont Blanc (prov.)",41824,Pogacar Tadej,26526,0.1,0,2023-07-16,Kees
