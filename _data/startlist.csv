@@ -49,7 +49,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,58,Michael Mørkøv,2870, Soudal Quick-Step,DEN,-,-,-,
 17,62,Mikel Landa,14319, Bahrain Victorious,ESP,Harry Koene,Harry,10,
 17,63,Nikias Arndt,16323, Bahrain Victorious,GER,-,-,-,
-17,64,Phil Bauhaus,20861, Bahrain Victorious,GER,Frank Vellinga,Vel,1,
+17,64,Phil Bauhaus,20861, Bahrain Victorious,GER,Frank Vellinga,Vel,1,1
 17,65,Pello Bilbao,17881, Bahrain Victorious,ESP,Jan Versluys,Jan,6,
 17,66,Jack Haig,21212, Bahrain Victorious,AUS,Paul van Doorn,Paul,1,
 17,67,Matej Mohoric,21145, Bahrain Victorious,SLO,Frank Rozemeijer,Frank,16,
@@ -101,7 +101,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 17,124,Ion Izagirre,14321, Cofidis,ESP,Harry Koene,Harry,2,
 17,125,Victor Lafay,26197, Cofidis,FRA,Jan Versluys,Jan,2,
 17,126,Anthony Perez,17632, Cofidis,FRA,-,-,-,
-17,127,Alexis Renard,29969, Cofidis,FRA,-,-,-,
+17,127,Alexis Renard,29969, Cofidis,FRA,-,-,-,1
 17,128,Axel Zingle,31263, Cofidis,FRA,Paul van Doorn,Paul,4,
 17,131,Enric Mas,22794, Movistar Team,ESP,Pieter-Bas de Bruijn,PB,17,1
 17,132,Ruben Guerreiro,22683, Movistar Team,POR,Jan Versluys,Jan,1,1
