@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,NC5,National Championships Malaysia (Bukit Katil) R.R.,41912,ZARIFF Muhammad Nur Aiman,25467,0.0,0,2023-07-23
+1,NC5,National Championships Malta R.R.,42099,BUTTIGIEG Aidan,32043,0.0,0,2023-07-23
 1,GT1s,"Tour de France, Stage 20 : Belfort - Le Markstein (prov.)",41829,POGACAR Tadej,26526,0.0,0,2023-07-22
 -4,GT1s,"Leiderstrui na Tour de France, Stage 20 : Belfort - Le Markstein (prov.)",41829,Vingegaard Jonas,25740,0.0,0,2023-07-22
 -1,GT1s,"Jongerentrui na Tour de France, Stage 20 : Belfort - Le Markstein (prov.)",41829,Pogacar Tadej,26526,0.0,0,2023-07-22
@@ -32,15 +34,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -1,GT1s,"Jongerentrui na Tour de France, Stage 15 : Les Gets - Saint-Gervais Mont Blanc (prov.)",41824,Pogacar Tadej,26526,0.0,0,2023-07-16
 -2,GT1s,"Puntentrui na Tour de France, Stage 15 : Les Gets - Saint-Gervais Mont Blanc (prov.)",41824,Philipsen Jasper,26392,0.0,0,2023-07-16
 -3,GT1s,"Bergtrui na Tour de France, Stage 15 : Les Gets - Saint-Gervais Mont Blanc (prov.)",41824,Ciccone Giulio,21812,0.0,0,2023-07-16
-1,2.PS,"Tour of Qinghai Lake, General classification",41849,MULUBRHAN Henok,28186,0.0,0,2023-07-16
-2,2.PS,"Tour of Qinghai Lake, General classification",41849,FAGUNDEZ LIMA Eric Antonio,28445,0.0,0,2023-07-16
-3,2.PS,"Tour of Qinghai Lake, General classification",41849,BALDACCINI Davide,28532,0.0,0,2023-07-16
-4,2.PS,"Tour of Qinghai Lake, General classification",41849,MURGANO Marco,28378,0.0,0,2023-07-16
-5,2.PS,"Tour of Qinghai Lake, General classification",41849,SMIT Willie,19894,0.0,0,2023-07-16
-6,2.PS,"Tour of Qinghai Lake, General classification",41849,APARICIO MUÑOZ Mario,31664,0.0,0,2023-07-16
-7,2.PS,"Tour of Qinghai Lake, General classification",41849,CHRISTOPHERSEN Cedrik Bakke,34232,0.0,0,2023-07-16
-8,2.PS,"Tour of Qinghai Lake, General classification",41849,WAEHRE Magnus,34231,0.0,0,2023-07-16
-9,2.PS,"Tour of Qinghai Lake, General classification",41849,KENCH Joshua,30914,0.0,0,2023-07-16
-10,2.PS,"Tour of Qinghai Lake, General classification",41849,SEVILLA RIVERA Oscar Miguel,128,0.0,0,2023-07-16
-1,2.PSs,"Tour of Qinghai Lake, Stage 8 : Gonghe - Chaka",41848,DUPONT Timothy,7948,0.0,0,2023-07-16
-1,NC5,National Championships Venezuela (San Juan de los Morros) R.R.,41707,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2023-07-16
