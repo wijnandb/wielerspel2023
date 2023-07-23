@@ -217,7 +217,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 193,55,Connor Swift,26437,INEOS Grenadiers,GBR,Pieter-Bas de Bruijn,PB,1,
 193,56,Joshua Tarling,34297,INEOS Grenadiers,GBR,-,-,-,
 193,57,Elia Viviani,13240,INEOS Grenadiers,ITA,Paul van Doorn,Paul,3,
-193,61,Sven Erik Bystrøm,18608,Intermarché-Circus-Wanty,NOR,-,-,-,
+193,61,Sven Erik Bystrøm,18608,Intermarché-Circus-Wanty,NOR,-,-,-,1
 193,62,Aimé De Gendt,21998,Intermarché-Circus-Wanty,BEL,-,-,-,
 193,63,Arne Marit,28641,Intermarché-Circus-Wanty,BEL,Wijnand Baretta,Wijnand,0,
 193,64,Laurens Huys,27715,Intermarché-Circus-Wanty,BEL,-,-,-,
@@ -252,7 +252,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 193,107,Kenneth Van Rooy,20084,Bingoal WB,BEL,-,-,-,
 193,111,Omer Goldstein,24485,Israel-Premier Tech,ISR,-,-,-,
 193,112,Reto Hollenstein,7374,Israel-Premier Tech,SUI,-,-,-,
-193,113,Ben Hermans,4819,Israel-Premier Tech,BEL,Albert Kraaij,Albert,1,
+193,113,Ben Hermans,4819,Israel-Premier Tech,BEL,Albert Kraaij,Albert,1,1
 193,114,Giacomo Nizzolo,13863,Israel-Premier Tech,ITA,Pieter-Bas de Bruijn,PB,1,
 193,115,Jens Reynders,26449,Israel-Premier Tech,BEL,-,-,-,
 193,116,Stephen Williams,24346,Israel-Premier Tech,GBR,-,-,-,
