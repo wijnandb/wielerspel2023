@@ -173,6 +173,7 @@ def points_earned_for_wearing_jersey(race_id, jersey, rider_id, rider):
         position = -4 
     elif jersey == "youth":
         position = -1
+        # here I could call a function to set the result for the youth jersey winner
     elif jersey == "point":
         position = -2
     elif jersey == "mountain":
@@ -181,27 +182,17 @@ def points_earned_for_wearing_jersey(race_id, jersey, rider_id, rider):
         l=jersey
 
     results_with_points = process_files.read_csv_file("results_with_points.csv")
-    # print(results_with_points)
     points = 0
     for result in results_with_points[1:]:
         if int(result[0]) == int(position):
-            # print(f"Found position: {result[0]}")
             if int(result[5]) == int(rider_id):
-                # print(f"Found rider: {result[5]}")
-
                 points = points + Decimal(result[6])
-                # rider = result[4]
                 ploegleider = result[9]
     if points > 0:
         """ The winner of the jersey has earned points for wearing the jersey.
         This is the amount we need to substract"""
         points = -points
     return points
-    #     # print(0, "GTc", "Correctie voor dragen en winnen trui in Grote Ronde", tour_id, rider, rider_id, points)
-    #     results_with_points.append([0, "GTc", "Correctie voor dragen en winnen " + jersey + " trui in Grote Ronde", rider, rider_id, points,race_id,today,ploegleider])
-    #     print(results_with_points[-1])
-    #     # if this is correct, write the results back to the file
-    #     process_files.write_csv_file("results_with_points.csv", results_with_points)
 
 # get_jersey_ranking("Giro d’Italia, Stage 21 : Roma - Roma (135 km)", "41369", "GT2s", "2023-05-28")
 
@@ -301,12 +292,3 @@ process_files.write_csv_file('all_results.csv', full_results)
 # add header row first
 new_results.insert(0,['rank','category','racename','race_id','rider_name','rider_id','points','jpp','date'])
 process_files.write_csv_file('latest_results.csv', new_results)
-
-
-# with open('_data/all_results.csv', 'w') as f:
-#     write = csv.writer(f)
-#     write.writerows(full_results)
-
-# with open('_CSV/updated_results.csv', 'w') as f:
-#     write = csv.writer(f)
-#     write.writerows(unique_results)
