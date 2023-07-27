@@ -1,9 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,2.1,"Vuelta a Castilla y Leon, General classification (prov.)",41872,SEPULVEDA Eduardo,18487,2,0,2023-07-27,-
-2,2.1,"Vuelta a Castilla y Leon, General classification (prov.)",41872,ENGELHARDT Felix,29297,0.3,0,2023-07-27,-
-3,2.1,"Vuelta a Castilla y Leon, General classification (prov.)",41872,MOLENAAR Alex,28085,0.1,0,2023-07-27,-
-1,2.1s,"Vuelta a Castilla y Leon, Stage 2 : Coca - Segovia (prov.)",41871,SEPULVEDA Eduardo,18487,0.2,0,2023-07-27,-
+1,2.1,"Vuelta a Castilla y Leon, General classification",41872,SEPULVEDA Eduardo,18487,2,0,2023-07-27,-
+2,2.1,"Vuelta a Castilla y Leon, General classification",41872,ENGELHARDT Felix,29297,0.3,0,2023-07-27,-
+3,2.1,"Vuelta a Castilla y Leon, General classification",41872,MOLENAAR Alex,28085,0.1,0,2023-07-27,-
 1,2.1s,"Czech Tour, Stage 1 : Prostejov - Unicov (prov.)",41899,EINHORN Itamar,27315,0.2,0,2023-07-27,-
+1,2.1s,"Vuelta a Castilla y Leon, Stage 2 : Coca - Segovia",41871,SEPULVEDA Eduardo,18487,0.2,0,2023-07-27,-
 1,2.PS,"Tour de Wallonie, General classification",41869,GANNA Filippo,24057,4,50,2023-07-26,Jan
 2,2.PS,"Tour de Wallonie, General classification",41869,TARLING Joshua,34297,1,35,2023-07-26,-
 3,2.PS,"Tour de Wallonie, General classification",41869,VAN MOER Brent,28448,0.5,25,2023-07-26,-
@@ -15,7 +15,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.PS,"Tour de Wallonie, General classification",41869,BARONCINI Filippo,29419,0,10,2023-07-26,-
 10,2.PS,"Tour de Wallonie, General classification",41869,SCHMID Mauro,29214,0,8,2023-07-26,Jan
 1,2.PSs,"Tour de Wallonie, Stage 5 : Banneux - Aubel",41868,BAGIOLI Andrea,28452,0.3,0,2023-07-26,Albert
-1,2.1s,"Vuelta a Castilla y Leon, Stage 1 : Soria - Soria (prov.)",41870,ENGELHARDT Felix,29297,0.2,0,2023-07-26,-
+1,2.1s,"Vuelta a Castilla y Leon, Stage 1 : Soria - Soria",41870,ENGELHARDT Felix,29297,0.2,0,2023-07-26,-
 1,2.PSs,"Tour de Wallonie, Stage 4 : Mons - Mons I.T.T.",41867,GANNA Filippo,24057,0.3,0,2023-07-25,Jan
 1,1.1,Prueba Villafranca - Ordiziako Klasika,41787,HIRSCHI Marc,26509,2,0,2023-07-25,Bram
 2,1.1,Prueba Villafranca - Ordiziako Klasika,41787,HEALY Ben,28846,0.3,0,2023-07-25,-
