@@ -1,9 +1,4 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-0,GT1c,Correctie dragen jongerentrui in Tour de France,41830,Pogacar Tadej,26526,-2.0,0,2023-07-23,Kees
-0,GT1c,Correctie dragen leiderstrui in Tour de France,41831,Vingegaard Jonas,25740,-15.0,0,2023-07-23,Arjan
-0,GT1c,Correctie dragen puntentrui in Tour de France,41832,Philipsen Jasper,26392,-3.4,0,2023-07-23,Nicky
-0,GT1c,Correctie dragen bergtrui in Tour de France,41833,Ciccone Giulio,21812,-1.2,0,2023-07-23,Nicky
--1,GT1,Winnaar jongerentrui Tour de France,41830,Pogacar Tadej,26526,3,0,2023-07-23,Kees
 1,1.WT2,Clasica San Sebastian (prov.),41789,EVENEPOEL Remco,28377,10,50,2023-07-29,Roy
 2,1.WT2,Clasica San Sebastian (prov.),41789,BILBAO LOPEZ DE ARMENTIA Pello,17881,3,35,2023-07-29,Jan
 3,1.WT2,Clasica San Sebastian (prov.),41789,VLASOV Aleksandr,24316,1,25,2023-07-29,Harry
@@ -34,6 +29,11 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 10,2.PS,"Tour de Wallonie, General classification",41869,SCHMID Mauro,29214,0,8,2023-07-26,Jan
 1,2.PSs,"Tour de Wallonie, Stage 5 : Banneux - Aubel",41868,BAGIOLI Andrea,28452,0.3,0,2023-07-26,Albert
 1,2.1s,"Vuelta a Castilla y Leon, Stage 1 : Soria - Soria",41870,ENGELHARDT Felix,29297,0.2,0,2023-07-26,-
+0,GT1c,Correctie dragen jongerentrui in Tour de France,41830,Pogacar Tadej,26526,-2.0,0,2023-07-23,Kees
+0,GT1c,Correctie dragen leiderstrui in Tour de France,41831,Vingegaard Jonas,25740,-15.0,0,2023-07-23,Arjan
+0,GT1c,Correctie dragen puntentrui in Tour de France,41832,Philipsen Jasper,26392,-3.4,0,2023-07-23,Nicky
+0,GT1c,Correctie dragen bergtrui in Tour de France,41833,Ciccone Giulio,21812,-1.2,0,2023-07-23,Nicky
+-1,GT1,Winnaar jongerentrui Tour de France,41830,Pogacar Tadej,26526,3,0,2023-07-23,Kees
 1,2.PSs,"Tour de Wallonie, Stage 4 : Mons - Mons I.T.T.",41867,GANNA Filippo,24057,0.3,0,2023-07-25,Jan
 1,1.1,Prueba Villafranca - Ordiziako Klasika,41787,HIRSCHI Marc,26509,2,0,2023-07-25,Bram
 2,1.1,Prueba Villafranca - Ordiziako Klasika,41787,HEALY Ben,28846,0.3,0,2023-07-25,-
