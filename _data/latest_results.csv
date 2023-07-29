@@ -1,4 +1,16 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.WT2,Clasica San Sebastian (prov.),41789,EVENEPOEL Remco,28377,0.0,0,2023-07-29
+2,1.WT2,Clasica San Sebastian (prov.),41789,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2023-07-29
+3,1.WT2,Clasica San Sebastian (prov.),41789,VLASOV Aleksandr,24316,0.0,0,2023-07-29
+4,1.WT2,Clasica San Sebastian (prov.),41789,POWLESS Neilson,24902,0.0,0,2023-07-29
+5,1.WT2,Clasica San Sebastian (prov.),41789,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2023-07-29
+6,1.WT2,Clasica San Sebastian (prov.),41789,SKUJINS Toms,16739,0.0,0,2023-07-29
+7,1.WT2,Clasica San Sebastian (prov.),41789,ARANBURU DEBA Alexander,23940,0.0,0,2023-07-29
+8,1.WT2,Clasica San Sebastian (prov.),41789,COSTA Rui Alberto Faria,6807,0.0,0,2023-07-29
+9,1.WT2,Clasica San Sebastian (prov.),41789,BAGIOLI Andrea,28452,0.0,0,2023-07-29
+10,1.WT2,Clasica San Sebastian (prov.),41789,BENOOT Tiesj,21244,0.0,0,2023-07-29
+1,2.WT1s,"Tour de Pologne, Stage 1 : Poznan - Poznan (prov.)",41884,MERLIER Tim,17988,0.0,0,2023-07-29
+1,2.1s,"Czech Tour, Stage 3 : Moravska Trebova - Cervenohorske Sedlo (prov.)",41901,STAUNE-MITTET Johannes,31550,0.0,0,2023-07-29
 1,2.1s,"Czech Tour, Stage 2 : Olomouc - Pustevny (prov.)",41900,LIPOWITZ Florian,30805,0.0,0,2023-07-28
 1,2.1,"Vuelta a Castilla y Leon, General classification",41872,SEPULVEDA Eduardo,18487,0.0,0,2023-07-27
 2,2.1,"Vuelta a Castilla y Leon, General classification",41872,ENGELHARDT Felix,29297,0.0,0,2023-07-27
@@ -17,33 +29,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 10,2.PS,"Tour de Wallonie, General classification",41869,SCHMID Mauro,29214,0.0,0,2023-07-26
 1,2.PSs,"Tour de Wallonie, Stage 5 : Banneux - Aubel",41868,BAGIOLI Andrea,28452,0.0,0,2023-07-26
 1,2.1s,"Vuelta a Castilla y Leon, Stage 1 : Soria - Soria",41870,ENGELHARDT Felix,29297,0.0,0,2023-07-26
-1,2.PSs,"Tour de Wallonie, Stage 4 : Mons - Mons I.T.T.",41867,GANNA Filippo,24057,0.0,0,2023-07-25
-1,1.1,Prueba Villafranca - Ordiziako Klasika,41787,HIRSCHI Marc,26509,0.0,0,2023-07-25
-2,1.1,Prueba Villafranca - Ordiziako Klasika,41787,HEALY Ben,28846,0.0,0,2023-07-25
-3,1.1,Prueba Villafranca - Ordiziako Klasika,41787,AYUSO PESQUERA Juan,31654,0.0,0,2023-07-25
-1,2.PSs,"Tour de Wallonie, Stage 3 : Thuin - Mont-Saint-Guibert",41866,KIELICH Timo,28189,0.0,0,2023-07-24
-1,GT1,"Tour de France, General classification",41831,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0,2023-07-23
-2,GT1,"Tour de France, General classification",41831,POGACAR Tadej,26526,0.0,0,2023-07-23
-3,GT1,"Tour de France, General classification",41831,YATES Adam,18975,0.0,0,2023-07-23
-4,GT1,"Tour de France, General classification",41831,YATES Simon,17893,0.0,0,2023-07-23
-5,GT1,"Tour de France, General classification",41831,RODRIGUEZ CANO Carlos,30836,0.0,0,2023-07-23
-6,GT1,"Tour de France, General classification",41831,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2023-07-23
-7,GT1,"Tour de France, General classification",41831,HINDLEY Jai,23948,0.0,0,2023-07-23
-8,GT1,"Tour de France, General classification",41831,GALL Felix,26383,0.0,0,2023-07-23
-9,GT1,"Tour de France, General classification",41831,GAUDU David,24255,0.0,0,2023-07-23
-10,GT1,"Tour de France, General classification",41831,MARTIN Guillaume,19994,0.0,0,2023-07-23
-11,GT1,"Tour de France, General classification",41831,PINOT Thibaut,13080,0.0,0,2023-07-23
-12,GT1,"Tour de France, General classification",41831,KUSS Sepp,25653,0.0,0,2023-07-23
-13,GT1,"Tour de France, General classification",41831,PIDCOCK Thomas,27708,0.0,0,2023-07-23
-14,GT1,"Tour de France, General classification",41831,MAJKA Rafal,14310,0.0,0,2023-07-23
-15,GT1,"Tour de France, General classification",41831,CASTROVIEJO NICOLAS Jonathan,9811,0.0,0,2023-07-23
-16,GT1,"Tour de France, General classification",41831,HARPER Chris,25066,0.0,0,2023-07-23
-17,GT1,"Tour de France, General classification",41831,O'CONNOR Ben,23763,0.0,0,2023-07-23
-18,GT1,"Tour de France, General classification",41831,KELDERMAN Wilco,15171,0.0,0,2023-07-23
-19,GT1,"Tour de France, General classification",41831,LANDA MEANA Mikel,14319,0.0,0,2023-07-23
-20,GT1,"Tour de France, General classification",41831,MADOUAS Valentin,24758,0.0,0,2023-07-23
-1,GT1s,"Tour de France, Stage 21 : Saint-Quentin-en-Yvelines - Paris",41830,MEEUS Jordi,26421,0.0,0,2023-07-23
-0,GT1c,Correctie dragen jongerentrui in Tour de France,41830,Pogacar Tadej,26526,-2.0,0,2023-07-23
-0,GT1c,Correctie dragen leiderstrui in Tour de France,41831,Vingegaard Jonas,25740,-15.0,0,2023-07-23
-0,GT1c,Correctie dragen puntentrui in Tour de France,41832,Philipsen Jasper,26392,-3.4,0,2023-07-23
-0,GT1c,Correctie dragen bergtrui in Tour de France,41833,Ciccone Giulio,21812,-1.2,0,2023-07-23
