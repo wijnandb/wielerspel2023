@@ -108,7 +108,7 @@ def get_jersey_ranking(race_name, race_id, category, date):
         # And add a record for the Youth jersey winner
         rider_id, rider = first_cycling.scrape_result(race_name, 'youth')
         if rider_id:
-            new_results.append([-1, category[:3], "Winnaar jongerentrui " + race_name[:14], int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
+            new_results.append([-1, category[:3], "Winnaar jongerentrui " + race_name[:14], int(race_id), rider.strip(), int(rider_id), 0, 0, date])
     else:
         points = 0
         JPP = 0
