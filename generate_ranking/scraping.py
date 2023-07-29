@@ -88,9 +88,6 @@ def get_results():
                 if category[:3] == 'NCT':
                     category = count_riders.change_category_NCTT(country)
                     print(f"New category for {race_name}, changed to {category}")
-                if race_id == '41810':
-                    print("change category to GT1s")
-                    category = 'GT1s'
                 new_results.append([int(rank), category, race_name, int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
                 # this is where we get the results for jersey wearers in GT from first_cycling
                 if category in ['GT1s', 'GT2s']:
@@ -108,6 +105,10 @@ def get_jersey_ranking(race_name, race_id, category, date):
     if int(stage) == 21:
         print("This is the last stage of a GT, we need to correct the jersey ranking")
         correction_jersey_ranking(race_name, race_id, category, date)
+        # And add a record for the Youth jersey winner
+        rider_id, rider = first_cycling.scrape_result(race_name, 'youth')
+        if rider_id:
+            new_results.append([-1, category[:3], "Winnaar jongerentrui " + race_name[:14], int(race_id), rider.strip(), int(rider_id), float(points), int(JPP), date])
     else:
         points = 0
         JPP = 0
@@ -152,6 +153,7 @@ def correction_jersey_ranking(race_name, race_id, category, date):
         rider_id, rider = first_cycling.scrape_result(race_name, jersey)
         # print(race_id, rider, rider_id)
         points = points_earned_for_wearing_jersey(race_id, jersey, rider_id, rider)
+        # now if this is the Youth jersey, i need to add the points for winning the Youth jersey.
         new_results.append([0, category, "Correctie dragen " + jersey_name + " in " + GT, int(specialrace_id), rider.strip(), int(rider_id), float(points), 0, date])
 
 
