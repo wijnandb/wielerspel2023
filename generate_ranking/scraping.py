@@ -196,7 +196,7 @@ def points_earned_for_wearing_jersey(race_id, jersey, rider_id, rider):
         points = -points
     return points
 
-get_jersey_ranking("Tour de France, Stage 21 : Saint-Quentin-en-Yvelines - Paris", "41830", "GT1s", "2023-07-23")
+# get_jersey_ranking("Tour de France, Stage 21 : Saint-Quentin-en-Yvelines - Paris", "41830", "GT1s", "2023-07-23")
 
 
 def get_results_per_race(race_id, race_name, category, country=None):
