@@ -1,4 +1,12 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT1s,"Tour de Pologne, Stage 2 : Leszno - Karpacz (prov.)",41885,MOHORIC Matej,21145,1,0,2023-07-30,Frank
+1,2.1,"Czech Tour, General classification (prov.)",41903,LIPOWITZ Florian,30805,2,0,2023-07-30,-
+2,2.1,"Czech Tour, General classification (prov.)",41903,ZWIEHOFF Ben,31491,0.3,0,2023-07-30,-
+3,2.1,"Czech Tour, General classification (prov.)",41903,OTRUBA Jakub,27006,0.1,0,2023-07-30,-
+1,1.1,Circuito de Getxo (prov.),41790,LUTSENKO Alexey,18455,2,0,2023-07-30,Vel
+2,1.1,Circuito de Getxo (prov.),41790,GALLOPIN Tony,7838,0.3,0,2023-07-30,-
+3,1.1,Circuito de Getxo (prov.),41790,VELASCO Simone,22662,0.1,0,2023-07-30,-
+1,2.1s,"Czech Tour, Stage 4 : Sumperk - Sternberk (prov.)",41902,TOUPALIK Adam,23787,0.2,0,2023-07-30,-
 1,1.WT2,Clasica San Sebastian (prov.),41789,EVENEPOEL Remco,28377,10,50,2023-07-29,Roy
 2,1.WT2,Clasica San Sebastian (prov.),41789,BILBAO LOPEZ DE ARMENTIA Pello,17881,3,35,2023-07-29,Jan
 3,1.WT2,Clasica San Sebastian (prov.),41789,VLASOV Aleksandr,24316,1,25,2023-07-29,Harry
