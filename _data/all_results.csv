@@ -1,25 +1,25 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.WT1s,"Tour de Pologne, Stage 2 : Leszno - Karpacz (prov.)",41885,MOHORIC Matej,21145,0.0,0,2023-07-30
-1,2.1,"Czech Tour, General classification (prov.)",41903,LIPOWITZ Florian,30805,0.0,0,2023-07-30
-2,2.1,"Czech Tour, General classification (prov.)",41903,ZWIEHOFF Ben,31491,0.0,0,2023-07-30
-3,2.1,"Czech Tour, General classification (prov.)",41903,OTRUBA Jakub,27006,0.0,0,2023-07-30
-1,1.1,Circuito de Getxo (prov.),41790,LUTSENKO Alexey,18455,0.0,0,2023-07-30
-2,1.1,Circuito de Getxo (prov.),41790,GALLOPIN Tony,7838,0.0,0,2023-07-30
-3,1.1,Circuito de Getxo (prov.),41790,VELASCO Simone,22662,0.0,0,2023-07-30
-1,2.1s,"Czech Tour, Stage 4 : Sumperk - Sternberk (prov.)",41902,TOUPALIK Adam,23787,0.0,0,2023-07-30
-1,1.WT2,Clasica San Sebastian (prov.),41789,EVENEPOEL Remco,28377,0.0,0,2023-07-29
-2,1.WT2,Clasica San Sebastian (prov.),41789,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2023-07-29
-3,1.WT2,Clasica San Sebastian (prov.),41789,VLASOV Aleksandr,24316,0.0,0,2023-07-29
-4,1.WT2,Clasica San Sebastian (prov.),41789,POWLESS Neilson,24902,0.0,0,2023-07-29
-5,1.WT2,Clasica San Sebastian (prov.),41789,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2023-07-29
-6,1.WT2,Clasica San Sebastian (prov.),41789,SKUJINS Toms,16739,0.0,0,2023-07-29
-7,1.WT2,Clasica San Sebastian (prov.),41789,ARANBURU DEBA Alexander,23940,0.0,0,2023-07-29
-8,1.WT2,Clasica San Sebastian (prov.),41789,COSTA Rui Alberto Faria,6807,0.0,0,2023-07-29
-9,1.WT2,Clasica San Sebastian (prov.),41789,BAGIOLI Andrea,28452,0.0,0,2023-07-29
-10,1.WT2,Clasica San Sebastian (prov.),41789,BENOOT Tiesj,21244,0.0,0,2023-07-29
+1,2.1,"Czech Tour, General classification",41903,LIPOWITZ Florian,30805,0.0,0,2023-07-30
+2,2.1,"Czech Tour, General classification",41903,ZWIEHOFF Ben,31491,0.0,0,2023-07-30
+3,2.1,"Czech Tour, General classification",41903,OTRUBA Jakub,27006,0.0,0,2023-07-30
+1,1.1,Circuito de Getxo,41790,LUTSENKO Alexey,18455,0.0,0,2023-07-30
+2,1.1,Circuito de Getxo,41790,GALLOPIN Tony,7838,0.0,0,2023-07-30
+3,1.1,Circuito de Getxo,41790,VELASCO Simone,22662,0.0,0,2023-07-30
+1,2.1s,"Czech Tour, Stage 4 : Sumperk - Sternberk",41902,TOUPALIK Adam,23787,0.0,0,2023-07-30
+1,1.WT2,Clasica San Sebastian,41789,EVENEPOEL Remco,28377,0.0,0,2023-07-29
+2,1.WT2,Clasica San Sebastian,41789,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2023-07-29
+3,1.WT2,Clasica San Sebastian,41789,VLASOV Aleksandr,24316,0.0,0,2023-07-29
+4,1.WT2,Clasica San Sebastian,41789,POWLESS Neilson,24902,0.0,0,2023-07-29
+5,1.WT2,Clasica San Sebastian,41789,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2023-07-29
+6,1.WT2,Clasica San Sebastian,41789,SKUJINS Toms,16739,0.0,0,2023-07-29
+7,1.WT2,Clasica San Sebastian,41789,ARANBURU DEBA Alexander,23940,0.0,0,2023-07-29
+8,1.WT2,Clasica San Sebastian,41789,COSTA Rui Alberto Faria,6807,0.0,0,2023-07-29
+9,1.WT2,Clasica San Sebastian,41789,BAGIOLI Andrea,28452,0.0,0,2023-07-29
+10,1.WT2,Clasica San Sebastian,41789,BENOOT Tiesj,21244,0.0,0,2023-07-29
 1,2.WT1s,"Tour de Pologne, Stage 1 : Poznan - Poznan (prov.)",41884,MERLIER Tim,17988,0.0,0,2023-07-29
-1,2.1s,"Czech Tour, Stage 3 : Moravska Trebova - Cervenohorske Sedlo (prov.)",41901,STAUNE-MITTET Johannes,31550,0.0,0,2023-07-29
-1,2.1s,"Czech Tour, Stage 2 : Olomouc - Pustevny (prov.)",41900,LIPOWITZ Florian,30805,0.0,0,2023-07-28
+1,2.1s,"Czech Tour, Stage 3 : Moravska Trebova - Cervenohorske Sedlo",41901,STAUNE-MITTET Johannes,31550,0.0,0,2023-07-29
+1,2.1s,"Czech Tour, Stage 2 : Olomouc - Pustevny",41900,LIPOWITZ Florian,30805,0.0,0,2023-07-28
 1,2.1,"Vuelta a Castilla y Leon, General classification",41872,SEPULVEDA Eduardo,18487,0.0,0,2023-07-27
 2,2.1,"Vuelta a Castilla y Leon, General classification",41872,ENGELHARDT Felix,29297,0.0,0,2023-07-27
 3,2.1,"Vuelta a Castilla y Leon, General classification",41872,MOLENAAR Alex,28085,0.0,0,2023-07-27
