@@ -76,7 +76,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 19,105,Olav Kooij,30643,Jumbo-Visma,NED,Albert Kraaij,Albert,13,
 19,106,Sam Oomen,21931,Jumbo-Visma,NED,Harry Koene,Harry,1,
 19,107,Tosh Van der Sande,13199,Jumbo-Visma,BEL,-,-,-,
-19,111,Jon Aberasturi,15286,Lidl-Trek,ESP,-,-,-,
+19,111,Jon Aberasturi,15286,Lidl-Trek,ESP,-,-,-,1
 19,112,Asbjørn Hellemose,31464,Lidl-Trek,DEN,-,-,-,
 19,113,Markus Hoelgaard,20760,Lidl-Trek,NOR,-,-,-,
 19,114,Jacopo Mosca,22667,Lidl-Trek,ITA,-,-,-,
@@ -109,7 +109,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 19,153,Clément Russo,24236,Arkéa-Samsic,FRA,-,-,-,
 19,154,Lukasz Owsian,13434,Arkéa-Samsic,POL,-,-,-,
 19,155,Daniel McLay,18498,Arkéa-Samsic,GBR,-,-,-,
-19,156,Kevin Ledanois,21452,Arkéa-Samsic,FRA,-,-,-,
+19,156,Kevin Ledanois,21452,Arkéa-Samsic,FRA,-,-,-,1
 19,157,David Dekker,27083,Arkéa-Samsic,NED,Wijnand Baretta,Wijnand,1,
 19,161,Tobias Lund Andresen,31657,Team dsm-firmenich,DEN,-,-,-,
 19,162,Patrick Bevin,15791,Team dsm-firmenich,NZL,Jan Versluys,Jan,1,1
@@ -159,14 +159,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 19,224,Rick Pluimers,29463,Tudor Pro Cycling Team,NED,-,-,-,
 19,225,Joel Suter,27256,Tudor Pro Cycling Team,SUI,-,-,-,
 19,226,Yannis Voisard,27977,Tudor Pro Cycling Team,SUI,-,-,-,
-19,227,Maikel Zijlaard,27649,Tudor Pro Cycling Team,NED,-,-,-,
+19,227,Maikel Zijlaard,27649,Tudor Pro Cycling Team,NED,-,-,-,1
 19,231,Marcin Budzinski,29523,Poland,POL,-,-,-,
 19,232,Jakub Kaczmarek,20566,Poland,POL,-,-,-,
 19,233,Norbert Banaszek,24941,Poland,POL,-,-,-,
 19,234,Patryk Stosz,21238,Poland,POL,-,-,-,
 19,235,Piotr Brozyna,23375,Poland,POL,-,-,-,
 19,236,Maciej Paterski,8555,Poland,POL,-,-,-,
-19,237,Bartlomiej Proc,29132,Poland,POL,-,-,-,
+19,237,Bartlomiej Proc,29132,Poland,POL,-,-,-,1
 63,1,Jesus Herrada,17534,Cofidis,ESP,Paul van Doorn,Paul,2,
 63,2,François Bidard,21444,Cofidis,FRA,-,-,-,
 63,3,Axel Mariault,30008,Cofidis,FRA,-,-,-,
