@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1s,"Tour de Pologne, Stage 3 : Walbrzych - Duszniki Zdroj (prov.)",41886,MAJKA Rafal,14310,0.0,0,2023-07-31
+1,2.1s,"Tour de lAin, Stage 1 : Loyettes - La Plaine Tonique (prov.)",41951,STEWART Jake,28437,0.0,0,2023-07-31
 1,2.WT1s,"Tour de Pologne, Stage 2 : Leszno - Karpacz (prov.)",41885,MOHORIC Matej,21145,0.0,0,2023-07-30
 1,2.1,"Czech Tour, General classification",41903,LIPOWITZ Florian,30805,0.0,0,2023-07-30
 2,2.1,"Czech Tour, General classification",41903,ZWIEHOFF Ben,31491,0.0,0,2023-07-30
@@ -19,4 +21,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 10,1.WT2,Clasica San Sebastian,41789,BENOOT Tiesj,21244,0.0,0,2023-07-29
 1,2.WT1s,"Tour de Pologne, Stage 1 : Poznan - Poznan (prov.)",41884,MERLIER Tim,17988,0.0,0,2023-07-29
 1,2.1s,"Czech Tour, Stage 3 : Moravska Trebova - Cervenohorske Sedlo",41901,STAUNE-MITTET Johannes,31550,0.0,0,2023-07-29
-1,2.1s,"Czech Tour, Stage 2 : Olomouc - Pustevny",41900,LIPOWITZ Florian,30805,0.0,0,2023-07-28
