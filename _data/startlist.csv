@@ -45,7 +45,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 19,62,Piet Allegaert,22616,Cofidis,BEL,Frank Vellinga,Vel,0,
 19,63,Davide Cimolai,13078,Cofidis,ITA,-,-,-,
 19,64,Ruben Fernandez,18483,Cofidis,ESP,-,-,-,
-19,65,Wesley Kreder,12216,Cofidis,NED,-,-,-,
+19,65,Wesley Kreder,12216,Cofidis,NED,-,-,-,1
 19,66,Jonathan Lastra,24698,Cofidis,ESP,-,-,-,
 19,67,Harrison Wood,30333,Cofidis,GBR,-,-,-,
 19,71,Stefan Bissegger,26376,EF Education-EasyPost,SUI,Bram van Ommeren,Bram,4,
@@ -70,7 +70,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 19,96,Gerben Thijssen,27085,Intermarché-Circus-Wanty,BEL,Albert Kraaij,Albert,1,
 19,97,Boy van Poppel,7104,Intermarché-Circus-Wanty,NED,-,-,-,
 19,101,Koen Bouwman,20770,Jumbo-Visma,NED,Kaspar Burghard,Kaspar,4,
-19,102,Jos Van Emden,3795,Jumbo-Visma,NED,-,-,-,
+19,102,Jos Van Emden,3795,Jumbo-Visma,NED,-,-,-,1
 19,103,Tobias Foss,24873,Jumbo-Visma,NOR,Harry Koene,Harry,7,
 19,104,Mick  van Dijke,30641,Jumbo-Visma,NED,Arjan Knibbe,Arjan,2,
 19,105,Olav Kooij,30643,Jumbo-Visma,NED,Albert Kraaij,Albert,13,
@@ -174,7 +174,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 63,5,Rémy Rochas,24753,Cofidis,FRA,-,-,-,
 63,6,Hugo Toumire,31339,Cofidis,FRA,-,-,-,
 63,11,Jaakko Hänninen,27211,AG2R Citroën Team,FIN,-,-,-,
-63,12,Aurélien Paret-Peintre,24110,AG2R Citroën Team,FRA,Nick Veenstra,Nicky,0,
+63,12,Aurélien Paret-Peintre,24110,AG2R Citroën Team,FRA,Nick Veenstra,Nicky,0,1
 63,13,Valentin Paret-Peintre,31495,AG2R Citroën Team,FRA,-,-,-,
 63,14,Nans Peters,22703,AG2R Citroën Team,FRA,-,-,-,
 63,15,Nicolas Prodhomme,27594,AG2R Citroën Team,FRA,-,-,-,
@@ -201,7 +201,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 63,53,Kenny Elissonde,17762,Lidl-Trek,FRA,-,-,-,
 63,54,Amanuel Gebreigzabhier,21482,Lidl-Trek,ERI,-,-,-,
 63,55,Emils Liepins,18296,Lidl-Trek,LAT,-,-,-,
-63,61,Cristian Rodriguez,24102,Arkéa-Samsic,ESP,-,-,-,
+63,61,Cristian Rodriguez,24102,Arkéa-Samsic,ESP,-,-,-,1
 63,62,Maxime Bouet,5262,Arkéa-Samsic,FRA,-,-,-,
 63,63,Hugo Hofstetter,22702,Arkéa-Samsic,FRA,Albert Kraaij,Albert,2,
 63,65,Elie Gesbert,22912,Arkéa-Samsic,FRA,-,-,-,
@@ -217,7 +217,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 63,83,Paul Ourselin,23509,TotalEnergies,FRA,-,-,-,
 63,84,Jason Tesson,29883,TotalEnergies,FRA,Jan Versluys,Jan,1,
 63,85,Dries van Gestel,21952,TotalEnergies,BEL,Roy Smits,Roy,2,
-63,86,Alexis Vuillermoz,16979,TotalEnergies,FRA,-,-,-,
+63,86,Alexis Vuillermoz,16979,TotalEnergies,FRA,-,-,-,1
 63,91,Nils Brun,31643,Tudor Pro Cycling Team,SUI,-,-,-,
 63,92,Aloïs Charrin,29846,Tudor Pro Cycling Team,FRA,-,-,-,
 63,93,Robin Froidevaux,26377,Tudor Pro Cycling Team,SUI,-,-,-,
