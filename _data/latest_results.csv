@@ -1,8 +1,13 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT1s,"Tour de Pologne, Stage 5 : Pszczyna - Bielsko Biala (prov.)",41888,VAN DEN BERG Marijn,27674,0.0,0,2023-08-02
+1,2.1,"Tour de lAin, General classification",41954,STORER Michael,25335,0.0,0,2023-08-02
+2,2.1,"Tour de lAin, General classification",41954,ELISSONDE Kenny,17762,0.0,0,2023-08-02
+3,2.1,"Tour de lAin, General classification",41954,PRODHOMME Nicolas,27594,0.0,0,2023-08-02
+1,2.1s,"Tour de lAin, Stage 3 : Oyonnax - Lélex Monts-Jura",41953,STORER Michael,25335,0.0,0,2023-08-02
 1,2.WT1s,"Tour de Pologne, Stage 4 : Strzelin - Opole (prov.)",41887,KOOIJ Olav,30643,0.0,0,2023-08-01
-1,2.1s,"Tour de lAin, Stage 2 : Saint-Vulbas - Lagnieu (prov.)",41952,CEPEDA ORTIZ Jefferson Alexander,26775,0.0,0,2023-08-01
+1,2.1s,"Tour de lAin, Stage 2 : Saint-Vulbas - Lagnieu",41952,CEPEDA ORTIZ Jefferson Alexander,26775,0.0,0,2023-08-01
 1,2.WT1s,"Tour de Pologne, Stage 3 : Walbrzych - Duszniki Zdroj (prov.)",41886,MAJKA Rafal,14310,0.0,0,2023-07-31
-1,2.1s,"Tour de lAin, Stage 1 : Loyettes - La Plaine Tonique (prov.)",41951,STEWART Jake,28437,0.0,0,2023-07-31
+1,2.1s,"Tour de lAin, Stage 1 : Loyettes - La Plaine Tonique",41951,STEWART Jake,28437,0.0,0,2023-07-31
 1,2.WT1s,"Tour de Pologne, Stage 2 : Leszno - Karpacz (prov.)",41885,MOHORIC Matej,21145,0.0,0,2023-07-30
 1,2.1,"Czech Tour, General classification",41903,LIPOWITZ Florian,30805,0.0,0,2023-07-30
 2,2.1,"Czech Tour, General classification",41903,ZWIEHOFF Ben,31491,0.0,0,2023-07-30
@@ -11,16 +16,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,1.1,Circuito de Getxo,41790,GALLOPIN Tony,7838,0.0,0,2023-07-30
 3,1.1,Circuito de Getxo,41790,VELASCO Simone,22662,0.0,0,2023-07-30
 1,2.1s,"Czech Tour, Stage 4 : Sumperk - Sternberk",41902,TOUPALIK Adam,23787,0.0,0,2023-07-30
-1,NC5,National Championships Fiji (Sigatoka) R.R.,42105,TAKAPE Eroni,26312,0.0,0,2023-07-30
-1,NCT5,National Championships Tanzania (Arusha) I.T.T.,42107,SHARIF Hassan Adinan,32097,0.0,0,2023-07-30
-1,1.WT2,Clasica San Sebastian,41789,EVENEPOEL Remco,28377,0.0,0,2023-07-29
-2,1.WT2,Clasica San Sebastian,41789,BILBAO LOPEZ DE ARMENTIA Pello,17881,0.0,0,2023-07-29
-3,1.WT2,Clasica San Sebastian,41789,VLASOV Aleksandr,24316,0.0,0,2023-07-29
-4,1.WT2,Clasica San Sebastian,41789,POWLESS Neilson,24902,0.0,0,2023-07-29
-5,1.WT2,Clasica San Sebastian,41789,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2023-07-29
-6,1.WT2,Clasica San Sebastian,41789,SKUJINS Toms,16739,0.0,0,2023-07-29
-7,1.WT2,Clasica San Sebastian,41789,ARANBURU DEBA Alexander,23940,0.0,0,2023-07-29
-8,1.WT2,Clasica San Sebastian,41789,COSTA Rui Alberto Faria,6807,0.0,0,2023-07-29
-9,1.WT2,Clasica San Sebastian,41789,BAGIOLI Andrea,28452,0.0,0,2023-07-29
-10,1.WT2,Clasica San Sebastian,41789,BENOOT Tiesj,21244,0.0,0,2023-07-29
-1,2.WT1s,"Tour de Pologne, Stage 1 : Poznan - Poznan (prov.)",41884,MERLIER Tim,17988,0.0,0,2023-07-29
