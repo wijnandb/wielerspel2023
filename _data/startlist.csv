@@ -17,11 +17,11 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 19,22,Alexander Krieger,16001,Alpecin-Deceuninck,GER,-,-,-,
 19,23,Jakub Mareczko,22713,Alpecin-Deceuninck,ITA,Harry Koene,Harry,1,
 19,24,Senne Leysen,24226,Alpecin-Deceuninck,BEL,-,-,-,
-19,25,Oscar Riesebeek,17793,Alpecin-Deceuninck,NED,-,-,-,
+19,25,Oscar Riesebeek,17793,Alpecin-Deceuninck,NED,-,-,-,1
 19,26,Lionel Taminiaux,23416,Alpecin-Deceuninck,BEL,-,-,-,
 19,27,Jensen Plowright,29528,Alpecin-Deceuninck,AUS,Frank Rozemeijer,Frank,1,
 19,31,Samuele Battistella,28450,Astana Qazaqstan Team,ITA,Frank Vellinga,Vel,2,
-19,32,Gianmarco Garofoli,31658,Astana Qazaqstan Team,ITA,-,-,-,
+19,32,Gianmarco Garofoli,31658,Astana Qazaqstan Team,ITA,-,-,-,1
 19,33,Vadim Pronskiy,26676,Astana Qazaqstan Team,KAZ,-,-,-,
 19,34,Davide Martinelli,20093,Astana Qazaqstan Team,ITA,-,-,-,
 19,35,Antonio Nibali,22244,Astana Qazaqstan Team,ITA,-,-,-,
@@ -40,7 +40,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 19,54,Cesare Benedetti,7530,BORA-hansgrohe,POL,-,-,-,
 19,55,Sergio Higuita,25026,BORA-hansgrohe,COL,Kaspar Burghard,Kaspar,15,
 19,56,Ryan Mullen,20921,BORA-hansgrohe,IRL,-,-,-,
-19,57,Sam Bennett,13362,BORA-hansgrohe,IRL,Pieter-Bas de Bruijn,PB,11,
+19,57,Sam Bennett,13362,BORA-hansgrohe,IRL,Pieter-Bas de Bruijn,PB,11,1
 19,61,Max Walscheid,19646,Cofidis,GER,Pieter-Bas de Bruijn,PB,1,
 19,62,Piet Allegaert,22616,Cofidis,BEL,Frank Vellinga,Vel,0,
 19,63,Davide Cimolai,13078,Cofidis,ITA,-,-,-,
@@ -60,7 +60,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 19,83,Lorenzo Germani,31635,Groupama-FDJ,ITA,-,-,-,
 19,84,Lenny Martinez,32721,Groupama-FDJ,FRA,Kees van Ommeren,Kees,1,
 19,85,Paul Penhoët,30686,Groupama-FDJ,FRA,-,-,-,
-19,86,Samuel Watson,32161,Groupama-FDJ,GBR,-,-,-,
+19,86,Samuel Watson,32161,Groupama-FDJ,GBR,-,-,-,1
 19,87,Bram Welten,24933,Groupama-FDJ,NED,-,-,-,
 19,91,Dries De Pooter,22005,Intermarché-Circus-Wanty,BEL,-,-,-,
 19,92,Rune Herregodts,28392,Intermarché-Circus-Wanty,BEL,-,-,-,
@@ -72,8 +72,8 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 19,101,Koen Bouwman,20770,Jumbo-Visma,NED,Kaspar Burghard,Kaspar,4,
 19,102,Jos Van Emden,3795,Jumbo-Visma,NED,-,-,-,1
 19,103,Tobias Foss,24873,Jumbo-Visma,NOR,Harry Koene,Harry,7,
-19,104,Mick  van Dijke,30641,Jumbo-Visma,NED,Arjan Knibbe,Arjan,2,
-19,105,Olav Kooij,30643,Jumbo-Visma,NED,Albert Kraaij,Albert,13,
+19,104,Mick  van Dijke,30641,Jumbo-Visma,NED,Arjan Knibbe,Arjan,2,1
+19,105,Olav Kooij,30643,Jumbo-Visma,NED,Albert Kraaij,Albert,13,1
 19,106,Sam Oomen,21931,Jumbo-Visma,NED,Harry Koene,Harry,1,
 19,107,Tosh Van der Sande,13199,Jumbo-Visma,BEL,-,-,-,
 19,111,Jon Aberasturi,15286,Lidl-Trek,ESP,-,-,-,1

@@ -13,7 +13,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 19,51,Lennard Kämna,23427,BORA-hansgrohe,GER,Jan Versluys,Jan,5,
 19,52,Giovanni Aleotti,28451,BORA-hansgrohe,ITA,Wijnand Baretta,Wijnand,1,
 19,55,Sergio Higuita,25026,BORA-hansgrohe,COL,Kaspar Burghard,Kaspar,15,
-19,57,Sam Bennett,13362,BORA-hansgrohe,IRL,Pieter-Bas de Bruijn,PB,11,
+19,57,Sam Bennett,13362,BORA-hansgrohe,IRL,Pieter-Bas de Bruijn,PB,11,1
 19,61,Max Walscheid,19646,Cofidis,GER,Pieter-Bas de Bruijn,PB,1,
 19,62,Piet Allegaert,22616,Cofidis,BEL,Frank Vellinga,Vel,0,
 19,71,Stefan Bissegger,26376,EF Education-EasyPost,SUI,Bram van Ommeren,Bram,4,
@@ -24,8 +24,8 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 19,96,Gerben Thijssen,27085,Intermarché-Circus-Wanty,BEL,Albert Kraaij,Albert,1,
 19,101,Koen Bouwman,20770,Jumbo-Visma,NED,Kaspar Burghard,Kaspar,4,
 19,103,Tobias Foss,24873,Jumbo-Visma,NOR,Harry Koene,Harry,7,
-19,104,Mick  van Dijke,30641,Jumbo-Visma,NED,Arjan Knibbe,Arjan,2,
-19,105,Olav Kooij,30643,Jumbo-Visma,NED,Albert Kraaij,Albert,13,
+19,104,Mick  van Dijke,30641,Jumbo-Visma,NED,Arjan Knibbe,Arjan,2,1
+19,105,Olav Kooij,30643,Jumbo-Visma,NED,Albert Kraaij,Albert,13,1
 19,106,Sam Oomen,21931,Jumbo-Visma,NED,Harry Koene,Harry,1,
 19,115,Edward Theuns,16697,Lidl-Trek,BEL,Harry Koene,Harry,0,
 19,122,Fernando Gaviria,20777,Movistar Team,COL,Albert Kraaij,Albert,3,
