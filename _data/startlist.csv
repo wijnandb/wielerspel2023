@@ -1,196 +1,127 @@
 race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id,price,dropped_out
-26,1,Remco Evenepoel,28377,Belgium,BEL,Roy Smits,Roy,70,
-26,2,Frederik Frison,20643,Belgium,BEL,-,-,-,1
-26,3,Jasper Philipsen,26392,Belgium,BEL,Nick Veenstra,Nicky,11,1
-26,4,Jasper Stuyven,18233,Belgium,BEL,Pieter-Bas de Bruijn,PB,6,
-26,5,Nathan Van Hooydonck,22015,Belgium,BEL,-,-,-,1
-26,6,Tiesj Benoot,21244,Belgium,BEL,Paul van Doorn,Paul,1,
-26,7,Victor Campenaerts,20184,Belgium,BEL,Frank Vellinga,Vel,2,1
-26,8,Wout van Aert,20730,Belgium,BEL,Frank Rozemeijer,Frank,61,
-26,9,Yves Lampaert,19941,Belgium,BEL,Harry Koene,Harry,1,
-26,10,Kasper Asgreen,23558,Denmark,DEN,Nick Veenstra,Nicky,10,1
-26,11,Mads Pedersen,21992,Denmark,DEN,Harry Koene,Harry,18,
-26,12,Magnus Cort,19448,Denmark,DEN,Frank Vellinga,Vel,4,1
-26,13,Mattias Skjelmose,30166,Denmark,DEN,Kaspar Burghard,Kaspar,7,
-26,14,Michael Mørkøv,2870,Denmark,DEN,-,-,-,1
-26,15,Mikkel Bjerg,26388,Denmark,DEN,Kees van Ommeren,Kees,2,1
-26,16,Mikkel Honore,25629,Denmark,DEN,Harry Koene,Harry,3,1
-26,17,Søren Kragh Andersen,20793,Denmark,DEN,Frank Vellinga,Vel,2,1
-26,18,Benoît Cosnefroy,24189,France,FRA,Pieter-Bas de Bruijn,PB,17,
-26,19,Bryan Coquard,18714,France,FRA,Jan Versluys,Jan,2,1
-26,20,Christophe Laporte,19953,France,FRA,Kaspar Burghard,Kaspar,15,1
-26,21,Florian Sénéchal,19903,France,FRA,Wijnand Baretta,Wijnand,5,1
-26,22,Julian Alaphilippe,18610,France,FRA,Arjan Knibbe,Arjan,40,1
-26,23,Olivier Le Gac,18234,France,FRA,-,-,-,1
-26,24,Remi Cavagna,22910,France,FRA,Harry Koene,Harry,4,1
-26,25,Valentin Madouas,24758,France,FRA,Pieter-Bas de Bruijn,PB,6,
-26,26,Ben Swift,7606,Great Britain,GBR,-,-,-,1
-26,27,Ben Turner,27923,Great Britain,GBR,Arjan Knibbe,Arjan,1,1
-26,28,Connor Swift,26437,Great Britain,GBR,Pieter-Bas de Bruijn,PB,1,
-26,29,Fred Wright,28446,Great Britain,GBR,Jan Versluys,Jan,5,1
-26,30,Jake Stewart,28437,Great Britain,GBR,Jan Versluys,Jan,2,1
-26,31,Luke Rowe,13229,Great Britain,GBR,Arjan Knibbe,Arjan,0,1
-26,32,Owain Doull,20678,Great Britain,GBR,-,-,-,
-26,33,Samuel Watson,32161,Great Britain,GBR,-,-,-,1
-26,34,Alex Aranburu,23940,Spain,ESP,Jan Versluys,Jan,3,
-26,35,Gonzalo Serrano,22669,Spain,BEL,Arjan Knibbe,Arjan,2,1
-26,36,Ion Izagirre,14321,Spain,ESP,Harry Koene,Harry,2,1
-26,37,Iván García Cortina,23497,Spain,ESP,Pieter-Bas de Bruijn,PB,1,
-26,38,Jesus Ezquerra,19556,Spain,ESP,-,-,-,1
-26,39,Jesus Herrada,17534,Spain,ESP,Paul van Doorn,Paul,2,1
-26,40,Roger Adriá,27469,Spain,ESP,-,-,-,1
-26,41,Xabier Azparren,30660,Spain,ESP,-,-,-,1
-26,42,Anze Skok,29629,Slovenia,SLO,-,-,-,1
-26,43,Domen Novak,22069,Slovenia,SLO,-,-,-,1
-26,44,Jaka Primozic,27067,Slovenia,SLO,-,-,-,1
-26,45,Kristjan Koren,2454,Slovenia,SLO,-,-,-,1
-26,46,Luka Mezgec,15789,Slovenia,SLO,-,-,-,1
-26,47,Matevz Govekar,20406,Slovenia,SLO,-,-,-,
-26,48,Tadej Pogacar,26526,Slovenia,SLO,Kees van Ommeren,Kees,83,
-26,49,Tilen Finkst,25230,Slovenia,SLO,-,-,-,1
-26,50,Daan Hoole,27709,Netherlands,NED,-,-,-,1
-26,51,Dylan van Baarle,17794,Netherlands,NED,Nick Veenstra,Nicky,7,
-26,52,Jan Maas,23350,Netherlands,NED,-,-,-,1
-26,53,Mathieu van der Poel,21971,Netherlands,NED,Frank Vellinga,Vel,40,
-26,54,Mick  van Dijke,30641,Netherlands,NED,Arjan Knibbe,Arjan,2,1
-26,55,Olav Kooij,30643,Netherlands,NED,Albert Kraaij,Albert,13,
-26,56,Oscar Riesebeek,17793,Netherlands,NED,-,-,-,1
-26,57,Pascal Eenkhoorn,24932,Netherlands,NED,Harry Koene,Harry,1,1
-26,58,Alberto Bettiol,20697,Italy,ITA,Pieter-Bas de Bruijn,PB,1,
-26,59,Andrea Bagioli,28452,Italy,ITA,Albert Kraaij,Albert,2,
-26,60,Daniel Oss,7148,Italy,ITA,-,-,-,1
-26,61,Filippo Baroncini,29419,Italy,ITA,-,-,-,1
-26,62,Kristian Sbaragli,16702,Italy,ITA,-,-,-,
-26,63,Lorenzo Rota,21958,Italy,ITA,Paul van Doorn,Paul,3,
-26,64,Matteo Trentin,13270,Italy,ITA,Nick Veenstra,Nicky,4,1
-26,65,Simone Velasco,22662,Italy,ITA,-,-,-,
-26,66,Alex Edmondson,20219,Australia,AUS,-,-,-,1
-26,67,Harry Sweeny,20219,Australia,,-,-,-,1
-26,68,Kaden Groves,26637,Australia,AUS,Frank Vellinga,Vel,4,1
-26,69,Lucas Plapp,29787,Australia,AUS,Frank Vellinga,Vel,5,1
-26,70,Luke Durbridge,16466,Australia,AUS,-,-,-,1
-26,71,Matthew Dinham,29788,Australia,AUS,-,-,-,
-26,72,Michael Matthews,13066,Australia,AUS,Bram van Ommeren,Bram,12,1
-26,73,Simon Clarke,3366,Australia,AUS,Pieter-Bas de Bruijn,PB,0,
-26,74,Fernando Gaviria,20777,Colombia,COL,Albert Kraaij,Albert,3,1
-26,75,Harold Tejada,26813,Colombia,COL,-,-,-,1
-26,76,Jesus David Peña,29399,Colombia,COL,-,-,-,1
-26,77,Sebastian Molano,23463,Colombia,COL,Pieter-Bas de Bruijn,PB,1,1
-26,78,Rigoberto Uran,4099,Colombia,COL,Bram van Ommeren,Bram,4,1
-26,79,Santiago Buitrago,29699,Colombia,COL,Jan Versluys,Jan,2,1
-26,80,Walter Vargas,23536,Colombia,COL,-,-,-,1
-26,81,Lawson Craddock,18062,USA,USA,-,-,-,1
-26,82,Kevin Vermaerke,29332,USA,USA,-,-,-,
-26,83,Lawrence Warbasse,18463,USA,USA,-,-,-,1
-26,84,Neilson Powless,24902,USA,USA,Harry Koene,Harry,6,
-26,85,Sean Quinn,29331,USA,USA,-,-,-,1
-26,86,William Barta,23362,USA,USA,-,-,-,1
-26,87,Fabian Lienhard,20350,Switzerland,SUI,-,-,-,1
-26,88,Marc Hirschi,26509,Switzerland,SUI,Bram van Ommeren,Bram,10,1
-26,89,Mauro Schmid,29214,Switzerland,SUI,Jan Versluys,Jan,4,
-26,90,Silvan Dillier,16731,Switzerland,SUI,-,-,-,
-26,91,Stefan Bissegger,26376,Switzerland,SUI,Bram van Ommeren,Bram,4,1
-26,92,Stefan Küng,20960,Switzerland,SUI,Pieter-Bas de Bruijn,PB,11,
-26,93,Alexander Kristoff,4179,Norway,NOR,Nick Veenstra,Nicky,7,1
-26,94,Andreas Leknessund,27653,Norway,NOR,Paul van Doorn,Paul,2,
-26,95,Edvald Boasson-Hagen,4377,Norway,NOR,Bram van Ommeren,Bram,0,1
-26,96,Jonas Abrahamsen,22233,Norway,NOR,-,-,-,1
-26,97,Rasmus Tiller,25623,Norway,NOR,Pieter-Bas de Bruijn,PB,1,
-26,98,Tobias Halland Johannessen,31567,Norway,NOR,Albert Kraaij,Albert,2,
-26,99,André Carvalho,26199,Portugal,POR,-,-,-,1
-26,100,Joao Almeida,26482,Portugal,POR,Wijnand Baretta,Wijnand,14,1
-26,101,Nelson Oliveira,13274,Portugal,POR,-,-,-,
-26,102,Ruben Guerreiro,22683,Portugal,POR,Jan Versluys,Jan,1,1
-26,103,Jannik Steimle,25081,Germany,GER,Jan Versluys,Jan,1,1
-26,104,John Degenkolb,9851,Germany,GER,Kaspar Burghard,Kaspar,1,
-26,105,Jonas Rutsch,26438,Germany,GER,-,-,-,
-26,106,Michel Heßmann,30564,Germany,GER,-,-,-,1
-26,107,Nico Denz,21504,Germany,GER,-,-,-,1
-26,108,Nils Politt,20847,Germany,GER,Albert Kraaij,Albert,3,1
-26,109,Lukas Pöstlberger,18313,Austria,AUT,-,-,-,1
-26,110,Marco Haller,15281,Austria,AUT,Harry Koene,Harry,1,
-26,111,Michael Gogl,19858,Austria,AUT,-,-,-,
-26,112,Patrick Gamper,25096,Austria,AUT,-,-,-,
-26,113,Rainer Kepplinger,32347,Austria,AUT,-,-,-,1
-26,114,Sebastian Schönberger,20936,Austria,AUT,-,-,-,
-26,115,Ben Healy,28846,Ireland,IRL,-,-,-,1
-26,116,Cormac McGeough,27398,Ireland,IRL,-,-,-,1
-26,117,Dillon Corkery,30341,Ireland,IRL,-,-,-,1
-26,118,Rory Townsend,25102,Ireland,IRL,-,-,-,1
-26,119,Ryan Mullen,20921,Ireland,IRL,-,-,-,1
-26,120,Sam Bennett,13362,Ireland,IRL,Pieter-Bas de Bruijn,PB,11,1
-26,121,Ben Perry,21648,Canada,CAN,-,-,-,1
-26,122,Charles-Etienne Chrétien,27729,Canada,CAN,-,-,-,1
-26,123,Derek Gee,26869,Canada,CAN,-,-,-,1
-26,124,Guillaume Boivin,10856,Canada,CAN,-,-,-,
-26,125,Hugo Houle,13438,Canada,CAN,-,-,-,1
-26,126,Nickolas Zukowsky,26354,Canada,CAN,-,-,-,
-26,127,Dawit Yemane,27022,Eritrea,ERI,-,-,-,1
-26,128,Henok Mulubrhan,28186,Eritrea,ERI,-,-,-,1
-26,129,Natnael Berhane,16175,Eritrea,ERI,-,-,-,1
-26,130,Corbin Strong,29492,New Zealand,NZL,Pieter-Bas de Bruijn,PB,1,1
-26,131,George Bennett,12254,New Zealand,NZL,Nick Veenstra,Nicky,1,1
-26,132,James Oram,19829,New Zealand,NZL,-,-,-,1
-26,133,Laurence Pithie,31638,New Zealand,NZL,-,-,-,1
-26,134,Ryan Christensen,23872,New Zealand,NZL,-,-,-,
-26,135,Alexey Lutsenko,18455,Kazakhstan,KAZ,Frank Vellinga,Vel,6,
-26,136,Dmitriy Gruzdev,4079,Kazakhstan,KAZ,-,-,-,1
-26,137,Gleb Brussenskiy,29310,Kazakhstan,KAZ,-,-,-,1
-26,138,Igor Chzhan,28810,Kazakhstan,KAZ,-,-,-,1
-26,139,Yevgeniy Fedorov,29309,Kazakhstan,KAZ,Pieter-Bas de Bruijn,PB,1,1
-26,140,Emils Liepins,18296,Latvia,LAT,-,-,-,
-26,141,Krists Neilands,21113,Latvia,LAT,-,-,-,
-26,142,Martin Pluto,27358,Latvia,LAT,-,-,-,1
-26,143,Toms Skujins,16739,Latvia,LAT,Kees van Ommeren,Kees,0,
-26,144,Jefferson Cepeda,23549,Ecuador,ECU,-,-,-,1
-26,145,Jhonnatan Narvaez,25157,Ecuador,ECU,Nick Veenstra,Nicky,1,1
-26,146,Jonathan Caicedo,22631,Ecuador,ECU,-,-,-,1
-26,147,Adam Toupalik,23787,Czech Republic,CZE,-,-,-,
-26,148,Mathias Vacek,31713,Czech Republic,CZE,-,-,-,1
-26,149,Michael Boros,18873,Czech Republic,CZE,-,-,-,
-26,150,Pavel Kelemen,32607,Czech Republic,CZE,-,-,-,
-26,151,Michal Kwiatkowski,12923,Poland,POL,Harry Koene,Harry,5,1
-26,152,Adil El Arbaoui,26207,Morocco,MAR,-,-,-,1
-26,153,El Houcaine Sabbahi,27176,Morocco,MAR,-,-,-,1
-26,154,Mohcine El Kouraji,25448,Morocco,MAR,-,-,-,1
-26,155,Omar El Gouzi,13231,Morocco,ARG,-,-,-,1
-26,156,Marton Dina,26129,Hungary,HUN,-,-,-,1
-26,157,Callum Ormiston,29773,South Africa,RSA,-,-,-,1
-26,158,Daryl Impey,1237,South Africa,RSA,-,-,-,1
-26,159,Morne Van Niekerk,22519,South Africa,RSA,-,-,-,1
-26,160,Ryan Gibbons,22205,South Africa,RSA,-,-,-,1
-26,161,Yacine Hamza,25483,Algeria,ALG,-,-,-,1
-26,162,Youcef Reguigui,13311,Algeria,ALG,-,-,-,1
-26,163,Matus Stocek,28567,Slovakia,SVK,-,-,-,1
-26,164,Peter Sagan,12193,Slovakia,SVK,Roy Smits,Roy,5,1
-26,165,Yukiya Arashiro,4021,Japan,JPN,-,-,-,1
-26,166,Alex Kirsch,19545,Luxembourg,LUX,-,-,-,1
-26,167,Cedric Pries,30036,Luxembourg,LUX,-,-,-,1
-26,168,Kevin Geniets,25763,Luxembourg,LUX,-,-,-,1
-26,169,Tom Wirtgen,23431,Luxembourg,LUX,-,-,-,1
-26,170,Jambaljamts Sainbayar,24289,Mongolia,MGL,-,-,-,1
-26,171,Itamar Einhorn,27315,Israel,ISR,-,-,-,1
-26,172,Nicolas Tivani,22472,Argentina,ARG,-,-,-,1
-26,173,Georgios Boúglas,12982,Greece,GRE,-,-,-,1
-26,174,Anatolii Budiak,22337,Ukraine,UKR,-,-,-,1
-26,175,Eric Fagundez,28445,Uruguay,URU,-,-,-,1
-26,176,Jose Alarcon,7793,Venezuela,VEN,-,-,-,1
-26,177,Eric Manizabayo,29129,Rwanda,RWA,-,-,-,1
-26,178,Jason Huertas,27698,Costa Rica,CRC,-,-,-,1
-26,179,Haoyu Su,32068,China,CHN,-,-,-,1
-26,180,Christopher Rougier-Lagane,24393,Mauritius,MRI,-,-,-,1
-26,181,Lucas Eriksson,23531,Sweden,SWE,-,-,-,
-26,182,Manuel Lira Eguiguren,32631,Chile,CHI,-,-,-,1
-26,183,Nicolas  Sessler,32631,Brazil,,-,-,-,1
-26,184,Muradjan Khalmuratov,32631,Uzbekistan,,-,-,-,1
-26,185,Andreas Miltiadis,22735,Cyprus,CYP,-,-,-,1
-26,186,Darel Christopher Jr.,9037,British Virgin Islands,IVB,-,-,-,1
-26,187,Charles Kagimu,24714,Uganda,UGA,-,-,-,1
-26,188,Cameron Adams,24672,St.Vincent&Grenadines,VIN,-,-,-,1
-26,189,Victor Langellotti,26397,Monaco,MON,-,-,-,1
-26,190,Briton John,26397,Guyana,,-,-,-,1
-26,191,Aidan Buttigieg,26397,Malta,,-,-,-,1
-26,192,Eliezer Soares,26397,Cape Verde,,-,-,-,1
-26,193,Hasani Hennis,26397,Anguilla,,-,-,-,1
-26,194,Rien Schuurhuis,26397,Vatican City,,-,-,-,1
-26,195,Carlos Samudio,26001,Panama,PAN,-,-,-,1
+197,1,Mauricio Moreira,25466,Glassdrive / Q8 / Anicolor,URU,-,-,-,
+197,2,Frederico Figueiredo,19932,Glassdrive / Q8 / Anicolor,POR,-,-,-,
+197,3,Luis Mendonça,19932,Glassdrive / Q8 / Anicolor,,-,-,-,
+197,4,Fabio Costa,28152,Glassdrive / Q8 / Anicolor,POR,-,-,-,
+197,5,James Whelan,26953,Glassdrive / Q8 / Anicolor,AUS,-,-,-,
+197,6,Rafael Reis,18791,Glassdrive / Q8 / Anicolor,POR,-,-,-,
+197,7,Artem Nych,22524,Glassdrive / Q8 / Anicolor,RUS,-,-,-,
+197,11,Daniel Babor,27937,Caja Rural-Seguros RGA,CZE,-,-,-,
+197,12,Tomas Barta,27940,Caja Rural-Seguros RGA,CZE,-,-,-,
+197,13,Calum Johnston,30492,Caja Rural-Seguros RGA,GBR,-,-,-,
+197,14,Joseba Lopez,30492,Caja Rural-Seguros RGA,,-,-,-,
+197,15,Yesid Pira,32150,Caja Rural-Seguros RGA,COL,-,-,-,
+197,16,Jaume Guardeño,32150,Caja Rural-Seguros RGA,,-,-,-,
+197,17,Gorka Sorarrain,32150,Caja Rural-Seguros RGA,,-,-,-,
+197,21,Jon Agirre,30023,Equipo Kern Pharma,ESP,-,-,-,
+197,22,Ibon Ruiz,30746,Equipo Kern Pharma,ESP,-,-,-,
+197,23,Mikel Retegi,30746,Equipo Kern Pharma,,-,-,-,
+197,24,Eugenio Sanchez,32765,Equipo Kern Pharma,ESP,-,-,-,
+197,25,Iñigo Elosegui,26986,Equipo Kern Pharma,ESP,-,-,-,
+197,26,Ivan Cobo Cayon,31277,Equipo Kern Pharma,ESP,-,-,-,
+197,27,Yanne Dorenbos,31277,Equipo Kern Pharma,,-,-,-,
+197,31,Miguel Angel Fernandez,23334,Burgos-BH,COL,Nick Veenstra,Nicky,5,
+197,32,Clément Alleno,33654,Burgos-BH,FRA,-,-,-,
+197,33,Sinuhé Fernandez,31493,Burgos-BH,ESP,-,-,-,
+197,34,Óscar Pelegrí,25318,Burgos-BH,ESP,-,-,-,
+197,35,Mario Aparicio,31664,Burgos-BH,ESP,-,-,-,
+197,36,Camilo Ardila,30067,Burgos-BH,COL,-,-,-,
+197,37,David Delgado,30067,Burgos-BH,,-,-,-,
+197,41,Antonio Soto,22582,Euskaltel-Euskadi,ESP,-,-,-,
+197,42,Unai Iribar,28237,Euskaltel-Euskadi,ESP,-,-,-,
+197,43,Txomin Juaristi,27111,Euskaltel-Euskadi,ESP,-,-,-,
+197,44,Mikel Iturria,21163,Euskaltel-Euskadi,ESP,-,-,-,
+197,45,Unai Cuadrado,29424,Euskaltel-Euskadi,ESP,-,-,-,
+197,46,Luis Angel Mate,3558,Euskaltel-Euskadi,ESP,-,-,-,
+197,47,Andoni Lopez de Abetxuko,31266,Euskaltel-Euskadi,ESP,-,-,-,
+197,51,Ivan Moreno,26853,Global 6 Cycling,ESP,-,-,-,
+197,52,Tom Wirtgen,23431,Global 6 Cycling,LUX,-,-,-,
+197,53,Gabriel Muller,23431,Global 6 Cycling,,-,-,-,
+197,54,Nicolas  Sessler,23431,Global 6 Cycling,,-,-,-,
+197,55,Callum Ormiston,29773,Global 6 Cycling,RSA,-,-,-,
+197,56,Tomoya Koyama,29773,Global 6 Cycling,,-,-,-,
+197,57,Evan Russell,32770,Global 6 Cycling,CAN,-,-,-,
+197,61,Léo Bouvier,29045,BIKE AID,FRA,-,-,-,
+197,62,Wesley Mol,29045,BIKE AID,,-,-,-,
+197,63,Adrian Zuger,34642,BIKE AID,GER,-,-,-,
+197,64,Francis Juneau,32805,BIKE AID,CAN,-,-,-,
+197,65,Anton Schiffer,32805,BIKE AID,,-,-,-,
+197,66,Jonas Beck,32805,BIKE AID,,-,-,-,
+197,67,Jasper Levi Pahlke,32805,BIKE AID,,-,-,-,
+197,71,Oscar Cabedo,27362,Team Vorarlberg,ESP,-,-,-,
+197,72,Lukas Rüegg,26939,Team Vorarlberg,SUI,-,-,-,
+197,73,Pirmin Benz,29411,Team Vorarlberg,GER,-,-,-,
+197,74,Jon Knolle,27883,Team Vorarlberg,GER,-,-,-,
+197,75,Lukas Meiler,22219,Team Vorarlberg,GER,-,-,-,
+197,76,Colin Stüssi,20681,Team Vorarlberg,SUI,-,-,-,
+197,77,Moran Vermeulen,27271,Team Vorarlberg,AUT,-,-,-,
+197,81,Jacob Buijk,27271,Universe Cycling Team,,-,-,-,
+197,82,Jarri Stravers,32265,Universe Cycling Team,NED,-,-,-,
+197,83,Lars Quaedvlieg,28395,Universe Cycling Team,NED,-,-,-,
+197,84,Stefan Verhoeff,28395,Universe Cycling Team,,-,-,-,
+197,85,Kenny Nijssen,23675,Universe Cycling Team,NED,-,-,-,
+197,86,Luuk Schuurmans,32877,Universe Cycling Team,NED,-,-,-,
+197,87,Jip Steman,32877,Universe Cycling Team,,-,-,-,
+197,91,Henrique Casimiro,10234,Efapel Cycling,POR,-,-,-,
+197,92,Tiago Antunes,26194,Efapel Cycling,POR,-,-,-,
+197,93,Emanuel Duarte,29324,Efapel Cycling,POR,-,-,-,
+197,94,Aleksandr Grigoriev,29324,Efapel Cycling,,-,-,-,
+197,95,Pedro Pinto,29324,Efapel Cycling,,-,-,-,
+197,96,Joaquim Silva,21837,Efapel Cycling,POR,-,-,-,
+197,97,Rafael Silva,13356,Efapel Cycling,POR,-,-,-,
+197,101,Luís Gomes,23258,Kelly - Simoldes - UDO,POR,-,-,-,
+197,102,Adrián Bustamante,29580,Kelly - Simoldes - UDO,COL,-,-,-,
+197,103,Helder Goncalves,29428,Kelly - Simoldes - UDO,POR,-,-,-,
+197,104,Jose Sousa,27815,Kelly - Simoldes - UDO,POR,-,-,-,
+197,105,Antonio Ferreira,13358,Kelly - Simoldes - UDO,POR,-,-,-,
+197,106,Afonso Silva,13358,Kelly - Simoldes - UDO,,-,-,-,
+197,107,Cesar David Guavita,30318,Kelly - Simoldes - UDO,VEN,-,-,-,
+197,111,Andre Ramalho,30318,Credibom / LA Alumínios / Marcos Car,,-,-,-,
+197,112,Gonçalo Leaça,27496,Credibom / LA Alumínios / Marcos Car,POR,-,-,-,
+197,113,João Medeiros,30544,Credibom / LA Alumínios / Marcos Car,POR,-,-,-,
+197,114,Rodrigo Caixas,30544,Credibom / LA Alumínios / Marcos Car,,-,-,-,
+197,115,João Macedo,30544,Credibom / LA Alumínios / Marcos Car,,-,-,-,
+197,116,Diogo Narciso,30544,Credibom / LA Alumínios / Marcos Car,,-,-,-,
+197,117,Daniel Dias,30544,Credibom / LA Alumínios / Marcos Car,,-,-,-,
+197,121,Joao Matias,20929,Tavfer - Ovos Matinados - Mortágua ,POR,-,-,-,
+197,122,Bruno Silva,13208,Tavfer - Ovos Matinados - Mortágua ,POR,-,-,-,
+197,123,Goncalo Carvalho,26196,Tavfer - Ovos Matinados - Mortágua ,POR,-,-,-,
+197,124,Francisco Morais,26196,Tavfer - Ovos Matinados - Mortágua ,,-,-,-,
+197,125,Antonio Barbio,20862,Tavfer - Ovos Matinados - Mortágua ,POR,-,-,-,
+197,126,Leangel Linarez,30518,Tavfer - Ovos Matinados - Mortágua ,VEN,-,-,-,
+197,127,Ángel Sánchez,23638,Tavfer - Ovos Matinados - Mortágua ,ESP,-,-,-,
+197,131,Francisco Campos,29295,BAI Sicasal Petro de Luanda,CRC,-,-,-,
+197,132,José Manuel Gutiérrez,24103,BAI Sicasal Petro de Luanda,ESP,-,-,-,
+197,133,Pablo Garcia,24103,BAI Sicasal Petro de Luanda,,-,-,-,
+197,134,Unai Esparza,24103,BAI Sicasal Petro de Luanda,,-,-,-,
+197,135,Mikel Mujika,24103,BAI Sicasal Petro de Luanda,,-,-,-,
+197,136,Daniel Paiva,24103,BAI Sicasal Petro de Luanda,,-,-,-,
+197,137,Hosana Goncalves,24103,BAI Sicasal Petro de Luanda,,-,-,-,
+197,141,Delio Fernandez,9740,AP Hotels & Resorts / Tavira / SC Farense,ESP,-,-,-,
+197,142,Alvaro Trueba,9740,AP Hotels & Resorts / Tavira / SC Farense,,-,-,-,
+197,143,Samuel Blanco,9740,AP Hotels & Resorts / Tavira / SC Farense,,-,-,-,
+197,144,Venceslau Fernandes,25707,AP Hotels & Resorts / Tavira / SC Farense,POR,-,-,-,
+197,145,Rafael Lourenço,25707,AP Hotels & Resorts / Tavira / SC Farense,,-,-,-,
+197,146,Diogo Barbosa,25707,AP Hotels & Resorts / Tavira / SC Farense,,-,-,-,
+197,147,Miguel Salgueiro,29719,AP Hotels & Resorts / Tavira / SC Farense,POR,-,-,-,
+197,151,Antonio Carvalho,13358,ABTF Betão - Feirense,POR,-,-,-,
+197,152,Ivo Pinheiro,13358,ABTF Betão - Feirense,,-,-,-,
+197,153,Santiago Mesa,32778,ABTF Betão - Feirense,COL,-,-,-,
+197,154,Afonso Eulalio,32778,ABTF Betão - Feirense,,-,-,-,
+197,155,Fabio Oliveira,32778,ABTF Betão - Feirense,,-,-,-,
+197,156,Francisco Pereira,32778,ABTF Betão - Feirense,,-,-,-,
+197,157,Pedro Andrade,32778,ABTF Betão - Feirense,,-,-,-,
+197,161,Jesus Del Pino,18642,Aviludo - Louletano - Loulé Concelho,ESP,-,-,-,
+197,162,Vicente Garcia de Mateos,18642,Aviludo - Louletano - Loulé Concelho,,-,-,-,
+197,163,Tomas Contte,18642,Aviludo - Louletano - Loulé Concelho,,-,-,-,
+197,164,Cesar Martingil,18642,Aviludo - Louletano - Loulé Concelho,,-,-,-,
+197,165,Daniel Viegas,18642,Aviludo - Louletano - Loulé Concelho,,-,-,-,
+197,166,Carlos Oyarzun,18642,Aviludo - Louletano - Loulé Concelho,,-,-,-,
+197,167,Nuno Meireles,18642,Aviludo - Louletano - Loulé Concelho,,-,-,-,
+197,171,Cesar Fonte,8822,Radio Popular - Paredes - Boavista,POR,-,-,-,
+197,172,Luis Fernandes,20349,Radio Popular - Paredes - Boavista,POR,-,-,-,
+197,173,Hugo Nunes,26200,Radio Popular - Paredes - Boavista,POR,-,-,-,
+197,174,Guillermo Garcia Janeiro,26200,Radio Popular - Paredes - Boavista,,-,-,-,
+197,175,Raul Rota Rus,26200,Radio Popular - Paredes - Boavista,,-,-,-,
+197,176,Tiago Leal,26200,Radio Popular - Paredes - Boavista,,-,-,-,
+197,177,Pedro Miguel Lopes,30719,Radio Popular - Paredes - Boavista,POR,-,-,-,
