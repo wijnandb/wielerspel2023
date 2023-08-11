@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,WCTT,World Championships (Stirling) I.T.T. (prov.),41765,EVENEPOEL Remco,28377,10,50,2023-08-11,Roy
+2,WCTT,World Championships (Stirling) I.T.T. (prov.),41765,GANNA Filippo,24057,3,35,2023-08-11,Jan
+3,WCTT,World Championships (Stirling) I.T.T. (prov.),41765,TARLING Joshua,34297,1,25,2023-08-11,-
+4,WCTT,World Championships (Stirling) I.T.T. (prov.),41765,MCNULTY Brandon,26508,0.5,20,2023-08-11,Kees
+5,WCTT,World Championships (Stirling) I.T.T. (prov.),41765,VAN AERT Wout,20730,0.2,18,2023-08-11,Frank
+6,WCTT,World Championships (Stirling) I.T.T. (prov.),41765,OLIVEIRA Nelson Filipe Santos Simoes,13274,0,16,2023-08-11,-
+7,WCTT,World Championships (Stirling) I.T.T. (prov.),41765,DENNIS Rohan,12823,0,14,2023-08-11,Albert
+8,WCTT,World Championships (Stirling) I.T.T. (prov.),41765,CATTANEO Mattia,16936,0,12,2023-08-11,Albert
+9,WCTT,World Championships (Stirling) I.T.T. (prov.),41765,BJERG Mikkel,26388,0,10,2023-08-11,Kees
+10,WCTT,World Championships (Stirling) I.T.T. (prov.),41765,THOMAS Geraint,3891,0,8,2023-08-11,Arjan
+1,2.1s,"Volta a Portugal, Stage 2 : Abrantes - Vila Franca de Xira (prov.)",41980,LINAREZ MENESES Leangel Ruben,30518,0.2,0,2023-08-11,-
 1,2.1s,"Volta a Portugal, Stage 1 : Anadia - Ourem (prov.)",41979,LINAREZ MENESES Leangel Ruben,30518,0.2,0,2023-08-10,-
 1,2.1s,"Volta a Portugal, Prologue : Viseu I.T.T. (prov.)",41978,REIS Rafael Ferreira,18791,0.2,0,2023-08-09,-
 1,WCUT,World Championships U23 (Stirling) I.T.T. (prov.),41764,MILESI Lorenzo,31752,0.0,0,2023-08-09,-
@@ -32,5 +43,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.WT1,"Tour de Pologne, General classification",41891,BATTISTELLA Samuele,28450,0,10,2023-08-04,Vel
 10,2.WT1,"Tour de Pologne, General classification",41891,ONLEY Oscar,31724,0,8,2023-08-04,-
 1,2.WT1s,"Tour de Pologne, Stage 7 : Zabrze - Krakow",41890,MERLIER Tim,17988,1,0,2023-08-04,Wijnand
-1,2.WT2r,"Tour de Pologne, Points classification",41892,MOHORIC Matej,21145,0.0,0,2023-08-04,Frank
-1,2.WT2r,"Tour de Pologne, Mountains classification",41893,HOELGAARD Markus,20760,0.0,0,2023-08-04,-
