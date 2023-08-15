@@ -21,14 +21,29 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 191,47,Lorenzo Rota,21958,Intermarché-Circus-Wanty,ITA,Paul van Doorn,Paul,3,
 191,51,Kévin Vauquelin,31264,Arkéa-Samsic,FRA,Albert Kraaij,Albert,2,
 191,55,Luca Mozzato,28037,Arkéa-Samsic,ITA,Nick Veenstra,Nicky,2,
-161,,Arnaud Démare,16653,Arkéa-Samsic,FRA,Wijnand Baretta,Wijnand,13,
-161,,Arne Marit,28641,Intermarché-Circus-Wanty,BEL,Wijnand Baretta,Wijnand,0,
-161,,Gerben Thijssen,27085,Intermarché-Circus-Wanty,BEL,Albert Kraaij,Albert,1,
-161,,Giacomo Nizzolo,13863,Israel-Premier Tech,ITA,Pieter-Bas de Bruijn,PB,1,
-161,,Victor Campenaerts,20184,Lotto Dstny,BEL,Frank Vellinga,Vel,2,
-161,,Arnaud De Lie,32221,Lotto Dstny,BEL,Wijnand Baretta,Wijnand,14,
-161,,Bert Van Lerberghe,19483,Soudal Quick-Step Devo Team,BEL,Arjan Knibbe,Arjan,1,
-161,,Stan Van Tricht,28579,Soudal Quick-Step Devo Team,BEL,Jan Versluys,Jan,1,
+161,2,Axel Laurance,31621,Alpecin-Deceuninck,FRA,Jan Versluys,Jan,1,
+161,3,Siebe Roesems,31621,Alpecin-Deceuninck,,Jan Versluys,Jan,1,
+161,5,Stefano Oldani,27072,Alpecin-Deceuninck,ITA,Frank Rozemeijer,Frank,1,
+161,7,Gianni Vermeersch,18247,Alpecin-Deceuninck,BEL,Paul van Doorn,Paul,0,
+161,11,Gerben Kuypers,18247,Intermarché-Circus-Wanty,,Paul van Doorn,Paul,0,
+161,13,Arne Marit,28641,Intermarché-Circus-Wanty,BEL,Wijnand Baretta,Wijnand,0,
+161,16,Gerben Thijssen,27085,Intermarché-Circus-Wanty,BEL,Albert Kraaij,Albert,1,
+161,21,Piet Allegaert,22616,Cofidis,BEL,Frank Vellinga,Vel,0,1
+161,26,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,4,
+161,32,David Dekker,27083,Arkéa-Samsic,NED,Wijnand Baretta,Wijnand,1,
+161,34,Arnaud Démare,16653,Arkéa-Samsic,FRA,Wijnand Baretta,Wijnand,13,
+161,41,Victor Campenaerts,20184,Lotto Dstny,BEL,Frank Vellinga,Vel,2,
+161,42,Arnaud De Lie,32221,Lotto Dstny,BEL,Wijnand Baretta,Wijnand,14,
+161,83,Giacomo Nizzolo,13863,Israel-Premier Tech,ITA,Pieter-Bas de Bruijn,PB,1,
+161,101,Edvald Boasson-Hagen,4377,TotalEnergies,NOR,Bram van Ommeren,Bram,0,
+161,105,Jason Tesson,29883,TotalEnergies,FRA,Jan Versluys,Jan,1,1
+161,106,Anthony Turgis,21312,TotalEnergies,FRA,Frank Vellinga,Vel,3,1
+161,111,Olivier Godfroid,21312,Baloise Trek Lions,,Frank Vellinga,Vel,3,
+161,113,Dietmar Ledegen,21312,Baloise Trek Lions,,Frank Vellinga,Vel,3,1
+161,114,Daan Marien,21312,Baloise Trek Lions,,Frank Vellinga,Vel,3,1
+161,115,Ward Huybs,21312,Baloise Trek Lions,,Frank Vellinga,Vel,3,1
+161,175,Bert Van Lerberghe,19483,Soudal Quick-Step Devo Team,BEL,Arjan Knibbe,Arjan,1,1
+161,176,Stan Van Tricht,28579,Soudal Quick-Step Devo Team,BEL,Jan Versluys,Jan,1,
 192,1,Primoz Roglic,20719,Jumbo-Visma,SLO,Bram van Ommeren,Bram,38,
 192,3,Koen Bouwman,20770,Jumbo-Visma,NED,Kaspar Burghard,Kaspar,4,
 192,4,Edoardo Affini,24794,Jumbo-Visma,ITA,Paul van Doorn,Paul,3,

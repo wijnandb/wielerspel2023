@@ -386,62 +386,144 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 191,174,Adrien Boichis,32895,Trinity Racing,,-,-,-,
 191,176,Ralf Holden,32895,Trinity Racing,,-,-,-,
 191,177,Luke Tuckwell,32895,Trinity Racing,,-,-,-,
-161,,Jenthe Biermans,22010,Arkéa-Samsic,BEL,-,-,-,
-161,,Florian Dauphin,30509,Arkéa-Samsic,FRA,-,-,-,
-161,,Arnaud Démare,16653,Arkéa-Samsic,FRA,Wijnand Baretta,Wijnand,13,
-161,,Daniel McLay,18498,Arkéa-Samsic,GBR,-,-,-,
-161,,Lukasz Owsian,13434,Arkéa-Samsic,POL,-,-,-,
-161,,Alan Riou,26239,Arkéa-Samsic,FRA,-,-,-,
-161,,Clément Russo,24236,Arkéa-Samsic,FRA,-,-,-,
-161,,Cériel Desal,29273,Bingoal WB,BEL,-,-,-,
-161,,Remy Mertz,21980,Bingoal WB,BEL,-,-,-,
-161,,Davide Persico,30647,Bingoal WB,ITA,-,-,-,
-161,,Dimitri Peyskens,17842,Bingoal WB,BEL,-,-,-,
-161,,Luca Van Boven,31597,Bingoal WB,BEL,-,-,-,
-161,,Aaron Van der Beken,28577,Bingoal WB,BEL,-,-,-,
-161,,Guillaume Van Keirsbulck,16718,Bingoal WB,BEL,-,-,-,
-161,,Dries De Pooter,22005,Intermarché-Circus-Wanty,BEL,-,-,-,
-161,,Jasper Dejaegher,33569,Intermarché-Circus-Wanty,BEL,-,-,-,
-161,,Gerben Kuypers,33569,Intermarché-Circus-Wanty,,-,-,-,
-161,,Arne Marit,28641,Intermarché-Circus-Wanty,BEL,Wijnand Baretta,Wijnand,0,
-161,,Baptiste Planckaert,10276,Intermarché-Circus-Wanty,BEL,-,-,-,
-161,,Gerben Thijssen,27085,Intermarché-Circus-Wanty,BEL,Albert Kraaij,Albert,1,
-161,,Boy van Poppel,7104,Intermarché-Circus-Wanty,NED,-,-,-,
-161,,Itamar Einhorn,27315,Israel-Premier Tech,ISR,-,-,-,
-161,,Taj Jones,29498,Israel-Premier Tech,AUS,-,-,-,
-161,,Giacomo Nizzolo,13863,Israel-Premier Tech,ITA,Pieter-Bas de Bruijn,PB,1,
-161,,Jens Reynders,26449,Israel-Premier Tech,BEL,-,-,-,
-161,,Tom Van Asbroeck,18504,Israel-Premier Tech,BEL,-,-,-,
-161,,Mads Würtz Schmidt,20818,Israel-Premier Tech,DEN,-,-,-,
-161,,Rick Zabel,19314,Israel-Premier Tech,GER,-,-,-,
-161,,Cédric Beullens,25580,Lotto Dstny,BEL,-,-,-,
-161,,Victor Campenaerts,20184,Lotto Dstny,BEL,Frank Vellinga,Vel,2,
-161,,Arnaud De Lie,32221,Lotto Dstny,BEL,Wijnand Baretta,Wijnand,14,
-161,,Ramses Debruyne,32644,Lotto Dstny,BEL,-,-,-,
-161,,Arjen Livyns,22849,Lotto Dstny,BEL,-,-,-,
-161,,Mathijs Paasschens,27103,Lotto Dstny,NED,-,-,-,
-161,,Liam Slock,32606,Lotto Dstny,BEL,-,-,-,
-161,,Yago Aguirre,32606,Saris Rouvy Sauerland Team,,-,-,-,
-161,,Henri Appelbaum,32606,Saris Rouvy Sauerland Team,,-,-,-,
-161,,Dominik Bauer,32606,Saris Rouvy Sauerland Team,,-,-,-,
-161,,Silas Koech,32606,Saris Rouvy Sauerland Team,,-,-,-,
-161,,Jonathan-Malte Rottmann,32606,Saris Rouvy Sauerland Team,,-,-,-,
-161,,Jan Temmen,32606,Saris Rouvy Sauerland Team,,-,-,-,
-161,,Lennart Voege,32606,Saris Rouvy Sauerland Team,,-,-,-,
-161,,Lars Craps,32606,Soudal Quick-Step Devo Team,,-,-,-,
-161,,Gil Gelders,31556,Soudal Quick-Step Devo Team,BEL,-,-,-,
-161,,William Junior Lecerf,32229,Soudal Quick-Step Devo Team,BEL,-,-,-,
-161,,Pepijn Reinderink,31563,Soudal Quick-Step Devo Team,NED,-,-,-,
-161,,Bert Van Lerberghe,19483,Soudal Quick-Step Devo Team,BEL,Arjan Knibbe,Arjan,1,
-161,,Stan Van Tricht,28579,Soudal Quick-Step Devo Team,BEL,Jan Versluys,Jan,1,
-161,,Jordi Warlop,24239,Soudal Quick-Step Devo Team,BEL,-,-,-,
-161,,Joren Bloem,29896,TdT-Unibet,NED,-,-,-,
-161,,Davide Bomboi,30543,TdT-Unibet,BEL,-,-,-,
-161,,Jordy Bouts,26267,TdT-Unibet,BEL,-,-,-,
-161,,Martijn Budding,21928,TdT-Unibet,NED,-,-,-,
-161,,Hartthijs de Vries,23351,TdT-Unibet,NED,-,-,-,
-161,,Abram Stockman,26406,TdT-Unibet,BEL,-,-,-,
-161,,Yentl Vandevelde,26406,TdT-Unibet,,-,-,-,
+161,1,Timo Kielich,28189,Alpecin-Deceuninck,BEL,-,-,-,
+161,2,Axel Laurance,31621,Alpecin-Deceuninck,FRA,Jan Versluys,Jan,1,
+161,3,Siebe Roesems,31621,Alpecin-Deceuninck,,Jan Versluys,Jan,1,
+161,4,Xandro Meurisse,20165,Alpecin-Deceuninck,BEL,-,-,-,1
+161,5,Stefano Oldani,27072,Alpecin-Deceuninck,ITA,Frank Rozemeijer,Frank,1,
+161,6,Lionel Taminiaux,23416,Alpecin-Deceuninck,BEL,-,-,-,
+161,7,Gianni Vermeersch,18247,Alpecin-Deceuninck,BEL,Paul van Doorn,Paul,0,
+161,11,Gerben Kuypers,18247,Intermarché-Circus-Wanty,,Paul van Doorn,Paul,0,
+161,12,Dries De Pooter,22005,Intermarché-Circus-Wanty,BEL,-,-,-,
+161,13,Arne Marit,28641,Intermarché-Circus-Wanty,BEL,Wijnand Baretta,Wijnand,0,
+161,14,Baptiste Planckaert,10276,Intermarché-Circus-Wanty,BEL,-,-,-,1
+161,15,Jasper Dejaegher,33569,Intermarché-Circus-Wanty,BEL,-,-,-,
+161,16,Gerben Thijssen,27085,Intermarché-Circus-Wanty,BEL,Albert Kraaij,Albert,1,
+161,17,Boy van Poppel,7104,Intermarché-Circus-Wanty,NED,-,-,-,
+161,21,Piet Allegaert,22616,Cofidis,BEL,Frank Vellinga,Vel,0,1
+161,22,Joshua Gudnitz,30675,Cofidis,DEN,-,-,-,1
+161,24,Christophe Noppe,22615,Cofidis,BEL,-,-,-,1
+161,25,Jelle Wallays,10467,Cofidis,BEL,-,-,-,
+161,26,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,4,
+161,27,Oliver Knight,32707,Cofidis,GBR,-,-,-,
+161,31,Jenthe Biermans,22010,Arkéa-Samsic,BEL,-,-,-,
+161,32,David Dekker,27083,Arkéa-Samsic,NED,Wijnand Baretta,Wijnand,1,
+161,33,Alan Riou,26239,Arkéa-Samsic,FRA,-,-,-,1
+161,34,Arnaud Démare,16653,Arkéa-Samsic,FRA,Wijnand Baretta,Wijnand,13,
+161,35,Florian Dauphin,30509,Arkéa-Samsic,FRA,-,-,-,1
+161,36,Lukasz Owsian,13434,Arkéa-Samsic,POL,-,-,-,
+161,37,Clément Russo,24236,Arkéa-Samsic,FRA,-,-,-,
+161,41,Victor Campenaerts,20184,Lotto Dstny,BEL,Frank Vellinga,Vel,2,
+161,42,Arnaud De Lie,32221,Lotto Dstny,BEL,Wijnand Baretta,Wijnand,14,
+161,43,Cédric Beullens,25580,Lotto Dstny,BEL,-,-,-,
+161,44,Ramses Debruyne,32644,Lotto Dstny,BEL,-,-,-,
+161,45,Arjen Livyns,22849,Lotto Dstny,BEL,-,-,-,
+161,46,Mathijs Paasschens,27103,Lotto Dstny,NED,-,-,-,
+161,47,Liam Slock,32606,Lotto Dstny,BEL,-,-,-,1
+161,51,Cériel Desal,29273,Bingoal WB,BEL,-,-,-,
+161,52,Dimitri Peyskens,17842,Bingoal WB,BEL,-,-,-,
+161,53,Davide Persico,30647,Bingoal WB,ITA,-,-,-,
+161,54,Luca Van Boven,31597,Bingoal WB,BEL,-,-,-,
+161,55,Aaron Van der Beken,28577,Bingoal WB,BEL,-,-,-,1
+161,56,Guillaume Van Keirsbulck,16718,Bingoal WB,BEL,-,-,-,
+161,57,Kenneth Van Rooy,20084,Bingoal WB,BEL,-,-,-,
+161,61,Matthew Bostock,27080,Bolton Equities Black Spoke,GBR,-,-,-,1
+161,62,Josh Burnett,31888,Bolton Equities Black Spoke,NZL,-,-,-,1
+161,63,Ryan Christensen,23872,Bolton Equities Black Spoke,NZL,-,-,-,
+161,64,Victor Vercouillie,23872,Bolton Equities Black Spoke,,-,-,-,1
+161,65,Jacob Scott,25028,Bolton Equities Black Spoke,GBR,-,-,-,1
+161,66,Rory Townsend,25102,Bolton Equities Black Spoke,IRL,-,-,-,
+161,67,Paul Wright,28243,Bolton Equities Black Spoke,NZL,-,-,-,
+161,71,Pier-André Côté,26176,Human Powered Health,CAN,-,-,-,
+161,72,Adam De Vos,20291,Human Powered Health,CAN,-,-,-,1
+161,73,Gage Hecht,20291,Human Powered Health,,-,-,-,
+161,75,Scott McGill,28506,Human Powered Health,USA,-,-,-,1
+161,76,Gijs Van Hoecke,16938,Human Powered Health,BEL,-,-,-,
+161,77,Sasha Weemaes,27131,Human Powered Health,BEL,-,-,-,1
+161,81,Itamar Einhorn,27315,Israel-Premier Tech,ISR,-,-,-,
+161,82,Taj Jones,29498,Israel-Premier Tech,AUS,-,-,-,
+161,83,Giacomo Nizzolo,13863,Israel-Premier Tech,ITA,Pieter-Bas de Bruijn,PB,1,
+161,84,Jens Reynders,26449,Israel-Premier Tech,BEL,-,-,-,
+161,85,Mads Würtz Schmidt,20818,Israel-Premier Tech,DEN,-,-,-,1
+161,86,Tom Van Asbroeck,18504,Israel-Premier Tech,BEL,-,-,-,
+161,87,Rick Zabel,19314,Israel-Premier Tech,GER,-,-,-,
+161,91,Alex Colman,27727,Team Flanders-Baloise,BEL,-,-,-,
+161,92,Sander De Pestel,6829,Team Flanders-Baloise,BEL,-,-,-,
+161,93,Lindsay De Vylder,22773,Team Flanders-Baloise,BEL,-,-,-,1
+161,94,Vince Gerits,22773,Team Flanders-Baloise,,-,-,-,1
+161,95,Aaron Van Poucke,28577,Team Flanders-Baloise,BEL,-,-,-,1
+161,96,Ward Vanhoof,29079,Team Flanders-Baloise,BEL,-,-,-,
+161,101,Edvald Boasson-Hagen,4377,TotalEnergies,NOR,Bram van Ommeren,Bram,0,
+161,102,Maciej Bodnar,2378,TotalEnergies,POL,-,-,-,1
+161,103,Lorrenzo Manzin,21343,TotalEnergies,FRA,-,-,-,1
+161,105,Jason Tesson,29883,TotalEnergies,FRA,Jan Versluys,Jan,1,1
+161,106,Anthony Turgis,21312,TotalEnergies,FRA,Frank Vellinga,Vel,3,1
+161,111,Olivier Godfroid,21312,Baloise Trek Lions,,Frank Vellinga,Vel,3,
+161,113,Dietmar Ledegen,21312,Baloise Trek Lions,,Frank Vellinga,Vel,3,1
+161,114,Daan Marien,21312,Baloise Trek Lions,,Frank Vellinga,Vel,3,1
+161,115,Ward Huybs,21312,Baloise Trek Lions,,Frank Vellinga,Vel,3,1
+161,116,Pim Ronhaar,30780,Baloise Trek Lions,NED,-,-,-,1
+161,117,Lars van der Haar,26333,Baloise Trek Lions,NED,-,-,-,1
+161,122,Bodi Del Grosso,26333,ABLOC CT,,-,-,-,1
+161,123,Luuk Herben,26333,ABLOC CT,,-,-,-,1
+161,124,Philip Heijnen,26333,ABLOC CT,,-,-,-,1
+161,125,Martin Pluto,27358,ABLOC CT,LAT,-,-,-,1
+161,126,Mike Schuch,27358,ABLOC CT,,-,-,-,1
+161,127,Lars Loohuis,29462,ABLOC CT,NED,-,-,-,1
+161,132,Gil D'Heygere,27550,BEAT Cycling Club,BEL,-,-,-,
+161,133,Stijn Daemen,27550,BEAT Cycling Club,,-,-,-,
+161,134,Bram Dissel,32266,BEAT Cycling Club,NED,-,-,-,
+161,135,Jochem Kerckhaert,32266,BEAT Cycling Club,,-,-,-,
+161,136,Emiel Vermeulen,22019,BEAT Cycling Club,BEL,-,-,-,1
+161,137,Guillaume Visser,22019,BEAT Cycling Club,,-,-,-,
+161,141,Théo Bonnet,22019,Materiel-Velo.com,,-,-,-,1
+161,142,Robbe De Ryck,22019,Materiel-Velo.com,,-,-,-,1
+161,143,Len Dejonghe,32234,Materiel-Velo.com,BEL,-,-,-,1
+161,145,Tristan Scherpenbergh,32234,Materiel-Velo.com,,-,-,-,
+161,146,Alessandro Tuscano,32234,Materiel-Velo.com,,-,-,-,1
+161,147,Jarne Van Dyck,29798,Materiel-Velo.com,BEL,-,-,-,
+161,151,Harry Birchill,33552,Saint Piran,GBR,-,-,-,
+161,152,Finn Crockett,30353,Saint Piran,GBR,-,-,-,
+161,153,Zeb Kyffin,30353,Saint Piran,,-,-,-,
+161,154,Adam Lewis,30353,Saint Piran,,-,-,-,
+161,155,Bradley Symonds,30353,Saint Piran,,-,-,-,1
+161,156,William Tidball,29930,Saint Piran,GBR,-,-,-,1
+161,157,Tyler Hannay,29930,Saint Piran,,-,-,-,1
+161,161,Henri Appelbaum,29930,Saris Rouvy Sauerland Team,,-,-,-,1
+161,162,Dominik Bauer,29930,Saris Rouvy Sauerland Team,,-,-,-,1
+161,163,Julian Borresch,29930,Saris Rouvy Sauerland Team,,-,-,-,1
+161,164,Silas Koech,29930,Saris Rouvy Sauerland Team,,-,-,-,
+161,165,Jonathan-Malte Rottmann,29930,Saris Rouvy Sauerland Team,,-,-,-,1
+161,166,Lennart Voege,29930,Saris Rouvy Sauerland Team,,-,-,-,1
+161,167,Jan Temmen,29930,Saris Rouvy Sauerland Team,,-,-,-,1
+161,171,Lars Craps,29930,Soudal Quick-Step Devo Team,,-,-,-,
+161,172,Siebe Deweirdt,32700,Soudal Quick-Step Devo Team,BEL,-,-,-,1
+161,173,William Junior Lecerf,32229,Soudal Quick-Step Devo Team,BEL,-,-,-,
+161,174,Pepijn Reinderink,31563,Soudal Quick-Step Devo Team,NED,-,-,-,
+161,175,Bert Van Lerberghe,19483,Soudal Quick-Step Devo Team,BEL,Arjan Knibbe,Arjan,1,1
+161,176,Stan Van Tricht,28579,Soudal Quick-Step Devo Team,BEL,Jan Versluys,Jan,1,
+161,177,Jordi Warlop,24239,Soudal Quick-Step Devo Team,BEL,-,-,-,1
+161,181,Len De Pauw,31331,Tarteletto-Isorex,FRA,-,-,-,
+161,182,Timothy Dupont,7948,Tarteletto-Isorex,BEL,-,-,-,
+161,183,Jonas Geens,7948,Tarteletto-Isorex,,-,-,-,
+161,184,Andreas Goeman,28131,Tarteletto-Isorex,BEL,-,-,-,
+161,185,Alex Vandenbulcke,28131,Tarteletto-Isorex,,-,-,-,
+161,186,Kobe Vanoverschelde,28131,Tarteletto-Isorex,,-,-,-,1
+161,187,Thibau Verhofstadt,29117,Tarteletto-Isorex,BEL,-,-,-,1
+161,191,Joren Bloem,29896,TdT-Unibet,NED,-,-,-,
+161,192,Davide Bomboi,30543,TdT-Unibet,BEL,-,-,-,
+161,193,Jordy Bouts,26267,TdT-Unibet,BEL,-,-,-,
+161,194,Martijn Budding,21928,TdT-Unibet,NED,-,-,-,1
+161,195,Hartthijs de Vries,23351,TdT-Unibet,NED,-,-,-,
+161,196,Yentl Vandevelde,23351,TdT-Unibet,,-,-,-,
+161,197,Abram Stockman,26406,TdT-Unibet,BEL,-,-,-,
+161,201,Rindert Buiter,26406,VolkerWessels CT,,-,-,-,1
+161,202,Zak Coleman,26406,VolkerWessels CT,,-,-,-,1
+161,203,Jasper Haest,33152,VolkerWessels CT,NED,-,-,-,1
+161,204,Max Kroonen,30652,VolkerWessels CT,NED,-,-,-,1
+161,205,Thimo Willems,27105,VolkerWessels CT,BEL,-,-,-,
+161,206,Nick van der Meer,21843,VolkerWessels CT,NED,-,-,-,1
+161,207,Coen Vermeltfoort,6822,VolkerWessels CT,NED,-,-,-,1
 192,1,Primoz Roglic,20719,Jumbo-Visma,SLO,Bram van Ommeren,Bram,38,
 192,2,Robert Gesink,2364,Jumbo-Visma,NED,-,-,-,
 192,3,Koen Bouwman,20770,Jumbo-Visma,NED,Kaspar Burghard,Kaspar,4,
@@ -532,7 +614,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 192,124,Diego Sevilla,25560,EOLO-Kometa,ESP,-,-,-,
 192,125,Alessandro Fancellu,29221,EOLO-Kometa,ITA,-,-,-,
 192,126,Andrea Garosio,21298,EOLO-Kometa,ITA,-,-,-,
-192,127,Simone Raccani,30809,EOLO-Kometa,ITA,-,-,-,
+192,127,Mattia Bais,26241,EOLO-Kometa,ITA,-,-,-,
 192,131,Negasi Haylu Abreha,29240,Q36.5 Pro Cycling Team,ETH,-,-,-,
 192,132,Matteo Badilatti,24246,Q36.5 Pro Cycling Team,SUI,-,-,-,
 192,133,Gianluca Brambilla,7279,Q36.5 Pro Cycling Team,ITA,-,-,-,
