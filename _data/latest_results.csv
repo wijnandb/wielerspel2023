@@ -1,4 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 1 : Aalborg - Aalborg (prov.)",42001,WAERENSKJOLD Søren,29187,0.0,0,2023-08-15
+1,2.PSs,"Vuelta a Burgos, Stage 1 : Villalba de Duero - Burgos (prov.)",41995,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0,2023-08-15
+1,1.1,Tour of Leuven - Memorial Jef Scherens (prov.),41937,DE LIE Arnaud,32221,0.0,0,2023-08-15
+2,1.1,Tour of Leuven - Memorial Jef Scherens (prov.),41937,VAN TRICHT Stan,28579,0.0,0,2023-08-15
+3,1.1,Tour of Leuven - Memorial Jef Scherens (prov.),41937,LAURANCE Axel,31621,0.0,0,2023-08-15
+1,2.1s,"Volta a Portugal, Stage 6 : Penamacor - Guarda",41984,MATE MARDONES Luis Angel,3558,0.0,0,2023-08-15
+1,2.1s,"Tour du Limousin, Stage 1 : Rilhac-Rancon - Bénévent l'Abbaye (prov.)",41990,GREGOIRE Romain,32766,0.0,0,2023-08-15
 1,2.1s,"Volta a Portugal, Stage 5 : Maçao - Covilha (prov.)",41983,FERNANDEZ CRUZ Delio,9740,0.0,0,2023-08-14
 1,1.1,Polynormande,41934,DE LIE Arnaud,32221,0.0,0,2023-08-13
 2,1.1,Polynormande,41934,FERRON Valentin,28375,0.0,0,2023-08-13
@@ -15,15 +22,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,WCU,World Championships U23 (Glasgow) R.R.,41669,ROMEO ABAD Ivan,32764,0.0,0,2023-08-12
 9,WCU,World Championships U23 (Glasgow) R.R.,41669,WALKER Max,31835,0.0,0,2023-08-12
 10,WCU,World Championships U23 (Glasgow) R.R.,41669,GAUTHERAT Pierre,33533,0.0,0,2023-08-12
-1,WCTT,World Championships (Stirling) I.T.T.,41765,EVENEPOEL Remco,28377,0.0,0,2023-08-11
-2,WCTT,World Championships (Stirling) I.T.T.,41765,GANNA Filippo,24057,0.0,0,2023-08-11
-3,WCTT,World Championships (Stirling) I.T.T.,41765,TARLING Joshua,34297,0.0,0,2023-08-11
-4,WCTT,World Championships (Stirling) I.T.T.,41765,MCNULTY Brandon,26508,0.0,0,2023-08-11
-5,WCTT,World Championships (Stirling) I.T.T.,41765,VAN AERT Wout,20730,0.0,0,2023-08-11
-6,WCTT,World Championships (Stirling) I.T.T.,41765,OLIVEIRA Nelson Filipe Santos Simoes,13274,0.0,0,2023-08-11
-7,WCTT,World Championships (Stirling) I.T.T.,41765,DENNIS Rohan,12823,0.0,0,2023-08-11
-8,WCTT,World Championships (Stirling) I.T.T.,41765,CATTANEO Mattia,16936,0.0,0,2023-08-11
-9,WCTT,World Championships (Stirling) I.T.T.,41765,BJERG Mikkel,26388,0.0,0,2023-08-11
-10,WCTT,World Championships (Stirling) I.T.T.,41765,THOMAS Geraint,3891,0.0,0,2023-08-11
-1,2.1s,"Volta a Portugal, Stage 2 : Abrantes - Vila Franca de Xira (prov.)",41980,LINAREZ MENESES Leangel Ruben,30518,0.0,0,2023-08-11
-1,2.1s,"Volta a Portugal, Stage 1 : Anadia - Ourem (prov.)",41979,LINAREZ MENESES Leangel Ruben,30518,0.0,0,2023-08-10
