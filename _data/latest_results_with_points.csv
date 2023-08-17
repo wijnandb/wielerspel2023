@@ -1,5 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 3 : Vejen - Velje (prov.)",42003,SKJELMOSE JENSEN Mattias,30166,0.3,0,2023-08-17,Kaspar
 1,2.PSs,"Vuelta a Burgos, Stage 3 : Sargentes de la Lora - Villarcayo (prov.)",41997,ROGLIC Primoz,20719,0.3,0,2023-08-17,Bram
+1,2.PSs,"Arctic Race of Norway, Stage 1 : Kautokeino - Alta (prov.)",42007,DAINESE Alberto,26965,0.3,0,2023-08-17,Vel
+1,2.1s,"Volta a Portugal, Stage 7 : Torre de Moncorvo - Montalegre (prov.)",41985,STÜSSI Colin,20681,0.2,0,2023-08-17,-
+1,2.1s,"Tour du Limousin, Stage 3 : Sarran - Bort les Orgues (prov.)",41992,GREGOIRE Romain,32766,0.2,0,2023-08-17,-
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 2 : Kjellerup - Silkeborg (prov.)",42002,JAKOBSEN Fabio,23426,0.3,0,2023-08-16,Kaspar
 1,2.1s,"Tour du Limousin, Stage 2 : Excideuil - Trélissac (prov.)",41991,MOZZATO Luca,28037,0.2,0,2023-08-16,Nicky
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 1 : Aalborg - Aalborg (prov.)",42001,WAERENSKJOLD Søren,29187,0.3,0,2023-08-15,-
@@ -14,5 +18,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,1.1,Polynormande,41934,FERRON Valentin,28375,0.3,0,2023-08-13,-
 3,1.1,Polynormande,41934,JEGAT Jordan,32860,0.1,0,2023-08-13,-
 1,2.1s,"Volta a Portugal, Stage 4 : Estremoz - Castelo Branco (prov.)",41982,BABOR Daniel,27937,0.2,0,2023-08-13,-
-1,NC5,National Championships United States Virgin Islands (St. Croix) R.R.,42132,SWANTON Stephen,24823,1,0,2023-08-13,-
-1,2.1s,"Volta a Portugal, Stage 3 : Sines - Loule (prov.)",41981,MATIAS Joao Carlos Araujo,20929,0.2,0,2023-08-12,-
