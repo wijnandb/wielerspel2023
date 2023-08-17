@@ -436,7 +436,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 192,66,Javier Romo,31678,Astana Qazaqstan Team,ESP,-,-,-,
 192,67,Martin López,29525,Astana Qazaqstan Team,ECU,-,-,-,
 192,71,Nicolas Prodhomme,27594,AG2R Citroën Team,FRA,-,-,-,
-192,72,Dorian Godon,25704,AG2R Citroën Team,FRA,-,-,-,
+192,72,Dorian Godon,25704,AG2R Citroën Team,FRA,-,-,-,1
 192,73,Jaakko Hänninen,27211,AG2R Citroën Team,FIN,-,-,-,
 192,74,Lawrence Warbasse,18463,AG2R Citroën Team,USA,-,-,-,
 192,75,Valentin Paret-Peintre,31495,AG2R Citroën Team,FRA,-,-,-,
@@ -450,7 +450,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 192,86,Jetse Bol,9956,Burgos-BH,NED,-,-,-,
 192,87,Jesus Ezquerra,19556,Burgos-BH,ESP,-,-,-,
 192,91,Eduard Prades,12400,Caja Rural-Seguros RGA,ESP,-,-,-,
-192,92,Iuri Leitao,31829,Caja Rural-Seguros RGA,POR,-,-,-,
+192,92,Iuri Leitao,31829,Caja Rural-Seguros RGA,POR,-,-,-,1
 192,93,Julen Amezqueta,24101,Caja Rural-Seguros RGA,ESP,-,-,-,
 192,94,Josu Etxeberria,31287,Caja Rural-Seguros RGA,ESP,-,-,-,
 192,95,Mulu Hailemichael,31287,Caja Rural-Seguros RGA,,-,-,-,
@@ -471,7 +471,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 192,116,Xabier Azparren,30660,Euskaltel-Euskadi,ESP,-,-,-,
 192,117,Xabier Berasategi,33745,Euskaltel-Euskadi,ESP,-,-,-,
 192,121,Francesco Gavazzi,3758,EOLO-Kometa,ITA,-,-,-,
-192,122,Alex Martin,32583,EOLO-Kometa,ESP,-,-,-,
+192,122,Alex Martin,32583,EOLO-Kometa,ESP,-,-,-,1
 192,123,Javier Serrano,30684,EOLO-Kometa,ESP,-,-,-,
 192,124,Diego Sevilla,25560,EOLO-Kometa,ESP,-,-,-,
 192,125,Alessandro Fancellu,29221,EOLO-Kometa,ITA,-,-,-,
