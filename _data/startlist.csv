@@ -194,7 +194,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 32,96,James Oram,19829,Bolton Equities Black Spoke,NZL,-,-,-,
 32,97,Mark Stewart,23644,Bolton Equities Black Spoke,GBR,-,-,-,
 32,101,Jack Bauer,12264,Q36.5 Pro Cycling Team,NZL,-,-,-,
-32,102,Tom Devriendt,18503,Q36.5 Pro Cycling Team,BEL,-,-,-,
+32,102,Tom Devriendt,18503,Q36.5 Pro Cycling Team,BEL,-,-,-,1
 32,103,Tobias Ludvigsson,16694,Q36.5 Pro Cycling Team,SWE,-,-,-,
 32,104,Matteo Moschetti,27126,Q36.5 Pro Cycling Team,ITA,-,-,-,
 32,105,Nicolò Parisini,29418,Q36.5 Pro Cycling Team,ITA,-,-,-,
@@ -267,7 +267,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 191,3,Johan Jacobs,25195,Movistar Team,SUI,-,-,-,
 191,4,Óscar Rodríguez,26216,Movistar Team,ESP,-,-,-,
 191,5,José Joaquin Rojas,3327,Movistar Team,ESP,-,-,-,
-191,6,Gonzalo Serrano,22669,Movistar Team,BEL,Arjan Knibbe,Arjan,2,
+191,6,Gonzalo Serrano,22669,Movistar Team,BEL,Arjan Knibbe,Arjan,2,1
 191,7,Vinicius Rangel,31179,Movistar Team,BRA,-,-,-,
 191,11,Benoît Cosnefroy,24189,AG2R Citroën Team,FRA,Pieter-Bas de Bruijn,PB,17,
 191,12,Michael Schär,3152,AG2R Citroën Team,SUI,-,-,-,
@@ -340,7 +340,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 191,107,Flavien Maurelet,20735,Saint Michel-Mavic-Auber 93,FRA,-,-,-,
 191,111,Célestin Guillon,31341,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-,
 191,112,Maxime Jarnet,28630,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-,
-191,113,Maximilien Juillard,32619,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-,
+191,113,Maximilien Juillard,32619,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-,1
 191,114,Tom Mainguenaud,32619,Van Rysel-Roubaix Lille Métropole,,-,-,-,
 191,115,Jérémy Leveau,19096,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-,
 191,116,Kenny Molly,24778,Van Rysel-Roubaix Lille Métropole,BEL,-,-,-,
@@ -351,7 +351,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 191,124,Edouard Bonnefoix,24479,Nice Métropole Côte d'Azur,,-,-,-,
 191,125,Jean-Louis Le Ny,30533,Nice Métropole Côte d'Azur,FRA,-,-,-,
 191,126,Andrea Mifsud,31622,Nice Métropole Côte d'Azur,FRA,-,-,-,
-191,127,Maxime Urruty,27078,Nice Métropole Côte d'Azur,FRA,-,-,-,
+191,127,Maxime Urruty,27078,Nice Métropole Côte d'Azur,FRA,-,-,-,1
 191,131,Jordan Jegat,32860,CIC-U Nantes Atlantique,FRA,-,-,-,
 191,132,Yaël Joalland,30163,CIC-U Nantes Atlantique,FRA,-,-,-,
 191,133,Noa Isidore,34396,CIC-U Nantes Atlantique,FRA,-,-,-,
