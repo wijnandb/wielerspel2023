@@ -1,4 +1,12 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Arctic Race of Norway, Stage 2 : Alta - Hammerfest (prov.)",42008,GAZZOLI Michele,27702,0.0,0,2023-08-18
+1,2.PSs,"Vuelta a Burgos, Stage 4 : Santa Gadea del Cid - Pradoluengo (prov.)",41998,LAZKANO LOPEZ Oier,30595,0.0,0,2023-08-18
+1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 4 : Kalundborg - Bagsvaerd (prov.)",42004,JAKOBSEN Fabio,23426,0.0,0,2023-08-18
+1,2.1,"Tour du Limousin, General classification (prov.)",41994,GREGOIRE Romain,32766,0.0,0,2023-08-18
+2,2.1,"Tour du Limousin, General classification (prov.)",41994,COSNEFROY Benoît,24189,0.0,0,2023-08-18
+3,2.1,"Tour du Limousin, General classification (prov.)",41994,STORER Michael,25335,0.0,0,2023-08-18
+1,2.1s,"Volta a Portugal, Stage 8 : Boticas - Fafe (prov.)",41986,BUSTAMANTE RUDA Adrian Camilo,29580,0.0,0,2023-08-18
+1,2.1s,"Tour du Limousin, Stage 4 : Glandon - Limoges (prov.)",41993,PAGE Hugo,30663,0.0,0,2023-08-18
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 3 : Vejen - Velje (prov.)",42003,SKJELMOSE JENSEN Mattias,30166,0.0,0,2023-08-17
 1,2.PSs,"Vuelta a Burgos, Stage 3 : Sargentes de la Lora - Villarcayo (prov.)",41997,ROGLIC Primoz,20719,0.0,0,2023-08-17
 1,2.PSs,"Arctic Race of Norway, Stage 1 : Kautokeino - Alta (prov.)",42007,DAINESE Alberto,26965,0.0,0,2023-08-17
@@ -12,9 +20,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,1.1,Tour of Leuven - Memorial Jef Scherens,41937,VAN TRICHT Stan,28579,0.0,0,2023-08-15
 3,1.1,Tour of Leuven - Memorial Jef Scherens,41937,LAURANCE Axel,31621,0.0,0,2023-08-15
 1,2.1s,"Volta a Portugal, Stage 6 : Penamacor - Guarda (prov.)",41984,MATE MARDONES Luis Angel,3558,0.0,0,2023-08-15
-1,2.1s,"Tour du Limousin, Stage 1 : Rilhac-Rancon - Bénévent l'Abbaye (prov.)",41990,GREGOIRE Romain,32766,0.0,0,2023-08-15
-1,2.1s,"Volta a Portugal, Stage 5 : Maçao - Covilha (prov.)",41983,FERNANDEZ CRUZ Delio,9740,0.0,0,2023-08-14
-1,1.1,Polynormande,41934,DE LIE Arnaud,32221,0.0,0,2023-08-13
-2,1.1,Polynormande,41934,FERRON Valentin,28375,0.0,0,2023-08-13
-3,1.1,Polynormande,41934,JEGAT Jordan,32860,0.0,0,2023-08-13
-1,2.1s,"Volta a Portugal, Stage 4 : Estremoz - Castelo Branco (prov.)",41982,BABOR Daniel,27937,0.0,0,2023-08-13
