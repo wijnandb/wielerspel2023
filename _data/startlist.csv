@@ -13,7 +13,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 197,15,Yesid Pira,32150,Caja Rural-Seguros RGA,COL,-,-,-,
 197,16,Jaume Guardeño,32150,Caja Rural-Seguros RGA,,-,-,-,
 197,17,Gorka Sorarrain,32150,Caja Rural-Seguros RGA,,-,-,-,
-197,21,Jon Agirre,30023,Equipo Kern Pharma,ESP,-,-,-,
+197,21,Jon Agirre,30023,Equipo Kern Pharma,ESP,-,-,-,1
 197,22,Ibon Ruiz,30746,Equipo Kern Pharma,ESP,-,-,-,1
 197,23,Mikel Retegi,30746,Equipo Kern Pharma,,-,-,-,1
 197,24,Eugenio Sanchez,32765,Equipo Kern Pharma,ESP,-,-,-,
@@ -25,7 +25,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 197,33,Sinuhé Fernandez,31493,Burgos-BH,ESP,-,-,-,
 197,34,Óscar Pelegrí,25318,Burgos-BH,ESP,-,-,-,
 197,35,Mario Aparicio,31664,Burgos-BH,ESP,-,-,-,
-197,36,Camilo Ardila,30067,Burgos-BH,COL,-,-,-,
+197,36,Camilo Ardila,30067,Burgos-BH,COL,-,-,-,1
 197,37,David Delgado,30067,Burgos-BH,,-,-,-,
 197,41,Antonio Soto,22582,Euskaltel-Euskadi,ESP,-,-,-,
 197,42,Unai Iribar,28237,Euskaltel-Euskadi,ESP,-,-,-,
@@ -45,7 +45,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 197,62,Wesley Mol,29045,BIKE AID,,-,-,-,
 197,63,Adrian Zuger,34642,BIKE AID,GER,-,-,-,1
 197,64,Francis Juneau,32805,BIKE AID,CAN,-,-,-,1
-197,65,Anton Schiffer,32805,BIKE AID,,-,-,-,
+197,65,Anton Schiffer,32805,BIKE AID,,-,-,-,1
 197,66,Jonas Beck,32805,BIKE AID,,-,-,-,
 197,71,Oscar Cabedo,27362,Team Vorarlberg,ESP,-,-,-,
 197,72,Lukas Rüegg,26939,Team Vorarlberg,SUI,-,-,-,
@@ -59,7 +59,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 197,83,Lars Quaedvlieg,28395,Universe Cycling Team,NED,-,-,-,
 197,84,Stefan Verhoeff,28395,Universe Cycling Team,,-,-,-,
 197,85,Kenny Nijssen,23675,Universe Cycling Team,NED,-,-,-,
-197,86,Luuk Schuurmans,32877,Universe Cycling Team,NED,-,-,-,
+197,86,Luuk Schuurmans,32877,Universe Cycling Team,NED,-,-,-,1
 197,87,Jip Steman,32877,Universe Cycling Team,,-,-,-,
 197,91,Henrique Casimiro,10234,Efapel Cycling,POR,-,-,-,
 197,92,Tiago Antunes,26194,Efapel Cycling,POR,-,-,-,
@@ -124,7 +124,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 197,175,Raul Rota Rus,26200,Radio Popular - Paredes - Boavista,,-,-,-,
 197,176,Tiago Leal,26200,Radio Popular - Paredes - Boavista,,-,-,-,1
 197,177,Pedro Miguel Lopes,30719,Radio Popular - Paredes - Boavista,POR,-,-,-,1
-32,1,Julien Bernard,23357,Lidl-Trek,FRA,-,-,-,
+32,1,Julien Bernard,23357,Lidl-Trek,FRA,-,-,-,1
 32,2,Daan Hoole,27709,Lidl-Trek,NED,-,-,-,
 32,3,Jacopo Mosca,22667,Lidl-Trek,ITA,-,-,-,
 32,4,Mads Pedersen,21992,Lidl-Trek,DEN,Harry Koene,Harry,18,
@@ -188,7 +188,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 32,87,Alessandro Santaromita,30553,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-,
 32,91,Logan Currie,30604,Bolton Equities Black Spoke,NZL,-,-,-,
 32,92,James Fouche,26674,Bolton Equities Black Spoke,NZL,-,-,-,
-32,93,Aaron Gate,13153,Bolton Equities Black Spoke,NZL,-,-,-,
+32,93,Aaron Gate,13153,Bolton Equities Black Spoke,NZL,-,-,-,1
 32,94,Ollie Jones,13153,Bolton Equities Black Spoke,,-,-,-,
 32,95,Luke Mudgway,23499,Bolton Equities Black Spoke,NZL,-,-,-,
 32,96,James Oram,19829,Bolton Equities Black Spoke,NZL,-,-,-,
@@ -247,7 +247,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 32,174,Jakob Egholm,30286,Restaurant Suri-Carl Ras,,-,-,-,
 32,175,Mathias Larsen,27804,Restaurant Suri-Carl Ras,DEN,-,-,-,
 32,176,Oscar Bluhm,27804,Restaurant Suri-Carl Ras,,-,-,-,
-32,177,Kristian Egholm,27804,Restaurant Suri-Carl Ras,,-,-,-,
+32,177,Kristian Egholm,27804,Restaurant Suri-Carl Ras,,-,-,-,1
 32,181,Martin Toft Madsen,20287,BHS-PL Beton Bornholm,DEN,-,-,-,
 32,182,Frederik Jensen,28900,BHS-PL Beton Bornholm,DEN,-,-,-,
 32,183,Nikolaj Mengel,28900,BHS-PL Beton Bornholm,,-,-,-,
@@ -379,13 +379,13 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 191,164,Maxime De Poorter,26946,Tarteletto-Isorex,BEL,-,-,-,
 191,165,Thomas Joseph,23677,Tarteletto-Isorex,BEL,-,-,-,
 191,166,Torsten Demeyere,23677,Tarteletto-Isorex,,-,-,-,
-191,167,Bo Godart,23677,Tarteletto-Isorex,,-,-,-,
+191,167,Bo Godart,23677,Tarteletto-Isorex,,-,-,-,1
 191,171,Callum Thornley,23677,Trinity Racing,,-,-,-,
 191,172,Paul Magnier,23677,Trinity Racing,,-,-,-,
 191,173,Finlay Pickering,32895,Trinity Racing,GBR,-,-,-,
 191,174,Adrien Boichis,32895,Trinity Racing,,-,-,-,
 191,176,Ralf Holden,32895,Trinity Racing,,-,-,-,
-191,177,Luke Tuckwell,32895,Trinity Racing,,-,-,-,
+191,177,Luke Tuckwell,32895,Trinity Racing,,-,-,-,1
 192,1,Primoz Roglic,20719,Jumbo-Visma,SLO,Bram van Ommeren,Bram,38,
 192,2,Robert Gesink,2364,Jumbo-Visma,NED,-,-,-,
 192,3,Koen Bouwman,20770,Jumbo-Visma,NED,Kaspar Burghard,Kaspar,4,
@@ -491,7 +491,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 192,145,Xavier Cañellas,25311,Electro Hiper Europa,ESP,-,-,-,
 192,146,Jose Maria Martin Muñoz,32323,Electro Hiper Europa,ESP,-,-,-,
 192,147,Mateu Estelrich,31763,Electro Hiper Europa,ESP,-,-,-,
-259,1,Andreas Leknessund,27653,Team dsm-firmenich,NOR,Paul van Doorn,Paul,2,
+259,1,Andreas Leknessund,27653,Team dsm-firmenich,NOR,Paul van Doorn,Paul,2,1
 259,2,Romain Combaud,20037,Team dsm-firmenich,FRA,-,-,-,
 259,3,Alberto Dainese,26965,Team dsm-firmenich,ITA,Frank Vellinga,Vel,3,
 259,4,Matthew Dinham,29788,Team dsm-firmenich,AUS,-,-,-,
