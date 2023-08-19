@@ -1,5 +1,5 @@
 race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id,price,dropped_out
-197,31,Miguel Angel Fernandez,23334,Burgos-BH,COL,Nick Veenstra,Nicky,5,
+197,31,Miguel Angel Fernandez,23334,Burgos-BH,COL,Nick Veenstra,Nicky,5,1
 32,4,Mads Pedersen,21992,Lidl-Trek,DEN,Harry Koene,Harry,18,
 32,5,Mattias Skjelmose,30166,Lidl-Trek,DEN,Kaspar Burghard,Kaspar,7,
 32,6,Toms Skujins,16739,Lidl-Trek,LAT,Kees van Ommeren,Kees,0,
@@ -12,15 +12,6 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 32,32,Fabio Jakobsen,23426,Soudal Quick-Step,NED,Kaspar Burghard,Kaspar,23,
 32,37,Mauri Vansevenant,28580,Soudal Quick-Step,BEL,Wijnand Baretta,Wijnand,2,1
 32,66,Florian Vermeersch,28127,Lotto Dstny,BEL,Albert Kraaij,Albert,2,
-191,6,Gonzalo Serrano,22669,Movistar Team,BEL,Arjan Knibbe,Arjan,2,1
-191,11,Benoît Cosnefroy,24189,AG2R Citroën Team,FRA,Pieter-Bas de Bruijn,PB,17,
-191,16,Greg Van Avermaet,3333,AG2R Citroën Team,BEL,Albert Kraaij,Albert,1,
-191,21,Jesus Herrada,17534,Cofidis,ESP,Paul van Doorn,Paul,2,
-191,36,Michael Storer,25335,Groupama-FDJ,AUS,Frank Vellinga,Vel,2,
-191,44,Hugo Page,30663,Intermarché-Circus-Wanty,FRA,Albert Kraaij,Albert,1,
-191,47,Lorenzo Rota,21958,Intermarché-Circus-Wanty,ITA,Paul van Doorn,Paul,3,
-191,51,Kévin Vauquelin,31264,Arkéa-Samsic,FRA,Albert Kraaij,Albert,2,
-191,55,Luca Mozzato,28037,Arkéa-Samsic,ITA,Nick Veenstra,Nicky,2,
 192,1,Primoz Roglic,20719,Jumbo-Visma,SLO,Bram van Ommeren,Bram,38,
 192,3,Koen Bouwman,20770,Jumbo-Visma,NED,Kaspar Burghard,Kaspar,4,
 192,4,Edoardo Affini,24794,Jumbo-Visma,ITA,Paul van Doorn,Paul,3,
