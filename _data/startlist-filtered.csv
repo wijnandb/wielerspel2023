@@ -10,7 +10,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 20,1,Marco Haller,15281,BORA-hansgrohe,AUT,Harry Koene,Harry,1,
 20,4,Nils Politt,20847,BORA-hansgrohe,GER,Albert Kraaij,Albert,3,
 20,5,Danny van Poppel,19242,BORA-hansgrohe,NED,Jan Versluys,Jan,1,
-20,6,Sam Bennett,13362,BORA-hansgrohe,IRL,Pieter-Bas de Bruijn,PB,11,
+20,6,Sam Bennett,13362,BORA-hansgrohe,IRL,Pieter-Bas de Bruijn,PB,11,1
 20,7,Maximilian Schachmann,20798,BORA-hansgrohe,GER,Bram van Ommeren,Bram,9,
 20,11,Stan Dewulf,25655,AG2R Citroën Team,BEL,Kaspar Burghard,Kaspar,0,
 20,14,Oliver Naesen,21392,AG2R Citroën Team,BEL,Harry Koene,Harry,1,
@@ -20,7 +20,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 20,45,Jonathan Milan,29359,Bahrain Victorious,ITA,Bram van Ommeren,Bram,2,
 20,51,Max Walscheid,19646,Cofidis,GER,Pieter-Bas de Bruijn,PB,1,
 20,61,Alberto Bettiol,20697,EF Education-EasyPost,ITA,Pieter-Bas de Bruijn,PB,1,
-20,63,Mark Padun,24293,EF Education-EasyPost,UKR,Pieter-Bas de Bruijn,PB,1,
+20,63,Mark Padun,24293,EF Education-EasyPost,UKR,Pieter-Bas de Bruijn,PB,1,1
 20,75,Jake Stewart,28437,Groupama-FDJ,GBR,Jan Versluys,Jan,2,
 20,81,Ethan Hayter,27025,INEOS Grenadiers,GBR,Jan Versluys,Jan,19,
 20,82,Luke Rowe,13229,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,0,
@@ -45,7 +45,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 20,163,Dylan Groenewegen,19238,Team Jayco-AlUla,NED,Frank Rozemeijer,Frank,14,
 20,166,Lucas Hamilton,25289,Team Jayco-AlUla,AUS,Albert Kraaij,Albert,1,
 20,171,Pascal Ackermann,20917,UAE Team Emirates,GER,Frank Vellinga,Vel,5,
-20,172,Alessandro Covi,28298,UAE Team Emirates,ITA,Jan Versluys,Jan,3,
+20,172,Alessandro Covi,28298,UAE Team Emirates,ITA,Jan Versluys,Jan,3,1
 20,174,Marc Hirschi,26509,UAE Team Emirates,SUI,Bram van Ommeren,Bram,10,
 20,175,Brandon McNulty,26508,UAE Team Emirates,USA,Kees van Ommeren,Kees,7,
 20,176,Diego Ulissi,10023,UAE Team Emirates,ITA,Paul van Doorn,Paul,2,
