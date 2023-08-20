@@ -1,40 +1,40 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",42006,PEDERSEN Mads,21992,4,50,2023-08-19,Harry
-2,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",42006,SKJELMOSE JENSEN Mattias,30166,1,35,2023-08-19,Kaspar
-3,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",42006,CORT NIELSEN Magnus,19448,0.5,25,2023-08-19,Vel
-4,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",42006,WAERENSKJOLD Søren,29187,0,20,2023-08-19,-
-5,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",42006,VERMEERSCH Florian,28127,0,18,2023-08-19,Albert
-6,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",42006,KAMP Alexander,19391,0,16,2023-08-19,-
-7,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",42006,VAN MOER Brent,28448,0,14,2023-08-19,-
-8,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",42006,BREGNHØJ Mathias,25637,0,12,2023-08-19,-
-9,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",42006,SKUJINS Toms,16739,0,10,2023-08-19,Kees
-10,2.PS,"Danmark Rundt - Tour of Denmark, General classification (prov.)",42006,KLARIS Magnus Bak,23433,0,8,2023-08-19,-
-1,2.PS,"Vuelta a Burgos, General classification (prov.)",42000,ROGLIC Primoz,20719,4,50,2023-08-19,Bram
-2,2.PS,"Vuelta a Burgos, General classification (prov.)",42000,VLASOV Aleksandr,24316,1,35,2023-08-19,Harry
-3,2.PS,"Vuelta a Burgos, General classification (prov.)",42000,YATES Adam,18975,0.5,25,2023-08-19,Paul
-4,2.PS,"Vuelta a Burgos, General classification (prov.)",42000,HOWSON Damien,18239,0,20,2023-08-19,-
-5,2.PS,"Vuelta a Burgos, General classification (prov.)",42000,RUBIO REYES Einer Augusto,27024,0,18,2023-08-19,Frank
-6,2.PS,"Vuelta a Burgos, General classification (prov.)",42000,BENNETT George,12254,0,16,2023-08-19,Nicky
-7,2.PS,"Vuelta a Burgos, General classification (prov.)",42000,ROMO OLIVER Javier,31678,0,14,2023-08-19,-
-8,2.PS,"Vuelta a Burgos, General classification (prov.)",42000,VINE Jay,29568,0,12,2023-08-19,Vel
-9,2.PS,"Vuelta a Burgos, General classification (prov.)",42000,LOPEZ GRANIZO Harold Martin,29525,0,10,2023-08-19,-
-10,2.PS,"Vuelta a Burgos, General classification (prov.)",42000,BOU COMPANY Joan,27598,0,8,2023-08-19,-
-1,2.PSs,"Vuelta a Burgos, Stage 5 : Golmayo - Lagunas de Neila (prov.)",41999,ROGLIC Primoz,20719,0.3,0,2023-08-19,Bram
+1,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,PEDERSEN Mads,21992,4,50,2023-08-19,Harry
+2,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,SKJELMOSE JENSEN Mattias,30166,1,35,2023-08-19,Kaspar
+3,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,CORT NIELSEN Magnus,19448,0.5,25,2023-08-19,Vel
+4,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,WAERENSKJOLD Søren,29187,0,20,2023-08-19,-
+5,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,VERMEERSCH Florian,28127,0,18,2023-08-19,Albert
+6,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,KAMP Alexander,19391,0,16,2023-08-19,-
+7,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,VAN MOER Brent,28448,0,14,2023-08-19,-
+8,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,BREGNHØJ Mathias,25637,0,12,2023-08-19,-
+9,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,SKUJINS Toms,16739,0,10,2023-08-19,Kees
+10,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,KLARIS Magnus Bak,23433,0,8,2023-08-19,-
+1,2.PS,"Vuelta a Burgos, General classification",42000,ROGLIC Primoz,20719,4,50,2023-08-19,Bram
+2,2.PS,"Vuelta a Burgos, General classification",42000,VLASOV Aleksandr,24316,1,35,2023-08-19,Harry
+3,2.PS,"Vuelta a Burgos, General classification",42000,YATES Adam,18975,0.5,25,2023-08-19,Paul
+4,2.PS,"Vuelta a Burgos, General classification",42000,HOWSON Damien,18239,0,20,2023-08-19,-
+5,2.PS,"Vuelta a Burgos, General classification",42000,RUBIO REYES Einer Augusto,27024,0,18,2023-08-19,Frank
+6,2.PS,"Vuelta a Burgos, General classification",42000,BENNETT George,12254,0,16,2023-08-19,Nicky
+7,2.PS,"Vuelta a Burgos, General classification",42000,ROMO OLIVER Javier,31678,0,14,2023-08-19,-
+8,2.PS,"Vuelta a Burgos, General classification",42000,VINE Jay,29568,0,12,2023-08-19,Vel
+9,2.PS,"Vuelta a Burgos, General classification",42000,LOPEZ GRANIZO Harold Martin,29525,0,10,2023-08-19,-
+10,2.PS,"Vuelta a Burgos, General classification",42000,BOU COMPANY Joan,27598,0,8,2023-08-19,-
+1,2.PSs,"Vuelta a Burgos, Stage 5 : Golmayo - Lagunas de Neila",41999,ROGLIC Primoz,20719,0.3,0,2023-08-19,Bram
 1,2.PSs,"Arctic Race of Norway, Stage 3 : Hammerfest - Havøysund Summit (prov.)",42009,WILLIAMS Stephen,24346,0.3,0,2023-08-19,-
-1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 5 : Helsingør - Helsingør I.T.T. (prov.)",42005,PEDERSEN Mads,21992,0.3,0,2023-08-19,Harry
-1,1.1,Druivenkoers - Overijse (prov.),41939,CAMPENAERTS Victor,20184,2,0,2023-08-19,Vel
-2,1.1,Druivenkoers - Overijse (prov.),41939,TILLER Rasmus Fossum,25623,0.3,0,2023-08-19,PB
-3,1.1,Druivenkoers - Overijse (prov.),41939,DE BUYST Jasper,19274,0.1,0,2023-08-19,-
+1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 5 : Helsingør - Helsingør I.T.T.",42005,PEDERSEN Mads,21992,0.3,0,2023-08-19,Harry
+1,1.1,Druivenkoers - Overijse,41939,CAMPENAERTS Victor,20184,2,0,2023-08-19,Vel
+2,1.1,Druivenkoers - Overijse,41939,TILLER Rasmus Fossum,25623,0.3,0,2023-08-19,PB
+3,1.1,Druivenkoers - Overijse,41939,DE BUYST Jasper,19274,0.1,0,2023-08-19,-
 1,2.1s,"Volta a Portugal, Stage 9 : Paredes - Mondim de Basto (prov.)",41987,WHELAN James,26953,0.2,0,2023-08-19,-
-1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 4 : Kalundborg - Bagsvaerd (prov.)",42004,JAKOBSEN Fabio,23426,0.3,0,2023-08-18,Kaspar
-1,2.PSs,"Vuelta a Burgos, Stage 4 : Santa Gadea del Cid - Pradoluengo (prov.)",41998,LAZKANO LOPEZ Oier,30595,0.3,0,2023-08-18,-
+1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 4 : Kalundborg - Bagsvaerd",42004,JAKOBSEN Fabio,23426,0.3,0,2023-08-18,Kaspar
+1,2.PSs,"Vuelta a Burgos, Stage 4 : Santa Gadea del Cid - Pradoluengo",41998,LAZKANO LOPEZ Oier,30595,0.3,0,2023-08-18,-
 1,2.PSs,"Arctic Race of Norway, Stage 2 : Alta - Hammerfest (prov.)",42008,GAZZOLI Michele,27702,0.3,0,2023-08-18,-
 1,2.1,"Tour du Limousin, General classification",41994,GREGOIRE Romain,32766,2,0,2023-08-18,-
 2,2.1,"Tour du Limousin, General classification",41994,COSNEFROY Benoît,24189,0.3,0,2023-08-18,PB
 3,2.1,"Tour du Limousin, General classification",41994,STORER Michael,25335,0.1,0,2023-08-18,Vel
 1,2.1s,"Volta a Portugal, Stage 8 : Boticas - Fafe (prov.)",41986,BUSTAMANTE RUDA Adrian Camilo,29580,0.2,0,2023-08-18,-
 1,2.1s,"Tour du Limousin, Stage 4 : Glandon - Limoges",41993,PAGE Hugo,30663,0.2,0,2023-08-18,Albert
-1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 3 : Vejen - Velje (prov.)",42003,SKJELMOSE JENSEN Mattias,30166,0.3,0,2023-08-17,Kaspar
-1,2.PSs,"Vuelta a Burgos, Stage 3 : Sargentes de la Lora - Villarcayo (prov.)",41997,ROGLIC Primoz,20719,0.3,0,2023-08-17,Bram
+1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 3 : Vejen - Velje",42003,SKJELMOSE JENSEN Mattias,30166,0.3,0,2023-08-17,Kaspar
+1,2.PSs,"Vuelta a Burgos, Stage 3 : Sargentes de la Lora - Villarcayo",41997,ROGLIC Primoz,20719,0.3,0,2023-08-17,Bram
 1,2.PSs,"Arctic Race of Norway, Stage 1 : Kautokeino - Alta (prov.)",42007,DAINESE Alberto,26965,0.3,0,2023-08-17,Vel
 1,2.1s,"Tour du Limousin, Stage 3 : Sarran - Bort les Orgues",41992,GREGOIRE Romain,32766,0.2,0,2023-08-17,-
