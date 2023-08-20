@@ -1,4 +1,26 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,PEDERSEN Mads,21992,10,50,2023-08-20,Harry
+2,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,VAN POPPEL Danny,19242,3,35,2023-08-20,Jan
+3,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,VIVIANI Elia,13240,1,25,2023-08-20,Paul
+4,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,DEMARE Arnaud,16653,0.5,20,2023-08-20,Wijnand
+5,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,PITHIE Laurence,31638,0.2,18,2023-08-20,-
+6,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,LAMPAERT Yves,19941,0,16,2023-08-20,Harry
+7,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,DE LIE Arnaud,32221,0,14,2023-08-20,Wijnand
+8,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,POLITT Nils,20847,0,12,2023-08-20,Albert
+9,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,KANTER Max,24961,0,10,2023-08-20,Frank
+10,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,HIRSCHI Marc,26509,0,8,2023-08-20,Bram
+1,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,WILLIAMS Stephen,24346,4,50,2023-08-20,-
+2,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,SCARONI Christian,27002,1,35,2023-08-20,-
+3,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,VERMAERKE Kevin,29332,0.5,25,2023-08-20,-
+4,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,JOHANNESSEN Tobias Halland,31567,0,20,2023-08-20,Albert
+5,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,TEUNS Dylan,17908,0,18,2023-08-20,Harry
+6,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,DINHAM Matthew,29788,0,16,2023-08-20,-
+7,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,MARTIN Guillaume,19994,0,14,2023-08-20,Jan
+8,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,ADRIA OLIVERAS Roger,27469,0,12,2023-08-20,-
+9,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,BONNEU Kamiel,32584,0,10,2023-08-20,-
+10,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,CHRISTOPHERSEN Cedrik Bakke,34232,0,8,2023-08-20,-
+1,2.PSs,"Arctic Race of Norway, Stage 4 : Kvalsund - Nordkapp (prov.)",42010,CHAMPOUSSIN Clément,27153,0.3,0,2023-08-20,Jan
+1,2.NCs,"Tour de l'Avenir, Stage 1 : Carnac - La Gacilly (prov.)",42017,FOLDAGER Anders,31400,0.0,0,2023-08-20,-
 1,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,PEDERSEN Mads,21992,4,50,2023-08-19,Harry
 2,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,SKJELMOSE JENSEN Mattias,30166,1,35,2023-08-19,Kaspar
 3,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,CORT NIELSEN Magnus,19448,0.5,25,2023-08-19,Vel
@@ -33,8 +55,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,2.1,"Tour du Limousin, General classification",41994,COSNEFROY Benoît,24189,0.3,0,2023-08-18,PB
 3,2.1,"Tour du Limousin, General classification",41994,STORER Michael,25335,0.1,0,2023-08-18,Vel
 1,2.1s,"Volta a Portugal, Stage 8 : Boticas - Fafe (prov.)",41986,BUSTAMANTE RUDA Adrian Camilo,29580,0.2,0,2023-08-18,-
-1,2.1s,"Tour du Limousin, Stage 4 : Glandon - Limoges",41993,PAGE Hugo,30663,0.2,0,2023-08-18,Albert
-1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 3 : Vejen - Velje",42003,SKJELMOSE JENSEN Mattias,30166,0.3,0,2023-08-17,Kaspar
-1,2.PSs,"Vuelta a Burgos, Stage 3 : Sargentes de la Lora - Villarcayo",41997,ROGLIC Primoz,20719,0.3,0,2023-08-17,Bram
-1,2.PSs,"Arctic Race of Norway, Stage 1 : Kautokeino - Alta (prov.)",42007,DAINESE Alberto,26965,0.3,0,2023-08-17,Vel
-1,2.1s,"Tour du Limousin, Stage 3 : Sarran - Bort les Orgues",41992,GREGOIRE Romain,32766,0.2,0,2023-08-17,-
