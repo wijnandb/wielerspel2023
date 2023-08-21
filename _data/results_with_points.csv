@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.NCs,"Tour de l'Avenir, Stage 2 : Nozay - Chinon (prov.)",42018,PICKRELL Riley,31786,0.0,0,2023-08-21,-
 1,1.WT2,Bemer Cyclassics - Hamburg,41943,PEDERSEN Mads,21992,10,50,2023-08-20,Harry
 2,1.WT2,Bemer Cyclassics - Hamburg,41943,VAN POPPEL Danny,19242,3,35,2023-08-20,Jan
 3,1.WT2,Bemer Cyclassics - Hamburg,41943,VIVIANI Elia,13240,1,25,2023-08-20,Paul
@@ -20,13 +21,13 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.PS,"Arctic Race of Norway, General classification",42011,BONNEU Kamiel,32584,0,10,2023-08-20,-
 10,2.PS,"Arctic Race of Norway, General classification",42011,CHRISTOPHERSEN Cedrik Bakke,34232,0,8,2023-08-20,-
 1,2.PSs,"Arctic Race of Norway, Stage 4 : Kvalsund - Nordkapp",42010,CHAMPOUSSIN Clément,27153,0.3,0,2023-08-20,Jan
-1,2.1,"Volta a Portugal, General classification (prov.)",41989,STÜSSI Colin,20681,2,0,2023-08-20,-
-2,2.1,"Volta a Portugal, General classification (prov.)",41989,JUARISTI ARRIETA Txomin,27111,0.3,0,2023-08-20,-
-3,2.1,"Volta a Portugal, General classification (prov.)",41989,CARVALHO Antonio Ferreira,13358,0.1,0,2023-08-20,-
+1,2.1,"Volta a Portugal, General classification",41989,STÜSSI Colin,20681,2,0,2023-08-20,-
+2,2.1,"Volta a Portugal, General classification",41989,JUARISTI ARRIETA Txomin,27111,0.3,0,2023-08-20,-
+3,2.1,"Volta a Portugal, General classification",41989,CARVALHO Antonio Ferreira,13358,0.1,0,2023-08-20,-
 1,1.1,Egmont Cycling Race,41941,DE BUYST Jasper,19274,2,0,2023-08-20,-
 2,1.1,Egmont Cycling Race,41941,KRISTOFF Alexander,4179,0.3,0,2023-08-20,Nicky
 3,1.1,Egmont Cycling Race,41941,TAMINIAUX Lionel,23416,0.1,0,2023-08-20,-
-1,2.1s,"Volta a Portugal, Stage 10 : Viana do Castelo - Viana do Castelo I.T.T. (prov.)",41988,JUARISTI ARRIETA Txomin,27111,0.2,0,2023-08-20,-
+1,2.1s,"Volta a Portugal, Stage 10 : Viana do Castelo - Viana do Castelo I.T.T.",41988,JUARISTI ARRIETA Txomin,27111,0.2,0,2023-08-20,-
 1,2.NCs,"Tour de l'Avenir, Stage 1 : Carnac - La Gacilly (prov.)",42017,FOLDAGER Anders,31400,0.0,0,2023-08-20,-
 1,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,PEDERSEN Mads,21992,4,50,2023-08-19,Harry
 2,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,SKJELMOSE JENSEN Mattias,30166,1,35,2023-08-19,Kaspar
@@ -54,7 +55,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Druivenkoers - Overijse,41939,CAMPENAERTS Victor,20184,2,0,2023-08-19,Vel
 2,1.1,Druivenkoers - Overijse,41939,TILLER Rasmus Fossum,25623,0.3,0,2023-08-19,PB
 3,1.1,Druivenkoers - Overijse,41939,DE BUYST Jasper,19274,0.1,0,2023-08-19,-
-1,2.1s,"Volta a Portugal, Stage 9 : Paredes - Mondim de Basto (prov.)",41987,WHELAN James,26953,0.2,0,2023-08-19,-
+1,2.1s,"Volta a Portugal, Stage 9 : Paredes - Mondim de Basto",41987,WHELAN James,26953,0.2,0,2023-08-19,-
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 4 : Kalundborg - Bagsvaerd",42004,JAKOBSEN Fabio,23426,0.3,0,2023-08-18,Kaspar
 1,2.PSs,"Vuelta a Burgos, Stage 4 : Santa Gadea del Cid - Pradoluengo",41998,LAZKANO LOPEZ Oier,30595,0.3,0,2023-08-18,-
 1,2.PSs,"Arctic Race of Norway, Stage 2 : Alta - Hammerfest (prov.)",42008,GAZZOLI Michele,27702,0.3,0,2023-08-18,-
