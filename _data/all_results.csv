@@ -1,28 +1,31 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,PEDERSEN Mads,21992,0.0,0,2023-08-20
-2,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,VAN POPPEL Danny,19242,0.0,0,2023-08-20
-3,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,VIVIANI Elia,13240,0.0,0,2023-08-20
-4,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,DEMARE Arnaud,16653,0.0,0,2023-08-20
-5,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,PITHIE Laurence,31638,0.0,0,2023-08-20
-6,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,LAMPAERT Yves,19941,0.0,0,2023-08-20
-7,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,DE LIE Arnaud,32221,0.0,0,2023-08-20
-8,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,POLITT Nils,20847,0.0,0,2023-08-20
-9,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,KANTER Max,24961,0.0,0,2023-08-20
-10,1.WT2,Bemer Cyclassics - Hamburg (prov.),41943,HIRSCHI Marc,26509,0.0,0,2023-08-20
-1,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,WILLIAMS Stephen,24346,0.0,0,2023-08-20
-2,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,SCARONI Christian,27002,0.0,0,2023-08-20
-3,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,VERMAERKE Kevin,29332,0.0,0,2023-08-20
-4,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,JOHANNESSEN Tobias Halland,31567,0.0,0,2023-08-20
-5,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,TEUNS Dylan,17908,0.0,0,2023-08-20
-6,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,DINHAM Matthew,29788,0.0,0,2023-08-20
-7,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,MARTIN Guillaume,19994,0.0,0,2023-08-20
-8,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,ADRIA OLIVERAS Roger,27469,0.0,0,2023-08-20
-9,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,BONNEU Kamiel,32584,0.0,0,2023-08-20
-10,2.PS,"Arctic Race of Norway, General classification (prov.)",42011,CHRISTOPHERSEN Cedrik Bakke,34232,0.0,0,2023-08-20
-1,2.PSs,"Arctic Race of Norway, Stage 4 : Kvalsund - Nordkapp (prov.)",42010,CHAMPOUSSIN Clément,27153,0.0,0,2023-08-20
-1,1.1,Egmont Cycling Race (prov.),41941,DE BUYST Jasper,19274,0.0,0,2023-08-20
-2,1.1,Egmont Cycling Race (prov.),41941,KRISTOFF Alexander,4179,0.0,0,2023-08-20
-3,1.1,Egmont Cycling Race (prov.),41941,TAMINIAUX Lionel,23416,0.0,0,2023-08-20
+1,1.WT2,Bemer Cyclassics - Hamburg,41943,PEDERSEN Mads,21992,0.0,0,2023-08-20
+2,1.WT2,Bemer Cyclassics - Hamburg,41943,VAN POPPEL Danny,19242,0.0,0,2023-08-20
+3,1.WT2,Bemer Cyclassics - Hamburg,41943,VIVIANI Elia,13240,0.0,0,2023-08-20
+4,1.WT2,Bemer Cyclassics - Hamburg,41943,DEMARE Arnaud,16653,0.0,0,2023-08-20
+5,1.WT2,Bemer Cyclassics - Hamburg,41943,PITHIE Laurence,31638,0.0,0,2023-08-20
+6,1.WT2,Bemer Cyclassics - Hamburg,41943,LAMPAERT Yves,19941,0.0,0,2023-08-20
+7,1.WT2,Bemer Cyclassics - Hamburg,41943,DE LIE Arnaud,32221,0.0,0,2023-08-20
+8,1.WT2,Bemer Cyclassics - Hamburg,41943,POLITT Nils,20847,0.0,0,2023-08-20
+9,1.WT2,Bemer Cyclassics - Hamburg,41943,KANTER Max,24961,0.0,0,2023-08-20
+10,1.WT2,Bemer Cyclassics - Hamburg,41943,HIRSCHI Marc,26509,0.0,0,2023-08-20
+1,2.PS,"Arctic Race of Norway, General classification",42011,WILLIAMS Stephen,24346,0.0,0,2023-08-20
+2,2.PS,"Arctic Race of Norway, General classification",42011,SCARONI Christian,27002,0.0,0,2023-08-20
+3,2.PS,"Arctic Race of Norway, General classification",42011,VERMAERKE Kevin,29332,0.0,0,2023-08-20
+4,2.PS,"Arctic Race of Norway, General classification",42011,JOHANNESSEN Tobias Halland,31567,0.0,0,2023-08-20
+5,2.PS,"Arctic Race of Norway, General classification",42011,TEUNS Dylan,17908,0.0,0,2023-08-20
+6,2.PS,"Arctic Race of Norway, General classification",42011,DINHAM Matthew,29788,0.0,0,2023-08-20
+7,2.PS,"Arctic Race of Norway, General classification",42011,MARTIN Guillaume,19994,0.0,0,2023-08-20
+8,2.PS,"Arctic Race of Norway, General classification",42011,ADRIA OLIVERAS Roger,27469,0.0,0,2023-08-20
+9,2.PS,"Arctic Race of Norway, General classification",42011,BONNEU Kamiel,32584,0.0,0,2023-08-20
+10,2.PS,"Arctic Race of Norway, General classification",42011,CHRISTOPHERSEN Cedrik Bakke,34232,0.0,0,2023-08-20
+1,2.PSs,"Arctic Race of Norway, Stage 4 : Kvalsund - Nordkapp",42010,CHAMPOUSSIN Clément,27153,0.0,0,2023-08-20
+1,2.1,"Volta a Portugal, General classification (prov.)",41989,STÜSSI Colin,20681,0.0,0,2023-08-20
+2,2.1,"Volta a Portugal, General classification (prov.)",41989,JUARISTI ARRIETA Txomin,27111,0.0,0,2023-08-20
+3,2.1,"Volta a Portugal, General classification (prov.)",41989,CARVALHO Antonio Ferreira,13358,0.0,0,2023-08-20
+1,1.1,Egmont Cycling Race,41941,DE BUYST Jasper,19274,0.0,0,2023-08-20
+2,1.1,Egmont Cycling Race,41941,KRISTOFF Alexander,4179,0.0,0,2023-08-20
+3,1.1,Egmont Cycling Race,41941,TAMINIAUX Lionel,23416,0.0,0,2023-08-20
 1,2.1s,"Volta a Portugal, Stage 10 : Viana do Castelo - Viana do Castelo I.T.T. (prov.)",41988,JUARISTI ARRIETA Txomin,27111,0.0,0,2023-08-20
 1,2.NCs,"Tour de l'Avenir, Stage 1 : Carnac - La Gacilly (prov.)",42017,FOLDAGER Anders,31400,0.0,0,2023-08-20
 1,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,PEDERSEN Mads,21992,0.0,0,2023-08-19
@@ -46,7 +49,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,2.PS,"Vuelta a Burgos, General classification",42000,LOPEZ GRANIZO Harold Martin,29525,0.0,0,2023-08-19
 10,2.PS,"Vuelta a Burgos, General classification",42000,BOU COMPANY Joan,27598,0.0,0,2023-08-19
 1,2.PSs,"Vuelta a Burgos, Stage 5 : Golmayo - Lagunas de Neila",41999,ROGLIC Primoz,20719,0.0,0,2023-08-19
-1,2.PSs,"Arctic Race of Norway, Stage 3 : Hammerfest - Havøysund Summit (prov.)",42009,WILLIAMS Stephen,24346,0.0,0,2023-08-19
+1,2.PSs,"Arctic Race of Norway, Stage 3 : Hammerfest - Havøysund Summit",42009,WILLIAMS Stephen,24346,0.0,0,2023-08-19
 1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 5 : Helsingør - Helsingør I.T.T.",42005,PEDERSEN Mads,21992,0.0,0,2023-08-19
 1,1.1,Druivenkoers - Overijse,41939,CAMPENAERTS Victor,20184,0.0,0,2023-08-19
 2,1.1,Druivenkoers - Overijse,41939,TILLER Rasmus Fossum,25623,0.0,0,2023-08-19
