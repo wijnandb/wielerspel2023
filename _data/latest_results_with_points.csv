@@ -1,5 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.WT2s,"Renewi Tour, Stage 1 : Blankenberge - Ardooie (prov.)",42040,PHILIPSEN Jasper,26392,0.5,0,2023-08-23,Nicky
+1,2.PSs,"Deutschland Tour, Prologue : St. Wendel I.T.T. (prov.)",42034,VERNON Ethan,30035,0.3,0,2023-08-23,Arjan
+1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 2 : Aulnay de Saintonge - Bressuire (prov.)",42029,PENHOËT Paul,30686,0.2,0,2023-08-23,-
+1,2.NCs,"Tour de l'Avenir, Stage 4 : Aigurande - Evaux-les-Bains (prov.)",42020,CHRISTEN Fabio,31719,0.0,0,2023-08-23,-
+1,NC5,National Championships Uzbekistan (Gazalkent) R.R. (prov.),41463,BOCHAROV Dmitriy,31660,1,0,2023-08-23,-
 1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 1 : Confolens - Matha (prov.)",42028,WAERENSKJOLD Søren,29187,0.2,0,2023-08-22,-
+1,NCT5,National Championships Uzbekistan (Gazalkent) I.T.T. (prov.),41464,FOMOVSKIY Alexey,29814,0.5,0,2023-08-22,-
 1,2.NCs,"Tour de l'Avenir, Stage 2 : Nozay - Chinon (prov.)",42018,PICKRELL Riley,31786,0.0,0,2023-08-21,-
 1,1.WT2,Bemer Cyclassics - Hamburg,41943,PEDERSEN Mads,21992,10,50,2023-08-20,Harry
 2,1.WT2,Bemer Cyclassics - Hamburg,41943,VAN POPPEL Danny,19242,3,35,2023-08-20,Jan
@@ -50,10 +56,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.PS,"Vuelta a Burgos, General classification",42000,VINE Jay,29568,0,12,2023-08-19,Vel
 9,2.PS,"Vuelta a Burgos, General classification",42000,LOPEZ GRANIZO Harold Martin,29525,0,10,2023-08-19,-
 10,2.PS,"Vuelta a Burgos, General classification",42000,BOU COMPANY Joan,27598,0,8,2023-08-19,-
-1,2.PSs,"Vuelta a Burgos, Stage 5 : Golmayo - Lagunas de Neila",41999,ROGLIC Primoz,20719,0.3,0,2023-08-19,Bram
-1,2.PSs,"Arctic Race of Norway, Stage 3 : Hammerfest - Havøysund Summit",42009,WILLIAMS Stephen,24346,0.3,0,2023-08-19,-
-1,2.PSs,"Danmark Rundt - Tour of Denmark, Stage 5 : Helsingør - Helsingør I.T.T.",42005,PEDERSEN Mads,21992,0.3,0,2023-08-19,Harry
-1,1.1,Druivenkoers - Overijse,41939,CAMPENAERTS Victor,20184,2,0,2023-08-19,Vel
-2,1.1,Druivenkoers - Overijse,41939,TILLER Rasmus Fossum,25623,0.3,0,2023-08-19,PB
-3,1.1,Druivenkoers - Overijse,41939,DE BUYST Jasper,19274,0.1,0,2023-08-19,-
-1,2.1s,"Volta a Portugal, Stage 9 : Paredes - Mondim de Basto",41987,WHELAN James,26953,0.2,0,2023-08-19,-
