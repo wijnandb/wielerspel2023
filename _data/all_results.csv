@@ -1,5 +1,11 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT2s,"Renewi Tour, Stage 1 : Blankenberge - Ardooie (prov.)",42040,PHILIPSEN Jasper,26392,0.0,0,2023-08-23
+1,2.PSs,"Deutschland Tour, Prologue : St. Wendel I.T.T. (prov.)",42034,VERNON Ethan,30035,0.0,0,2023-08-23
+1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 2 : Aulnay de Saintonge - Bressuire (prov.)",42029,PENHOËT Paul,30686,0.0,0,2023-08-23
+1,2.NCs,"Tour de l'Avenir, Stage 4 : Aigurande - Evaux-les-Bains (prov.)",42020,CHRISTEN Fabio,31719,0.0,0,2023-08-23
+1,NC5,National Championships Uzbekistan (Gazalkent) R.R. (prov.),41463,BOCHAROV Dmitriy,31660,0.0,0,2023-08-23
 1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 1 : Confolens - Matha (prov.)",42028,WAERENSKJOLD Søren,29187,0.0,0,2023-08-22
+1,NCT5,National Championships Uzbekistan (Gazalkent) I.T.T. (prov.),41464,FOMOVSKIY Alexey,29814,0.0,0,2023-08-22
 1,2.NCs,"Tour de l'Avenir, Stage 2 : Nozay - Chinon (prov.)",42018,PICKRELL Riley,31786,0.0,0,2023-08-21
 1,1.WT2,Bemer Cyclassics - Hamburg,41943,PEDERSEN Mads,21992,0.0,0,2023-08-20
 2,1.WT2,Bemer Cyclassics - Hamburg,41943,VAN POPPEL Danny,19242,0.0,0,2023-08-20
@@ -963,7 +969,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 2,1.1,Boucles de l'Aulne - Châteaulin,41324,VERMEERSCH Florian,28127,0.0,0,2023-05-14
 3,1.1,Boucles de l'Aulne - Châteaulin,41324,BARRENETXEA GOLZARRI Jon,31685,0.0,0,2023-05-14
 1,NC5,National Championships Bolivia (Villazon) R.R. (prov.),41318,GONZALES SOTO Freddy,25689,0.0,0,2023-05-14
-1,NC5,National Championships Uzbekistan (Bostonliq) R.R.,41463,KHALMURATOV Muradjan,1310,0.0,0,2023-05-14
 1,NC5,National Championships El Salvador (San Salvador) R.R.,41317,JOYA Jose Dagoberto,23087,0.0,0,2023-05-14
 1,NC5,National Championships Cyprus (Mathiatis) R.R.,41323,MATSANGOS Alexandros,28594,0.0,0,2023-05-14
 1,GT2s,"Giro dItalia, Stage 8 : Terni - Fossombrone (prov.)",41356,HEALY Ben,28846,0.0,0,2023-05-13
