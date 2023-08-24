@@ -1,10 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT2s,"Renewi Tour, Stage 2 : Sluis - Sluis I.T.T. (prov.)",42041,TARLING Joshua,34297,0.0,0,2023-08-24
+1,2.PSs,"Deutschland Tour, Stage 1 : St. Wendel - Merzig (prov.)",42035,VAN WILDER Ilan,29828,0.0,0,2023-08-24
+1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 3b : La Roche-Posay - La Roche-Posay I.T.T. (prov.)",42031,ARMIRAIL Bruno,22906,0.0,0,2023-08-24
+1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 3a : Coussay-les-Bois - La Roche-Posay (prov.)",42030,RIVI Samuele,28522,0.0,0,2023-08-24
+1,2.NCs,"Tour de l'Avenir, Stage 5 : La Tour-de-Salvagny - Lac d'Aiguebelette (prov.)",42021,ROMEO ABAD Ivan,32764,0.0,0,2023-08-24
+1,NC5,National Championships Indonesia (Lubuk Linggau) R.R. (prov.),41742,KUSUMA Terry Yudha,33545,0.0,0,2023-08-24
 1,2.WT2s,"Renewi Tour, Stage 1 : Blankenberge - Ardooie (prov.)",42040,PHILIPSEN Jasper,26392,0.0,0,2023-08-23
 1,2.PSs,"Deutschland Tour, Prologue : St. Wendel I.T.T. (prov.)",42034,VERNON Ethan,30035,0.0,0,2023-08-23
 1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 2 : Aulnay de Saintonge - Bressuire (prov.)",42029,PENHOËT Paul,30686,0.0,0,2023-08-23
 1,2.NCs,"Tour de l'Avenir, Stage 4 : Aigurande - Evaux-les-Bains (prov.)",42020,CHRISTEN Fabio,31719,0.0,0,2023-08-23
 1,NC5,National Championships Uzbekistan (Gazalkent) R.R. (prov.),41463,BOCHAROV Dmitriy,31660,0.0,0,2023-08-23
 1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 1 : Confolens - Matha (prov.)",42028,WAERENSKJOLD Søren,29187,0.0,0,2023-08-22
+1,NCT5,National Championships Indonesia (Lubuk Linggau) I.T.T. (prov.),41741,CAHYADI Aiman,20954,0.0,0,2023-08-22
 1,NCT5,National Championships Uzbekistan (Gazalkent) I.T.T. (prov.),41464,FOMOVSKIY Alexey,29814,0.0,0,2023-08-22
 1,2.NCs,"Tour de l'Avenir, Stage 2 : Nozay - Chinon (prov.)",42018,PICKRELL Riley,31786,0.0,0,2023-08-21
 1,1.WT2,Bemer Cyclassics - Hamburg,41943,PEDERSEN Mads,21992,0.0,0,2023-08-20
@@ -31,28 +38,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1,"Volta a Portugal, General classification",41989,STÜSSI Colin,20681,0.0,0,2023-08-20
 2,2.1,"Volta a Portugal, General classification",41989,JUARISTI ARRIETA Txomin,27111,0.0,0,2023-08-20
 3,2.1,"Volta a Portugal, General classification",41989,CARVALHO Antonio Ferreira,13358,0.0,0,2023-08-20
-1,1.1,Egmont Cycling Race,41941,DE BUYST Jasper,19274,0.0,0,2023-08-20
-2,1.1,Egmont Cycling Race,41941,KRISTOFF Alexander,4179,0.0,0,2023-08-20
-3,1.1,Egmont Cycling Race,41941,TAMINIAUX Lionel,23416,0.0,0,2023-08-20
-1,2.1s,"Volta a Portugal, Stage 10 : Viana do Castelo - Viana do Castelo I.T.T.",41988,JUARISTI ARRIETA Txomin,27111,0.0,0,2023-08-20
-1,2.NCs,"Tour de l'Avenir, Stage 1 : Carnac - La Gacilly (prov.)",42017,FOLDAGER Anders,31400,0.0,0,2023-08-20
-1,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,PEDERSEN Mads,21992,0.0,0,2023-08-19
-2,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,SKJELMOSE JENSEN Mattias,30166,0.0,0,2023-08-19
-3,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,CORT NIELSEN Magnus,19448,0.0,0,2023-08-19
-4,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,WAERENSKJOLD Søren,29187,0.0,0,2023-08-19
-5,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,VERMEERSCH Florian,28127,0.0,0,2023-08-19
-6,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,KAMP Alexander,19391,0.0,0,2023-08-19
-7,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,VAN MOER Brent,28448,0.0,0,2023-08-19
-8,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,BREGNHØJ Mathias,25637,0.0,0,2023-08-19
-9,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,SKUJINS Toms,16739,0.0,0,2023-08-19
-10,2.PS,"Danmark Rundt - Tour of Denmark, General classification",42006,KLARIS Magnus Bak,23433,0.0,0,2023-08-19
-1,2.PS,"Vuelta a Burgos, General classification",42000,ROGLIC Primoz,20719,0.0,0,2023-08-19
-2,2.PS,"Vuelta a Burgos, General classification",42000,VLASOV Aleksandr,24316,0.0,0,2023-08-19
-3,2.PS,"Vuelta a Burgos, General classification",42000,YATES Adam,18975,0.0,0,2023-08-19
-4,2.PS,"Vuelta a Burgos, General classification",42000,HOWSON Damien,18239,0.0,0,2023-08-19
-5,2.PS,"Vuelta a Burgos, General classification",42000,RUBIO REYES Einer Augusto,27024,0.0,0,2023-08-19
-6,2.PS,"Vuelta a Burgos, General classification",42000,BENNETT George,12254,0.0,0,2023-08-19
-7,2.PS,"Vuelta a Burgos, General classification",42000,ROMO OLIVER Javier,31678,0.0,0,2023-08-19
-8,2.PS,"Vuelta a Burgos, General classification",42000,VINE Jay,29568,0.0,0,2023-08-19
-9,2.PS,"Vuelta a Burgos, General classification",42000,LOPEZ GRANIZO Harold Martin,29525,0.0,0,2023-08-19
-10,2.PS,"Vuelta a Burgos, General classification",42000,BOU COMPANY Joan,27598,0.0,0,2023-08-19
