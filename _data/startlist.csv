@@ -70,9 +70,9 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 187,102,Alexander Konychev,28530,Team corratec - Selle Italia,ITA,-,-,-,
 187,103,Andrii Ponomar,28530,Team corratec - Selle Italia,,-,-,-,
 187,104,Nicolas Tivani,22472,Team corratec - Selle Italia,ARG,-,-,-,
-187,105,Attilio Viviani,26827,Team corratec - Selle Italia,ITA,-,-,-,
+187,105,Attilio Viviani,26827,Team corratec - Selle Italia,ITA,-,-,-,1
 187,106,Charlie Quarterman,26450,Team corratec - Selle Italia,GBR,-,-,-,1
-187,107,Samuele Zambelli,28403,Team corratec - Selle Italia,ITA,-,-,-,
+187,107,Samuele Zambelli,28403,Team corratec - Selle Italia,ITA,-,-,-,1
 187,111,Aloïs Charrin,29846,Tudor Pro Cycling Team,FRA,-,-,-,
 187,112,Robin Froidevaux,26377,Tudor Pro Cycling Team,SUI,-,-,-,
 187,113,Petr Kelemen,29981,Tudor Pro Cycling Team,CZE,-,-,-,
@@ -138,7 +138,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 36,22,Abner González,29768,Movistar Team,PUR,-,-,-,
 36,23,Juri Hollmann,27818,Movistar Team,GER,-,-,-,
 36,24,Gregor Mühlberger,21128,Movistar Team,AUT,-,-,-,
-36,25,Sergio Samitier,27637,Movistar Team,ESP,-,-,-,
+36,25,Sergio Samitier,27637,Movistar Team,ESP,-,-,-,1
 36,26,Ivan Sosa,26378,Movistar Team,COL,Nick Veenstra,Nicky,7,
 36,31,Nils Politt,20847,BORA-hansgrohe,GER,Albert Kraaij,Albert,3,
 36,32,Sam Bennett,13362,BORA-hansgrohe,IRL,Pieter-Bas de Bruijn,PB,11,
@@ -181,7 +181,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 36,94,Madis Mihkels,32946,Intermarché-Circus-Wanty,EST,Albert Kraaij,Albert,1,
 36,95,Simone Petilli,19902,Intermarché-Circus-Wanty,ITA,-,-,-,
 36,96,Adrien Petit,14273,Intermarché-Circus-Wanty,FRA,-,-,-,
-36,101,Alexander Kristoff,4179,Uno-X Pro Cycling Team,NOR,Nick Veenstra,Nicky,7,
+36,101,Alexander Kristoff,4179,Uno-X Pro Cycling Team,NOR,Nick Veenstra,Nicky,7,1
 36,102,Jonas Abrahamsen,22233,Uno-X Pro Cycling Team,NOR,-,-,-,
 36,103,Anders Halland Johannessen,31420,Uno-X Pro Cycling Team,NOR,-,-,-,
 36,104,Jacob Hindsgaul Madsen,29275,Uno-X Pro Cycling Team,DEN,-,-,-,
@@ -516,13 +516,13 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 23,,Eduardo Sepulveda,18487,Lotto Dstny,ARG,-,-,-,
 23,,Lennert Van Eetvelt,32225,Lotto Dstny,BEL,-,-,-,
 23,,Jorge Arcas,24514,Movistar Team,ESP,-,-,-,
+23,,Imanol Erviti,1760,Movistar Team,ESP,-,-,-,
 23,,Iván García Cortina,23497,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,1,
 23,,Ruben Guerreiro,22683,Movistar Team,POR,Jan Versluys,Jan,1,
 23,,Oier Lazkano,30595,Movistar Team,ESP,-,-,-,
 23,,Enric Mas,22794,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,17,
 23,,Nelson Oliveira,13274,Movistar Team,POR,-,-,-,
 23,,Einer Rubio,27024,Movistar Team,COL,Frank Rozemeijer,Frank,0,
-23,,Carlos Verona,17994,Movistar Team,ESP,-,-,-,
 23,,Andrea Bagioli,28452,Soudal Quick-Step,ITA,Albert Kraaij,Albert,2,
 23,,Mattia Cattaneo,16936,Soudal Quick-Step,ITA,Albert Kraaij,Albert,1,
 23,,Remco Evenepoel,28377,Soudal Quick-Step,BEL,Roy Smits,Roy,70,
