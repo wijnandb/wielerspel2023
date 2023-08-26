@@ -1,4 +1,8 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT2s,"Renewi Tour, Stage 4 : Beringen - Peer (prov.)",42043,WELSFORD Samuel,23517,0.0,0,2023-08-26
+1,2.PSs,"Deutschland Tour, Stage 3 : Arnsberg - Essen (prov.)",42037,MIHKELS Madis,32946,0.0,0,2023-08-26
+1,2.NCs,"Tour de l'Avenir, Stage 7b : Les Karellis - Col du Mont Cenis (prov.)",42024,RYAN Archie,30565,0.0,0,2023-08-26
+1,2.NCs,"Tour de l'Avenir, Stage 7a : Montricher-Albanne - Les Karellis I.T.T. (prov.)",42023,RICCITELLO Matthew,31559,0.0,0,2023-08-26
 1,2.WT2s,"Renewi Tour, Stage 3 : Aalter - Geraardsbergen (prov.)",42042,TEUNISSEN Mike,19165,0.0,0,2023-08-25
 1,2.PSs,"Deutschland Tour, Stage 2 : Kassel - Winterberg (prov.)",42036,MÜHLBERGER Gregor,21128,0.0,0,2023-08-25
 1,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification",42033,WAERENSKJOLD Søren,29187,0.0,0,2023-08-25
@@ -14,8 +18,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,NC5,National Championships Indonesia (Lubuk Linggau) R.R. (prov.),41742,KUSUMA Terry Yudha,33545,0.0,0,2023-08-24
 1,2.WT2s,"Renewi Tour, Stage 1 : Blankenberge - Ardooie (prov.)",42040,PHILIPSEN Jasper,26392,0.0,0,2023-08-23
 1,2.PSs,"Deutschland Tour, Prologue : St. Wendel I.T.T. (prov.)",42034,VERNON Ethan,30035,0.0,0,2023-08-23
-1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 2 : Aulnay de Saintonge - Bressuire",42029,PENHOËT Paul,30686,0.0,0,2023-08-23
-1,2.NCs,"Tour de l'Avenir, Stage 4 : Aigurande - Evaux-les-Bains (prov.)",42020,CHRISTEN Fabio,31719,0.0,0,2023-08-23
-1,NC5,National Championships Uzbekistan (Gazalkent) R.R.,41463,BOCHAROV Dmitriy,31660,0.0,0,2023-08-23
-1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 1 : Confolens - Matha",42028,WAERENSKJOLD Søren,29187,0.0,0,2023-08-22
-1,NCT5,National Championships Indonesia (Lubuk Linggau) I.T.T.,41741,CAHYADI Aiman,20954,0.0,0,2023-08-22
