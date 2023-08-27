@@ -119,10 +119,10 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 36,195,Luca Martin,29412,Rad-Net Osswald,,-,-,-,
 36,196,Theo Reinhardt,29412,Rad-Net Osswald,,-,-,-,
 21,1,Jasper Philipsen,26392,Alpecin-Deceuninck,BEL,Nick Veenstra,Nicky,11,
-21,2,Silvan Dillier,16731,Alpecin-Deceuninck,SUI,-,-,-,
+21,2,Silvan Dillier,16731,Alpecin-Deceuninck,SUI,-,-,-,1
 21,3,Søren Kragh Andersen,20793,Alpecin-Deceuninck,DEN,Frank Vellinga,Vel,2,
 21,4,Senne Leysen,24226,Alpecin-Deceuninck,BEL,-,-,-,
-21,5,Xandro Meurisse,20165,Alpecin-Deceuninck,BEL,-,-,-,
+21,5,Xandro Meurisse,20165,Alpecin-Deceuninck,BEL,-,-,-,1
 21,6,Jonas Rickaert,21374,Alpecin-Deceuninck,BEL,-,-,-,
 21,7,Gianni Vermeersch,18247,Alpecin-Deceuninck,BEL,Paul van Doorn,Paul,0,
 21,11,Olav Kooij,30643,Jumbo-Visma,NED,Albert Kraaij,Albert,13,
@@ -197,7 +197,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 21,107,Lukasz Wisniowski,18780,EF Education-EasyPost,POL,-,-,-,
 21,111,Greg Van Avermaet,3333,AG2R Citroën Team,BEL,Albert Kraaij,Albert,1,
 21,112,Stan Dewulf,25655,AG2R Citroën Team,BEL,Kaspar Burghard,Kaspar,0,
-21,113,Pierre Gautherat,33533,AG2R Citroën Team,FRA,-,-,-,
+21,113,Pierre Gautherat,33533,AG2R Citroën Team,FRA,-,-,-,1
 21,114,Lawrence Naesen,23364,AG2R Citroën Team,BEL,-,-,-,
 21,115,Oliver Naesen,21392,AG2R Citroën Team,BEL,Harry Koene,Harry,1,
 21,116,Bastien Tronchon,32134,AG2R Citroën Team,FRA,-,-,-,
@@ -230,7 +230,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 21,155,Lluis Mas,12387,Movistar Team,ESP,-,-,-,1
 21,156,Albert Torres,16578,Movistar Team,ESP,-,-,-,1
 21,157,Max Kanter,24961,Movistar Team,GER,Frank Rozemeijer,Frank,2,
-21,161,Jenthe Biermans,22010,Team Arkéa-Samsic,BEL,-,-,-,
+21,161,Jenthe Biermans,22010,Team Arkéa-Samsic,BEL,-,-,-,1
 21,162,Arnaud Démare,16653,Team Arkéa-Samsic,FRA,Wijnand Baretta,Wijnand,13,
 21,163,Donavan Grondin,29832,Team Arkéa-Samsic,FRA,-,-,-,
 21,164,Matis Louvel,29982,Team Arkéa-Samsic,FRA,Paul van Doorn,Paul,3,
@@ -300,9 +300,9 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 23,32,Thymen Arensman,27716,INEOS Grenadiers,NED,Kaspar Burghard,Kaspar,13,
 23,33,Egan Bernal,24926,INEOS Grenadiers,COL,Paul van Doorn,Paul,28,
 23,34,Jonathan Castroviejo,9811,INEOS Grenadiers,ESP,-,-,-,
-23,35,Laurens De Plus,24106,INEOS Grenadiers,BEL,-,-,-,
-23,36,Omar Fraile,19335,INEOS Grenadiers,ESP,Arjan Knibbe,Arjan,1,
-23,37,Filippo Ganna,24057,INEOS Grenadiers,ITA,Jan Versluys,Jan,16,
+23,35,Laurens De Plus,24106,INEOS Grenadiers,BEL,-,-,-,1
+23,36,Filippo Ganna,24057,INEOS Grenadiers,ITA,Jan Versluys,Jan,16,
+23,37,Omar Fraile,19335,INEOS Grenadiers,ESP,Arjan Knibbe,Arjan,1,
 23,38,Kim Heiduk,29436,INEOS Grenadiers,GER,Albert Kraaij,Albert,0,
 23,41,Santiago Buitrago,29699,Bahrain Victorious,COL,Jan Versluys,Jan,2,
 23,42,Damiano Caruso,6177,Bahrain Victorious,ITA,Jan Versluys,Jan,1,
