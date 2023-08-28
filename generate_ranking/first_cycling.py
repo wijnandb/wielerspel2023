@@ -68,11 +68,9 @@ def scrape_result(racename, jersey, year=YEAR):
     
     """
     race_id = str(racename_to_id(racename))
-    print(f"{racename} omgezet naar id: {race_id}")
+    # print(f"{racename} omgezet naar id: {race_id}")
     stage = str(stagename_to_number(racename))
     # print(stage)
-    # I could breakout here if the stagenumber is 21, meaning the race has finished.
-    # whenever a GT has a different number of stages, I need to change this.
     if stage == "0":
         stage=""
     year = str(year)
@@ -85,10 +83,11 @@ def scrape_result(racename, jersey, year=YEAR):
     div = soup.find("div", id=jersey)
     # print(div)
     if div:
-        print(f"Looking for wearer of {jersey} jersey")
+        # print(f"Looking for wearer of {jersey} jersey")
         table = div.find("tbody")
+        # print("Found table")
         tablerow = table.find("tr")
-        # print(tablerows[:1])
+        # print(tablerow)
         # for tablerow in tablerows[:1]:
         tds = tablerow.find_all("td")
         if len(tds) == 1:
@@ -96,26 +95,36 @@ def scrape_result(racename, jersey, year=YEAR):
         # print(tds[0].text)
         if int(tds[0].text) == 1:
             try:
-                link = tds[3].find('a').get('href').split('=')[1]
-                name = tds[3].text.strip()
-                # print(f"Found {name} as wearer of {jersey} jersey in cell 3")
+                link = tds[1].find('a').get('href').split('=')[1]
+                name = tds[1].text.strip()
+                # print(f"Found {name} as wearer of {jersey} jersey in cell 1")
             except:
-                link = tds[4].find('a').get('href').split('=')[1]
-                name = tds[4].text.strip()
-                # print(f"Found {name} as wearer of {jersey} jersey in cell 4")
+                try:
+                    link = tds[2].find('a').get('href').split('=')[1]
+                    name = tds[2].text.strip()
+                    # print(f"Found {name} as wearer of {jersey} jersey in cell 2")
+                except:
+                    try:
+                        link = tds[3].find('a').get('href').split('=')[1]
+                        name = tds[3].text.strip()
+                        # print(f"Found {name} as wearer of {jersey} jersey in cell 3")
+                    except:
+                        link = tds[4].find('a').get('href').split('=')[1]
+                        name = tds[4].text.strip()
+                        # print(f"Found {name} as wearer of {jersey} jersey in cell 4")
             fc_rider_id = link.split('&')[0]
             # print(f"Found rider_id {fc_rider_id} for {name}")
             rider_id, country = ridername_to_id(name, fc_rider_id)
             return rider_id, name
         else:
-            print(f"Did not find a number 1, in race { race_id } for year { year}")
-        
+            # print(f"Did not find a number 1, in race { race_id } for year { year}")
+            return None, None
             """
             Now I want to get the rider_id from CQranking
             by passing in the rider name
             """
     else:
-        return None
+        return None, None
 
 
 def ridername_to_id(name, fc_rider_id):
