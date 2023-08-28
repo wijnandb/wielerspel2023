@@ -1,8 +1,50 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,2.WT2s,"Renewi Tour, Stage 4 : Beringen - Peer (prov.)",42043,WELSFORD Samuel,23517,0.5,0,2023-08-26,PB
-1,2.PSs,"Deutschland Tour, Stage 3 : Arnsberg - Essen (prov.)",42037,MIHKELS Madis,32946,0.3,0,2023-08-26,Albert
-1,2.NCs,"Tour de l'Avenir, Stage 7b : Les Karellis - Col du Mont Cenis (prov.)",42024,RYAN Archie,30565,0.0,0,2023-08-26,-
-1,2.NCs,"Tour de l'Avenir, Stage 7a : Montricher-Albanne - Les Karellis I.T.T. (prov.)",42023,RICCITELLO Matthew,31559,0.0,0,2023-08-26,-
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Piccolo Andrea,30648,1,0,2023-08-27,Albert
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Piccolo Andrea,30648,0.1,0,2023-08-27,Albert
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Kron Andreas,26420,0.2,0,2023-08-27,Paul
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Sobrero Matteo,27033,0.2,0,2023-08-27,Vel
+1,GT2s,"Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,KRON Andreas Lorentz,26420,2,0,2023-08-27,Paul
+1,2.WT2,"Renewi Tour, General classification",42045,WELLENS Tim,16722,5,50,2023-08-27,Albert
+2,2.WT2,"Renewi Tour, General classification",42045,VERMEERSCH Florian,28127,2,35,2023-08-27,Albert
+3,2.WT2,"Renewi Tour, General classification",42045,LAMPAERT Yves,19941,0.5,25,2023-08-27,Harry
+4,2.WT2,"Renewi Tour, General classification",42045,STUYVEN Jasper,18233,0,20,2023-08-27,PB
+5,2.WT2,"Renewi Tour, General classification",42045,TEUNISSEN Mike,19165,0,18,2023-08-27,Albert
+6,2.WT2,"Renewi Tour, General classification",42045,MOHORIC Matej,21145,0,16,2023-08-27,Frank
+7,2.WT2,"Renewi Tour, General classification",42045,ZINGLE Axel,31263,0,14,2023-08-27,Paul
+8,2.WT2,"Renewi Tour, General classification",42045,TRENTIN Matteo,13270,0,12,2023-08-27,Nicky
+9,2.WT2,"Renewi Tour, General classification",42045,HIRSCHI Marc,26509,0,10,2023-08-27,Bram
+10,2.WT2,"Renewi Tour, General classification",42045,ANDERSEN Søren Kragh,20793,0,8,2023-08-27,Vel
+1,2.WT2s,"Renewi Tour, Stage 5 : Riemst - Bilzen",42044,MOHORIC Matej,21145,0.5,0,2023-08-27,Frank
+1,2.WT2r,"Renewi Tour, Points classification",42046,DE LIE Arnaud,32221,0.0,0,2023-08-27,Wijnand
+1,2.PS,"Deutschland Tour, General classification",42039,VAN WILDER Ilan,29828,4,50,2023-08-27,Wijnand
+2,2.PS,"Deutschland Tour, General classification",42039,GROSSSCHARTNER Felix,19548,1,35,2023-08-27,Albert
+3,2.PS,"Deutschland Tour, General classification",42039,VAN POPPEL Danny,19242,0.5,25,2023-08-27,Jan
+4,2.PS,"Deutschland Tour, General classification",42039,SIVAKOV Pavel,24934,0,20,2023-08-27,Paul
+5,2.PS,"Deutschland Tour, General classification",42039,ARANBURU DEBA Alexander,23940,0,18,2023-08-27,Jan
+6,2.PS,"Deutschland Tour, General classification",42039,VERMAERKE Kevin,29332,0,16,2023-08-27,-
+7,2.PS,"Deutschland Tour, General classification",42039,TILLER Rasmus Fossum,25623,0,14,2023-08-27,PB
+8,2.PS,"Deutschland Tour, General classification",42039,HERMANS Quinten,22077,0,12,2023-08-27,Frank
+9,2.PS,"Deutschland Tour, General classification",42039,POLITT Nils,20847,0,10,2023-08-27,Albert
+10,2.PS,"Deutschland Tour, General classification",42039,TEUNS Dylan,17908,0,8,2023-08-27,Harry
+1,2.PSs,"Deutschland Tour, Stage 4 : Hannover - Bremen",42038,DE KLEIJN Arvid,22596,0.3,0,2023-08-27,-
+1,2.1s,"Tour of Iran-Azarbaijan, Stage 1 : Tabriz - Urmiae (prov.)",42083,CARSTENSEN Lucas,22704,0.2,0,2023-08-27,-
+1,2.NC,"Tour de l'Avenir, General classification",42027,DEL TORO ROMERO Isaac,33556,0.0,0,2023-08-27,-
+2,2.NC,"Tour de l'Avenir, General classification",42027,PELLIZZARI Giulio,33100,0.0,0,2023-08-27,-
+3,2.NC,"Tour de l'Avenir, General classification",42027,PIGANZOLI Davide,32232,0.0,0,2023-08-27,-
+4,2.NC,"Tour de l'Avenir, General classification",42027,RICCITELLO Matthew,31559,0.0,0,2023-08-27,-
+5,2.NC,"Tour de l'Avenir, General classification",42027,LECERF William Junior,32229,0.0,0,2023-08-27,-
+6,2.NC,"Tour de l'Avenir, General classification",42027,RONDEL Mathys,34305,0.0,0,2023-08-27,-
+7,2.NC,"Tour de l'Avenir, General classification",42027,CHRISTEN Jan,34430,0.0,0,2023-08-27,-
+8,2.NC,"Tour de l'Avenir, General classification",42027,SVESTAD-BAARDSENG Embret,32743,0.0,0,2023-08-27,-
+9,2.NC,"Tour de l'Avenir, General classification",42027,KULSET Johannes,34399,0.0,0,2023-08-27,-
+10,2.NC,"Tour de l'Avenir, General classification",42027,PINZON VILLALBA Edgar Andres,32292,0.0,0,2023-08-27,-
+1,2.NCs,"Tour de l'Avenir, Stage 8 : Val-Cenis - Sainte Foy Tarentaise",42025,PELLIZZARI Giulio,33100,0.0,0,2023-08-27,-
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 1 : Barcelona - Barcelona T.T.T. (prov.)",42059,Milesi Lorenzo,31752,1,0,2023-08-26,-
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 1 : Barcelona - Barcelona T.T.T. (prov.)",42059,Milesi Lorenzo,31752,0.1,0,2023-08-26,-
+1,2.WT2s,"Renewi Tour, Stage 4 : Beringen - Peer",42043,WELSFORD Samuel,23517,0.5,0,2023-08-26,PB
+1,2.PSs,"Deutschland Tour, Stage 3 : Arnsberg - Essen",42037,MIHKELS Madis,32946,0.3,0,2023-08-26,Albert
+1,2.NCs,"Tour de l'Avenir, Stage 7b : Les Karellis - Col du Mont Cenis",42024,RYAN Archie,30565,0.0,0,2023-08-26,-
+1,2.NCs,"Tour de l'Avenir, Stage 7a : Montricher-Albanne - Les Karellis I.T.T.",42023,RICCITELLO Matthew,31559,0.0,0,2023-08-26,-
 1,2.WT2s,"Renewi Tour, Stage 3 : Aalter - Geraardsbergen (prov.)",42042,TEUNISSEN Mike,19165,0.5,0,2023-08-25,Albert
 1,2.PSs,"Deutschland Tour, Stage 2 : Kassel - Winterberg (prov.)",42036,MÜHLBERGER Gregor,21128,0.3,0,2023-08-25,-
 1,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification",42033,WAERENSKJOLD Søren,29187,2,0,2023-08-25,-
