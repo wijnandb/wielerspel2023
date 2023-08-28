@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,Evenepoel Remco,28377,0.0,0,2023-08-28
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,Evenepoel Remco,28377,0.0,0,2023-08-28
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,Vendrame Andrea,22170,0.0,0,2023-08-28
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,Evenepoel Remco,28377,0.0,0,2023-08-28
+1,GT2s,"Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,EVENEPOEL Remco,28377,0.0,0,2023-08-28
+1,2.1s,"Tour of Iran-Azarbaijan, Stage 2 : Tabriz - Jolfa (prov.)",42084,CARSTENSEN Lucas,22704,0.0,0,2023-08-28
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Piccolo Andrea,30648,0.0,0,2023-08-27
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Piccolo Andrea,30648,0.0,0,2023-08-27
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Kron Andreas,26420,0.0,0,2023-08-27
@@ -9,11 +15,11 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 3,2.WT2,"Renewi Tour, General classification",42045,LAMPAERT Yves,19941,0.0,0,2023-08-27
 4,2.WT2,"Renewi Tour, General classification",42045,STUYVEN Jasper,18233,0.0,0,2023-08-27
 5,2.WT2,"Renewi Tour, General classification",42045,TEUNISSEN Mike,19165,0.0,0,2023-08-27
-6,2.WT2,"Renewi Tour, General classification",42045,MOHORIC Matej,21145,0.0,0,2023-08-27
-7,2.WT2,"Renewi Tour, General classification",42045,ZINGLE Axel,31263,0.0,0,2023-08-27
-8,2.WT2,"Renewi Tour, General classification",42045,TRENTIN Matteo,13270,0.0,0,2023-08-27
-9,2.WT2,"Renewi Tour, General classification",42045,HIRSCHI Marc,26509,0.0,0,2023-08-27
-10,2.WT2,"Renewi Tour, General classification",42045,ANDERSEN Søren Kragh,20793,0.0,0,2023-08-27
+6,2.WT2,"Renewi Tour, General classification",42045,HIRSCHI Marc,26509,0.0,0,2023-08-27
+7,2.WT2,"Renewi Tour, General classification",42045,MOHORIC Matej,21145,0.0,0,2023-08-27
+8,2.WT2,"Renewi Tour, General classification",42045,ZINGLE Axel,31263,0.0,0,2023-08-27
+9,2.WT2,"Renewi Tour, General classification",42045,TRENTIN Matteo,13270,0.0,0,2023-08-27
+10,2.WT2,"Renewi Tour, General classification",42045,KRAGH ANDERSEN Søren,20793,0.0,0,2023-08-27
 1,2.WT2s,"Renewi Tour, Stage 5 : Riemst - Bilzen",42044,MOHORIC Matej,21145,0.0,0,2023-08-27
 1,2.WT2r,"Renewi Tour, Points classification",42046,DE LIE Arnaud,32221,0.0,0,2023-08-27
 1,2.PS,"Deutschland Tour, General classification",42039,VAN WILDER Ilan,29828,0.0,0,2023-08-27
@@ -43,5 +49,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 1 : Barcelona - Barcelona T.T.T. (prov.)",42059,Milesi Lorenzo,31752,0.0,0,2023-08-26
 1,2.WT2s,"Renewi Tour, Stage 4 : Beringen - Peer",42043,WELSFORD Samuel,23517,0.0,0,2023-08-26
 1,2.PSs,"Deutschland Tour, Stage 3 : Arnsberg - Essen",42037,MIHKELS Madis,32946,0.0,0,2023-08-26
-1,2.NCs,"Tour de l'Avenir, Stage 7b : Les Karellis - Col du Mont Cenis",42024,RYAN Archie,30565,0.0,0,2023-08-26
-1,2.NCs,"Tour de l'Avenir, Stage 7a : Montricher-Albanne - Les Karellis I.T.T.",42023,RICCITELLO Matthew,31559,0.0,0,2023-08-26
