@@ -199,7 +199,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 434,35,Ratchanon Yaowarat,29449,Thailand Continental Cycling Team,THA,-,-,-,
 434,36,Noppachai Klahan,31282,Thailand Continental Cycling Team,THA,-,-,-,
 434,41,Zisen Liu,31282,Tianyoude Hotel Cycling Team,,-,-,-,
-434,42,Hu Li,31477,Tianyoude Hotel Cycling Team,BIH,-,-,-,
+434,42,Hu Li,31477,Tianyoude Hotel Cycling Team,BIH,-,-,-,1
 434,43,Jiancai Wang,24021,Tianyoude Hotel Cycling Team,CHN,-,-,-,
 434,44,Saeid Safarzadeh,3685,Tianyoude Hotel Cycling Team,IRI,-,-,-,
 434,45,Yonathan Monsalve,3685,Tianyoude Hotel Cycling Team,,-,-,-,
@@ -220,9 +220,9 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 434,75,Jose Vicente Toribio,3905,Matrix Powertag,ESP,-,-,-,
 434,76,Daiki Yasuhara,3905,Matrix Powertag,,-,-,-,
 434,81,Jose Mendes,3905,NSJBI Victoria Sports,,-,-,-,
-434,82,Pedro Paulinho,3905,NSJBI Victoria Sports,,-,-,-,
+434,82,Pedro Paulinho,3905,NSJBI Victoria Sports,,-,-,-,1
 434,83,Daniel Cariño,3905,NSJBI Victoria Sports,,-,-,-,
-434,84,Jerry Aquino,3905,NSJBI Victoria Sports,,-,-,-,
+434,84,Jerry Aquino,3905,NSJBI Victoria Sports,,-,-,-,1
 434,85,Ean Cajucom,3905,NSJBI Victoria Sports,,-,-,-,
 434,91,Niels Verdijck,32130,Universe Cycling Team,BEL,-,-,-,
 434,92,Jacob Buijk,32130,Universe Cycling Team,,-,-,-,
@@ -238,20 +238,20 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 434,111,Alexandr Semenov,28180,Vino SKO Team,KAZ,-,-,-,
 434,112,Daniil Marukhin,28068,Vino SKO Team,KAZ,-,-,-,
 434,113,Vladimir Koltunov,28068,Vino SKO Team,,-,-,-,
-434,114,Maxim Konkin,28068,Vino SKO Team,,-,-,-,
-434,115,Vladimir Mulagaleyev,31967,Vino SKO Team,KAZ,-,-,-,
+434,114,Maxim Konkin,28068,Vino SKO Team,,-,-,-,1
+434,115,Vladimir Mulagaleyev,31967,Vino SKO Team,KAZ,-,-,-,1
 434,116,Matvey Vorobyev,31967,Vino SKO Team,,-,-,-,
 434,121,Mehdi Sohrabi,31967,Iraq Cycling Project,,-,-,-,
 434,122,Ali Tuayen,26902,Iraq Cycling Project,IRQ,-,-,-,
-434,123,Ahmed Al Rikabi,19635,Iraq Cycling Project,UAE,-,-,-,
+434,123,Ahmed Al Rikabi,19635,Iraq Cycling Project,UAE,-,-,-,1
 434,124,Aidin Aliyari,19635,Iraq Cycling Project,,-,-,-,
 434,125,Mohammad Darzi Ramandi,19635,Iraq Cycling Project,,-,-,-,
-434,126,Abdullah Tuayen,19635,Iraq Cycling Project,,-,-,-,
+434,126,Abdullah Tuayen,19635,Iraq Cycling Project,,-,-,-,1
 434,131,Benhnam Khosroshahi,19635,Iran,,-,-,-,
 434,132,Hossein Nateghi,4978,Iran,IRI,-,-,-,
 434,133,Ramyar Ghavami,4978,Iran,,-,-,-,
 434,134,Mahdi Aghakashi,4978,Iran,,-,-,-,
-434,135,Amirhossein Mohammadiroushnavand,4978,Iran,,-,-,-,
+434,135,Amirhossein Mohammadiroushnavand,4978,Iran,,-,-,-,1
 434,136,Mahdi Olamaei,4978,Iran,,-,-,-,
 434,141,Moamin Sadeq,4978,Iraq,,-,-,-,
 434,142,Wehbi Abdullah,4978,Iraq,,-,-,-,
