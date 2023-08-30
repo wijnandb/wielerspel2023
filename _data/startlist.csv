@@ -95,16 +95,16 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 23,116,Andrea Vendrame,22170,AG2R Citroën Team,ITA,-,-,-,
 23,117,Lawrence Warbasse,18463,AG2R Citroën Team,USA,-,-,-,
 23,118,Nicolas Prodhomme,27594,AG2R Citroën Team,FRA,-,-,-,
-23,121,Edward Dunbar,23765,Team Jayco-AlUla,IRL,Paul van Doorn,Paul,2,
+23,121,Edward Dunbar,23765,Team Jayco-AlUla,IRL,Paul van Doorn,Paul,2,1
 23,122,Felix Engelhardt,29297,Team Jayco-AlUla,GER,-,-,-,
 23,123,Welay Berhe,31740,Team Jayco-AlUla,ETH,-,-,-,
 23,124,Michael Hepburn,16467,Team Jayco-AlUla,AUS,-,-,-,
 23,125,Jan Maas,23350,Team Jayco-AlUla,NED,-,-,-,
 23,126,Callum Scotson,25164,Team Jayco-AlUla,AUS,-,-,-,
 23,127,Matteo Sobrero,27033,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,
-23,128,Filippo Zana,27749,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,
+23,128,Filippo Zana,27749,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,1
 23,131,Rui Costa,6807,Intermarché-Circus-Wanty,POR,-,-,-,
-23,132,Kobe Goossens,23771,Intermarché-Circus-Wanty,BEL,-,-,-,
+23,132,Kobe Goossens,23771,Intermarché-Circus-Wanty,BEL,-,-,-,1
 23,133,Rune Herregodts,28392,Intermarché-Circus-Wanty,BEL,-,-,-,
 23,134,Julius Johansen,27752,Intermarché-Circus-Wanty,DEN,-,-,-,
 23,135,Hugo Page,30663,Intermarché-Circus-Wanty,FRA,Albert Kraaij,Albert,1,
@@ -113,7 +113,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 23,138,Boy van Poppel,7104,Intermarché-Circus-Wanty,NED,-,-,-,
 23,141,Enric Mas,22794,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,17,
 23,142,Jorge Arcas,24514,Movistar Team,ESP,-,-,-,
-23,143,Ruben Guerreiro,22683,Movistar Team,POR,Jan Versluys,Jan,1,
+23,143,Ruben Guerreiro,22683,Movistar Team,POR,Jan Versluys,Jan,1,1
 23,144,Imanol Erviti,1760,Movistar Team,ESP,-,-,-,
 23,145,Iván García Cortina,23497,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,1,
 23,146,Oier Lazkano,30595,Movistar Team,ESP,-,-,-,
@@ -123,7 +123,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 23,152,Davide Cimolai,13078,Cofidis,ITA,-,-,-,
 23,153,François Bidard,21444,Cofidis,FRA,-,-,-,
 23,154,André Carvalho,26199,Cofidis,POR,-,-,-,
-23,155,Bryan Coquard,18714,Cofidis,FRA,Jan Versluys,Jan,2,
+23,155,Bryan Coquard,18714,Cofidis,FRA,Jan Versluys,Jan,2,1
 23,156,Ruben Fernandez,18483,Cofidis,ESP,-,-,-,
 23,157,Jose Herrada,3367,Cofidis,ESP,-,-,-,
 23,158,Rémy Rochas,24753,Cofidis,FRA,-,-,-,
@@ -248,7 +248,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 434,125,Mohammad Darzi Ramandi,19635,Iraq Cycling Project,,-,-,-,
 434,126,Abdullah Tuayen,19635,Iraq Cycling Project,,-,-,-,1
 434,131,Benhnam Khosroshahi,19635,Iran,,-,-,-,
-434,132,Hossein Nateghi,4978,Iran,IRI,-,-,-,
+434,132,Hossein Nateghi,4978,Iran,IRI,-,-,-,1
 434,133,Ramyar Ghavami,4978,Iran,,-,-,-,
 434,134,Mahdi Aghakashi,4978,Iran,,-,-,-,
 434,135,Amirhossein Mohammadiroushnavand,4978,Iran,,-,-,-,1
@@ -408,7 +408,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 22,213,Elia Viviani,13240,INEOS Grenadiers,ITA,Paul van Doorn,Paul,3,
 22,214,Ethan Hayter,27025,INEOS Grenadiers,GBR,Jan Versluys,Jan,19,
 22,215,Brandon Rivera,26283,INEOS Grenadiers,COL,-,-,-,
-22,216,Ben Swift,7606,INEOS Grenadiers,GBR,-,-,-,
+22,216,Lucas Plapp,29787,INEOS Grenadiers,AUS,Frank Vellinga,Vel,5,
 22,217,Salvatore Puccio,13272,INEOS Grenadiers,ITA,-,-,-,
 22,221,Mathieu van der Poel,21971,Alpecin-Deceuninck,NED,Frank Vellinga,Vel,40,
 22,222,Jasper Philipsen,26392,Alpecin-Deceuninck,BEL,Nick Veenstra,Nicky,11,
@@ -508,6 +508,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 45,144,Finlay Pickering,32895,Trinity Racing,GBR,-,-,-,
 45,145,Oliver Rees,31838,Trinity Racing,GBR,-,-,-,
 45,146,Max Walker,31835,Trinity Racing,GBR,-,-,-,
+45,151,Stian Fredheim,32797,Uno-X Pro Cycling Team,NOR,-,-,-,
 45,152,Fredrik Dversnes,28553,Uno-X Pro Cycling Team,NOR,-,-,-,
 45,153,Tord Gudmestad,30776,Uno-X Pro Cycling Team,NOR,-,-,-,
 45,154,Tobias Halland Johannessen,31567,Uno-X Pro Cycling Team,NOR,Albert Kraaij,Albert,2,

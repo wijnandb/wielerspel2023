@@ -42,16 +42,16 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 23,101,Hugh Carthy,21014,EF Education-EasyPost,GBR,Bram van Ommeren,Bram,3,
 23,102,Stefan Bissegger,26376,EF Education-EasyPost,SUI,Bram van Ommeren,Bram,4,
 23,105,Andrea Piccolo,30648,EF Education-EasyPost,ITA,Albert Kraaij,Albert,3,
-23,121,Edward Dunbar,23765,Team Jayco-AlUla,IRL,Paul van Doorn,Paul,2,
+23,121,Edward Dunbar,23765,Team Jayco-AlUla,IRL,Paul van Doorn,Paul,2,1
 23,127,Matteo Sobrero,27033,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,
-23,128,Filippo Zana,27749,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,
+23,128,Filippo Zana,27749,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,1
 23,135,Hugo Page,30663,Intermarché-Circus-Wanty,FRA,Albert Kraaij,Albert,1,
 23,141,Enric Mas,22794,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,17,
-23,143,Ruben Guerreiro,22683,Movistar Team,POR,Jan Versluys,Jan,1,
+23,143,Ruben Guerreiro,22683,Movistar Team,POR,Jan Versluys,Jan,1,1
 23,145,Iván García Cortina,23497,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,1,
 23,148,Einer Rubio,27024,Movistar Team,COL,Frank Rozemeijer,Frank,0,
 23,151,Jesus Herrada,17534,Cofidis,ESP,Paul van Doorn,Paul,2,
-23,155,Bryan Coquard,18714,Cofidis,FRA,Jan Versluys,Jan,2,
+23,155,Bryan Coquard,18714,Cofidis,FRA,Jan Versluys,Jan,2,1
 23,161,Romain Bardet,13566,Team dsm-firmenich,FRA,Jan Versluys,Jan,6,
 23,163,Alberto Dainese,26965,Team dsm-firmenich,ITA,Frank Vellinga,Vel,3,
 23,171,Kévin Vauquelin,31264,Team Arkéa-Samsic,FRA,Albert Kraaij,Albert,2,
@@ -125,6 +125,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 22,212,Pavel Sivakov,24934,INEOS Grenadiers,FRA,Paul van Doorn,Paul,7,
 22,213,Elia Viviani,13240,INEOS Grenadiers,ITA,Paul van Doorn,Paul,3,
 22,214,Ethan Hayter,27025,INEOS Grenadiers,GBR,Jan Versluys,Jan,19,
+22,216,Lucas Plapp,29787,INEOS Grenadiers,AUS,Frank Vellinga,Vel,5,
 22,221,Mathieu van der Poel,21971,Alpecin-Deceuninck,NED,Frank Vellinga,Vel,40,
 22,222,Jasper Philipsen,26392,Alpecin-Deceuninck,BEL,Nick Veenstra,Nicky,11,
 22,223,Søren Kragh Andersen,20793,Alpecin-Deceuninck,DEN,Frank Vellinga,Vel,2,
