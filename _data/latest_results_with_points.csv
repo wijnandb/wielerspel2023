@@ -1,22 +1,31 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Martinez Lenny,32721,1,0,2023-08-31,Kees
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Martinez Lenny,32721,0.1,0,2023-08-31,Kees
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Groves Kaden,26637,0.2,0,2023-08-31,Vel
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Sepulveda Eduardo,18487,0.2,0,2023-08-31,-
+1,GT2s,"Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,KUSS Sepp,25653,2,0,2023-08-31,Nicky
+1,2.1,"Tour of Iran-Azarbaijan, General classification",42088,SAFARZADEH Saeid,3685,2,0,2023-08-31,-
+2,2.1,"Tour of Iran-Azarbaijan, General classification",42088,BUDYAK Anatoliy,22337,0.3,0,2023-08-31,-
+3,2.1,"Tour of Iran-Azarbaijan, General classification",42088,KUZMIN Anton,24277,0.1,0,2023-08-31,-
+1,2.1s,"Tour of Iran-Azarbaijan, Stage 5 : Sarein - Tabriz",42087,SAFARZADEH Saeid,3685,0.2,0,2023-08-31,-
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 5 : Morella - Burriana (prov.)",42063,Evenepoel Remco,28377,1,0,2023-08-30,Roy
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 5 : Morella - Burriana (prov.)",42063,Evenepoel Remco,28377,0.1,0,2023-08-30,Roy
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 5 : Morella - Burriana (prov.)",42063,Groves Kaden,26637,0.2,0,2023-08-30,Vel
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 5 : Morella - Burriana (prov.)",42063,Sepulveda Eduardo,18487,0.2,0,2023-08-30,-
 1,GT2s,"Vuelta a España, Stage 5 : Morella - Burriana (prov.)",42063,GROVES Kaden,26637,2,0,2023-08-30,Vel
-1,2.1s,"Tour of Iran-Azarbaijan, Stage 4 : Tabriz - Sarein (prov.)",42086,BUDYAK Anatoliy,22337,0.2,0,2023-08-30,-
+1,2.1s,"Tour of Iran-Azarbaijan, Stage 4 : Tabriz - Sarein",42086,BUDYAK Anatoliy,22337,0.2,0,2023-08-30,-
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 4 : Andorra la Vella - Tarragona (prov.)",42062,Evenepoel Remco,28377,1,0,2023-08-29,Roy
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 4 : Andorra la Vella - Tarragona (prov.)",42062,Evenepoel Remco,28377,0.1,0,2023-08-29,Roy
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 4 : Andorra la Vella - Tarragona (prov.)",42062,Groves Kaden,26637,0.2,0,2023-08-29,Vel
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 4 : Andorra la Vella - Tarragona (prov.)",42062,Sepulveda Eduardo,18487,0.2,0,2023-08-29,-
 1,GT2s,"Vuelta a España, Stage 4 : Andorra la Vella - Tarragona (prov.)",42062,GROVES Kaden,26637,2,0,2023-08-29,Vel
-1,2.1s,"Tour of Iran-Azarbaijan, Stage 3 : Jolfa - Shabestar (prov.)",42085,SAINBAYAR Jambaljamts,24289,0.2,0,2023-08-29,-
+1,2.1s,"Tour of Iran-Azarbaijan, Stage 3 : Jolfa - Shabestar",42085,SAINBAYAR Jambaljamts,24289,0.2,0,2023-08-29,-
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,Evenepoel Remco,28377,1,0,2023-08-28,Roy
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,Evenepoel Remco,28377,0.1,0,2023-08-28,Roy
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,Vendrame Andrea,22170,0.2,0,2023-08-28,-
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,Evenepoel Remco,28377,0.2,0,2023-08-28,Roy
 1,GT2s,"Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,EVENEPOEL Remco,28377,2,0,2023-08-28,Roy
-1,2.1s,"Tour of Iran-Azarbaijan, Stage 2 : Tabriz - Jolfa (prov.)",42084,CARSTENSEN Lucas,22704,0.2,0,2023-08-28,-
+1,2.1s,"Tour of Iran-Azarbaijan, Stage 2 : Tabriz - Jolfa",42084,CARSTENSEN Lucas,22704,0.2,0,2023-08-28,-
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Piccolo Andrea,30648,1,0,2023-08-27,Albert
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Piccolo Andrea,30648,0.1,0,2023-08-27,Albert
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Kron Andreas,26420,0.2,0,2023-08-27,Paul
@@ -44,16 +53,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.PS,"Deutschland Tour, General classification",42039,HERMANS Quinten,22077,0,12,2023-08-27,Frank
 9,2.PS,"Deutschland Tour, General classification",42039,POLITT Nils,20847,0,10,2023-08-27,Albert
 10,2.PS,"Deutschland Tour, General classification",42039,TEUNS Dylan,17908,0,8,2023-08-27,Harry
-1,2.PSs,"Deutschland Tour, Stage 4 : Hannover - Bremen",42038,DE KLEIJN Arvid,22596,0.3,0,2023-08-27,-
-1,2.1s,"Tour of Iran-Azarbaijan, Stage 1 : Tabriz - Urmiae (prov.)",42083,CARSTENSEN Lucas,22704,0.2,0,2023-08-27,-
-1,2.NC,"Tour de l'Avenir, General classification",42027,DEL TORO ROMERO Isaac,33556,0.0,0,2023-08-27,-
-2,2.NC,"Tour de l'Avenir, General classification",42027,PELLIZZARI Giulio,33100,0.0,0,2023-08-27,-
-3,2.NC,"Tour de l'Avenir, General classification",42027,PIGANZOLI Davide,32232,0.0,0,2023-08-27,-
-4,2.NC,"Tour de l'Avenir, General classification",42027,RICCITELLO Matthew,31559,0.0,0,2023-08-27,-
-5,2.NC,"Tour de l'Avenir, General classification",42027,LECERF William Junior,32229,0.0,0,2023-08-27,-
-6,2.NC,"Tour de l'Avenir, General classification",42027,RONDEL Mathys,34305,0.0,0,2023-08-27,-
-7,2.NC,"Tour de l'Avenir, General classification",42027,CHRISTEN Jan,34430,0.0,0,2023-08-27,-
-8,2.NC,"Tour de l'Avenir, General classification",42027,SVESTAD-BAARDSENG Embret,32743,0.0,0,2023-08-27,-
-9,2.NC,"Tour de l'Avenir, General classification",42027,KULSET Johannes,34399,0.0,0,2023-08-27,-
-10,2.NC,"Tour de l'Avenir, General classification",42027,PINZON VILLALBA Edgar Andres,32292,0.0,0,2023-08-27,-
-1,2.NCs,"Tour de l'Avenir, Stage 8 : Val-Cenis - Sainte Foy Tarentaise",42025,PELLIZZARI Giulio,33100,0.0,0,2023-08-27,-
