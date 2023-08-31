@@ -1,22 +1,31 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Martinez Lenny,32721,0.0,0,2023-08-31
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Martinez Lenny,32721,0.0,0,2023-08-31
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Groves Kaden,26637,0.0,0,2023-08-31
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Sepulveda Eduardo,18487,0.0,0,2023-08-31
+1,GT2s,"Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,KUSS Sepp,25653,0.0,0,2023-08-31
+1,2.1,"Tour of Iran-Azarbaijan, General classification",42088,SAFARZADEH Saeid,3685,0.0,0,2023-08-31
+2,2.1,"Tour of Iran-Azarbaijan, General classification",42088,BUDYAK Anatoliy,22337,0.0,0,2023-08-31
+3,2.1,"Tour of Iran-Azarbaijan, General classification",42088,KUZMIN Anton,24277,0.0,0,2023-08-31
+1,2.1s,"Tour of Iran-Azarbaijan, Stage 5 : Sarein - Tabriz",42087,SAFARZADEH Saeid,3685,0.0,0,2023-08-31
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 5 : Morella - Burriana (prov.)",42063,Evenepoel Remco,28377,0.0,0,2023-08-30
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 5 : Morella - Burriana (prov.)",42063,Evenepoel Remco,28377,0.0,0,2023-08-30
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 5 : Morella - Burriana (prov.)",42063,Groves Kaden,26637,0.0,0,2023-08-30
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 5 : Morella - Burriana (prov.)",42063,Sepulveda Eduardo,18487,0.0,0,2023-08-30
 1,GT2s,"Vuelta a España, Stage 5 : Morella - Burriana (prov.)",42063,GROVES Kaden,26637,0.0,0,2023-08-30
-1,2.1s,"Tour of Iran-Azarbaijan, Stage 4 : Tabriz - Sarein (prov.)",42086,BUDYAK Anatoliy,22337,0.0,0,2023-08-30
+1,2.1s,"Tour of Iran-Azarbaijan, Stage 4 : Tabriz - Sarein",42086,BUDYAK Anatoliy,22337,0.0,0,2023-08-30
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 4 : Andorra la Vella - Tarragona (prov.)",42062,Evenepoel Remco,28377,0.0,0,2023-08-29
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 4 : Andorra la Vella - Tarragona (prov.)",42062,Evenepoel Remco,28377,0.0,0,2023-08-29
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 4 : Andorra la Vella - Tarragona (prov.)",42062,Groves Kaden,26637,0.0,0,2023-08-29
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 4 : Andorra la Vella - Tarragona (prov.)",42062,Sepulveda Eduardo,18487,0.0,0,2023-08-29
 1,GT2s,"Vuelta a España, Stage 4 : Andorra la Vella - Tarragona (prov.)",42062,GROVES Kaden,26637,0.0,0,2023-08-29
-1,2.1s,"Tour of Iran-Azarbaijan, Stage 3 : Jolfa - Shabestar (prov.)",42085,SAINBAYAR Jambaljamts,24289,0.0,0,2023-08-29
+1,2.1s,"Tour of Iran-Azarbaijan, Stage 3 : Jolfa - Shabestar",42085,SAINBAYAR Jambaljamts,24289,0.0,0,2023-08-29
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,Evenepoel Remco,28377,0.0,0,2023-08-28
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,Evenepoel Remco,28377,0.0,0,2023-08-28
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,Vendrame Andrea,22170,0.0,0,2023-08-28
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,Evenepoel Remco,28377,0.0,0,2023-08-28
 1,GT2s,"Vuelta a España, Stage 3 : Suria - Arinsal (prov.)",42061,EVENEPOEL Remco,28377,0.0,0,2023-08-28
-1,2.1s,"Tour of Iran-Azarbaijan, Stage 2 : Tabriz - Jolfa (prov.)",42084,CARSTENSEN Lucas,22704,0.0,0,2023-08-28
+1,2.1s,"Tour of Iran-Azarbaijan, Stage 2 : Tabriz - Jolfa",42084,CARSTENSEN Lucas,22704,0.0,0,2023-08-28
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Piccolo Andrea,30648,0.0,0,2023-08-27
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Piccolo Andrea,30648,0.0,0,2023-08-27
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Kron Andreas,26420,0.0,0,2023-08-27
