@@ -1,6 +1,6 @@
 race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id,price,dropped_out
 23,1,Remco Evenepoel,28377,Soudal Quick-Step,BEL,Roy Smits,Roy,70,
-23,2,Andrea Bagioli,28452,Soudal Quick-Step,ITA,Albert Kraaij,Albert,2,
+23,2,Andrea Bagioli,28452,Soudal Quick-Step,ITA,Albert Kraaij,Albert,2,1
 23,3,Mattia Cattaneo,16936,Soudal Quick-Step,ITA,Albert Kraaij,Albert,1,
 23,4,Jan Hirt,17078,Soudal Quick-Step,CZE,Wijnand Baretta,Wijnand,1,
 23,5,James Knox,23403,Soudal Quick-Step,GBR,-,-,-,
@@ -14,7 +14,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 23,15,Sebastian Molano,23463,UAE Team Emirates,COL,Pieter-Bas de Bruijn,PB,1,
 23,16,Domen Novak,22069,UAE Team Emirates,SLO,-,-,-,
 23,17,Marc Soler,23299,UAE Team Emirates,ESP,Frank Vellinga,Vel,2,
-23,18,Jay Vine,29568,UAE Team Emirates,AUS,Frank Vellinga,Vel,2,
+23,18,Jay Vine,29568,UAE Team Emirates,AUS,Frank Vellinga,Vel,2,1
 23,21,Primoz Roglic,20719,Jumbo-Visma,SLO,Bram van Ommeren,Bram,38,
 23,22,Robert Gesink,2364,Jumbo-Visma,NED,-,-,-,
 23,23,Wilco Kelderman,15171,Jumbo-Visma,NED,Albert Kraaij,Albert,2,
@@ -98,7 +98,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 23,121,Edward Dunbar,23765,Team Jayco-AlUla,IRL,Paul van Doorn,Paul,2,1
 23,122,Felix Engelhardt,29297,Team Jayco-AlUla,GER,-,-,-,
 23,123,Welay Berhe,31740,Team Jayco-AlUla,ETH,-,-,-,
-23,124,Michael Hepburn,16467,Team Jayco-AlUla,AUS,-,-,-,
+23,124,Michael Hepburn,16467,Team Jayco-AlUla,AUS,-,-,-,1
 23,125,Jan Maas,23350,Team Jayco-AlUla,NED,-,-,-,
 23,126,Callum Scotson,25164,Team Jayco-AlUla,AUS,-,-,-,
 23,127,Matteo Sobrero,27033,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,
@@ -132,7 +132,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 23,163,Alberto Dainese,26965,Team dsm-firmenich,ITA,Frank Vellinga,Vel,3,
 23,164,Sean Flynn,29931,Team dsm-firmenich,GBR,-,-,-,
 23,165,Chris Hamilton,23885,Team dsm-firmenich,AUS,-,-,-,
-23,166,Lorenzo Milesi,31752,Team dsm-firmenich,ITA,-,-,-,
+23,166,Lorenzo Milesi,31752,Team dsm-firmenich,ITA,-,-,-,1
 23,167,Oscar Onley,31724,Team dsm-firmenich,GBR,-,-,-,1
 23,168,Max Poole,32809,Team dsm-firmenich,GBR,-,-,-,
 23,171,Kévin Vauquelin,31264,Team Arkéa-Samsic,FRA,Albert Kraaij,Albert,2,
@@ -218,7 +218,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 434,73,Marino Kobayashi,26223,Matrix Powertag,JPN,-,-,-,
 434,74,Edgar Nohales Nieto,26223,Matrix Powertag,,-,-,-,
 434,75,Jose Vicente Toribio,3905,Matrix Powertag,ESP,-,-,-,
-434,76,Daiki Yasuhara,3905,Matrix Powertag,,-,-,-,
+434,76,Daiki Yasuhara,3905,Matrix Powertag,,-,-,-,1
 434,81,Jose Mendes,3905,NSJBI Victoria Sports,,-,-,-,
 434,82,Pedro Paulinho,3905,NSJBI Victoria Sports,,-,-,-,1
 434,83,Daniel Cariño,3905,NSJBI Victoria Sports,,-,-,-,
@@ -341,7 +341,6 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 22,116,Johan Price-Pejtersen,27805,Bahrain Victorious,DEN,-,-,-,
 22,117,Cameron Scott,27116,Bahrain Victorious,AUS,-,-,-,
 22,121,Stefan Küng,20960,Groupama-FDJ,SUI,Pieter-Bas de Bruijn,PB,11,
-22,122,David Gaudu,24255,Groupama-FDJ,FRA,Nick Veenstra,Nicky,9,
 22,123,Valentin Madouas,24758,Groupama-FDJ,FRA,Pieter-Bas de Bruijn,PB,6,
 22,124,Kevin Geniets,25763,Groupama-FDJ,LUX,-,-,-,
 22,125,Jake Stewart,28437,Groupama-FDJ,GBR,Jan Versluys,Jan,2,
@@ -425,11 +424,17 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 22,236,Robin Froidevaux,26377,Tudor Pro Cycling Team,SUI,-,-,-,
 22,237,Jacob Eriksson,27920,Tudor Pro Cycling Team,SWE,-,-,-,
 45,1,Gonzalo Serrano,22669,Movistar Team,BEL,Arjan Knibbe,Arjan,2,
-45,2,William Barta,23362,Movistar Team,USA,-,-,-,
+45,2,Carlos Verona,17994,Movistar Team,ESP,-,-,-,
+45,3,Fernando Gaviria,20777,Movistar Team,COL,Albert Kraaij,Albert,3,
 45,4,Max Kanter,24961,Movistar Team,GER,Frank Rozemeijer,Frank,2,
 45,5,Gregor Mühlberger,21128,Movistar Team,AUT,-,-,-,
 45,6,Óscar Rodríguez,26216,Movistar Team,ESP,-,-,-,
 45,11,Tom Pidcock,27708,INEOS Grenadiers,GBR,Albert Kraaij,Albert,20,
+45,12,Carlos Rodriguez,30836,INEOS Grenadiers,ESP,Roy Smits,Roy,12,
+45,13,Luke Rowe,13229,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,0,
+45,14,Magnus Sheffield,31598,INEOS Grenadiers,USA,Jan Versluys,Jan,6,
+45,15,Connor Swift,26437,INEOS Grenadiers,GBR,Pieter-Bas de Bruijn,PB,1,
+45,16,Ben Turner,27923,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,1,
 45,21,Floris De Tier,20459,Bingoal WB,BEL,-,-,-,
 45,22,Johan Meens,31677,Bingoal WB,BEL,-,-,-,
 45,23,Davide Persico,30647,Bingoal WB,ITA,-,-,-,
