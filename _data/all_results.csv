@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,Martinez Lenny,32721,0.0,0,2023-09-01
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,Martinez Lenny,32721,0.0,0,2023-09-01
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,Groves Kaden,26637,0.0,0,2023-09-01
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,Sepulveda Eduardo,18487,0.0,0,2023-09-01
+1,GT2s,"Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,SOUPE Geoffrey,13560,0.0,0,2023-09-01
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Martinez Lenny,32721,0.0,0,2023-08-31
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Martinez Lenny,32721,0.0,0,2023-08-31
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Groves Kaden,26637,0.0,0,2023-08-31
