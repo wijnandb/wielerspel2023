@@ -4,18 +4,18 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,Groves Kaden,26637,0.0,0,2023-09-03
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,Sepulveda Eduardo,18487,0.0,0,2023-09-03
 1,GT2s,"Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,KÄMNA Lennard,23427,0.0,0,2023-09-03
-1,1.WT2,Bretagne Classic - Ouest-France (prov.),42110,MADOUAS Valentin,24758,0.0,0,2023-09-03
-2,1.WT2,Bretagne Classic - Ouest-France (prov.),42110,BURGAUDEAU Mathieu,27151,0.0,0,2023-09-03
-3,1.WT2,Bretagne Classic - Ouest-France (prov.),42110,GROSSSCHARTNER Felix,19548,0.0,0,2023-09-03
-4,1.WT2,Bretagne Classic - Ouest-France (prov.),42110,KÜNG Stefan,20960,0.0,0,2023-09-03
-5,1.WT2,Bretagne Classic - Ouest-France (prov.),42110,DE BUYST Jasper,19274,0.0,0,2023-09-03
-6,1.WT2,Bretagne Classic - Ouest-France (prov.),42110,HIRSCHI Marc,26509,0.0,0,2023-09-03
-7,1.WT2,Bretagne Classic - Ouest-France (prov.),42110,BENOOT Tiesj,21244,0.0,0,2023-09-03
-8,1.WT2,Bretagne Classic - Ouest-France (prov.),42110,WANDAHL Frederik,30710,0.0,0,2023-09-03
-9,1.WT2,Bretagne Classic - Ouest-France (prov.),42110,VIVIANI Elia,13240,0.0,0,2023-09-03
-10,1.WT2,Bretagne Classic - Ouest-France (prov.),42110,DUJARDIN Sandy,28583,0.0,0,2023-09-03
+1,1.WT2,Bretagne Classic - Ouest-France,42110,MADOUAS Valentin,24758,0.0,0,2023-09-03
+2,1.WT2,Bretagne Classic - Ouest-France,42110,BURGAUDEAU Mathieu,27151,0.0,0,2023-09-03
+3,1.WT2,Bretagne Classic - Ouest-France,42110,GROSSSCHARTNER Felix,19548,0.0,0,2023-09-03
+4,1.WT2,Bretagne Classic - Ouest-France,42110,KÜNG Stefan,20960,0.0,0,2023-09-03
+5,1.WT2,Bretagne Classic - Ouest-France,42110,DE BUYST Jasper,19274,0.0,0,2023-09-03
+6,1.WT2,Bretagne Classic - Ouest-France,42110,HIRSCHI Marc,26509,0.0,0,2023-09-03
+7,1.WT2,Bretagne Classic - Ouest-France,42110,BENOOT Tiesj,21244,0.0,0,2023-09-03
+8,1.WT2,Bretagne Classic - Ouest-France,42110,WANDAHL Frederik,30710,0.0,0,2023-09-03
+9,1.WT2,Bretagne Classic - Ouest-France,42110,VIVIANI Elia,13240,0.0,0,2023-09-03
+10,1.WT2,Bretagne Classic - Ouest-France,42110,DUJARDIN Sandy,28583,0.0,0,2023-09-03
 1,2.PSs,"Tour of Britain, Stage 1 : Altrincham - Manchester (prov.)",42148,KOOIJ Olav,30643,0.0,0,2023-09-03
-1,NCT5,National Championships Singapore (Tanah Merah) I.T.T. (prov.),41775,BRITTAIN Matthew,35465,0.0,0,2023-09-03
+1,NCT5,National Championships Singapore (Tanah Merah) I.T.T.,41775,BRITTAIN Matthew,35465,0.0,0,2023-09-03
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 8 : Denia - Xorret de Cati (prov.)",42066,Kuss Sepp,25653,0.0,0,2023-09-02
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 8 : Denia - Xorret de Cati (prov.)",42066,Martinez Lenny,32721,0.0,0,2023-09-02
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 8 : Denia - Xorret de Cati (prov.)",42066,Groves Kaden,26637,0.0,0,2023-09-02
@@ -26,8 +26,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,Groves Kaden,26637,0.0,0,2023-09-01
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,Sepulveda Eduardo,18487,0.0,0,2023-09-01
 1,GT2s,"Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,SOUPE Geoffrey,13560,0.0,0,2023-09-01
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Martinez Lenny,32721,0.0,0,2023-08-31
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Martinez Lenny,32721,0.0,0,2023-08-31
--2,GT2s,"Puntentrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Groves Kaden,26637,0.0,0,2023-08-31
--3,GT2s,"Bergtrui na Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,Sepulveda Eduardo,18487,0.0,0,2023-08-31
-1,GT2s,"Vuelta a España, Stage 6 : La Vall d'Uixo - Observatorio Javalamba (prov.)",42064,KUSS Sepp,25653,0.0,0,2023-08-31
