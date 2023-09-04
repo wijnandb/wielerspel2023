@@ -15,16 +15,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT2,Bretagne Classic - Ouest-France,42110,WANDAHL Frederik,30710,0,12,2023-09-03,-
 9,1.WT2,Bretagne Classic - Ouest-France,42110,VIVIANI Elia,13240,0,10,2023-09-03,Paul
 10,1.WT2,Bretagne Classic - Ouest-France,42110,DUJARDIN Sandy,28583,0,8,2023-09-03,-
-1,1.PS,Maryland Classic (prov.),42109,SKJELMOSE JENSEN Mattias,30166,4,50,2023-09-03,Kaspar
-2,1.PS,Maryland Classic (prov.),42109,POWLESS Neilson,24902,1,35,2023-09-03,Harry
-3,1.PS,Maryland Classic (prov.),42109,HOULE Hugo,13438,0.5,25,2023-09-03,-
-4,1.PS,Maryland Classic (prov.),42109,HAMILTON Lucas,25289,0,20,2023-09-03,Albert
-5,1.PS,Maryland Classic (prov.),42109,SKUJINS Toms,16739,0,18,2023-09-03,Kees
-6,1.PS,Maryland Classic (prov.),42109,HONORE Mikkel Frølich,25629,0,16,2023-09-03,Harry
-7,1.PS,Maryland Classic (prov.),42109,MCGILL Scott,28506,0,14,2023-09-03,-
-8,1.PS,Maryland Classic (prov.),42109,BALMER Alexandre,30640,0,12,2023-09-03,-
-9,1.PS,Maryland Classic (prov.),42109,SHEEHAN Riley,29301,0,10,2023-09-03,-
-10,1.PS,Maryland Classic (prov.),42109,FRAYRE MOCTEZUMA Eder,17863,0,8,2023-09-03,-
+1,1.PS,Maryland Classic,42109,SKJELMOSE JENSEN Mattias,30166,4,50,2023-09-03,Kaspar
+2,1.PS,Maryland Classic,42109,POWLESS Neilson,24902,1,35,2023-09-03,Harry
+3,1.PS,Maryland Classic,42109,HOULE Hugo,13438,0.5,25,2023-09-03,-
+4,1.PS,Maryland Classic,42109,HAMILTON Lucas,25289,0,20,2023-09-03,Albert
+5,1.PS,Maryland Classic,42109,SKUJINS Toms,16739,0,18,2023-09-03,Kees
+6,1.PS,Maryland Classic,42109,HONORE Mikkel Frølich,25629,0,16,2023-09-03,Harry
+7,1.PS,Maryland Classic,42109,MCGILL Scott,28506,0,14,2023-09-03,-
+8,1.PS,Maryland Classic,42109,BALMER Alexandre,30640,0,12,2023-09-03,-
+9,1.PS,Maryland Classic,42109,SHEEHAN Riley,29301,0,10,2023-09-03,-
+10,1.PS,Maryland Classic,42109,FRAYRE MOCTEZUMA Eder,17863,0,8,2023-09-03,-
 1,2.PSs,"Tour of Britain, Stage 1 : Altrincham - Manchester (prov.)",42148,KOOIJ Olav,30643,0.3,0,2023-09-03,Albert
 1,NCT5,National Championships Singapore (Tanah Merah) I.T.T.,41775,BRITTAIN Matthew,35465,0.5,0,2023-09-03,-
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 8 : Denia - Xorret de Cati (prov.)",42066,Kuss Sepp,25653,1,0,2023-09-02,Nicky
