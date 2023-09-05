@@ -87,6 +87,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 59,,Pello Bilbao,17881,Bahrain Victorious,ESP,Jan Versluys,Jan,6,
 59,,Jack Haig,21212,Bahrain Victorious,AUS,Paul van Doorn,Paul,1,
 59,,Matej Mohoric,21145,Bahrain Victorious,SLO,Frank Rozemeijer,Frank,16,
+59,,Andreas Leknessund,27653,Team dsm-firmenich,NOR,Paul van Doorn,Paul,2,
 92,1,Caleb Ewan,19651,Lotto Dstny,AUS,Paul van Doorn,Paul,16,
 92,11,Mathieu van der Poel,21971,Alpecin-Deceuninck,NED,Frank Vellinga,Vel,40,
 92,21,Fabio Jakobsen,23426,Soudal Quick-Step,NED,Kaspar Burghard,Kaspar,23,
@@ -114,3 +115,4 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 58,,Pello Bilbao,17881,Bahrain Victorious,ESP,Jan Versluys,Jan,6,
 58,,Jack Haig,21212,Bahrain Victorious,AUS,Paul van Doorn,Paul,1,
 58,,Matej Mohoric,21145,Bahrain Victorious,SLO,Frank Rozemeijer,Frank,16,
+58,,Andreas Leknessund,27653,Team dsm-firmenich,NOR,Paul van Doorn,Paul,2,
