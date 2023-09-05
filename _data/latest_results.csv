@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 10 : Valladolid - Valladolid I.T.T. (prov.)",42068,Kuss Sepp,25653,0.0,0,2023-09-05
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 10 : Valladolid - Valladolid I.T.T. (prov.)",42068,Evenepoel Remco,28377,0.0,0,2023-09-05
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 10 : Valladolid - Valladolid I.T.T. (prov.)",42068,Groves Kaden,26637,0.0,0,2023-09-05
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 10 : Valladolid - Valladolid I.T.T. (prov.)",42068,Sepulveda Eduardo,18487,0.0,0,2023-09-05
+1,GT2s,"Vuelta a España, Stage 10 : Valladolid - Valladolid I.T.T. (prov.)",42068,GANNA Filippo,24057,0.0,0,2023-09-05
+1,2.PSs,"Tour of Britain, Stage 3 : Goole - Beverley (prov.)",42150,KOOIJ Olav,30643,0.0,0,2023-09-05
 1,2.PSs,"Tour of Britain, Stage 2 : Wrexham - Wrexham (prov.)",42149,KOOIJ Olav,30643,0.0,0,2023-09-04
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,Kuss Sepp,25653,0.0,0,2023-09-03
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,Martinez Lenny,32721,0.0,0,2023-09-03
@@ -32,8 +38,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 8 : Denia - Xorret de Cati (prov.)",42066,Groves Kaden,26637,0.0,0,2023-09-02
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 8 : Denia - Xorret de Cati (prov.)",42066,Sepulveda Eduardo,18487,0.0,0,2023-09-02
 1,GT2s,"Vuelta a España, Stage 8 : Denia - Xorret de Cati (prov.)",42066,ROGLIC Primoz,20719,0.0,0,2023-09-02
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,Martinez Lenny,32721,0.0,0,2023-09-01
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,Martinez Lenny,32721,0.0,0,2023-09-01
--2,GT2s,"Puntentrui na Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,Groves Kaden,26637,0.0,0,2023-09-01
--3,GT2s,"Bergtrui na Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,Sepulveda Eduardo,18487,0.0,0,2023-09-01
-1,GT2s,"Vuelta a España, Stage 7 : Utiel - Oliva (prov.)",42065,SOUPE Geoffrey,13560,0.0,0,2023-09-01
