@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Kuss Sepp,25653,0.0,0,2023-09-07
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Evenepoel Remco,28377,0.0,0,2023-09-07
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Groves Kaden,26637,0.0,0,2023-09-07
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Herrada Jesus,17534,0.0,0,2023-09-07
+1,GT2s,"Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0,2023-09-07
+1,2.PSs,"Tour of Britain, Stage 5 : Felixstowe - Felixstowe (prov.)",42152,VAN AERT Wout,20730,0.0,0,2023-09-07
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 11 : Lerma - La Laguna Negra (prov.)",42069,Kuss Sepp,25653,0.0,0,2023-09-06
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 11 : Lerma - La Laguna Negra (prov.)",42069,Evenepoel Remco,28377,0.0,0,2023-09-06
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 11 : Lerma - La Laguna Negra (prov.)",42069,Groves Kaden,26637,0.0,0,2023-09-06
@@ -39,8 +45,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 10,1.PS,Maryland Classic,42109,FRAYRE MOCTEZUMA Eder,17863,0.0,0,2023-09-03
 1,2.PSs,"Tour of Britain, Stage 1 : Altrincham - Manchester (prov.)",42148,KOOIJ Olav,30643,0.0,0,2023-09-03
 1,NCT5,National Championships Singapore (Tanah Merah) I.T.T.,41775,BRITTAIN Matthew,35465,0.0,0,2023-09-03
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 8 : Denia - Xorret de Cati (prov.)",42066,Kuss Sepp,25653,0.0,0,2023-09-02
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 8 : Denia - Xorret de Cati (prov.)",42066,Martinez Lenny,32721,0.0,0,2023-09-02
--2,GT2s,"Puntentrui na Vuelta a España, Stage 8 : Denia - Xorret de Cati (prov.)",42066,Groves Kaden,26637,0.0,0,2023-09-02
--3,GT2s,"Bergtrui na Vuelta a España, Stage 8 : Denia - Xorret de Cati (prov.)",42066,Sepulveda Eduardo,18487,0.0,0,2023-09-02
-1,GT2s,"Vuelta a España, Stage 8 : Denia - Xorret de Cati (prov.)",42066,ROGLIC Primoz,20719,0.0,0,2023-09-02
