@@ -4,6 +4,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Groves Kaden,26637,0.0,0,2023-09-08
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Vingegaard Jonas,25740,0.0,0,2023-09-08
 1,GT2s,"Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0,2023-09-08
+1,1.WT2,GP de Québec (prov.),42112,DE LIE Arnaud,32221,0.0,0,2023-09-08
+2,1.WT2,GP de Québec (prov.),42112,STRONG Corbin,29492,0.0,0,2023-09-08
+3,1.WT2,GP de Québec (prov.),42112,MATTHEWS Michael,13066,0.0,0,2023-09-08
+4,1.WT2,GP de Québec (prov.),42112,ARANBURU DEBA Alexander,23940,0.0,0,2023-09-08
+5,1.WT2,GP de Québec (prov.),42112,MOHORIC Matej,21145,0.0,0,2023-09-08
+6,1.WT2,GP de Québec (prov.),42112,LAPORTE Christophe,19953,0.0,0,2023-09-08
+7,1.WT2,GP de Québec (prov.),42112,KAMP Alexander,19391,0.0,0,2023-09-08
+8,1.WT2,GP de Québec (prov.),42112,HIRSCHI Marc,26509,0.0,0,2023-09-08
+9,1.WT2,GP de Québec (prov.),42112,ALAPHILIPPE Julian,18610,0.0,0,2023-09-08
+10,1.WT2,GP de Québec (prov.),42112,SKJELMOSE JENSEN Mattias,30166,0.0,0,2023-09-08
 1,2.PSs,"Tour of Britain, Stage 6 : Southend-on-Sea - Harlow (prov.)",42248,VAN POPPEL Danny,19242,0.0,0,2023-09-08
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Kuss Sepp,25653,0.0,0,2023-09-07
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Evenepoel Remco,28377,0.0,0,2023-09-07
@@ -29,23 +39,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,Groves Kaden,26637,0.0,0,2023-09-03
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,Sepulveda Eduardo,18487,0.0,0,2023-09-03
 1,GT2s,"Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,KÄMNA Lennard,23427,0.0,0,2023-09-03
-1,1.WT2,Bretagne Classic - Ouest-France,42110,MADOUAS Valentin,24758,0.0,0,2023-09-03
-2,1.WT2,Bretagne Classic - Ouest-France,42110,BURGAUDEAU Mathieu,27151,0.0,0,2023-09-03
-3,1.WT2,Bretagne Classic - Ouest-France,42110,GROSSSCHARTNER Felix,19548,0.0,0,2023-09-03
-4,1.WT2,Bretagne Classic - Ouest-France,42110,KÜNG Stefan,20960,0.0,0,2023-09-03
-5,1.WT2,Bretagne Classic - Ouest-France,42110,DE BUYST Jasper,19274,0.0,0,2023-09-03
-6,1.WT2,Bretagne Classic - Ouest-France,42110,HIRSCHI Marc,26509,0.0,0,2023-09-03
-7,1.WT2,Bretagne Classic - Ouest-France,42110,BENOOT Tiesj,21244,0.0,0,2023-09-03
-8,1.WT2,Bretagne Classic - Ouest-France,42110,WANDAHL Frederik,30710,0.0,0,2023-09-03
-9,1.WT2,Bretagne Classic - Ouest-France,42110,VIVIANI Elia,13240,0.0,0,2023-09-03
-10,1.WT2,Bretagne Classic - Ouest-France,42110,DUJARDIN Sandy,28583,0.0,0,2023-09-03
-1,1.PS,Maryland Classic,42109,SKJELMOSE JENSEN Mattias,30166,0.0,0,2023-09-03
-2,1.PS,Maryland Classic,42109,POWLESS Neilson,24902,0.0,0,2023-09-03
-3,1.PS,Maryland Classic,42109,HOULE Hugo,13438,0.0,0,2023-09-03
-4,1.PS,Maryland Classic,42109,HAMILTON Lucas,25289,0.0,0,2023-09-03
-5,1.PS,Maryland Classic,42109,SKUJINS Toms,16739,0.0,0,2023-09-03
-6,1.PS,Maryland Classic,42109,HONORE Mikkel Frølich,25629,0.0,0,2023-09-03
-7,1.PS,Maryland Classic,42109,MCGILL Scott,28506,0.0,0,2023-09-03
-8,1.PS,Maryland Classic,42109,BALMER Alexandre,30640,0.0,0,2023-09-03
-9,1.PS,Maryland Classic,42109,SHEEHAN Riley,29301,0.0,0,2023-09-03
-10,1.PS,Maryland Classic,42109,FRAYRE MOCTEZUMA Eder,17863,0.0,0,2023-09-03
