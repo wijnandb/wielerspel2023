@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Kuss Sepp,25653,1,0,2023-09-08,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Ayuso Juan,31654,0.1,0,2023-09-08,Albert
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Groves Kaden,26637,0.2,0,2023-09-08,Vel
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Vingegaard Jonas,25740,0.2,0,2023-09-08,Arjan
+1,GT2s,"Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,VINGEGAARD RASMUSSEN Jonas,25740,2,0,2023-09-08,Arjan
+1,2.PSs,"Tour of Britain, Stage 6 : Southend-on-Sea - Harlow (prov.)",42248,VAN POPPEL Danny,19242,0.3,0,2023-09-08,Jan
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Kuss Sepp,25653,1,0,2023-09-07,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Evenepoel Remco,28377,0.1,0,2023-09-07,Roy
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Groves Kaden,26637,0.2,0,2023-09-07,Vel
@@ -43,4 +49,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Maryland Classic,42109,BALMER Alexandre,30640,0,12,2023-09-03,-
 9,1.PS,Maryland Classic,42109,SHEEHAN Riley,29301,0,10,2023-09-03,-
 10,1.PS,Maryland Classic,42109,FRAYRE MOCTEZUMA Eder,17863,0,8,2023-09-03,-
-1,2.PSs,"Tour of Britain, Stage 1 : Altrincham - Manchester (prov.)",42148,KOOIJ Olav,30643,0.3,0,2023-09-03,Albert
