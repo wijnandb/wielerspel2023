@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a San Juan, Stage 14 : Sauveterre-de-Béarn - Larra-Belagua (prov.)",42072,Kuss Sepp,25653,1,0,2023-09-09,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a San Juan, Stage 14 : Sauveterre-de-Béarn - Larra-Belagua (prov.)",42072,Ayuso Juan,31654,0.1,0,2023-09-09,Albert
+-2,GT2s,"Puntentrui na Vuelta a San Juan, Stage 14 : Sauveterre-de-Béarn - Larra-Belagua (prov.)",42072,Groves Kaden,26637,0.2,0,2023-09-09,Vel
+-3,GT2s,"Bergtrui na Vuelta a San Juan, Stage 14 : Sauveterre-de-Béarn - Larra-Belagua (prov.)",42072,Evenepoel Remco,28377,0.2,0,2023-09-09,Roy
+1,GT2s,"Vuelta a San Juan, Stage 14 : Sauveterre-de-Béarn - Larra-Belagua (prov.)",42072,EVENEPOEL Remco,28377,2,0,2023-09-09,Roy
+1,2.PSs,"Tour of Britain, Stage 7 : Tewkesbury - Gloucester (prov.)",42249,TILLER Rasmus Fossum,25623,0.3,0,2023-09-09,PB
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Kuss Sepp,25653,1,0,2023-09-08,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Ayuso Juan,31654,0.1,0,2023-09-08,Albert
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Groves Kaden,26637,0.2,0,2023-09-08,Vel
@@ -21,21 +27,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Herrada Jesus,17534,0.2,0,2023-09-07,Paul
 1,GT2s,"Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,MOLANO BENAVIDES Juan Sebastian,23463,2,0,2023-09-07,PB
 1,2.PSs,"Tour of Britain, Stage 5 : Felixstowe - Felixstowe (prov.)",42152,VAN AERT Wout,20730,0.3,0,2023-09-07,Frank
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 11 : Lerma - La Laguna Negra (prov.)",42069,Kuss Sepp,25653,1,0,2023-09-06,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 11 : Lerma - La Laguna Negra (prov.)",42069,Evenepoel Remco,28377,0.1,0,2023-09-06,Roy
--2,GT2s,"Puntentrui na Vuelta a España, Stage 11 : Lerma - La Laguna Negra (prov.)",42069,Groves Kaden,26637,0.2,0,2023-09-06,Vel
--3,GT2s,"Bergtrui na Vuelta a España, Stage 11 : Lerma - La Laguna Negra (prov.)",42069,Herrada Jesus,17534,0.2,0,2023-09-06,Paul
-1,GT2s,"Vuelta a España, Stage 11 : Lerma - La Laguna Negra (prov.)",42069,HERRADA LOPEZ Jesus,17534,2,0,2023-09-06,Paul
-1,2.PSs,"Tour of Britain, Stage 4 : Sherwood Forest - Newark-on-Trent (prov.)",42151,KOOIJ Olav,30643,0.3,0,2023-09-06,Albert
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 10 : Valladolid - Valladolid I.T.T. (prov.)",42068,Kuss Sepp,25653,1,0,2023-09-05,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 10 : Valladolid - Valladolid I.T.T. (prov.)",42068,Evenepoel Remco,28377,0.1,0,2023-09-05,Roy
--2,GT2s,"Puntentrui na Vuelta a España, Stage 10 : Valladolid - Valladolid I.T.T. (prov.)",42068,Groves Kaden,26637,0.2,0,2023-09-05,Vel
--3,GT2s,"Bergtrui na Vuelta a España, Stage 10 : Valladolid - Valladolid I.T.T. (prov.)",42068,Sepulveda Eduardo,18487,0.2,0,2023-09-05,-
-1,GT2s,"Vuelta a España, Stage 10 : Valladolid - Valladolid I.T.T. (prov.)",42068,GANNA Filippo,24057,2,0,2023-09-05,Jan
-1,2.PSs,"Tour of Britain, Stage 3 : Goole - Beverley (prov.)",42150,KOOIJ Olav,30643,0.3,0,2023-09-05,Albert
-1,2.PSs,"Tour of Britain, Stage 2 : Wrexham - Wrexham (prov.)",42149,KOOIJ Olav,30643,0.3,0,2023-09-04,Albert
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,Kuss Sepp,25653,1,0,2023-09-03,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,Martinez Lenny,32721,0.1,0,2023-09-03,Kees
--2,GT2s,"Puntentrui na Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,Groves Kaden,26637,0.2,0,2023-09-03,Vel
--3,GT2s,"Bergtrui na Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,Sepulveda Eduardo,18487,0.2,0,2023-09-03,-
-1,GT2s,"Vuelta a España, Stage 9 : Cartagena - Caravaca de la Cruz (prov.)",42067,KÄMNA Lennard,23427,2,0,2023-09-03,Jan
