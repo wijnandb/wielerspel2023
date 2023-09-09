@@ -1,7 +1,6 @@
 startdate,enddate,race,FC_race_id,category,points,jpp
 2023-08-26 00:00:00,2023-09-17 00:00:00,Vuelta a España,23,GT2,68.0,208
 2023-09-03 00:00:00,2023-09-10 00:00:00,Tour of Britain,45,2.PS,5.5,208
-2023-09-08 00:00:00,,GP Quebec,59,1.WT2,14.7,208
 2023-09-10 00:00:00,,GP de Fourmies,92,1.PS,5.5,208
 2023-09-10 00:00:00,,GP Montreal,58,1.WT2,14.7,208
 2023-09-13 00:00:00,,Giro della Toscana,4025,1.1,2.4,0
@@ -9,3 +8,4 @@ startdate,enddate,race,FC_race_id,category,points,jpp
 2023-09-13 00:00:00,2023-09-17 00:00:00,Okolo Slovenska,380,2.1,2.4,0
 2023-09-14 00:00:00,,Coppa Sabatini,160,1.PS,5.5,208
 2023-09-14 00:00:00,2023-09-17 00:00:00,Tour of Taihu Lake,242,2.PS,5.5,208
+2023-09-15 00:00:00,,Kamp. van Vlaanderen,167,1.1,2.4,0
