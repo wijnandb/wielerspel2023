@@ -1,29 +1,33 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 15 : Pamplona - Lekunberri (prov.)",42073,Kuss Sepp,25653,1,0,2023-09-10,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 15 : Pamplona - Lekunberri (prov.)",42073,Ayuso Juan,31654,0.1,0,2023-09-10,Albert
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 15 : Pamplona - Lekunberri (prov.)",42073,Groves Kaden,26637,0.2,0,2023-09-10,Vel
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 15 : Pamplona - Lekunberri (prov.)",42073,Evenepoel Remco,28377,0.2,0,2023-09-10,Roy
+1,GT2s,"Vuelta a España, Stage 15 : Pamplona - Lekunberri (prov.)",42073,COSTA Rui Alberto Faria,6807,2,0,2023-09-10,-
+1,2.PS,"Tour of Britain, General classification (prov.)",42153,VAN AERT Wout,20730,4,50,2023-09-10,Frank
+2,2.PS,"Tour of Britain, General classification (prov.)",42153,JOHANNESSEN Tobias Halland,31567,1,35,2023-09-10,Albert
+3,2.PS,"Tour of Britain, General classification (prov.)",42153,HOWSON Damien,18239,0.5,25,2023-09-10,-
+4,2.PS,"Tour of Britain, General classification (prov.)",42153,SHEFFIELD Magnus,31598,0,20,2023-09-10,Jan
+5,2.PS,"Tour of Britain, General classification (prov.)",42153,DONOVAN Mark,27964,0,18,2023-09-10,-
+6,2.PS,"Tour of Britain, General classification (prov.)",42153,KYFFIN Zeb,28916,0,16,2023-09-10,-
+7,2.PS,"Tour of Britain, General classification (prov.)",42153,MÜHLBERGER Gregor,21128,0,14,2023-09-10,-
+8,2.PS,"Tour of Britain, General classification (prov.)",42153,BONNEU Kamiel,32584,0,12,2023-09-10,-
+9,2.PS,"Tour of Britain, General classification (prov.)",42153,POLITT Nils,20847,0,10,2023-09-10,Albert
+10,2.PS,"Tour of Britain, General classification (prov.)",42153,RODRIGUEZ CANO Carlos,30836,0,8,2023-09-10,Roy
+1,1.PS,GP de Fourmies (prov.),42114,MERLIER Tim,17988,4,50,2023-09-10,Wijnand
+2,1.PS,GP de Fourmies (prov.),42114,THIJSSEN Gerben,27085,1,35,2023-09-10,Albert
+3,1.PS,GP de Fourmies (prov.),42114,MOSCHETTI Matteo,27126,0.5,25,2023-09-10,-
+4,1.PS,GP de Fourmies (prov.),42114,KRISTOFF Alexander,4179,0,20,2023-09-10,Nicky
+5,1.PS,GP de Fourmies (prov.),42114,PENHOËT Paul,30686,0,18,2023-09-10,-
+6,1.PS,GP de Fourmies (prov.),42114,BONIFAZIO Niccolo,20102,0,16,2023-09-10,-
+7,1.PS,GP de Fourmies (prov.),42114,DEMARE Arnaud,16653,0,14,2023-09-10,Wijnand
+8,1.PS,GP de Fourmies (prov.),42114,HODEG CHAGUI Alvaro Jose,26396,0,12,2023-09-10,Albert
+9,1.PS,GP de Fourmies (prov.),42114,MARIT Arne,28641,0,10,2023-09-10,Wijnand
+10,1.PS,GP de Fourmies (prov.),42114,TESSON Jason,29883,0,8,2023-09-10,Jan
+1,2.PSs,"Tour of Britain, Stage 8 : Margam - Caerphilly (prov.)",42250,RODRIGUEZ CANO Carlos,30836,0.3,0,2023-09-10,Roy
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 14 : Sauveterre-de-Béarn - Larra-Belagua (prov.)",42072,Kuss Sepp,25653,1,0,2023-09-09,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 14 : Sauveterre-de-Béarn - Larra-Belagua (prov.)",42072,Ayuso Juan,31654,0.1,0,2023-09-09,Albert
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 14 : Sauveterre-de-Béarn - Larra-Belagua (prov.)",42072,Groves Kaden,26637,0.2,0,2023-09-09,Vel
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 14 : Sauveterre-de-Béarn - Larra-Belagua (prov.)",42072,Evenepoel Remco,28377,0.2,0,2023-09-09,Roy
 1,GT2s,"Vuelta a España, Stage 14 : Sauveterre-de-Béarn - Larra-Belagua (prov.)",42072,EVENEPOEL Remco,28377,2,0,2023-09-09,Roy
 1,2.PSs,"Tour of Britain, Stage 7 : Tewkesbury - Gloucester (prov.)",42249,TILLER Rasmus Fossum,25623,0.3,0,2023-09-09,PB
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Kuss Sepp,25653,1,0,2023-09-08,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Ayuso Juan,31654,0.1,0,2023-09-08,Albert
--2,GT2s,"Puntentrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Groves Kaden,26637,0.2,0,2023-09-08,Vel
--3,GT2s,"Bergtrui na Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,Vingegaard Jonas,25740,0.2,0,2023-09-08,Arjan
-1,GT2s,"Vuelta a España, Stage 13 : Formigal - Col du Tourmalet (prov.)",42071,VINGEGAARD RASMUSSEN Jonas,25740,2,0,2023-09-08,Arjan
-1,1.WT2,GP de Québec (prov.),42112,DE LIE Arnaud,32221,10,50,2023-09-08,Wijnand
-2,1.WT2,GP de Québec (prov.),42112,STRONG Corbin,29492,3,35,2023-09-08,PB
-3,1.WT2,GP de Québec (prov.),42112,MATTHEWS Michael,13066,1,25,2023-09-08,Bram
-4,1.WT2,GP de Québec (prov.),42112,ARANBURU DEBA Alexander,23940,0.5,20,2023-09-08,Jan
-5,1.WT2,GP de Québec (prov.),42112,MOHORIC Matej,21145,0.2,18,2023-09-08,Frank
-6,1.WT2,GP de Québec (prov.),42112,LAPORTE Christophe,19953,0,16,2023-09-08,Kaspar
-7,1.WT2,GP de Québec (prov.),42112,KAMP Alexander,19391,0,14,2023-09-08,-
-8,1.WT2,GP de Québec (prov.),42112,HIRSCHI Marc,26509,0,12,2023-09-08,Bram
-9,1.WT2,GP de Québec (prov.),42112,ALAPHILIPPE Julian,18610,0,10,2023-09-08,Arjan
-10,1.WT2,GP de Québec (prov.),42112,SKJELMOSE JENSEN Mattias,30166,0,8,2023-09-08,Kaspar
-1,2.PSs,"Tour of Britain, Stage 6 : Southend-on-Sea - Harlow (prov.)",42248,VAN POPPEL Danny,19242,0.3,0,2023-09-08,Jan
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Kuss Sepp,25653,1,0,2023-09-07,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Evenepoel Remco,28377,0.1,0,2023-09-07,Roy
--2,GT2s,"Puntentrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Groves Kaden,26637,0.2,0,2023-09-07,Vel
--3,GT2s,"Bergtrui na Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,Herrada Jesus,17534,0.2,0,2023-09-07,Paul
-1,GT2s,"Vuelta a España, Stage 12 : Olvega - Zaragoza (prov.)",42070,MOLANO BENAVIDES Juan Sebastian,23463,2,0,2023-09-07,PB
-1,2.PSs,"Tour of Britain, Stage 5 : Felixstowe - Felixstowe (prov.)",42152,VAN AERT Wout,20730,0.3,0,2023-09-07,Frank
