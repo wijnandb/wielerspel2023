@@ -54,7 +54,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 23,155,Bryan Coquard,18714,Cofidis,FRA,Jan Versluys,Jan,2,1
 23,161,Romain Bardet,13566,Team dsm-firmenich,FRA,Jan Versluys,Jan,6,
 23,163,Alberto Dainese,26965,Team dsm-firmenich,ITA,Frank Vellinga,Vel,3,
-23,171,Kévin Vauquelin,31264,Team Arkéa-Samsic,FRA,Albert Kraaij,Albert,2,
+23,171,Kévin Vauquelin,31264,Team Arkéa-Samsic,FRA,Albert Kraaij,Albert,2,1
 23,173,Hugo Hofstetter,22702,Team Arkéa-Samsic,FRA,Albert Kraaij,Albert,2,
 23,185,Pierre Latour,20156,TotalEnergies,FRA,Kaspar Burghard,Kaspar,2,1
 23,188,Dries van Gestel,21952,TotalEnergies,BEL,Roy Smits,Roy,2,
@@ -72,7 +72,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 45,16,Ben Turner,27923,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,1,
 45,31,Ethan Vernon,30035,Great Britain,GBR,Arjan Knibbe,Arjan,1,
 45,32,Jack Brough,30035,Great Britain,,Arjan Knibbe,Arjan,1,
-45,41,Sam Bennett,13362,BORA-hansgrohe,IRL,Pieter-Bas de Bruijn,PB,11,
+45,41,Sam Bennett,13362,BORA-hansgrohe,IRL,Pieter-Bas de Bruijn,PB,11,1
 45,43,Nils Politt,20847,BORA-hansgrohe,GER,Albert Kraaij,Albert,3,
 45,44,Matthew Walls,28509,BORA-hansgrohe,GBR,Pieter-Bas de Bruijn,PB,1,
 45,45,Ide Schelling,26301,BORA-hansgrohe,NED,Harry Koene,Harry,2,
@@ -84,7 +84,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 45,106,Casper van Uden,30636,Team dsm-firmenich,NED,Jan Versluys,Jan,1,
 45,154,Tobias Halland Johannessen,31567,Uno-X Pro Cycling Team,NOR,Albert Kraaij,Albert,2,
 45,155,Rasmus Tiller,25623,Uno-X Pro Cycling Team,NOR,Pieter-Bas de Bruijn,PB,1,
-92,1,Caleb Ewan,19651,Lotto Dstny,AUS,Paul van Doorn,Paul,16,
+92,1,Caleb Ewan,19651,Lotto Dstny,AUS,Paul van Doorn,Paul,16,1
 92,11,Mathieu van der Poel,21971,Alpecin-Deceuninck,NED,Frank Vellinga,Vel,40,
 92,22,Fabio Jakobsen,23426,Soudal Quick-Step,NED,Kaspar Burghard,Kaspar,23,
 92,23,Yves Lampaert,19941,Soudal Quick-Step,BEL,Harry Koene,Harry,1,
