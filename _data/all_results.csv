@@ -1,22 +1,23 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour of Taihu Lake, Stage 1 : Wuxi - Wuxi (prov.)",42197,ZANONCELLO Enrico,28364,0.0,0,2023-09-14
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Kuss Sepp,25653,0.0,0,2023-09-13
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Ayuso Juan,31654,0.0,0,2023-09-13
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Groves Kaden,26637,0.0,0,2023-09-13
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Evenepoel Remco,28377,0.0,0,2023-09-13
 1,GT2s,"Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,ROGLIC Primoz,20719,0.0,0,2023-09-13
-1,1.PS,GP de Wallonie (prov.),42115,SERRANO RODRIGUEZ Gonzalo,25671,0.0,0,2023-09-13
-2,1.PS,GP de Wallonie (prov.),42115,TEUNS Dylan,17908,0.0,0,2023-09-13
-3,1.PS,GP de Wallonie (prov.),42115,DE BUYST Jasper,19274,0.0,0,2023-09-13
-4,1.PS,GP de Wallonie (prov.),42115,VAN DER POEL Mathieu,21971,0.0,0,2023-09-13
-5,1.PS,GP de Wallonie (prov.),42115,CHRISTEN Fabio,31719,0.0,0,2023-09-13
-6,1.PS,GP de Wallonie (prov.),42115,BONNAMOUR Franck,22692,0.0,0,2023-09-13
-7,1.PS,GP de Wallonie (prov.),42115,GIRMAY HAILU Biniam,29474,0.0,0,2023-09-13
-8,1.PS,GP de Wallonie (prov.),42115,SIMON Julien,7834,0.0,0,2023-09-13
-9,1.PS,GP de Wallonie (prov.),42115,COSTIOU Ewen,32834,0.0,0,2023-09-13
-10,1.PS,GP de Wallonie (prov.),42115,PLUIMERS Rick,29463,0.0,0,2023-09-13
-1,1.1,Giro della Toscana - Memorial Alfredo Martini (prov.),42116,SIVAKOV Pavel,24934,0.0,0,2023-09-13
-2,1.1,Giro della Toscana - Memorial Alfredo Martini (prov.),42116,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2023-09-13
-3,1.1,Giro della Toscana - Memorial Alfredo Martini (prov.),42116,GROSSSCHARTNER Felix,19548,0.0,0,2023-09-13
+1,1.PS,GP de Wallonie,42115,SERRANO RODRIGUEZ Gonzalo,25671,0.0,0,2023-09-13
+2,1.PS,GP de Wallonie,42115,TEUNS Dylan,17908,0.0,0,2023-09-13
+3,1.PS,GP de Wallonie,42115,DE BUYST Jasper,19274,0.0,0,2023-09-13
+4,1.PS,GP de Wallonie,42115,VAN DER POEL Mathieu,21971,0.0,0,2023-09-13
+5,1.PS,GP de Wallonie,42115,CHRISTEN Fabio,31719,0.0,0,2023-09-13
+6,1.PS,GP de Wallonie,42115,BONNAMOUR Franck,22692,0.0,0,2023-09-13
+7,1.PS,GP de Wallonie,42115,GIRMAY HAILU Biniam,29474,0.0,0,2023-09-13
+8,1.PS,GP de Wallonie,42115,SIMON Julien,7834,0.0,0,2023-09-13
+9,1.PS,GP de Wallonie,42115,COSTIOU Ewen,32834,0.0,0,2023-09-13
+10,1.PS,GP de Wallonie,42115,PLUIMERS Rick,29463,0.0,0,2023-09-13
+1,1.1,Giro della Toscana - Memorial Alfredo Martini,42116,SIVAKOV Pavel,24934,0.0,0,2023-09-13
+2,1.1,Giro della Toscana - Memorial Alfredo Martini,42116,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2023-09-13
+3,1.1,Giro della Toscana - Memorial Alfredo Martini,42116,GROSSSCHARTNER Felix,19548,0.0,0,2023-09-13
 1,2.1s,"Tour de Slovaquie, Stage 1 : Kosice - Kosice (prov.)",42191,CAVAGNA Rémi,22910,0.0,0,2023-09-13
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 16 : Liencres - Bejes (prov.)",42074,Kuss Sepp,25653,0.0,0,2023-09-12
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 16 : Liencres - Bejes (prov.)",42074,Ayuso Juan,31654,0.0,0,2023-09-12
