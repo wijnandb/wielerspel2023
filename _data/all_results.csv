@@ -1,5 +1,21 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Kuss Sepp,25653,0.0,0,2023-09-14
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Ayuso Juan,31654,0.0,0,2023-09-14
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Groves Kaden,26637,0.0,0,2023-09-14
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Evenepoel Remco,28377,0.0,0,2023-09-14
+1,GT2s,"Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,EVENEPOEL Remco,28377,0.0,0,2023-09-14
+1,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,HIRSCHI Marc,26509,0.0,0,2023-09-14
+2,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,SIVAKOV Pavel,24934,0.0,0,2023-09-14
+3,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,POGACAR Tadej,26526,0.0,0,2023-09-14
+4,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,MARTIN Guillaume,19994,0.0,0,2023-09-14
+5,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,LUTSENKO Alexey,18455,0.0,0,2023-09-14
+6,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,CALZONI Walter,32557,0.0,0,2023-09-14
+7,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2023-09-14
+8,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,VALGREN HUNDAHL (ANDERSEN) Michael,18123,0.0,0,2023-09-14
+9,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,BENNETT George,12254,0.0,0,2023-09-14
+10,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,BURGAUDEAU Mathieu,27151,0.0,0,2023-09-14
 1,2.PSs,"Tour of Taihu Lake, Stage 1 : Wuxi - Wuxi (prov.)",42197,ZANONCELLO Enrico,28364,0.0,0,2023-09-14
+1,2.1s,"Tour de Slovaquie, Stage 2 : Presov - Poprad (prov.)",42192,MERLIER Tim,17988,0.0,0,2023-09-14
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Kuss Sepp,25653,0.0,0,2023-09-13
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Ayuso Juan,31654,0.0,0,2023-09-13
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Groves Kaden,26637,0.0,0,2023-09-13
