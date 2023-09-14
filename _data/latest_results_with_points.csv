@@ -1,5 +1,21 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Kuss Sepp,25653,1,0,2023-09-14,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Ayuso Juan,31654,0.1,0,2023-09-14,Albert
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Groves Kaden,26637,0.2,0,2023-09-14,Vel
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Evenepoel Remco,28377,0.2,0,2023-09-14,Roy
+1,GT2s,"Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,EVENEPOEL Remco,28377,2,0,2023-09-14,Roy
+1,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,HIRSCHI Marc,26509,4,50,2023-09-14,Bram
+2,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,SIVAKOV Pavel,24934,1,35,2023-09-14,Paul
+3,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,POGACAR Tadej,26526,0.5,25,2023-09-14,Kees
+4,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,MARTIN Guillaume,19994,0,20,2023-09-14,Jan
+5,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,LUTSENKO Alexey,18455,0,18,2023-09-14,Vel
+6,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,CALZONI Walter,32557,0,16,2023-09-14,-
+7,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,CARAPAZ MONTENEGRO Richard Antonio,21342,0,14,2023-09-14,Wijnand
+8,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,VALGREN HUNDAHL (ANDERSEN) Michael,18123,0,12,2023-09-14,Harry
+9,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,BENNETT George,12254,0,10,2023-09-14,Nicky
+10,1.PS,Coppa Sabatini - GP Citta di Peccioli (prov.),42117,BURGAUDEAU Mathieu,27151,0,8,2023-09-14,Paul
 1,2.PSs,"Tour of Taihu Lake, Stage 1 : Wuxi - Wuxi (prov.)",42197,ZANONCELLO Enrico,28364,0.3,0,2023-09-14,-
+1,2.1s,"Tour de Slovaquie, Stage 2 : Presov - Poprad (prov.)",42192,MERLIER Tim,17988,0.2,0,2023-09-14,Wijnand
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Kuss Sepp,25653,1,0,2023-09-13,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Ayuso Juan,31654,0.1,0,2023-09-13,Albert
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Groves Kaden,26637,0.2,0,2023-09-13,Vel
@@ -59,4 +75,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,GP de Fourmies,42114,HODEG CHAGUI Alvaro Jose,26396,0,12,2023-09-10,Albert
 9,1.PS,GP de Fourmies,42114,MARIT Arne,28641,0,10,2023-09-10,Wijnand
 10,1.PS,GP de Fourmies,42114,TESSON Jason,29883,0,8,2023-09-10,Jan
-1,2.PSs,"Tour of Britain, Stage 8 : Margam - Caerphilly",42250,RODRIGUEZ CANO Carlos,30836,0.3,0,2023-09-10,Roy
