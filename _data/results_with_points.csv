@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Kuss Sepp,25653,1,0,2023-09-15,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Ayuso Juan,31654,0.1,0,2023-09-15,Albert
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Groves Kaden,26637,0.2,0,2023-09-15,Vel
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Evenepoel Remco,28377,0.2,0,2023-09-15,Roy
+1,GT2s,"Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,DAINESE Alberto,26965,2,0,2023-09-15,Vel
+1,2.PSs,"Tour of Taihu Lake, Stage 2 : Kunshan - Kunshan (prov.)",42198,VAN DE PAAR Jarne,29798,0.3,0,2023-09-15,-
+1,1.1,Kampioenschap van Vlaanderen (prov.),42118,PHILIPSEN Jasper,26392,2,0,2023-09-15,Nicky
+2,1.1,Kampioenschap van Vlaanderen (prov.),42118,GROENEWEGEN Dylan,19238,0.3,0,2023-09-15,Frank
+3,1.1,Kampioenschap van Vlaanderen (prov.),42118,JAKOBSEN Fabio,23426,0.1,0,2023-09-15,Kaspar
+1,2.1s,"Tour de Slovaquie, Stage 3 : Ruzomberok - Martin (prov.)",42193,BAGIOLI Andrea,28452,0.2,0,2023-09-15,Albert
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Kuss Sepp,25653,1,0,2023-09-14,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Ayuso Juan,31654,0.1,0,2023-09-14,Albert
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Groves Kaden,26637,0.2,0,2023-09-14,Vel

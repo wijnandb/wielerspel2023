@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Kuss Sepp,25653,1,0,2023-09-15,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Ayuso Juan,31654,0.1,0,2023-09-15,Albert
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Groves Kaden,26637,0.2,0,2023-09-15,Vel
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Evenepoel Remco,28377,0.2,0,2023-09-15,Roy
+1,GT2s,"Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,DAINESE Alberto,26965,2,0,2023-09-15,Vel
+1,2.PSs,"Tour of Taihu Lake, Stage 2 : Kunshan - Kunshan (prov.)",42198,VAN DE PAAR Jarne,29798,0.3,0,2023-09-15,-
+1,1.1,Kampioenschap van Vlaanderen (prov.),42118,PHILIPSEN Jasper,26392,2,0,2023-09-15,Nicky
+2,1.1,Kampioenschap van Vlaanderen (prov.),42118,GROENEWEGEN Dylan,19238,0.3,0,2023-09-15,Frank
+3,1.1,Kampioenschap van Vlaanderen (prov.),42118,JAKOBSEN Fabio,23426,0.1,0,2023-09-15,Kaspar
+1,2.1s,"Tour de Slovaquie, Stage 3 : Ruzomberok - Martin (prov.)",42193,BAGIOLI Andrea,28452,0.2,0,2023-09-15,Albert
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Kuss Sepp,25653,1,0,2023-09-14,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Ayuso Juan,31654,0.1,0,2023-09-14,Albert
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Groves Kaden,26637,0.2,0,2023-09-14,Vel
@@ -40,38 +50,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 16 : Liencres - Bejes (prov.)",42074,Groves Kaden,26637,0.2,0,2023-09-12,Vel
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 16 : Liencres - Bejes (prov.)",42074,Evenepoel Remco,28377,0.2,0,2023-09-12,Roy
 1,GT2s,"Vuelta a España, Stage 16 : Liencres - Bejes (prov.)",42074,VINGEGAARD RASMUSSEN Jonas,25740,2,0,2023-09-12,Arjan
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 15 : Pamplona - Lekunberri (prov.)",42073,Kuss Sepp,25653,1,0,2023-09-10,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 15 : Pamplona - Lekunberri (prov.)",42073,Ayuso Juan,31654,0.1,0,2023-09-10,Albert
--2,GT2s,"Puntentrui na Vuelta a España, Stage 15 : Pamplona - Lekunberri (prov.)",42073,Groves Kaden,26637,0.2,0,2023-09-10,Vel
--3,GT2s,"Bergtrui na Vuelta a España, Stage 15 : Pamplona - Lekunberri (prov.)",42073,Evenepoel Remco,28377,0.2,0,2023-09-10,Roy
-1,GT2s,"Vuelta a España, Stage 15 : Pamplona - Lekunberri (prov.)",42073,COSTA Rui Alberto Faria,6807,2,0,2023-09-10,-
-1,1.WT2,GP de Montréal,42113,YATES Adam,18975,10,50,2023-09-10,Paul
-2,1.WT2,GP de Montréal,42113,SIVAKOV Pavel,24934,3,35,2023-09-10,Paul
-3,1.WT2,GP de Montréal,42113,ARANBURU DEBA Alexander,23940,1,25,2023-09-10,Jan
-4,1.WT2,GP de Montréal,42113,MADOUAS Valentin,24758,0.5,20,2023-09-10,PB
-5,1.WT2,GP de Montréal,42113,VELASCO Simone,22662,0.2,18,2023-09-10,-
-6,1.WT2,GP de Montréal,42113,YATES Simon,17893,0,16,2023-09-10,PB
-7,1.WT2,GP de Montréal,42113,O'CONNOR Ben,23763,0,14,2023-09-10,Harry
-8,1.WT2,GP de Montréal,42113,IZAGIRRE INSAUSTI Ion,14321,0,12,2023-09-10,Harry
-9,1.WT2,GP de Montréal,42113,SKJELMOSE JENSEN Mattias,30166,0,10,2023-09-10,Kaspar
-10,1.WT2,GP de Montréal,42113,HIRSCHI Marc,26509,0,8,2023-09-10,Bram
-1,2.PS,"Tour of Britain, General classification",42153,VAN AERT Wout,20730,4,50,2023-09-10,Frank
-2,2.PS,"Tour of Britain, General classification",42153,JOHANNESSEN Tobias Halland,31567,1,35,2023-09-10,Albert
-3,2.PS,"Tour of Britain, General classification",42153,HOWSON Damien,18239,0.5,25,2023-09-10,-
-4,2.PS,"Tour of Britain, General classification",42153,SHEFFIELD Magnus,31598,0,20,2023-09-10,Jan
-5,2.PS,"Tour of Britain, General classification",42153,DONOVAN Mark,27964,0,18,2023-09-10,-
-6,2.PS,"Tour of Britain, General classification",42153,KYFFIN Zeb,28916,0,16,2023-09-10,-
-7,2.PS,"Tour of Britain, General classification",42153,MÜHLBERGER Gregor,21128,0,14,2023-09-10,-
-8,2.PS,"Tour of Britain, General classification",42153,BONNEU Kamiel,32584,0,12,2023-09-10,-
-9,2.PS,"Tour of Britain, General classification",42153,POLITT Nils,20847,0,10,2023-09-10,Albert
-10,2.PS,"Tour of Britain, General classification",42153,RODRIGUEZ CANO Carlos,30836,0,8,2023-09-10,Roy
-1,1.PS,GP de Fourmies,42114,MERLIER Tim,17988,4,50,2023-09-10,Wijnand
-2,1.PS,GP de Fourmies,42114,THIJSSEN Gerben,27085,1,35,2023-09-10,Albert
-3,1.PS,GP de Fourmies,42114,MOSCHETTI Matteo,27126,0.5,25,2023-09-10,-
-4,1.PS,GP de Fourmies,42114,KRISTOFF Alexander,4179,0,20,2023-09-10,Nicky
-5,1.PS,GP de Fourmies,42114,PENHOËT Paul,30686,0,18,2023-09-10,-
-6,1.PS,GP de Fourmies,42114,BONIFAZIO Niccolo,20102,0,16,2023-09-10,-
-7,1.PS,GP de Fourmies,42114,DEMARE Arnaud,16653,0,14,2023-09-10,Wijnand
-8,1.PS,GP de Fourmies,42114,HODEG CHAGUI Alvaro Jose,26396,0,12,2023-09-10,Albert
-9,1.PS,GP de Fourmies,42114,MARIT Arne,28641,0,10,2023-09-10,Wijnand
-10,1.PS,GP de Fourmies,42114,TESSON Jason,29883,0,8,2023-09-10,Jan
