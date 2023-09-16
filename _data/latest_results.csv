@@ -4,20 +4,20 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Groves Kaden,26637,0.0,0,2023-09-16
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Evenepoel Remco,28377,0.0,0,2023-09-16
 1,GT2s,"Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,POELS Wout,7751,0.0,0,2023-09-16
-1,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),42120,VAN DER POEL Mathieu,21971,0.0,0,2023-09-16
-2,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),42120,TURGIS Anthony,21312,0.0,0,2023-09-16
-3,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),42120,VERMEERSCH Florian,28127,0.0,0,2023-09-16
-4,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),42120,BOVEN Lars,30561,0.0,0,2023-09-16
-5,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),42120,FUGLSANG Jakob,3828,0.0,0,2023-09-16
-6,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),42120,VERMEERSCH Gianni,18247,0.0,0,2023-09-16
-7,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),42120,KRISTOFF Alexander,4179,0.0,0,2023-09-16
-8,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),42120,MEZGEC Luka,15789,0.0,0,2023-09-16
-9,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),42120,SENECHAL Florian,19903,0.0,0,2023-09-16
-10,1.PS,Super 8 Classic Impanis - Van Petegem (prov.),42120,DUJARDIN Sandy,28583,0.0,0,2023-09-16
+1,1.PS,Super 8 Classic Impanis - Van Petegem,42120,VAN DER POEL Mathieu,21971,0.0,0,2023-09-16
+2,1.PS,Super 8 Classic Impanis - Van Petegem,42120,TURGIS Anthony,21312,0.0,0,2023-09-16
+3,1.PS,Super 8 Classic Impanis - Van Petegem,42120,VERMEERSCH Florian,28127,0.0,0,2023-09-16
+4,1.PS,Super 8 Classic Impanis - Van Petegem,42120,BOVEN Lars,30561,0.0,0,2023-09-16
+5,1.PS,Super 8 Classic Impanis - Van Petegem,42120,FUGLSANG Jakob,3828,0.0,0,2023-09-16
+6,1.PS,Super 8 Classic Impanis - Van Petegem,42120,VERMEERSCH Gianni,18247,0.0,0,2023-09-16
+7,1.PS,Super 8 Classic Impanis - Van Petegem,42120,KRISTOFF Alexander,4179,0.0,0,2023-09-16
+8,1.PS,Super 8 Classic Impanis - Van Petegem,42120,MEZGEC Luka,15789,0.0,0,2023-09-16
+9,1.PS,Super 8 Classic Impanis - Van Petegem,42120,SENECHAL Florian,19903,0.0,0,2023-09-16
+10,1.PS,Super 8 Classic Impanis - Van Petegem,42120,DUJARDIN Sandy,28583,0.0,0,2023-09-16
 1,2.PSs,"Tour of Taihu Lake, Stage 3 : Wujiang - Wujiang (prov.)",42199,JACKSON George,31889,0.0,0,2023-09-16
-1,1.1,Memorial Marco Pantani (prov.),42119,LUTSENKO Alexey,18455,0.0,0,2023-09-16
-2,1.1,Memorial Marco Pantani (prov.),42119,HIRSCHI Marc,26509,0.0,0,2023-09-16
-3,1.1,Memorial Marco Pantani (prov.),42119,SIVAKOV Pavel,24934,0.0,0,2023-09-16
+1,1.1,Memorial Marco Pantani,42119,LUTSENKO Alexey,18455,0.0,0,2023-09-16
+2,1.1,Memorial Marco Pantani,42119,HIRSCHI Marc,26509,0.0,0,2023-09-16
+3,1.1,Memorial Marco Pantani,42119,SIVAKOV Pavel,24934,0.0,0,2023-09-16
 1,2.1s,"Tour de Slovaquie, Stage 4 : Prievidza - Nitra (prov.)",42194,MERLIER Tim,17988,0.0,0,2023-09-16
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Kuss Sepp,25653,0.0,0,2023-09-15
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Ayuso Juan,31654,0.0,0,2023-09-15
