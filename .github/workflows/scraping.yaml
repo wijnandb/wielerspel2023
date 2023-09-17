@@ -4,7 +4,7 @@ on:
       - main
   schedule:
     # UTC time, so one hour later here. 5 and 35 past 18 (winter) and 19 (summer)
-    - cron: '05 17,20 * * *'
+    - cron: '05 17,21 * * *'
 
 jobs:
   scraping:
