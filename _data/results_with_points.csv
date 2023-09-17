@@ -1,27 +1,27 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,GT2,"Vuelta a España, General classification (prov.)",42080,KUSS Sepp,25653,25,50,2023-09-17,Nicky
-2,GT2,"Vuelta a España, General classification (prov.)",42080,VINGEGAARD RASMUSSEN Jonas,25740,10,35,2023-09-17,Arjan
-3,GT2,"Vuelta a España, General classification (prov.)",42080,ROGLIC Primoz,20719,7,25,2023-09-17,Bram
-4,GT2,"Vuelta a España, General classification (prov.)",42080,AYUSO PESQUERA Juan,31654,5,20,2023-09-17,Albert
-5,GT2,"Vuelta a España, General classification (prov.)",42080,LANDA MEANA Mikel,14319,4,18,2023-09-17,Harry
-6,GT2,"Vuelta a España, General classification (prov.)",42080,MAS NICOLAU Enric,22794,3,16,2023-09-17,PB
-7,GT2,"Vuelta a España, General classification (prov.)",42080,VLASOV Aleksandr,24316,3,14,2023-09-17,Harry
-8,GT2,"Vuelta a España, General classification (prov.)",42080,UIJTDEBROEKS Cian,31803,2,12,2023-09-17,Vel
-9,GT2,"Vuelta a España, General classification (prov.)",42080,ALMEIDA Joao Pedro Gonçalves,26482,2,10,2023-09-17,Wijnand
-10,GT2,"Vuelta a España, General classification (prov.)",42080,BUITRAGO SANCHEZ Santiago,29699,2,8,2023-09-17,Jan
-11,GT2,"Vuelta a España, General classification (prov.)",42080,CRAS Steff,24257,1,0,2023-09-17,-
-12,GT2,"Vuelta a España, General classification (prov.)",42080,EVENEPOEL Remco,28377,1,0,2023-09-17,Roy
-13,GT2,"Vuelta a España, General classification (prov.)",42080,RODRIGUEZ MARTIN Cristian,24102,1,0,2023-09-17,-
-14,GT2,"Vuelta a España, General classification (prov.)",42080,SOLER GIMENEZ Marc,23299,1,0,2023-09-17,Vel
-15,GT2,"Vuelta a España, General classification (prov.)",42080,POELS Wout,7751,1,0,2023-09-17,Roy
-0,GT2c,Correctie dragen jongerentrui in Vuelta a España,42079,Ayuso Juan,31654,-0.8,0,2023-09-17,Albert
+1,GT2,"Vuelta a España, General classification",42080,KUSS Sepp,25653,25,50,2023-09-17,Nicky
+2,GT2,"Vuelta a España, General classification",42080,VINGEGAARD RASMUSSEN Jonas,25740,10,35,2023-09-17,Arjan
+3,GT2,"Vuelta a España, General classification",42080,ROGLIC Primoz,20719,7,25,2023-09-17,Bram
+4,GT2,"Vuelta a España, General classification",42080,AYUSO PESQUERA Juan,31654,5,20,2023-09-17,Albert
+5,GT2,"Vuelta a España, General classification",42080,LANDA MEANA Mikel,14319,4,18,2023-09-17,Harry
+6,GT2,"Vuelta a España, General classification",42080,MAS NICOLAU Enric,22794,3,16,2023-09-17,PB
+7,GT2,"Vuelta a España, General classification",42080,VLASOV Aleksandr,24316,3,14,2023-09-17,Harry
+8,GT2,"Vuelta a España, General classification",42080,UIJTDEBROEKS Cian,31803,2,12,2023-09-17,Vel
+9,GT2,"Vuelta a España, General classification",42080,ALMEIDA Joao Pedro Gonçalves,26482,2,10,2023-09-17,Wijnand
+10,GT2,"Vuelta a España, General classification",42080,BUITRAGO SANCHEZ Santiago,29699,2,8,2023-09-17,Jan
+11,GT2,"Vuelta a España, General classification",42080,CRAS Steff,24257,1,0,2023-09-17,-
+12,GT2,"Vuelta a España, General classification",42080,EVENEPOEL Remco,28377,1,0,2023-09-17,Roy
+13,GT2,"Vuelta a España, General classification",42080,RODRIGUEZ MARTIN Cristian,24102,1,0,2023-09-17,-
+14,GT2,"Vuelta a España, General classification",42080,SOLER GIMENEZ Marc,23299,1,0,2023-09-17,Vel
+15,GT2,"Vuelta a España, General classification",42080,POELS Wout,7751,1,0,2023-09-17,Roy
+0,GT2c,Correctie dragen jongerentrui in Vuelta a España,42079,Ayuso Juan,31654,-2.8,0,2023-09-17,Albert
 0,GT2c,Correctie dragen leiderstrui in Vuelta a España,42080,Kuss Sepp,25653,-13.0,0,2023-09-17,Nicky
 0,GT2c,Correctie dragen puntentrui in Vuelta a España,42081,Groves Kaden,26637,-3.4,0,2023-09-17,Vel
 0,GT2c,Correctie dragen bergtrui in Vuelta a España,42082,Evenepoel Remco,28377,-1.6,0,2023-09-17,Roy
 -1,GT2,Winnaar jongerentrui Vuelta a Españ,42079,Ayuso Juan,31654,2,0,2023-09-17,Albert
-1,GT2s,"Vuelta a España, Stage 21 : Madrid - Madrid (prov.)",42079,GROVES Kaden,26637,2,0,2023-09-17,Vel
-1,GT2r,"Vuelta a España, Points classification (prov.)",42081,GROVES Kaden,26637,5,0,2023-09-17,Vel
-1,GT2r,"Vuelta a España, Mountains classification (prov.)",42082,EVENEPOEL Remco,28377,5,0,2023-09-17,Roy
+1,GT2s,"Vuelta a España, Stage 21 : Madrid - Madrid",42079,GROVES Kaden,26637,2,0,2023-09-17,Vel
+1,GT2r,"Vuelta a España, Points classification",42081,GROVES Kaden,26637,5,0,2023-09-17,Vel
+1,GT2r,"Vuelta a España, Mountains classification",42082,EVENEPOEL Remco,28377,5,0,2023-09-17,Roy
 1,2.PS,"Tour of Taihu Lake, General classification",42201,JACKSON George,31889,4,50,2023-09-17,-
 2,2.PS,"Tour of Taihu Lake, General classification",42201,ZANONCELLO Enrico,28364,1,35,2023-09-17,-
 3,2.PS,"Tour of Taihu Lake, General classification",42201,VAN DE PAAR Jarne,29798,0.5,25,2023-09-17,-
@@ -33,24 +33,24 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.PS,"Tour of Taihu Lake, General classification",42201,TZORTZAKIS Polychronis,13800,0,10,2023-09-17,-
 10,2.PS,"Tour of Taihu Lake, General classification",42201,DE ROSSI Lucas,25715,0,8,2023-09-17,-
 1,2.PSs,"Tour of Taihu Lake, Stage 4 : Gaochun - Gaochun",42200,JACKSON George,31889,0.3,0,2023-09-17,-
-1,2.1,"Tour de Slovaquie, General classification (prov.)",42196,CAVAGNA Rémi,22910,2,0,2023-09-17,Harry
-2,2.1,"Tour de Slovaquie, General classification (prov.)",42196,KÜNG Stefan,20960,0.3,0,2023-09-17,PB
-3,2.1,"Tour de Slovaquie, General classification (prov.)",42196,VADER Milan,32720,0.1,0,2023-09-17,-
-1,1.1,Trofeo Matteotti (prov.),42258,BAX Sjoerd,23306,2,0,2023-09-17,PB
-2,1.1,Trofeo Matteotti (prov.),42258,VELASCO Simone,22662,0.3,0,2023-09-17,-
-3,1.1,Trofeo Matteotti (prov.),42258,ROTA Lorenzo,21958,0.1,0,2023-09-17,Paul
-1,1.1,Gooikse Pijl (prov.),42121,PHILIPSEN Jasper,26392,2,0,2023-09-17,Nicky
-2,1.1,Gooikse Pijl (prov.),42121,KOOIJ Olav,30643,0.3,0,2023-09-17,Albert
-3,1.1,Gooikse Pijl (prov.),42121,GROENEWEGEN Dylan,19238,0.1,0,2023-09-17,Frank
-1,1.1,GP d'Isbergues - Pas de Calais (prov.),42122,MOSCHETTI Matteo,27126,2,0,2023-09-17,-
-2,1.1,GP d'Isbergues - Pas de Calais (prov.),42122,PEDERSEN Mads,21992,0.3,0,2023-09-17,Harry
-3,1.1,GP d'Isbergues - Pas de Calais (prov.),42122,DEMARE Arnaud,16653,0.1,0,2023-09-17,Wijnand
-1,2.1s,"Tour de Slovaquie, Stage 5 : Hlohovec - Puchov (prov.)",42195,ASGREEN Kasper,23558,0.2,0,2023-09-17,Nicky
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Kuss Sepp,25653,1,0,2023-09-16,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Ayuso Juan,31654,0.1,0,2023-09-16,Albert
--2,GT2s,"Puntentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Groves Kaden,26637,0.2,0,2023-09-16,Vel
--3,GT2s,"Bergtrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Evenepoel Remco,28377,0.2,0,2023-09-16,Roy
-1,GT2s,"Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,POELS Wout,7751,2,0,2023-09-16,Roy
+1,2.1,"Tour de Slovaquie, General classification",42196,CAVAGNA Rémi,22910,2,0,2023-09-17,Harry
+2,2.1,"Tour de Slovaquie, General classification",42196,KÜNG Stefan,20960,0.3,0,2023-09-17,PB
+3,2.1,"Tour de Slovaquie, General classification",42196,VADER Milan,32720,0.1,0,2023-09-17,-
+1,1.1,Trofeo Matteotti,42258,BAX Sjoerd,23306,2,0,2023-09-17,PB
+2,1.1,Trofeo Matteotti,42258,VELASCO Simone,22662,0.3,0,2023-09-17,-
+3,1.1,Trofeo Matteotti,42258,ROTA Lorenzo,21958,0.1,0,2023-09-17,Paul
+1,1.1,GP d'Isbergues - Pas de Calais,42122,MOSCHETTI Matteo,27126,2,0,2023-09-17,-
+2,1.1,GP d'Isbergues - Pas de Calais,42122,PEDERSEN Mads,21992,0.3,0,2023-09-17,Harry
+3,1.1,GP d'Isbergues - Pas de Calais,42122,DEMARE Arnaud,16653,0.1,0,2023-09-17,Wijnand
+1,1.1,Gooikse Pijl,42121,PHILIPSEN Jasper,26392,2,0,2023-09-17,Nicky
+2,1.1,Gooikse Pijl,42121,KOOIJ Olav,30643,0.3,0,2023-09-17,Albert
+3,1.1,Gooikse Pijl,42121,GROENEWEGEN Dylan,19238,0.1,0,2023-09-17,Frank
+1,2.1s,"Tour de Slovaquie, Stage 5 : Hlohovec - Puchov",42195,ASGREEN Kasper,23558,0.2,0,2023-09-17,Nicky
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama",42078,Kuss Sepp,25653,1,0,2023-09-16,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama",42078,Ayuso Juan,31654,0.1,0,2023-09-16,Albert
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama",42078,Groves Kaden,26637,0.2,0,2023-09-16,Vel
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama",42078,Evenepoel Remco,28377,0.2,0,2023-09-16,Roy
+1,GT2s,"Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama",42078,POELS Wout,7751,2,0,2023-09-16,Roy
 1,1.PS,Super 8 Classic Impanis - Van Petegem,42120,VAN DER POEL Mathieu,21971,4,50,2023-09-16,Vel
 2,1.PS,Super 8 Classic Impanis - Van Petegem,42120,TURGIS Anthony,21312,1,35,2023-09-16,Vel
 3,1.PS,Super 8 Classic Impanis - Van Petegem,42120,VERMEERSCH Florian,28127,0.5,25,2023-09-16,Albert
@@ -65,12 +65,12 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Memorial Marco Pantani,42119,LUTSENKO Alexey,18455,2,0,2023-09-16,Vel
 2,1.1,Memorial Marco Pantani,42119,HIRSCHI Marc,26509,0.3,0,2023-09-16,Bram
 3,1.1,Memorial Marco Pantani,42119,SIVAKOV Pavel,24934,0.1,0,2023-09-16,Paul
-1,2.1s,"Tour de Slovaquie, Stage 4 : Prievidza - Nitra (prov.)",42194,MERLIER Tim,17988,0.2,0,2023-09-16,Wijnand
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Kuss Sepp,25653,1,0,2023-09-15,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Ayuso Juan,31654,0.1,0,2023-09-15,Albert
--2,GT2s,"Puntentrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Groves Kaden,26637,0.2,0,2023-09-15,Vel
--3,GT2s,"Bergtrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Evenepoel Remco,28377,0.2,0,2023-09-15,Roy
-1,GT2s,"Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,DAINESE Alberto,26965,2,0,2023-09-15,Vel
+1,2.1s,"Tour de Slovaquie, Stage 4 : Prievidza - Nitra",42194,MERLIER Tim,17988,0.2,0,2023-09-16,Wijnand
+-4,GT2s,"Leiderstrui na Vuelta a España, Stage 19 : La Bañeza - Iscar",42077,Kuss Sepp,25653,1,0,2023-09-15,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España, Stage 19 : La Bañeza - Iscar",42077,Ayuso Juan,31654,0.1,0,2023-09-15,Albert
+-2,GT2s,"Puntentrui na Vuelta a España, Stage 19 : La Bañeza - Iscar",42077,Groves Kaden,26637,0.2,0,2023-09-15,Vel
+-3,GT2s,"Bergtrui na Vuelta a España, Stage 19 : La Bañeza - Iscar",42077,Evenepoel Remco,28377,0.2,0,2023-09-15,Roy
+1,GT2s,"Vuelta a España, Stage 19 : La Bañeza - Iscar",42077,DAINESE Alberto,26965,2,0,2023-09-15,Vel
 1,2.PSs,"Tour of Taihu Lake, Stage 2 : Kunshan - Kunshan",42198,VAN DE PAAR Jarne,29798,0.3,0,2023-09-15,-
 1,1.1,Kampioenschap van Vlaanderen,42118,PHILIPSEN Jasper,26392,2,0,2023-09-15,Nicky
 2,1.1,Kampioenschap van Vlaanderen,42118,GROENEWEGEN Dylan,19238,0.3,0,2023-09-15,Frank
