@@ -105,18 +105,19 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 205,1,Giulio Ciccone,21812,Italy,ITA,Nick Veenstra,Nicky,4,
 205,7,Elia Viviani,13240,Italy,ITA,Paul van Doorn,Paul,3,
 205,12,Lilian Calmejane,21439,Intermarché-Circus-Wanty,FRA,Jan Versluys,Jan,1,
-205,15,Louis Meintjes,18413,Intermarché-Circus-Wanty,RSA,Wijnand Baretta,Wijnand,1,
+205,15,Louis Meintjes,18413,Intermarché-Circus-Wanty,RSA,Wijnand Baretta,Wijnand,1,1
 205,17,Lorenzo Rota,21958,Intermarché-Circus-Wanty,ITA,Paul van Doorn,Paul,3,
 205,21,Simon Yates,17893,Team Jayco-AlUla,GBR,Pieter-Bas de Bruijn,PB,13,
 205,22,Michael Matthews,13066,Team Jayco-AlUla,AUS,Bram van Ommeren,Bram,12,
-205,25,Lucas Hamilton,25289,Team Jayco-AlUla,AUS,Albert Kraaij,Albert,1,
+205,25,Lucas Hamilton,25289,Team Jayco-AlUla,AUS,Albert Kraaij,Albert,1,1
 205,27,Filippo Zana,27749,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,
 205,31,Sjoerd Bax,23306,UAE Team Emirates,NED,Pieter-Bas de Bruijn,PB,1,
 205,32,George Bennett,12254,UAE Team Emirates,NZL,Nick Veenstra,Nicky,1,
-205,33,Alessandro Covi,28298,UAE Team Emirates,ITA,Jan Versluys,Jan,3,
+205,33,Alessandro Covi,28298,UAE Team Emirates,ITA,Jan Versluys,Jan,3,1
 205,34,Davide Formolo,18749,UAE Team Emirates,ITA,Nick Veenstra,Nicky,2,
 205,36,Marc Hirschi,26509,UAE Team Emirates,SUI,Bram van Ommeren,Bram,10,
 205,61,Vincenzo Albanese,24139,EOLO-Kometa,ITA,Harry Koene,Harry,1,
+205,93,Pierre Latour,20156,TotalEnergies,FRA,Kaspar Burghard,Kaspar,2,1
 205,94,Julien Simon,7834,TotalEnergies,FRA,Jan Versluys,Jan,1,
 170,3,Jakub Mareczko,22713,Alpecin-Deceuninck,ITA,Harry Koene,Harry,1,
 170,4,Jensen Plowright,29528,Alpecin-Deceuninck,AUS,Frank Rozemeijer,Frank,1,
