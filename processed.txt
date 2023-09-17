@@ -341,3 +341,4 @@ Resultaten gecheckt: 2023-09-15 17:10:31.186481
 Resultaten gecheckt: 2023-09-15 20:10:46.287468 
 Resultaten gecheckt: 2023-09-16 17:10:02.873200 
 Resultaten gecheckt: 2023-09-16 20:10:42.778456 
+Resultaten gecheckt: 2023-09-17 10:14:40.525756 
