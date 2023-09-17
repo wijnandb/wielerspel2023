@@ -10,6 +10,19 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.PS,"Tour of Taihu Lake, General classification",42201,TZORTZAKIS Polychronis,13800,0,10,2023-09-17,-
 10,2.PS,"Tour of Taihu Lake, General classification",42201,DE ROSSI Lucas,25715,0,8,2023-09-17,-
 1,2.PSs,"Tour of Taihu Lake, Stage 4 : Gaochun - Gaochun",42200,JACKSON George,31889,0.3,0,2023-09-17,-
+1,2.1,"Tour de Slovaquie, General classification (prov.)",42196,CAVAGNA Rémi,22910,2,0,2023-09-17,Harry
+2,2.1,"Tour de Slovaquie, General classification (prov.)",42196,KÜNG Stefan,20960,0.3,0,2023-09-17,PB
+3,2.1,"Tour de Slovaquie, General classification (prov.)",42196,VADER Milan,32720,0.1,0,2023-09-17,-
+1,1.1,Trofeo Matteotti (prov.),42258,BAX Sjoerd,23306,2,0,2023-09-17,PB
+2,1.1,Trofeo Matteotti (prov.),42258,VELASCO Simone,22662,0.3,0,2023-09-17,-
+3,1.1,Trofeo Matteotti (prov.),42258,ROTA Lorenzo,21958,0.1,0,2023-09-17,Paul
+1,1.1,Gooikse Pijl (prov.),42121,PHILIPSEN Jasper,26392,2,0,2023-09-17,Nicky
+2,1.1,Gooikse Pijl (prov.),42121,KOOIJ Olav,30643,0.3,0,2023-09-17,Albert
+3,1.1,Gooikse Pijl (prov.),42121,GROENEWEGEN Dylan,19238,0.1,0,2023-09-17,Frank
+1,1.1,GP d'Isbergues - Pas de Calais (prov.),42122,MOSCHETTI Matteo,27126,2,0,2023-09-17,-
+2,1.1,GP d'Isbergues - Pas de Calais (prov.),42122,PEDERSEN Mads,21992,0.3,0,2023-09-17,Harry
+3,1.1,GP d'Isbergues - Pas de Calais (prov.),42122,DEMARE Arnaud,16653,0.1,0,2023-09-17,Wijnand
+1,2.1s,"Tour de Slovaquie, Stage 5 : Hlohovec - Puchov (prov.)",42195,ASGREEN Kasper,23558,0.2,0,2023-09-17,Nicky
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Kuss Sepp,25653,1,0,2023-09-16,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Ayuso Juan,31654,0.1,0,2023-09-16,Albert
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Groves Kaden,26637,0.2,0,2023-09-16,Vel
@@ -56,23 +69,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,BENNETT George,12254,0,10,2023-09-14,Nicky
 10,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,BURGAUDEAU Mathieu,27151,0,8,2023-09-14,Paul
 1,2.PSs,"Tour of Taihu Lake, Stage 1 : Wuxi - Wuxi",42197,ZANONCELLO Enrico,28364,0.3,0,2023-09-14,-
-1,2.1s,"Tour de Slovaquie, Stage 2 : Presov - Poprad (prov.)",42192,MERLIER Tim,17988,0.2,0,2023-09-14,Wijnand
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Kuss Sepp,25653,1,0,2023-09-13,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Ayuso Juan,31654,0.1,0,2023-09-13,Albert
--2,GT2s,"Puntentrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Groves Kaden,26637,0.2,0,2023-09-13,Vel
--3,GT2s,"Bergtrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Evenepoel Remco,28377,0.2,0,2023-09-13,Roy
-1,GT2s,"Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,ROGLIC Primoz,20719,2,0,2023-09-13,Bram
-1,1.PS,GP de Wallonie,42115,SERRANO RODRIGUEZ Gonzalo,25671,4,50,2023-09-13,Harry
-2,1.PS,GP de Wallonie,42115,TEUNS Dylan,17908,1,35,2023-09-13,Harry
-3,1.PS,GP de Wallonie,42115,DE BUYST Jasper,19274,0.5,25,2023-09-13,-
-4,1.PS,GP de Wallonie,42115,VAN DER POEL Mathieu,21971,0,20,2023-09-13,Vel
-5,1.PS,GP de Wallonie,42115,CHRISTEN Fabio,31719,0,18,2023-09-13,-
-6,1.PS,GP de Wallonie,42115,BONNAMOUR Franck,22692,0,16,2023-09-13,Frank
-7,1.PS,GP de Wallonie,42115,GIRMAY HAILU Biniam,29474,0,14,2023-09-13,Nicky
-8,1.PS,GP de Wallonie,42115,SIMON Julien,7834,0,12,2023-09-13,Jan
-9,1.PS,GP de Wallonie,42115,COSTIOU Ewen,32834,0,10,2023-09-13,-
-10,1.PS,GP de Wallonie,42115,PLUIMERS Rick,29463,0,8,2023-09-13,-
-1,1.1,Giro della Toscana - Memorial Alfredo Martini,42116,SIVAKOV Pavel,24934,2,0,2023-09-13,Paul
-2,1.1,Giro della Toscana - Memorial Alfredo Martini,42116,CARAPAZ MONTENEGRO Richard Antonio,21342,0.3,0,2023-09-13,Wijnand
-3,1.1,Giro della Toscana - Memorial Alfredo Martini,42116,GROSSSCHARTNER Felix,19548,0.1,0,2023-09-13,Albert
-1,2.1s,"Tour de Slovaquie, Stage 1 : Kosice - Kosice (prov.)",42191,CAVAGNA Rémi,22910,0.2,0,2023-09-13,Harry

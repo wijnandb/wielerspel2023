@@ -9,7 +9,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 20793,ANDERSEN Søren Kragh,ANDERSEN Søren Kragh,Vel,2,ADC,DEN,29,5.5,102
 23940,ARANBURU Alexander,ARANBURU DEBA Alexander,Jan,3,MOV,ESP,28,2.5,128
 27716,ARENSMAN Thymen,ARENSMAN Thymen,Kaspar,13,IGD,NED,24,3,16
-23558,ASGREEN Kasper,ASGREEN Kasper,Nicky,10,SOQ,DEN,28,6,49
+23558,ASGREEN Kasper,ASGREEN Kasper,Nicky,10,SOQ,DEN,28,6.2,49
 24326,AULAR Orluis,AULAR SANABRIA Orluis Alberto,PB,1,CJR,VEN,27,1.5,20
 31654,AYUSO Juan,AYUSO PESQUERA Juan,Albert,21,UAD,ESP,21,8.9,70
 28452,BAGIOLI Andrea,BAGIOLI Andrea,Albert,2,SOQ,ITA,24,1.0,63
@@ -18,7 +18,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 17627,BARGUIL Warren,BARGUIL Warren,Nicky,3,ARK,FRA,32,0,8
 28450,BATTISTELLA Samuele,BATTISTELLA Samuele,Vel,2,AST,ITA,25,0,18
 20861,BAUHAUS Phil,BAUHAUS Phil,Vel,1,TBV,GER,29,1,0
-23306,BAX Sjoerd,BAX Sjoerd,PB,1,UAD,NED,27,0,8
+23306,BAX Sjoerd,BAX Sjoerd,PB,1,UAD,NED,27,2,8
 12254,BENNETT George,BENNETT George,Nicky,1,UAD,NZL,33,0,36
 13362,BENNETT Sam,BENNETT Sam,PB,11,BOH,IRL,33,0.7,0
 21244,BENOOT Tiesj,BENOOT Tiesj,Paul,1,TJV,BEL,29,5.4,155
@@ -43,7 +43,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 21014,CARTHY Hugh,CARTHY Hugh,Bram,3,EFE,GBR,29,1,47
 6177,CARUSO Damiano,CARUSO Damiano,Jan,1,TBV,ITA,36,6,59
 16936,CATTANEO Mattia,CATTANEO Mattia,Albert,1,SOQ,ITA,33,1.2,30
-22910,CAVAGNA Rémi,CAVAGNA Rémi,Harry,4,SOQ,FRA,28,2.6,20
+22910,CAVAGNA Rémi,CAVAGNA Rémi,Harry,4,SOQ,FRA,28,4.6,20
 3448,CAVENDISH Mark,CAVENDISH Mark,Kaspar,4,???,GBR,38,2.5,35
 27153,CHAMPOUSSIN Clément,CHAMPOUSSIN Clément,Jan,1,ARK,FRA,25,0.3,36
 16941,CHAVES Jhoan,CHAVES RUBIO Jhoan Esteban,Jan,1,EFE,COL,33,5,50
@@ -60,7 +60,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 32221,DE LIE Arnaud,DE LIE Arnaud,Wijnand,14,LTD,BEL,21,25.7,263
 9851,DEGENKOLB John,DEGENKOLB John,Kaspar,1,DSM,GER,34,0,14
 27083,DEKKER David,DEKKER David,Wijnand,1,ARK,NED,25,0,0
-16653,DEMARE Arnaud,DEMARE Arnaud,Wijnand,13,GFC,FRA,32,5.8,119
+16653,DEMARE Arnaud,DEMARE Arnaud,Wijnand,13,GFC,FRA,32,5.9,119
 12823,DENNIS Rohan,DENNIS Rohan,Albert,1,TJV,AUS,33,1,14
 25655,DEWULF Stan,DEWULF Stan,Kaspar,0,ACT,BEL,26,0,16
 23765,DUNBAR Eddie,DUNBAR Eddie,Paul,2,JAY,IRL,27,3,38
@@ -81,7 +81,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 22018,GEOGHEGAN HART Tao,GEOGHEGAN HART Tao,Paul,2,IGD,GBR,28,6.6,116
 29474,GIRMAY Biniam,GIRMAY HAILU Biniam,Nicky,19,ICW,ERI,23,1.7,34
 31449,GLOAG Thomas,GLOAG Thomas,Frank,1,TJV,GBR,22,0,16
-19238,GROENEWEGEN Dylan,GROENEWEGEN Dylan,Frank,14,JAY,NED,30,3.9,28
+19238,GROENEWEGEN Dylan,GROENEWEGEN Dylan,Frank,14,JAY,NED,30,4.0,28
 19548,GROSSSCHARTNER Felix,GROSSSCHARTNER Felix,Albert,1,UAD,AUT,30,2.1,76
 26637,GROVES Kaden,GROVES Kaden,Vel,4,ADC,AUS,25,13.4,0
 22683,GUERREIRO Ruben,GUERREIRO Ruben Antonio Almeida,Jan,1,MOV,POR,29,2.3,0
@@ -110,10 +110,10 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24961,KANTER Max,KANTER Max,Frank,2,MOV,GER,26,0,10
 15171,KELDERMAN Wilco,KELDERMAN Wilco,Albert,2,TJV,NED,32,1.5,20
 16058,KONRAD Patrick,KONRAD Patrick,Albert,1,BOH,AUT,32,2,47
-30643,KOOIJ Olav,KOOIJ Olav,Albert,13,TJV,NED,22,14.1,152
+30643,KOOIJ Olav,KOOIJ Olav,Albert,13,TJV,NED,22,14.4,152
 4179,KRISTOFF Alexander,KRISTOFF Alexander,Nicky,7,UXT,NOR,36,1.7,74
 26420,KRON Andreas,KRON Andreas Lorentz,Paul,1,LTD,DEN,25,4.2,83
-20960,KÜNG Stefan,KÜNG Stefan,PB,11,GFC,SUI,30,3.8,106
+20960,KÜNG Stefan,KÜNG Stefan,PB,11,GFC,SUI,30,4.1,106
 25653,KUSS Sepp,KUSS Sepp,Nicky,3,TJV,USA,29,19,18
 12923,KWIATKOWSKI Michal,KWIATKOWSKI Michal,Harry,5,IGD,POL,33,4.5,25
 26197,LAFAY Victor,LAFAY Victor,Jan,2,COF,FRA,27,5.4,36
@@ -159,8 +159,8 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24293,PADUN Mark,PADUN Mark,PB,1,EFE,UKR,27,0,0
 30663,PAGE Hugo,PAGE Hugo,Albert,1,ICW,FRA,22,2.2,35
 24110,PARET-PEINTRE Aurélien,PARET-PEINTRE Aurélien,Nicky,0,ACT,FRA,27,3.5,0
-21992,PEDERSEN Mads,PEDERSEN Mads,Harry,18,TFS,DEN,28,25.7,217
-26392,PHILIPSEN Jasper,PHILIPSEN Jasper,Nicky,11,ADC,BEL,25,37.8,155
+21992,PEDERSEN Mads,PEDERSEN Mads,Harry,18,TFS,DEN,28,26.0,217
+26392,PHILIPSEN Jasper,PHILIPSEN Jasper,Nicky,11,ADC,BEL,25,39.8,155
 30648,PICCOLO Andrea,PICCOLO Andrea,Albert,3,EFE,ITA,22,1.1,0
 27708,PIDCOCK Thomas,PIDCOCK Thomas,Albert,20,IGD,GBR,24,17.5,142
 13080,PINOT Thibaut,PINOT Thibaut,Nicky,4,GFC,FRA,33,12.8,58
@@ -174,7 +174,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 12843,QUINTANA Nairo,QUINTANA ROJAS Nairo Alexander,Roy,5,???,COL,33,1,25
 30836,RODRIGUEZ Carlos,RODRIGUEZ CANO Carlos,Roy,12,IGD,ESP,22,9.3,64
 20719,ROGLIC Primoz,ROGLIC Primoz,Bram,38,TJV,SLO,34,60.6,200
-21958,ROTA Lorenzo,ROTA Lorenzo,Paul,3,ICW,ITA,28,2,99
+21958,ROTA Lorenzo,ROTA Lorenzo,Paul,3,ICW,ITA,28,2.1,99
 13229,ROWE Luke,ROWE Luke,Arjan,0,IGD,GBR,33,0,0
 27024,RUBIO Einer Augusto,RUBIO REYES Einer Augusto,Frank,0,MOV,COL,25,3.8,50
 12193,SAGAN Peter,SAGAN Peter,Roy,5,TEN,SVK,33,0,12
