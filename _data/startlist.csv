@@ -216,7 +216,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 380,72,Daniel Babor,27937,Caja Rural-Seguros RGA,CZE,-,-,-,1
 380,73,Tomas Barta,27940,Caja Rural-Seguros RGA,CZE,-,-,-,1
 380,75,Iuri Leitao,31829,Caja Rural-Seguros RGA,POR,-,-,-,
-380,77,Eduard Prades,12400,Caja Rural-Seguros RGA,ESP,-,-,-,
+380,77,Eduard Prades,12400,Caja Rural-Seguros RGA,ESP,-,-,-,1
 380,81,Luca Colnaghi,27762,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-,
 380,82,Alessandro Tonelli,19901,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-,
 380,83,Luca Rastelli,27763,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-,
@@ -244,7 +244,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 380,115,Jan Stöckli,32974,Team corratec - Selle Italia,SUI,-,-,-,1
 380,117,Antoine Debons,28562,Team corratec - Selle Italia,SUI,-,-,-,
 380,123,Kristjan Koren,2454,Adria Mobil,SLO,-,-,-,
-380,127,Aljaz Jarc,27925,Adria Mobil,SLO,-,-,-,
+380,127,Aljaz Jarc,27925,Adria Mobil,SLO,-,-,-,1
 380,132,Timo De Jong,28087,VolkerWessels CT,NED,-,-,-,
 380,133,Jasper Haest,33152,VolkerWessels CT,NED,-,-,-,
 380,134,Max Kroonen,30652,VolkerWessels CT,NED,-,-,-,1
@@ -259,7 +259,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 380,146,Jiri Petrus,23666,ATT Investments,CZE,-,-,-,
 380,147,Jan Kaspar,30143,ATT Investments,CZE,-,-,-,1
 380,151,Jan Barta,2990,Elkov-Kasper,CZE,-,-,-,
-380,152,Adam Toupalik,23787,Elkov-Kasper,CZE,-,-,-,
+380,152,Adam Toupalik,23787,Elkov-Kasper,CZE,-,-,-,1
 380,153,Matej Zahalka,21143,Elkov-Kasper,CZE,-,-,-,
 380,154,Michael Boros,18873,Elkov-Kasper,CZE,-,-,-,
 380,156,Dominik Neuman,25602,Elkov-Kasper,CZE,-,-,-,
@@ -282,7 +282,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 380,195,Zsolt Istlstekker,28192,Epronex-Hungary Cycling Team,HUN,-,-,-,1
 380,201,Patryk Stosz,21238,Voster ATS Team,POL,-,-,-,
 380,202,Maciej Paterski,8555,Voster ATS Team,POL,-,-,-,
-380,203,Mateusz Grabis,22533,Voster ATS Team,POL,-,-,-,
+380,203,Mateusz Grabis,22533,Voster ATS Team,POL,-,-,-,1
 380,204,Artur Sowinski,27240,Voster ATS Team,POL,-,-,-,
 380,205,Piotr Brozyna,23375,Voster ATS Team,POL,-,-,-,
 380,207,Jakub Murias,28519,Voster ATS Team,POL,-,-,-,1
@@ -378,10 +378,10 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 444,35,Stan Van Tricht,28579,Soudal Quick-Step,BEL,Jan Versluys,Jan,1,
 444,36,Warre Vangheluwe,31233,Soudal Quick-Step,BEL,-,-,-,
 444,37,Florian Sénéchal,19903,Soudal Quick-Step,FRA,Wijnand Baretta,Wijnand,5,
-444,41,Jasper De Buyst,19274,Lotto Dstny,BEL,-,-,-,
+444,41,Jasper De Buyst,19274,Lotto Dstny,BEL,-,-,-,1
 444,42,Cédric Beullens,25580,Lotto Dstny,BEL,-,-,-,
 444,43,Brent Van Moer,28448,Lotto Dstny,BEL,-,-,-,
-444,44,Caleb Ewan,19651,Lotto Dstny,AUS,Paul van Doorn,Paul,16,
+444,44,Caleb Ewan,19651,Lotto Dstny,AUS,Paul van Doorn,Paul,16,1
 444,45,Axel De Lie,30566,Lotto Dstny,NED,-,-,-,
 444,46,Mathijs Paasschens,27103,Lotto Dstny,NED,-,-,-,
 444,47,Rüdiger Selig,10954,Lotto Dstny,GER,-,-,-,
@@ -390,7 +390,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 444,54,Alexis Renard,29969,Cofidis,FRA,-,-,-,
 444,55,Piet Allegaert,22616,Cofidis,BEL,Frank Vellinga,Vel,0,
 444,61,Dylan Groenewegen,19238,Team Jayco-AlUla,NED,Frank Rozemeijer,Frank,14,
-444,62,Amund Grøndahl Jansen,20715,Team Jayco-AlUla,NOR,-,-,-,
+444,62,Amund Grøndahl Jansen,20715,Team Jayco-AlUla,NOR,-,-,-,1
 444,63,Luka Mezgec,15789,Team Jayco-AlUla,SLO,-,-,-,
 444,64,Adam Holm Jørgensen,31699,Team Jayco-AlUla,DEN,-,-,-,
 444,65,Elmar Reinders,18467,Team Jayco-AlUla,NED,-,-,-,
@@ -399,7 +399,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 444,71,Ruben Apers,27693,Team Flanders-Baloise,BEL,-,-,-,
 444,72,Alex Colman,27727,Team Flanders-Baloise,BEL,-,-,-,
 444,73,Sander De Pestel,6829,Team Flanders-Baloise,BEL,-,-,-,
-444,74,Tuur Dens,33387,Team Flanders-Baloise,BEL,-,-,-,
+444,74,Tuur Dens,33387,Team Flanders-Baloise,BEL,-,-,-,1
 444,75,Milan Fretin,32617,Team Flanders-Baloise,BEL,-,-,-,
 444,77,Lindsay De Vylder,22773,Team Flanders-Baloise,BEL,-,-,-,
 444,81,Dorian De Maeght,29119,Bingoal WB,BEL,-,-,-,
@@ -412,7 +412,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 444,93,Jonas Abrahamsen,22233,Uno-X Pro Cycling Team,NOR,-,-,-,
 444,94,Louis Bendixen,25020,Uno-X Pro Cycling Team,DEN,-,-,-,
 444,95,Tord Gudmestad,30776,Uno-X Pro Cycling Team,NOR,-,-,-,
-444,96,Lasse Norman Leth,17902,Uno-X Pro Cycling Team,DEN,-,-,-,
+444,96,Lasse Norman Leth,17902,Uno-X Pro Cycling Team,DEN,-,-,-,1
 444,97,William Blume Levy,30711,Uno-X Pro Cycling Team,DEN,-,-,-,
 444,101,Adam De Vos,20291,Human Powered Health,CAN,-,-,-,
 444,104,August Jensen,17088,Human Powered Health,NOR,-,-,-,
@@ -425,7 +425,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 444,114,Tom Van Asbroeck,18504,Israel-Premier Tech,BEL,-,-,-,
 444,115,Taj Jones,29498,Israel-Premier Tech,AUS,-,-,-,
 444,116,Reto Hollenstein,7374,Israel-Premier Tech,SUI,-,-,-,
-444,122,Len Dejonghe,32234,Materiel-Velo.com,BEL,-,-,-,
+444,122,Len Dejonghe,32234,Materiel-Velo.com,BEL,-,-,-,1
 444,123,Enrico Dhaeye,32876,Materiel-Velo.com,BEL,-,-,-,
 444,124,Jacques Gloesener,32430,Materiel-Velo.com,LUX,-,-,-,
 444,125,Alexandre Kess,33333,Materiel-Velo.com,LUX,-,-,-,
@@ -433,10 +433,10 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 444,133,Thibau Verhofstadt,29117,Tarteletto-Isorex,BEL,-,-,-,
 444,134,Andreas Goeman,28131,Tarteletto-Isorex,BEL,-,-,-,
 444,137,Jacob Relaes,27104,Tarteletto-Isorex,BEL,-,-,-,
-444,145,Nick van der Meer,21843,VolkerWessels CT,NED,-,-,-,
+444,145,Nick van der Meer,21843,VolkerWessels CT,NED,-,-,-,1
 444,146,Coen Vermeltfoort,6822,VolkerWessels CT,NED,-,-,-,
 444,151,Davide Bomboi,30543,TdT-Unibet,BEL,-,-,-,
-444,152,Harry Tanfield,23507,TdT-Unibet,GBR,-,-,-,
+444,152,Harry Tanfield,23507,TdT-Unibet,GBR,-,-,-,1
 444,154,Hartthijs de Vries,23351,TdT-Unibet,NED,-,-,-,
 444,155,Abram Stockman,26406,TdT-Unibet,BEL,-,-,-,
 444,164,Lukas Vernersson,32646,Motala AIF Serneke Allebike,SWE,-,-,-,
@@ -447,7 +447,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 444,195,Rens Tulner,26411,Metec-SOLARWATT p/b Mantel,NED,-,-,-,
 444,196,Casper van der Woude,30636,Metec-SOLARWATT p/b Mantel,NED,Jan Versluys,Jan,1,
 444,201,Bartosz Rudyk,27241,Voster ATS Team,POL,-,-,-,
-444,202,Damian Papierski,29579,Voster ATS Team,POL,-,-,-,
+444,202,Damian Papierski,29579,Voster ATS Team,POL,-,-,-,1
 444,212,Jan-Willem van Schip,22067,ABLOC CT,NED,-,-,-,
 444,216,Lars Loohuis,29462,ABLOC CT,NED,-,-,-,
 171,1,Arnaud Démare,16653,Team Arkéa-Samsic,FRA,Wijnand Baretta,Wijnand,13,
@@ -455,7 +455,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 171,3,Donavan Grondin,29832,Team Arkéa-Samsic,FRA,-,-,-,
 171,4,Daniel McLay,18498,Team Arkéa-Samsic,GBR,-,-,-,
 171,5,Laurent Pichon,14296,Team Arkéa-Samsic,FRA,-,-,-,
-171,6,Alan Riou,26239,Team Arkéa-Samsic,FRA,-,-,-,
+171,6,Alan Riou,26239,Team Arkéa-Samsic,FRA,-,-,-,1
 171,7,Clément Russo,24236,Team Arkéa-Samsic,FRA,-,-,-,
 171,11,Paul Penhoët,30686,Groupama-FDJ,FRA,-,-,-,
 171,12,Fabian Lienhard,20350,Groupama-FDJ,SUI,-,-,-,
@@ -463,10 +463,10 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 171,14,Laurence Pithie,31638,Groupama-FDJ,NZL,-,-,-,
 171,15,Miles Scotson,21261,Groupama-FDJ,AUS,-,-,-,
 171,16,Bram Welten,24933,Groupama-FDJ,NED,-,-,-,
-171,17,Lewis Bower,34225,Groupama-FDJ,NZL,-,-,-,
+171,17,Lewis Bower,34225,Groupama-FDJ,NZL,-,-,-,1
 171,21,Bryan Coquard,18714,Cofidis,FRA,Jan Versluys,Jan,2,
 171,22,Eddy Finé,29886,Cofidis,FRA,-,-,-,
-171,23,Joshua Gudnitz,30675,Cofidis,DEN,-,-,-,
+171,23,Joshua Gudnitz,30675,Cofidis,DEN,-,-,-,1
 171,24,Pierre-Luc Périchon,13117,Cofidis,FRA,-,-,-,
 171,25,Jelle Wallays,10467,Cofidis,BEL,-,-,-,
 171,26,Max Walscheid,19646,Cofidis,GER,Pieter-Bas de Bruijn,PB,1,
@@ -477,7 +477,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 171,35,Baptiste Planckaert,10276,Intermarché-Circus-Wanty,BEL,-,-,-,
 171,37,Jelle Vermoote,33729,Intermarché-Circus-Wanty,BEL,-,-,-,
 171,41,Mads Pedersen,21992,Lidl-Trek,DEN,Harry Koene,Harry,18,
-171,43,Emils Liepins,18296,Lidl-Trek,LAT,-,-,-,
+171,43,Emils Liepins,18296,Lidl-Trek,LAT,-,-,-,1
 171,44,Martin Pedersen,33717,Lidl-Trek,DEN,-,-,-,
 171,45,Jasper Stuyven,18233,Lidl-Trek,BEL,Pieter-Bas de Bruijn,PB,6,
 171,51,Marc Sarreau,21267,AG2R Citroën Team,FRA,Roy Smits,Roy,1,
@@ -490,14 +490,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 171,62,Lucas Boniface,32920,TotalEnergies,FRA,-,-,-,
 171,63,Emilien Jeannière,29288,TotalEnergies,FRA,-,-,-,
 171,64,Lorrenzo Manzin,21343,TotalEnergies,FRA,-,-,-,
-171,65,Daniel Oss,7148,TotalEnergies,ITA,-,-,-,
+171,65,Daniel Oss,7148,TotalEnergies,ITA,-,-,-,1
 171,66,Jason Tesson,29883,TotalEnergies,FRA,Jan Versluys,Jan,1,
 171,67,Anthony Turgis,21312,TotalEnergies,FRA,Frank Vellinga,Vel,3,
 171,71,Axel Laurance,31621,Alpecin-Deceuninck,FRA,Jan Versluys,Jan,1,
 171,72,Ayco Bastiaens,31825,Alpecin-Deceuninck,BEL,-,-,-,
 171,73,Dries De Bondt,22005,Alpecin-Deceuninck,BEL,-,-,-,
 171,74,Simon Dehairs,32634,Alpecin-Deceuninck,BEL,-,-,-,
-171,75,Timo Kielich,28189,Alpecin-Deceuninck,BEL,-,-,-,
+171,75,Timo Kielich,28189,Alpecin-Deceuninck,BEL,-,-,-,1
 171,76,Jensen Plowright,29528,Alpecin-Deceuninck,AUS,Frank Rozemeijer,Frank,1,
 171,77,Fabio Van den Bossche,30040,Alpecin-Deceuninck,BEL,-,-,-,
 171,81,Simon Pellaud,18632,Tudor Pro Cycling Team,SUI,-,-,-,
@@ -528,7 +528,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 171,116,Kenneth Van Rooy,20084,Bingoal WB,BEL,-,-,-,
 171,117,Nathan Vandepitte,29278,Bingoal WB,FRA,-,-,-,
 171,121,Samuel Leroux,22909,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-,
-171,122,Rait Ärm,29780,Van Rysel-Roubaix Lille Métropole,EST,-,-,-,
+171,122,Rait Ärm,29780,Van Rysel-Roubaix Lille Métropole,EST,-,-,-,1
 171,123,Thomas Boudat,21308,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-,
 171,124,Maxime Jarnet,28630,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-,
 171,125,Jérémy Leveau,19096,Van Rysel-Roubaix Lille Métropole,FRA,-,-,-,
@@ -549,7 +549,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 171,153,Jonathan Couanon,27468,Nice Métropole Côte d'Azur,FRA,-,-,-,
 171,155,Paul Hennequin,32595,Nice Métropole Côte d'Azur,FRA,-,-,-,
 171,156,Jean-Louis Le Ny,30533,Nice Métropole Côte d'Azur,FRA,-,-,-,
-171,157,Axel Narbonne-Zuccarelli,29156,Nice Métropole Côte d'Azur,FRA,-,-,-,
+171,157,Axel Narbonne-Zuccarelli,29156,Nice Métropole Côte d'Azur,FRA,-,-,-,1
 171,161,Thibaud Gruel,34337,France Espoirs,FRA,-,-,-,
 171,162,Axel Huens,32709,France Espoirs,FRA,-,-,-,
 171,163,Eddy Le Huitouze,32719,France Espoirs,FRA,-,-,-,
