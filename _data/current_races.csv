@@ -2,8 +2,6 @@ startdate,enddate,race,FC_race_id,category,points,jpp
 2023-08-26 00:00:00,2023-09-17 00:00:00,Vuelta a España,23,GT2,68.0,208
 2023-09-13 00:00:00,2023-09-17 00:00:00,Okolo Slovenska,380,2.1,2.4,0
 2023-09-14 00:00:00,2023-09-17 00:00:00,Tour of Taihu Lake,242,2.PS,5.5,208
-2023-09-16 00:00:00,,Memorial Pantani,68,1.1,2.4,0
-2023-09-16 00:00:00,,Primus Classic,168,1.PS,5.5,208
 2023-09-17 00:00:00,,Gooikse Pijl,444,1.1,2.4,0
 2023-09-17 00:00:00,,GP d'Isbergues,171,1.1,2.4,0
 2023-09-17 00:00:00,,Trofeo Matteotti,205,1.1,2.4,0
@@ -11,3 +9,4 @@ startdate,enddate,race,FC_race_id,category,points,jpp
 2023-09-20 00:00:00,,Omloop van het Houtland,170,1.1,2.4,0
 2023-09-20 00:00:00,2023-09-24 00:00:00,Tour de Luxembourg,37,2.PS,5.5,208
 2023-09-21 00:00:00,,CC Europe ITT,4020,CCTT,0,0
+2023-09-23 00:00:00,2023-09-30 00:00:00,Tour de Langkawi,128,2.PS,5.5,208
