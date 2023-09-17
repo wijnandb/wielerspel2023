@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PS,"Tour of Taihu Lake, General classification",42201,JACKSON George,31889,4,50,2023-09-17,-
+2,2.PS,"Tour of Taihu Lake, General classification",42201,ZANONCELLO Enrico,28364,1,35,2023-09-17,-
+3,2.PS,"Tour of Taihu Lake, General classification",42201,VAN DE PAAR Jarne,29798,0.5,25,2023-09-17,-
+4,2.PS,"Tour of Taihu Lake, General classification",42201,BANASZEK Norbert,24941,0,20,2023-09-17,-
+5,2.PS,"Tour of Taihu Lake, General classification",42201,BOSTOCK Matthew,27080,0,18,2023-09-17,-
+6,2.PS,"Tour of Taihu Lake, General classification",42201,CARSTENSEN Lucas,22704,0,16,2023-09-17,-
+7,2.PS,"Tour of Taihu Lake, General classification",42201,RASCH Jesper,29098,0,14,2023-09-17,-
+8,2.PS,"Tour of Taihu Lake, General classification",42201,CONFORTI Lorenzo,34208,0,12,2023-09-17,-
+9,2.PS,"Tour of Taihu Lake, General classification",42201,TZORTZAKIS Polychronis,13800,0,10,2023-09-17,-
+10,2.PS,"Tour of Taihu Lake, General classification",42201,DE ROSSI Lucas,25715,0,8,2023-09-17,-
+1,2.PSs,"Tour of Taihu Lake, Stage 4 : Gaochun - Gaochun",42200,JACKSON George,31889,0.3,0,2023-09-17,-
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Kuss Sepp,25653,1,0,2023-09-16,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Ayuso Juan,31654,0.1,0,2023-09-16,Albert
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Groves Kaden,26637,0.2,0,2023-09-16,Vel
@@ -14,7 +25,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Super 8 Classic Impanis - Van Petegem,42120,MEZGEC Luka,15789,0,12,2023-09-16,-
 9,1.PS,Super 8 Classic Impanis - Van Petegem,42120,SENECHAL Florian,19903,0,10,2023-09-16,Wijnand
 10,1.PS,Super 8 Classic Impanis - Van Petegem,42120,DUJARDIN Sandy,28583,0,8,2023-09-16,-
-1,2.PSs,"Tour of Taihu Lake, Stage 3 : Wujiang - Wujiang (prov.)",42199,JACKSON George,31889,0.3,0,2023-09-16,-
+1,2.PSs,"Tour of Taihu Lake, Stage 3 : Wujiang - Wujiang",42199,JACKSON George,31889,0.3,0,2023-09-16,-
 1,1.1,Memorial Marco Pantani,42119,LUTSENKO Alexey,18455,2,0,2023-09-16,Vel
 2,1.1,Memorial Marco Pantani,42119,HIRSCHI Marc,26509,0.3,0,2023-09-16,Bram
 3,1.1,Memorial Marco Pantani,42119,SIVAKOV Pavel,24934,0.1,0,2023-09-16,Paul
@@ -24,7 +35,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Groves Kaden,26637,0.2,0,2023-09-15,Vel
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,Evenepoel Remco,28377,0.2,0,2023-09-15,Roy
 1,GT2s,"Vuelta a España, Stage 19 : La Bañeza - Iscar (prov.)",42077,DAINESE Alberto,26965,2,0,2023-09-15,Vel
-1,2.PSs,"Tour of Taihu Lake, Stage 2 : Kunshan - Kunshan (prov.)",42198,VAN DE PAAR Jarne,29798,0.3,0,2023-09-15,-
+1,2.PSs,"Tour of Taihu Lake, Stage 2 : Kunshan - Kunshan",42198,VAN DE PAAR Jarne,29798,0.3,0,2023-09-15,-
 1,1.1,Kampioenschap van Vlaanderen,42118,PHILIPSEN Jasper,26392,2,0,2023-09-15,Nicky
 2,1.1,Kampioenschap van Vlaanderen,42118,GROENEWEGEN Dylan,19238,0.3,0,2023-09-15,Frank
 3,1.1,Kampioenschap van Vlaanderen,42118,JAKOBSEN Fabio,23426,0.1,0,2023-09-15,Kaspar
@@ -44,7 +55,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,VALGREN HUNDAHL (ANDERSEN) Michael,18123,0,12,2023-09-14,Harry
 9,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,BENNETT George,12254,0,10,2023-09-14,Nicky
 10,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,BURGAUDEAU Mathieu,27151,0,8,2023-09-14,Paul
-1,2.PSs,"Tour of Taihu Lake, Stage 1 : Wuxi - Wuxi (prov.)",42197,ZANONCELLO Enrico,28364,0.3,0,2023-09-14,-
+1,2.PSs,"Tour of Taihu Lake, Stage 1 : Wuxi - Wuxi",42197,ZANONCELLO Enrico,28364,0.3,0,2023-09-14,-
 1,2.1s,"Tour de Slovaquie, Stage 2 : Presov - Poprad (prov.)",42192,MERLIER Tim,17988,0.2,0,2023-09-14,Wijnand
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Kuss Sepp,25653,1,0,2023-09-13,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 17 : Ribadesella - Altu de l'Angliru (prov.)",42075,Ayuso Juan,31654,0.1,0,2023-09-13,Albert
@@ -65,8 +76,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,1.1,Giro della Toscana - Memorial Alfredo Martini,42116,CARAPAZ MONTENEGRO Richard Antonio,21342,0.3,0,2023-09-13,Wijnand
 3,1.1,Giro della Toscana - Memorial Alfredo Martini,42116,GROSSSCHARTNER Felix,19548,0.1,0,2023-09-13,Albert
 1,2.1s,"Tour de Slovaquie, Stage 1 : Kosice - Kosice (prov.)",42191,CAVAGNA Rémi,22910,0.2,0,2023-09-13,Harry
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 16 : Liencres - Bejes (prov.)",42074,Kuss Sepp,25653,1,0,2023-09-12,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 16 : Liencres - Bejes (prov.)",42074,Ayuso Juan,31654,0.1,0,2023-09-12,Albert
--2,GT2s,"Puntentrui na Vuelta a España, Stage 16 : Liencres - Bejes (prov.)",42074,Groves Kaden,26637,0.2,0,2023-09-12,Vel
--3,GT2s,"Bergtrui na Vuelta a España, Stage 16 : Liencres - Bejes (prov.)",42074,Evenepoel Remco,28377,0.2,0,2023-09-12,Roy
-1,GT2s,"Vuelta a España, Stage 16 : Liencres - Bejes (prov.)",42074,VINGEGAARD RASMUSSEN Jonas,25740,2,0,2023-09-12,Arjan
