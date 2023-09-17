@@ -10,6 +10,19 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,2.PS,"Tour of Taihu Lake, General classification",42201,TZORTZAKIS Polychronis,13800,0.0,0,2023-09-17
 10,2.PS,"Tour of Taihu Lake, General classification",42201,DE ROSSI Lucas,25715,0.0,0,2023-09-17
 1,2.PSs,"Tour of Taihu Lake, Stage 4 : Gaochun - Gaochun",42200,JACKSON George,31889,0.0,0,2023-09-17
+1,2.1,"Tour de Slovaquie, General classification (prov.)",42196,CAVAGNA Rémi,22910,0.0,0,2023-09-17
+2,2.1,"Tour de Slovaquie, General classification (prov.)",42196,KÜNG Stefan,20960,0.0,0,2023-09-17
+3,2.1,"Tour de Slovaquie, General classification (prov.)",42196,VADER Milan,32720,0.0,0,2023-09-17
+1,1.1,Trofeo Matteotti (prov.),42258,BAX Sjoerd,23306,0.0,0,2023-09-17
+2,1.1,Trofeo Matteotti (prov.),42258,VELASCO Simone,22662,0.0,0,2023-09-17
+3,1.1,Trofeo Matteotti (prov.),42258,ROTA Lorenzo,21958,0.0,0,2023-09-17
+1,1.1,Gooikse Pijl (prov.),42121,PHILIPSEN Jasper,26392,0.0,0,2023-09-17
+2,1.1,Gooikse Pijl (prov.),42121,KOOIJ Olav,30643,0.0,0,2023-09-17
+3,1.1,Gooikse Pijl (prov.),42121,GROENEWEGEN Dylan,19238,0.0,0,2023-09-17
+1,1.1,GP d'Isbergues - Pas de Calais (prov.),42122,MOSCHETTI Matteo,27126,0.0,0,2023-09-17
+2,1.1,GP d'Isbergues - Pas de Calais (prov.),42122,PEDERSEN Mads,21992,0.0,0,2023-09-17
+3,1.1,GP d'Isbergues - Pas de Calais (prov.),42122,DEMARE Arnaud,16653,0.0,0,2023-09-17
+1,2.1s,"Tour de Slovaquie, Stage 5 : Hlohovec - Puchov (prov.)",42195,ASGREEN Kasper,23558,0.0,0,2023-09-17
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Kuss Sepp,25653,0.0,0,2023-09-16
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Ayuso Juan,31654,0.0,0,2023-09-16
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama (prov.)",42078,Groves Kaden,26637,0.0,0,2023-09-16
