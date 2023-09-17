@@ -66,7 +66,8 @@ def get_riders(race_id, year='2023'):
                         pass
                     
                     # print(race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points,dropped_out)
-                    startlist.append([race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points,dropped_out]) 
+                    if country:
+                        startlist.append([race_id, start_number, rider, rider_id, team, country, ploegleider, ploegleider_id, points,dropped_out]) 
 
         process_files.write_csv_file('startlist.csv', startlist)
 
