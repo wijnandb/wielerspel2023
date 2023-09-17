@@ -1,4 +1,27 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,GT2,"Vuelta a España, General classification (prov.)",42080,KUSS Sepp,25653,0.0,0,2023-09-17
+2,GT2,"Vuelta a España, General classification (prov.)",42080,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0,2023-09-17
+3,GT2,"Vuelta a España, General classification (prov.)",42080,ROGLIC Primoz,20719,0.0,0,2023-09-17
+4,GT2,"Vuelta a España, General classification (prov.)",42080,AYUSO PESQUERA Juan,31654,0.0,0,2023-09-17
+5,GT2,"Vuelta a España, General classification (prov.)",42080,LANDA MEANA Mikel,14319,0.0,0,2023-09-17
+6,GT2,"Vuelta a España, General classification (prov.)",42080,MAS NICOLAU Enric,22794,0.0,0,2023-09-17
+7,GT2,"Vuelta a España, General classification (prov.)",42080,VLASOV Aleksandr,24316,0.0,0,2023-09-17
+8,GT2,"Vuelta a España, General classification (prov.)",42080,UIJTDEBROEKS Cian,31803,0.0,0,2023-09-17
+9,GT2,"Vuelta a España, General classification (prov.)",42080,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0,2023-09-17
+10,GT2,"Vuelta a España, General classification (prov.)",42080,BUITRAGO SANCHEZ Santiago,29699,0.0,0,2023-09-17
+11,GT2,"Vuelta a España, General classification (prov.)",42080,CRAS Steff,24257,0.0,0,2023-09-17
+12,GT2,"Vuelta a España, General classification (prov.)",42080,EVENEPOEL Remco,28377,0.0,0,2023-09-17
+13,GT2,"Vuelta a España, General classification (prov.)",42080,RODRIGUEZ MARTIN Cristian,24102,0.0,0,2023-09-17
+14,GT2,"Vuelta a España, General classification (prov.)",42080,SOLER GIMENEZ Marc,23299,0.0,0,2023-09-17
+15,GT2,"Vuelta a España, General classification (prov.)",42080,POELS Wout,7751,0.0,0,2023-09-17
+0,GT2c,Correctie dragen jongerentrui in Vuelta a España,42079,Ayuso Juan,31654,-0.8,0,2023-09-17
+0,GT2c,Correctie dragen leiderstrui in Vuelta a España,42080,Kuss Sepp,25653,-13.0,0,2023-09-17
+0,GT2c,Correctie dragen puntentrui in Vuelta a España,42081,Groves Kaden,26637,-3.4,0,2023-09-17
+0,GT2c,Correctie dragen bergtrui in Vuelta a España,42082,Evenepoel Remco,28377,-1.6,0,2023-09-17
+-1,GT2,Winnaar jongerentrui Vuelta a Españ,42079,Ayuso Juan,31654,0,0,2023-09-17
+1,GT2s,"Vuelta a España, Stage 21 : Madrid - Madrid (prov.)",42079,GROVES Kaden,26637,0.0,0,2023-09-17
+1,GT2r,"Vuelta a España, Points classification (prov.)",42081,GROVES Kaden,26637,0.0,0,2023-09-17
+1,GT2r,"Vuelta a España, Mountains classification (prov.)",42082,EVENEPOEL Remco,28377,0.0,0,2023-09-17
 1,2.PS,"Tour of Taihu Lake, General classification",42201,JACKSON George,31889,0.0,0,2023-09-17
 2,2.PS,"Tour of Taihu Lake, General classification",42201,ZANONCELLO Enrico,28364,0.0,0,2023-09-17
 3,2.PS,"Tour of Taihu Lake, General classification",42201,VAN DE PAAR Jarne,29798,0.0,0,2023-09-17
@@ -52,20 +75,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Kampioenschap van Vlaanderen,42118,PHILIPSEN Jasper,26392,0.0,0,2023-09-15
 2,1.1,Kampioenschap van Vlaanderen,42118,GROENEWEGEN Dylan,19238,0.0,0,2023-09-15
 3,1.1,Kampioenschap van Vlaanderen,42118,JAKOBSEN Fabio,23426,0.0,0,2023-09-15
-1,2.1s,"Tour de Slovaquie, Stage 3 : Ruzomberok - Martin (prov.)",42193,BAGIOLI Andrea,28452,0.0,0,2023-09-15
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Kuss Sepp,25653,0.0,0,2023-09-14
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Ayuso Juan,31654,0.0,0,2023-09-14
--2,GT2s,"Puntentrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Groves Kaden,26637,0.0,0,2023-09-14
--3,GT2s,"Bergtrui na Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,Evenepoel Remco,28377,0.0,0,2023-09-14
-1,GT2s,"Vuelta a España, Stage 18 : Pola de Allande - La Cruz de Linares (prov.)",42076,EVENEPOEL Remco,28377,0.0,0,2023-09-14
-1,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,HIRSCHI Marc,26509,0.0,0,2023-09-14
-2,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,SIVAKOV Pavel,24934,0.0,0,2023-09-14
-3,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,POGACAR Tadej,26526,0.0,0,2023-09-14
-4,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,MARTIN Guillaume,19994,0.0,0,2023-09-14
-5,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,LUTSENKO Alexey,18455,0.0,0,2023-09-14
-6,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,CALZONI Walter,32557,0.0,0,2023-09-14
-7,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2023-09-14
-8,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,VALGREN HUNDAHL (ANDERSEN) Michael,18123,0.0,0,2023-09-14
-9,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,BENNETT George,12254,0.0,0,2023-09-14
-10,1.PS,Coppa Sabatini - GP Citta di Peccioli,42117,BURGAUDEAU Mathieu,27151,0.0,0,2023-09-14
-1,2.PSs,"Tour of Taihu Lake, Stage 1 : Wuxi - Wuxi",42197,ZANONCELLO Enrico,28364,0.0,0,2023-09-14
