@@ -187,13 +187,15 @@ def points_earned_for_wearing_jersey(race_id, jersey, rider_id, rider):
     points = 0
     for result in results_with_points[1:]:
         if int(result[0]) == int(position):
-            if int(result[5]) == int(rider_id):
-                points = points + Decimal(result[6])
-                ploegleider = result[9]
+            if result[1][-1] == 's':
+                if int(result[5]) == int(rider_id):
+                    points = points + Decimal(result[6])
+                    ploegleider = result[9]
     if points > 0:
         """ The winner of the jersey has earned points for wearing the jersey.
         This is the amount we need to substract"""
         points = -points
+        print("Correction for wearing jersey: ", points, " points for ", rider, " in ", jersey, " for ", ploegleider)
     return points
 
 # get_jersey_ranking("Tour de France, Stage 21 : Saint-Quentin-en-Yvelines - Paris", "41830", "GT1s", "2023-07-23")
