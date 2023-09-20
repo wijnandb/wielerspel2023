@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Tour de Luxembourg, Stage 1 : Luxembourg - Luxembourg (prov.)",42212,STRONG Corbin,29492,0.3,0,2023-09-20,PB
+1,1.1,Omloop van het Houtland - Lichtervelde (prov.),42124,THIJSSEN Gerben,27085,2,0,2023-09-20,Albert
+2,1.1,Omloop van het Houtland - Lichtervelde (prov.),42124,GROENEWEGEN Dylan,19238,0.3,0,2023-09-20,Frank
+3,1.1,Omloop van het Houtland - Lichtervelde (prov.),42124,BEULLENS Cédric,25580,0.1,0,2023-09-20,-
+1,CCT1,European Championships (Emmen) I.T.T. (prov.),42135,TARLING Joshua,34297,2,0,2023-09-20,-
 1,GT2,"Vuelta a España, General classification",42080,KUSS Sepp,25653,25,50,2023-09-17,Nicky
 2,GT2,"Vuelta a España, General classification",42080,VINGEGAARD RASMUSSEN Jonas,25740,10,35,2023-09-17,Arjan
 3,GT2,"Vuelta a España, General classification",42080,ROGLIC Primoz,20719,7,25,2023-09-17,Bram

@@ -1,4 +1,9 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Tour de Luxembourg, Stage 1 : Luxembourg - Luxembourg (prov.)",42212,STRONG Corbin,29492,0.3,0,2023-09-20,PB
+1,1.1,Omloop van het Houtland - Lichtervelde (prov.),42124,THIJSSEN Gerben,27085,2,0,2023-09-20,Albert
+2,1.1,Omloop van het Houtland - Lichtervelde (prov.),42124,GROENEWEGEN Dylan,19238,0.3,0,2023-09-20,Frank
+3,1.1,Omloop van het Houtland - Lichtervelde (prov.),42124,BEULLENS Cédric,25580,0.1,0,2023-09-20,-
+1,CCT1,European Championships (Emmen) I.T.T. (prov.),42135,TARLING Joshua,34297,2,0,2023-09-20,-
 1,GT2,"Vuelta a España, General classification",42080,KUSS Sepp,25653,25,50,2023-09-17,Nicky
 2,GT2,"Vuelta a España, General classification",42080,VINGEGAARD RASMUSSEN Jonas,25740,10,35,2023-09-17,Arjan
 3,GT2,"Vuelta a España, General classification",42080,ROGLIC Primoz,20719,7,25,2023-09-17,Bram
@@ -66,12 +71,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 2,1.1,Memorial Marco Pantani,42119,HIRSCHI Marc,26509,0.3,0,2023-09-16,Bram
 3,1.1,Memorial Marco Pantani,42119,SIVAKOV Pavel,24934,0.1,0,2023-09-16,Paul
 1,2.1s,"Tour de Slovaquie, Stage 4 : Prievidza - Nitra",42194,MERLIER Tim,17988,0.2,0,2023-09-16,Wijnand
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 19 : La Bañeza - Iscar",42077,Kuss Sepp,25653,1,0,2023-09-15,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 19 : La Bañeza - Iscar",42077,Ayuso Juan,31654,0.1,0,2023-09-15,Albert
--2,GT2s,"Puntentrui na Vuelta a España, Stage 19 : La Bañeza - Iscar",42077,Groves Kaden,26637,0.2,0,2023-09-15,Vel
--3,GT2s,"Bergtrui na Vuelta a España, Stage 19 : La Bañeza - Iscar",42077,Evenepoel Remco,28377,0.2,0,2023-09-15,Roy
-1,GT2s,"Vuelta a España, Stage 19 : La Bañeza - Iscar",42077,DAINESE Alberto,26965,2,0,2023-09-15,Vel
-1,2.PSs,"Tour of Taihu Lake, Stage 2 : Kunshan - Kunshan",42198,VAN DE PAAR Jarne,29798,0.3,0,2023-09-15,-
-1,1.1,Kampioenschap van Vlaanderen,42118,PHILIPSEN Jasper,26392,2,0,2023-09-15,Nicky
-2,1.1,Kampioenschap van Vlaanderen,42118,GROENEWEGEN Dylan,19238,0.3,0,2023-09-15,Frank
-3,1.1,Kampioenschap van Vlaanderen,42118,JAKOBSEN Fabio,23426,0.1,0,2023-09-15,Kaspar
