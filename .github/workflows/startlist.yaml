@@ -1,7 +1,4 @@
 on:
-  # push:
-  #  branches: 
-  #    - main
   schedule:
     - cron: '5 2,16 * * *'
 
@@ -27,14 +24,24 @@ jobs:
       - name: run startlist scraper
         run: python generate_ranking/current_races.py
 
-      - name: check for changes
-        run: git status
+      - name: Check for new data
+        id: check-new-data
+        run: |
+          git diff --exit-code || echo "changes=yes" >> $GITHUB_ENV
+          if [[ "${changes}" == "yes" ]]; then
+            echo "::set-output name=has_new_data::true"
+          else
+            echo "::set-output name=has_new_data::false"
+          fi
 
       - name: stage changed files
+        if: steps.check-new-data.outputs.has_new_data == 'true'
         run: git add .
 
       - name: commit changed files
+        if: steps.check-new-data.outputs.has_new_data == 'true'
         run: git commit -m "New startlist scraped at $(date +'%Y-%m-%dT%H:%M:%S')"
 
-      - name: push code to master
+      - name: push code to main
+        if: steps.check-new-data.outputs.has_new_data == 'true'
         run: git push origin HEAD:main
