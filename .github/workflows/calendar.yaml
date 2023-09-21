@@ -1,0 +1,41 @@
+on:
+  schedule:
+    # UTC time, so one (winter) or two hours (summer) later here. 5 and 35 past 18 or 19
+    - cron: '33,36,40 * 21 9,10 *'
+
+jobs:
+  get_calendar:
+    runs-on: ubuntu-latest
+    permissions: write-all
+
+    steps:
+      - uses: actions/checkout@v3.3.0
+      - name: install dependencies
+        run: pip install requests bs4 unidecode
+      - name: Generate list of months from current to 10
+        id: generate-months
+        run: |
+          current_month=$(date +'%m')
+          python_list="["
+          while [ $current_month -le 10 ]; do
+            python_list+="$current_month,"
+            current_month=$((current_month + 1))
+          done
+          python_list="${python_list%,}]"
+          echo "::set-output name=months::$python_list"
+      - name: run calendar_scraper
+        run: python generate_ranking/calendar_update.py "2023" "${{ steps.generate-months.outputs.months }}"
+      - name: set user
+        run: |
+         git config --global user.email "wb@retta.nl"
+         git config --global user.name "wijnandb"
+      - name: check for changes
+        run: git status
+      - name: stage changed files
+        run: git add .
+      - name: commit changed files
+        run: git commit -m "Calendar scraped at $(date +'%Y-%m-%dT%H:%M:%S')"
+      - name: fetch from master
+        run: git fetch origin main
+      - name: push code to master
+        run: git push origin HEAD:main
