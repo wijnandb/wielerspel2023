@@ -1,9 +1,5 @@
 on:
-  # push:
-    # branches:
-      # - main
   schedule:
-    # UTC time, so one hour later here. 5 and 35 past 18 (winter) and 19 (summer)
     - cron: '05 17,21 * * *'
 
 jobs:
@@ -13,16 +9,21 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3.3.0
-      - name: install dependencies
-        run: pip install requests bs4 unidecode
-      - name: run scraper
-        run: python generate_ranking/scraping.py
+
       - name: set user
         run: |
-         git config --global user.email "wb@retta.nl"
-         git config --global user.name "wijnandb"
+          git config --global user.email "wb@retta.nl"
+          git config --global user.name "wijnandb"
+
       - name: pull latest changes
         run: git pull
+
+      - name: install dependencies
+        run: pip install requests bs4 unidecode
+
+      - name: run scraper
+        run: python generate_ranking/scraping.py
+
       - name: Check for new data
         id: check-new-data
         run: |
@@ -32,13 +33,17 @@ jobs:
           else
             echo "::set-output name=has_new_data::false"
           fi
+
       - name: stage changed files
+        if: steps.check-new-data.outputs.has_new_data == 'true'
         run: git add .
+
       - name: commit changed files
+        if: steps.check-new-data.outputs.has_new_data == 'true'
         run: git commit -m "New results at $(date +'%Y-%m-%dT%H:%M:%S')"
-      - name: fetch from master
-        run: git fetch origin main
+
       - name: push code to master
+        if: steps.check-new-data.outputs.has_new_data == 'true'
         run: git push origin HEAD:main
         
   processing:
@@ -48,21 +53,36 @@ jobs:
     if: needs.scraping.outputs.has_new_data == 'true'
     steps:
       - uses: actions/checkout@v3.3.0
+
       - name: set user
         run: |
-         git config --global user.email "wb@retta.nl"
-         git config --global user.name "wijnandb"
+          git config --global user.email "wb@retta.nl"
+          git config --global user.name "wijnandb"
+
       - name: pull latest changes
         run: git pull
+
       - name: process-points
         run: python generate_ranking/processing.py
-      - name: check for changes
-        run: git status
+
+      - name: Check for changes in processing
+        id: check-processing-changes
+        run: |
+          git diff --exit-code || echo "processing_changes=yes" >> $GITHUB_ENV
+          if [[ "${processing_changes}" == "yes" ]]; then
+            echo "::set-output name=has_processing_changes::true"
+          else
+            echo "::set-output name=has_processing_changes::false"
+          fi
+
       - name: stage changed files
+        if: steps.check-processing-changes.outputs.has_processing_changes == 'true'
         run: git add .
+
       - name: commit changed files
+        if: steps.check-processing-changes.outputs.has_processing_changes == 'true'
         run: git commit -m "Points processed at $(date +'%Y-%m-%dT%H:%M:%S')"
-      - name: fetch from master
-        run: git fetch origin main
-      - name: push code to master
+
+      - name: push code to main
+        if: steps.check-processing-changes.outputs.has_processing_changes == 'true'
         run: git push origin HEAD:main
