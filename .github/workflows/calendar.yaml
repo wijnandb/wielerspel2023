@@ -1,7 +1,7 @@
 on:
   schedule:
     # UTC time, so one (winter) or two hours (summer) later here. 5 and 35 past 18 or 19
-    - cron: '33,36,40 * 21 9,10 *'
+    - cron: '48,50 * 21 9,10 *'
 
 jobs:
   get_calendar:
@@ -16,6 +16,7 @@ jobs:
         id: generate-months
         run: |
           current_month=$(date +'%m')
+          current_month=$((10#$current_month))  # Remove leading zero by treating it as a base-10 number
           python_list="["
           while [ $current_month -le 10 ]; do
             python_list+="$current_month,"
@@ -24,7 +25,7 @@ jobs:
           python_list="${python_list%,}]"
           echo "::set-output name=months::$python_list"
       - name: run calendar_scraper
-        run: python generate_ranking/calendar_update.py "2023" "${{ steps.generate-months.outputs.months }}"
+        run: python generate_ranking/calendar_update.py 2023 ${{ steps.generate-months.outputs.months }}
       - name: set user
         run: |
          git config --global user.email "wb@retta.nl"
