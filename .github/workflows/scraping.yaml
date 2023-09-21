@@ -32,9 +32,9 @@ jobs:
         run: |
           git diff --exit-code || echo "changes=yes" >> $GITHUB_ENV
           if [[ "${changes}" == "yes" ]]; then
-            echo "::set-output name=has_new_data::true"
+            echo "has_new_data=true" >> $GITHUB_ENV
           else
-            echo "::set-output name=has_new_data::false"
+            echo "has_new_data=false" >> $GITHUB_ENV
           fi
 
       - name: stage changed files
@@ -53,7 +53,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions: write-all
     needs: scraping
-    if: needs.scraping.outputs.has_new_data == 'true'
+    if: env.has_new_data == 'true'
     steps:
       - uses: actions/checkout@v3.3.0
 
@@ -73,9 +73,9 @@ jobs:
         run: |
           git diff --exit-code || echo "processing_changes=yes" >> $GITHUB_ENV
           if [[ "${processing_changes}" == "yes" ]]; then
-            echo "::set-output name=has_processing_changes::true"
+            echo "has_processing_changes=true" >> $GITHUB_ENV
           else
-            echo "::set-output name=has_processing_changes::false"
+            echo "has_processing_changes=false" >> $GITHUB_ENV
           fi
 
       - name: stage changed files
