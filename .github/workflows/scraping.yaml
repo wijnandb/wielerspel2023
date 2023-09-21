@@ -1,4 +1,7 @@
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '05 17,21 * 9,10 *'
 
