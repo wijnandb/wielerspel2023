@@ -21,12 +21,17 @@ jobs:
         run: |
          git config --global user.email "wb@retta.nl"
          git config --global user.name "wijnandb"
-
       - name: pull latest changes
         run: git pull
-
-      - name: check for changes
-        run: git status
+      - name: Check for new data
+        id: check-new-data
+        run: |
+          git diff --exit-code || echo "changes=yes" >> $GITHUB_ENV
+          if [[ "${changes}" == "yes" ]]; then
+            echo "::set-output name=has_new_data::true"
+          else
+            echo "::set-output name=has_new_data::false"
+          fi
       - name: stage changed files
         run: git add .
       - name: commit changed files
@@ -40,6 +45,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions: write-all
     needs: scraping
+    if: needs.scraping.outputs.has_new_data == 'true'
     steps:
       - uses: actions/checkout@v3.3.0
       - name: set user
