@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '05 17,21 * * *'
+    - cron: '05 17,21 * 9,10 *'
 
 jobs:
   scraping:
