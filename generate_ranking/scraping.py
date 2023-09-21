@@ -19,10 +19,10 @@ results = process_files.read_csv_file('all_results.csv')
 # write a line to processed.txt to indicate when the results were checked
 # this also makes sure the process runs without error, even if there are no new results
 # by writing a line to processed.txt, there is a change in files, so the site build works
-now =  datetime.now()
-file1 = open("processed.txt", "a")  # append mode
-file1.write(f"Resultaten gecheckt: { now } \n")
-file1.close()
+# now =  datetime.now()
+# file1 = open("processed.txt", "a")  # append mode
+# file1.write(f"Resultaten gecheckt: { now } \n")
+# file1.close()
 
 
 new_results = []
