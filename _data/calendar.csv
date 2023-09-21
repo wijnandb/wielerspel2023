@@ -13,15 +13,15 @@ startdate,enddate,race,race_id,category,points,JPP
 2023-01-30,2023-02-03,Saudi Tour,868,2.1,2.4,0
 2023-02-01,2023-02-05,Volta Comunitat Valenciana,319,2.PS,5.5,208
 2023-02-01,2023-02-05,Étoile de Bessèges,106,2.1,2.4,0
-2023-02-08,,CC Africa TTT,462,CCTT,0,0
-2023-02-09,,CC Africa ITT,369,CCTT,0,0
-2023-02-10,,CC Africa Mixed Relay,15151,CCTT,0,0
+2023-02-08,,Africa TTT,462,CCTT,0,0
+2023-02-09,,Africa ITT,369,CCTT,0,0
+2023-02-10,,Africa Mixed Relay,15151,CCTT,0,0
 2023-02-10,,Muscat Classic,18946,1.1,2.4,0
 2023-02-11,2023-02-15,Tour of Oman,57,2.PS,5.5,208
 2023-02-11,,Vuelta a Murcia,74,1.1,2.4,0
 2023-02-12,,Figueira Champions Classic,18947,1.1,2.4,0
 2023-02-12,,Clasica de Almeria,129,1.PS,5.5,208
-2023-02-13,,CC Africa RR,370,CCRR,0,0
+2023-02-13,,Africa RR,370,CCRR,0,0
 2023-02-13,,Jaén Paraiso Interior,16519,1.1,2.4,0
 2023-02-15,2023-02-19,Vuelta a Andalucía,110,2.PS,5.5,208
 2023-02-15,2023-02-19,Volta ao Algarve,107,2.PS,5.5,208
@@ -58,9 +58,9 @@ startdate,enddate,race,race_id,category,points,JPP
 2023-03-26,,GP Industria & Artigianato,263,1.PS,5.5,208
 2023-03-26,,La Roue Tourangelle,260,1.1,2.4,0
 2023-03-29,,Dwars door Vlaanderen,75,1.WT3,8.0,208
-2023-03-30,,CC Oceania ITT,358,CCTT,0,0
+2023-03-30,,Oceania ITT,358,CCTT,0,0
 2023-03-31,,Route Adélie de Vitré,134,1.1,2.4,0
-2023-04-01,,CC Oceania RR,357,CCRR,0,0
+2023-04-01,,Oceania RR,357,CCRR,0,0
 2023-04-01,2023-04-06,Tour of Thailand,507,2.1,2.4,0
 2023-04-01,,GP Miguel Indurain,48,1.PS,5.5,208
 2023-04-01,,Volta Limburg Classic,126,1.1,2.4,0
@@ -78,16 +78,16 @@ startdate,enddate,race,race_id,category,points,JPP
 2023-04-16,,Tour du Doubs,162,1.1,2.4,0
 2023-04-16,,Giro Reggio Calabria,108,1.1,2.4,0
 2023-04-17,2023-04-21,Tour of the Alps,62,2.PS,5.5,208
-2023-04-19,,CC Pan-America ITT,367,CCTT,0,0
+2023-04-19,,Pan-America ITT,367,CCTT,0,0
 2023-04-19,,La Flèche Wallonne,10,1.WT2,14.7,208
-2023-04-23,,CC Pan-America RR,365,CCRR,0,0
+2023-04-23,,Pan-America RR,365,CCRR,0,0
 2023-04-23,,Liege-Bastogne-Liege,11,1.WT1,21.5,208
 2023-04-25,2023-04-30,Tour de Romandie,12,2.WT1,14.7,208
 2023-04-28,2023-04-30,Vuelta a Asturias,153,2.1,2.4,0
 2023-05-01,,Eschborn-Frankfurt,35,1.WT3,8.0,208
 2023-05-02,2023-05-06,Tour of Hellas,513,2.1,2.4,0
 2023-05-06,,GP de Plumelec-Morbihan,180,1.PS,5.5,208
-2023-05-06,2023-05-28,Giro d'Italia,13,GT2,68.0,208
+2023-05-06,2023-05-28,Giro d'Italia,13,GT2,70.0,208
 2023-05-07,,Tro-Bro Leon,148,1.PS,5.5,208
 2023-05-10,2023-05-14,Tour de Hongrie,765,2.PS,5.5,208
 2023-05-13,,Tour du Finistère,147,1.1,2.4,0
@@ -107,73 +107,76 @@ startdate,enddate,race,race_id,category,points,JPP
 2023-06-02,,Giro dell'Appennino,149,1.1,2.4,0
 2023-06-03,,Heistse Pijl,349,1.1,2.4,0
 2023-06-04,,Brussels Classic,64,1.PS,5.5,208
-2023-06-04,2023-06-11,Critérium Dauphiné,15,2.WT1,14.7,208
-2023-06-07,,CC Asia Mixed Relay,21139,CCTT,0,0
+2023-06-04,2023-06-11,Critérium du Dauphiné,15,2.WT1,14.7,208
+2023-06-07,,Asia Mixed Relay,21139,CCTT,0,0
 2023-06-07,2023-06-11,ZLM Tour,213,2.PS,5.5,208
 2023-06-09,,GP Kanton Aargau,199,1.1,2.4,0
-2023-06-10,,CC Asia ITT,361,CCTT,0,0
+2023-06-10,,Asia ITT,361,CCTT,0,0
 2023-06-10,,Dwars door het Hageland,425,1.PS,5.5,208
 2023-06-11,,Elfstedenronde,8515,1.1,2.4,0
 2023-06-11,2023-06-18,Tour de Suisse,16,2.WT1,14.7,208
-2023-06-13,,CC Asia RR,363,CCRR,0,0
+2023-06-13,,Asia RR,363,CCRR,0,0
 2023-06-13,,CIC - Mont Ventoux,10459,1.PS,5.5,208
 2023-06-14,2023-06-18,Tour of Slovenia,211,2.PS,5.5,208
 2023-06-14,2023-06-18,Belgium Tour,60,2.PS,5.5,208
 2023-06-15,2023-06-18,Route d'Occitanie,212,2.1,2.4,0
-2023-07-01,2023-07-23,Tour de France,17,GT1,117.0,208
+2023-07-01,2023-07-23,Tour de France,17,GT1,120.0,208
 2023-07-02,2023-07-06,Österreich-Rundfahrt,38,2.1,2.4,0
+2023-07-05,,Cent.America and Caribbean ITT,1026,RCTT,0,0
 2023-07-06,2023-07-09,Sibiu Cycling Tour,258,2.1,2.4,0
+2023-07-09,,Pan Arab Games TTT,647,RCTT,0,0
 2023-07-09,2023-07-16,Tour of Qinghai Lake,127,2.PS,5.5,208
+2023-07-11,,Pan Arab Games ITT,648,RCTT,0,0
 2023-07-22,2023-07-26,Tour de Wallonie,193,2.PS,5.5,208
 2023-07-25,,Villafranca de Ordizia,207,1.1,2.4,0
 2023-07-26,2023-07-27,Vuelta a Castilla y León,85,2.1,2.4,0
-2023-07-27,2023-07-30,SAZKA Tour,15209,2.1,2.4,0
-2023-07-29,,Donostia San Sebastian Klasikoa,18,1.WT2,14.7,208
+2023-07-27,2023-07-30,Czech Tour,15209,2.1,2.4,0
+2023-07-29,,San Sebastian Klasikoa,18,1.WT2,14.7,208
 2023-07-29,2023-08-04,Tour de Pologne,19,2.WT2,7.5,208
 2023-07-30,,Circuito de Getxo,202,1.1,2.4,0
 2023-07-31,2023-08-02,Tour de l'Ain,63,2.1,2.4,0
 2023-08-06,,World Championship RR,26,WCRR,39.5,208
 2023-08-08,,World Championship Mixed Relay,12533,WCTT,14.7,208
 2023-08-09,2023-08-20,Volta a Portugal,197,2.1,2.4,0
-2023-08-10,,World Championship ITT,27,WCTT,14.7,208
+2023-08-11,,World Championship ITT,27,WCTT,14.7,208
 2023-08-13,,Polynormande,203,1.1,2.4,0
-2023-08-15,2023-08-19,PostNord Danmark Rundt,32,2.PS,5.5,208
-2023-08-15,2023-08-18,Tour du Limousin,191,2.1,2.4,0
 2023-08-15,,Tour of Leuven,161,1.1,2.4,0
 2023-08-15,2023-08-19,Vuelta a Burgos,192,2.PS,5.5,208
+2023-08-15,2023-08-18,Tour du Limousin,191,2.1,2.4,0
+2023-08-15,2023-08-19,PostNord Danmark Rundt,32,2.PS,5.5,208
 2023-08-17,2023-08-20,Arctic Race of Norway,259,2.PS,5.5,208
 2023-08-19,,Druivenkoers Overijse,186,1.1,2.4,0
-2023-08-20,,BEMER Cyclassics,20,1.WT2,14.7,208
 2023-08-20,,Egmont Cycling Race,188,1.1,2.4,0
+2023-08-20,,BEMER Cyclassics,20,1.WT2,14.7,208
 2023-08-22,2023-08-25,Poitou-Charentes,187,2.1,2.4,0
 2023-08-23,2023-08-27,Deutschland Tour,36,2.PS,5.5,208
 2023-08-23,2023-08-27,Renewi Tour,21,2.WT2,7.5,208
-2023-08-26,2023-09-17,Vuelta a España,23,GT2,68.0,208
-2023-08-31,2023-09-04,Tour of Iran,434,2.1,2.4,0
+2023-08-26,2023-09-17,Vuelta a España,23,GT2,70.0,208
+2023-08-27,2023-08-31,Tour of Iran,434,2.1,2.4,0
 2023-09-03,,Bretagne Classic,22,1.WT2,14.7,208
-2023-09-03,,Maryland Cycling Classic,13191,1.PS,5.5,208
 2023-09-03,2023-09-10,Tour of Britain,45,2.PS,5.5,208
-2023-10-18,2023-10-22,Turul Romaniei,549,2.1,2.4,0
-2023-09-08,,GP Quebec,59,1.WT2,14.7,208
+2023-09-03,,Maryland Cycling Classic,13191,1.PS,5.5,208
+2023-09-08,,GP Québec,59,1.WT2,14.7,208
 2023-09-10,,GP de Fourmies,92,1.PS,5.5,208
 2023-09-10,,GP Montreal,58,1.WT2,14.7,208
 2023-09-13,,Giro della Toscana,4025,1.1,2.4,0
-2023-09-13,,GP de Wallonie,93,1.PS,5.5,208
 2023-09-13,2023-09-17,Okolo Slovenska,380,2.1,2.4,0
+2023-09-13,,GP de Wallonie,93,1.PS,5.5,208
 2023-09-14,,Coppa Sabatini,160,1.PS,5.5,208
 2023-09-14,2023-09-17,Tour of Taihu Lake,242,2.PS,5.5,208
 2023-09-15,,Kamp. van Vlaanderen,167,1.1,2.4,0
 2023-09-16,,Memorial Pantani,68,1.1,2.4,0
-2023-09-16,,Primus Classic,168,1.PS,5.5,208
+2023-09-16,,SUPER 8 Classic,168,1.PS,5.5,208
 2023-09-17,,Gooikse Pijl,444,1.1,2.4,0
-2023-09-17,,GP d'Isbergues,171,1.1,2.4,0
 2023-09-17,,Trofeo Matteotti,205,1.1,2.4,0
-2023-09-20,2023-09-24,Adriatica Ionica Race,8516,2.1,2.4,0
+2023-09-17,,GP d'Isbergues,171,1.1,2.4,0
 2023-09-20,,Omloop van het Houtland,170,1.1,2.4,0
 2023-09-20,2023-09-24,Tour de Luxembourg,37,2.PS,5.5,208
-2023-09-21,,CC Europe ITT,4020,CCTT,0,0
+2023-09-20,,Europe ITT,4020,CCTT,0,0
+2023-09-21,,Europe Mixed Relay,12532,CCTT,0,0
+2023-09-22,2023-09-24,Adriatica Ionica Race,8516,2.1,2.4,0
 2023-09-23,2023-09-30,Tour de Langkawi,128,2.PS,5.5,208
-2023-09-24,,CC Europe RR,4019,CCRR,0,0
+2023-09-24,,Europe RR,4019,CCRR,0,0
 2023-09-24,,Paris-Chauny,949,1.1,2.4,0
 2023-09-26,2023-10-01,CRO Race,773,2.1,2.4,0
 2023-09-28,,Circuit Franco-Belge,231,1.PS,5.5,208
@@ -181,13 +184,11 @@ startdate,enddate,race,race_id,category,points,JPP
 2023-09-30,,Giro dell'Emilia,29,1.PS,5.5,208
 2023-10-01,,Famenne Ardenne Classic,7660,1.1,2.4,0
 2023-10-01,,Tour de Vendée,94,1.1,2.4,0
-2023-10-01,,Trofeo Baracchi,374,1.1,2.4,0
 2023-10-02,,Coppa Bernocchi,196,1.PS,5.5,208
 2023-10-03,,Binche-Chimay-Binche,159,1.1,2.4,0
 2023-10-03,,Munsterland Giro,158,1.PS,5.5,208
 2023-10-03,,Tre Valli Varesine,190,1.PS,5.5,208
 2023-10-04,,Bloeizone Elfsteden Fryslan,16523,1.1,2.4,0
-2023-10-04,2023-10-08,Tour of Peninsula,11847,2.1,2.4,0
 2023-10-05,,Gran Piemonte,61,1.PS,5.5,208
 2023-10-05,,Paris - Bourges,157,1.1,2.4,0
 2023-10-05,2023-10-09,Tour of Hainan,139,2.PS,5.5,208
@@ -200,3 +201,5 @@ startdate,enddate,race,race_id,category,points,JPP
 2023-10-15,,Chrono des Nations,154,1.1,2.4,0
 2023-10-15,,Japan Cup,95,1.PS,5.5,208
 2023-10-15,,Veneto Classic,15208,1.PS,5.5,208
+2023-10-18,2023-10-22,Turul Romaniei,549,2.1,2.4,0
+2023-10-22,,Hong Kong Challenge,8499,1.1,2.4,0
