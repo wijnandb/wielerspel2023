@@ -1,7 +1,5 @@
 on:
-      
   schedule:
-    # UTC time, so one (winter) or two hours (summer) later here. 5 and 35 past 18 or 19
     - cron: '5 2,16 * * *'
 
 jobs:
@@ -11,27 +9,29 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3.3.0
-      - name: install dependencies
-        run: pip install requests bs4 unidecode
-      - name: run startlist scraper
-        run: python generate_ranking/current_races.py
-      - name: run script to create riders per tc overview
-        run: python generate_ranking/startlist_per_tc.py
+
       - name: set user
         run: |
-         git config --global user.email "wb@retta.nl"
-         git config --global user.name "wijnandb"
+          git config --global user.email "wb@retta.nl"
+          git config --global user.name "wijnandb"
 
       - name: pull latest changes
         run: git pull
 
+      - name: install dependencies
+        run: pip install requests bs4 unidecode
+
+      - name: run startlist scraper
+        run: python generate_ranking/current_races.py
+
       - name: check for changes
         run: git status
+
       - name: stage changed files
         run: git add .
+
       - name: commit changed files
         run: git commit -m "New startlist scraped at $(date +'%Y-%m-%dT%H:%M:%S')"
-      - name: fetch from master
-        run: git fetch origin main
+
       - name: push code to master
         run: git push origin HEAD:main
