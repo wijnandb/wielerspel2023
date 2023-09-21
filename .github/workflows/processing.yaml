@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-     # - main
+      - noon-existing
 
 jobs:
   processing:
