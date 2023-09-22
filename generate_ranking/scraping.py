@@ -83,7 +83,8 @@ def get_results():
             if not "T.T.T" in race_name:
                 rider = tds[4].text.split(".")[1]
                 rider_id = tds[4].a['href'].split("=")[1]
-
+                if category == 'CC1':
+                  category = '1.WT3'
                 if (category[-1] == 's' or category[-1] == 'r' or category[:3] == 'NCT' or category[:3] == 'CCT'):
                     # print("add race to new results")
                     if category=='2.WT2s':
