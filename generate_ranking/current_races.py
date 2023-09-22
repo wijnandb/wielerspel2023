@@ -51,7 +51,7 @@ def is_current_race(race):
     Also, for multiple day races that are in the past, we can skip those too
 
     """
-    days_in_future = 7
+    days_in_future = 5
     # skip multiple day races in the past
     if race[1]:
         # these are the multiple day races
