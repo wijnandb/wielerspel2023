@@ -32,26 +32,7 @@ jobs:
       - name: Check for new data
         id: check-new-data
         run: |
-          git diff --exit-code || echo "changes=yes" >> $GITHUB_ENV
-          if [[ "${changes}" == "yes" ]]; then
-            echo "has_new_data=true" >> $GITHUB_ENV
-            echo "has_new_data=true" >> $GITHUB_OUTPUT
-          else
-            echo "has_new_data=false" >> $GITHUB_ENV
-            echo "has_new_data=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: stage changed files
-        if: steps.check-new-data.outputs.has_new_data == 'true'
-        run: git add .
-
-      - name: commit changed files
-        if: steps.check-new-data.outputs.has_new_data == 'true'
-        run: git commit -m "New results at $(date +'%Y-%m-%dT%H:%M:%S')"
-
-      - name: push code to master
-        if: steps.check-new-data.outputs.has_new_data == 'true'
-        run: git push origin HEAD:main
+          git diff --quiet || (git add . && git commit -m "New results at $(date +'%Y-%m-%dT%H:%M:%S')" && git push origin HEAD:main)
         
   processing:
     runs-on: ubuntu-latest
@@ -75,23 +56,5 @@ jobs:
       - name: Check for changes in processing
         id: check-processing-changes
         run: |
-          git diff --exit-code || echo "processing_changes=yes" >> $GITHUB_ENV
-          if [[ "${processing_changes}" == "yes" ]]; then
-            echo "has_processing_changes=true" >> $GITHUB_ENV
-            echo "has_processing_changes=true" >> $GITHUB_OUTPUT
-          else
-            echo "has_processing_changes=false" >> $GITHUB_ENV
-            echo "has_processing_changes=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: stage changed files
-        if: steps.check-processing-changes.outputs.has_processing_changes == 'true'
-        run: git add .
-
-      - name: commit changed files
-        if: steps.check-processing-changes.outputs.has_processing_changes == 'true'
-        run: git commit -m "Points processed at $(date +'%Y-%m-%dT%H:%M:%S')"
-
-      - name: push code to main
-        if: steps.check-processing-changes.outputs.has_processing_changes == 'true'
-        run: git push origin HEAD:main
+          git diff --quiet || (git add . && git commit -m "Points processed at $(date +'%Y-%m-%dT%H:%M:%S')" && git push origin HEAD:main)
+          
