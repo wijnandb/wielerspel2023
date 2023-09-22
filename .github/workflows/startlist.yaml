@@ -31,9 +31,11 @@ jobs:
         run: |
           git diff --exit-code || echo "changes=yes" >> $GITHUB_ENV
           if [[ "${changes}" == "yes" ]]; then
-            echo "::set-output name=has_new_data::true"
+            echo "has_new_data=true" >> $GITHUB_ENV
+            echo "has_new_data=true" >> $GITHUB_OUTPUT
           else
-            echo "::set-output name=has_new_data::false"
+            echo "has_new_data=false" >> $GITHUB_ENV
+            echo "has_new_data=false" >> $GITHUB_OUTPUT
           fi
 
       - name: stage changed files
