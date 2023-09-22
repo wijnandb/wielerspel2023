@@ -1,5 +1,5 @@
 race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id,price,dropped_out
-37,2,Tony Gallopin,7838,Lidl-Trek,FRA,-,-,-,
+37,2,Tony Gallopin,7838,Lidl-Trek,FRA,-,-,-,1
 37,5,Giulio Ciccone,21812,Lidl-Trek,ITA,Nick Veenstra,Nicky,4,
 37,6,Natnael Tesfazion,28234,Lidl-Trek,ERI,Kaspar Burghard,Kaspar,3,
 37,11,Franck Bonnamour,22692,AG2R Citroën Team,FRA,Frank Rozemeijer,Frank,2,
@@ -13,7 +13,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 37,32,Marco Haller,15281,BORA-hansgrohe,AUT,Harry Koene,Harry,1,
 37,33,Bob Jungels,17901,BORA-hansgrohe,LUX,Frank Vellinga,Vel,3,
 37,34,Jordi Meeus,26421,BORA-hansgrohe,BEL,Frank Vellinga,Vel,5,
-37,35,Nils Politt,20847,BORA-hansgrohe,GER,Albert Kraaij,Albert,3,
+37,35,Nils Politt,20847,BORA-hansgrohe,GER,Albert Kraaij,Albert,3,1
 37,36,Frederik Wandahl,30710,BORA-hansgrohe,DEN,-,-,-,
 37,43,Ion Izagirre,14321,Cofidis,ESP,Harry Koene,Harry,2,
 37,44,Jonathan Lastra,24698,Cofidis,ESP,-,-,-,1
