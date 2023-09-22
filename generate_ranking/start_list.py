@@ -60,7 +60,10 @@ def get_riders(race_id, year='2023'):
                         dropped_out = ""
                     # print(fc_rider_id)
                     try:
-                        rider_id, country = first_cycling.ridername_to_id(rider, fc_rider_id)
+                        # here I am looking to find a rider by name to add the cq_rider_id
+                        # rider_id, country = first_cycling.ridername_to_id(rider, fc_rider_id)
+                        # I better look up the rider by fc_rider_id. If that doesn't exist, I don't care about the rider
+                        rider_id, country = first_cycling.fcid_to_cqid(fc_rider_id)
                         ploegleider, ploegleider_id, points = add_teamcaptains.add_teamcaptain_to_startlist(rider_id)
                     except:
                         pass

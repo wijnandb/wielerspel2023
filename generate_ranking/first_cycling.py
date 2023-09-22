@@ -341,3 +341,13 @@ def add_FC_rider_ids():
         process_files.write_csv_file('ploegenplus.csv', new_list)
 
 # add_FC_rider_ids()
+
+def fcid_to_cqid(fc_rider_id):
+    for rider in riders[1:]:
+        if len(rider) > 9:
+            if int(rider[9]) == int(fc_rider_id):
+                return rider[2], rider[6]
+        else:
+            return None
+            
+# print(fcid_to_cqid(45992) )
