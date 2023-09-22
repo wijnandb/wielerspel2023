@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '48 3 1,11,21 9,10 *'
+    - cron: '48 7 2,12,22 9,10 *'
 
 jobs:
   get_calendar:
