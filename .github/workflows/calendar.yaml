@@ -29,23 +29,4 @@ jobs:
       - name: check for changes
         id: git-check
         run: |
-          git diff-index --quiet HEAD || echo "changes=yes" >> $GITHUB_ENV
-          if [[ "${changes}" == "yes" ]]; then
-            echo "has_new_data=true" >> $GITHUB_ENV
-            echo "has_new_data=true" >> $GITHUB_OUTPUT
-          else
-            echo "has_new_data=false" >> $GITHUB_ENV
-            echo "has_new_data=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: stage changed files
-        if: steps.git-check.outputs.changes == 'true'
-        run: git add .
-
-      - name: commit changed files
-        if: steps.git-check.outputs.changes == 'true'
-        run: git commit -m "Calendar scraped at $(date +'%Y-%m-%dT%H:%M:%S')"
-
-      - name: push code to main
-        if: steps.git-check.outputs.changes == 'true'
-        run: git push origin HEAD:main
+          git diff --quiet || (git add . && git commit -m "Calendar scraped at $(date +'%Y-%m-%dT%H:%M:%S')" && git push origin HEAD:main)
