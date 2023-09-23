@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour de Luxembourg, Stage 4 : Pétange - Pétange I.T.T. (prov.)",42215,CAMPENAERTS Victor,20184,0.0,0,2023-09-23
+1,2.1s,"Tour de Langkawi, Stage 1 : Kerteh - Kuala Terangganu (prov.)",42290,DE KLEIJN Arvid,22596,0.0,0,2023-09-23
 1,2.PSs,"Tour de Luxembourg, Stage 3 : Mertert - Vianden (prov.)",42214,HEALY Ben,28846,0.0,0,2023-09-22
 1,2.PSs,"Tour de Luxembourg, Stage 2 : Mondorf-les-Bains - Mamer (prov.)",42213,BIERMANS Jenthe,22010,0.0,0,2023-09-21
 1,2.PSs,"Tour de Luxembourg, Stage 1 : Luxembourg - Luxembourg (prov.)",42212,STRONG Corbin,29492,0.0,0,2023-09-20
@@ -52,19 +54,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Gooikse Pijl,42121,PHILIPSEN Jasper,26392,0.0,0,2023-09-17
 2,1.1,Gooikse Pijl,42121,KOOIJ Olav,30643,0.0,0,2023-09-17
 3,1.1,Gooikse Pijl,42121,GROENEWEGEN Dylan,19238,0.0,0,2023-09-17
-1,2.1s,"Tour de Slovaquie, Stage 5 : Hlohovec - Puchov",42195,ASGREEN Kasper,23558,0.0,0,2023-09-17
--4,GT2s,"Leiderstrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama",42078,Kuss Sepp,25653,0.0,0,2023-09-16
--1,GT2s,"Jongerentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama",42078,Ayuso Juan,31654,0.0,0,2023-09-16
--2,GT2s,"Puntentrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama",42078,Groves Kaden,26637,0.0,0,2023-09-16
--3,GT2s,"Bergtrui na Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama",42078,Evenepoel Remco,28377,0.0,0,2023-09-16
-1,GT2s,"Vuelta a España, Stage 20 : Manzanares El Real - Guadarrama",42078,POELS Wout,7751,0.0,0,2023-09-16
-1,1.PS,Super 8 Classic Impanis - Van Petegem,42120,VAN DER POEL Mathieu,21971,0.0,0,2023-09-16
-2,1.PS,Super 8 Classic Impanis - Van Petegem,42120,TURGIS Anthony,21312,0.0,0,2023-09-16
-3,1.PS,Super 8 Classic Impanis - Van Petegem,42120,VERMEERSCH Florian,28127,0.0,0,2023-09-16
-4,1.PS,Super 8 Classic Impanis - Van Petegem,42120,BOVEN Lars,30561,0.0,0,2023-09-16
-5,1.PS,Super 8 Classic Impanis - Van Petegem,42120,FUGLSANG Jakob,3828,0.0,0,2023-09-16
-6,1.PS,Super 8 Classic Impanis - Van Petegem,42120,VERMEERSCH Gianni,18247,0.0,0,2023-09-16
-7,1.PS,Super 8 Classic Impanis - Van Petegem,42120,KRISTOFF Alexander,4179,0.0,0,2023-09-16
-8,1.PS,Super 8 Classic Impanis - Van Petegem,42120,MEZGEC Luka,15789,0.0,0,2023-09-16
-9,1.PS,Super 8 Classic Impanis - Van Petegem,42120,SENECHAL Florian,19903,0.0,0,2023-09-16
-10,1.PS,Super 8 Classic Impanis - Van Petegem,42120,DUJARDIN Sandy,28583,0.0,0,2023-09-16
