@@ -1,4 +1,29 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,HIRSCHI Marc,26509,4,50,2023-09-24,Bram
+2,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,MCNULTY Brandon,26508,1,35,2023-09-24,Kees
+3,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,HEALY Ben,28846,0.5,25,2023-09-24,-
+4,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,VAN WILDER Ilan,29828,0,20,2023-09-24,Wijnand
+5,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,ULISSI Diego,10023,0,18,2023-09-24,Paul
+6,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,KRAGH ANDERSEN Søren,20793,0,16,2023-09-24,Vel
+7,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,GROSSSCHARTNER Felix,19548,0,14,2023-09-24,Albert
+8,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,BOUWMAN Koen,20770,0,12,2023-09-24,Kaspar
+9,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,O'CONNOR Ben,23763,0,10,2023-09-24,Harry
+10,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,VAN GILS Maxim,28521,0,8,2023-09-24,-
+1,2.PSs,"Tour de Luxembourg, Stage 5 : Mersch - Luxembourg (prov.)",42216,JOHANNESSEN Tobias Halland,31567,0.3,0,2023-09-24,Albert
+1,1.1,Paris - Chauny (prov.),42126,PHILIPSEN Jasper,26392,2,0,2023-09-24,Nicky
+2,1.1,Paris - Chauny (prov.),42126,TESSON Jason,29883,0.3,0,2023-09-24,Jan
+3,1.1,Paris - Chauny (prov.),42126,PENHOËT Paul,30686,0.1,0,2023-09-24,-
+1,2.1s,"Tour de Langkawi, Stage 2 : Kuala Terengganu - Kota Bharu (prov.)",42291,SYRITSA Gleb,29927,0.2,0,2023-09-24,-
+1,1.WT3,European Championships (Drijber) R.R. (prov.),42137,LAPORTE Christophe,19953,5,50,2023-09-24,Kaspar
+2,1.WT3,European Championships (Drijber) R.R. (prov.),42137,VAN AERT Wout,20730,2,35,2023-09-24,Frank
+3,1.WT3,European Championships (Drijber) R.R. (prov.),42137,KOOIJ Olav,30643,1,25,2023-09-24,Albert
+4,1.WT3,European Championships (Drijber) R.R. (prov.),42137,DE LIE Arnaud,32221,0,20,2023-09-24,Wijnand
+5,1.WT3,European Championships (Drijber) R.R. (prov.),42137,TEUNISSEN Mike,19165,0,18,2023-09-24,Albert
+6,1.WT3,European Championships (Drijber) R.R. (prov.),42137,TILLER Rasmus Fossum,25623,0,16,2023-09-24,PB
+7,1.WT3,European Championships (Drijber) R.R. (prov.),42137,PEDERSEN Mads,21992,0,14,2023-09-24,Harry
+8,1.WT3,European Championships (Drijber) R.R. (prov.),42137,DEGENKOLB John,9851,0,12,2023-09-24,Kaspar
+9,1.WT3,European Championships (Drijber) R.R. (prov.),42137,KRON Andreas Lorentz,26420,0,10,2023-09-24,Paul
+10,1.WT3,European Championships (Drijber) R.R. (prov.),42137,SENECHAL Florian,19903,0,8,2023-09-24,Wijnand
 1,2.PSs,"Tour de Luxembourg, Stage 4 : Pétange - Pétange I.T.T. (prov.)",42215,CAMPENAERTS Victor,20184,0.3,0,2023-09-23,Vel
 1,2.1s,"Tour de Langkawi, Stage 1 : Kerteh - Kuala Terangganu (prov.)",42290,DE KLEIJN Arvid,22596,0.2,0,2023-09-23,-
 1,2.PSs,"Tour de Luxembourg, Stage 3 : Mertert - Vianden (prov.)",42214,HEALY Ben,28846,0.3,0,2023-09-22,-
