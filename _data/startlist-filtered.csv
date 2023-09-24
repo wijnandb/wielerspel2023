@@ -35,33 +35,32 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 37,135,Dylan Teuns,17908,Israel-Premier Tech,BEL,Harry Koene,Harry,4,
 37,136,Michael Woods,20257,Israel-Premier Tech,CAN,Albert Kraaij,Albert,2,
 37,141,Victor Campenaerts,20184,Lotto Dstny,BEL,Frank Vellinga,Vel,2,
-37,142,Pascal Eenkhoorn,24932,Lotto Dstny,NED,Harry Koene,Harry,1,
+37,142,Pascal Eenkhoorn,24932,Lotto Dstny,NED,Harry Koene,Harry,1,1
 37,174,Tobias Halland Johannessen,31567,Uno-X Pro Cycling Team,NOR,Albert Kraaij,Albert,2,
 128,3,Odd Christian Eiking,21405,EF Education-EasyPost,NOR,Roy Smits,Roy,0,
 4019,1,Yves Lampaert,19941,Belgium,BEL,Harry Koene,Harry,1,
 4019,2,Wout van Aert,20730,Belgium,BEL,Frank Rozemeijer,Frank,61,
 4019,4,Arnaud De Lie,32221,Belgium,BEL,Wijnand Baretta,Wijnand,14,
 4019,6,Jasper Stuyven,18233,Belgium,BEL,Pieter-Bas de Bruijn,PB,6,
-4019,7,Edward Theuns,16697,Belgium,BEL,Harry Koene,Harry,0,
+4019,7,Edward Theuns,16697,Belgium,BEL,Harry Koene,Harry,0,1
 4019,8,Florian Vermeersch,28127,Belgium,BEL,Albert Kraaij,Albert,2,
-4019,9,Mikkel Bjerg,26388,Denmark,DEN,Kees van Ommeren,Kees,2,
+4019,9,Mikkel Bjerg,26388,Denmark,DEN,Kees van Ommeren,Kees,2,1
 4019,13,Andreas Kron,26420,Denmark,DEN,Paul van Doorn,Paul,1,
 4019,15,Mads Pedersen,21992,Denmark,DEN,Harry Koene,Harry,18,
 4019,30,Ben Turner,27923,Great Britain,GBR,Arjan Knibbe,Arjan,1,
 4019,31,Ethan Vernon,30035,Great Britain,GBR,Arjan Knibbe,Arjan,1,
 4019,33,Arnaud Démare,16653,France,FRA,Wijnand Baretta,Wijnand,13,
 4019,35,Christophe Laporte,19953,France,FRA,Kaspar Burghard,Kaspar,15,
-4019,36,Matis Louvel,29982,France,FRA,Paul van Doorn,Paul,3,
+4019,36,Matis Louvel,29982,France,FRA,Paul van Doorn,Paul,3,1
 4019,38,Florian Sénéchal,19903,France,FRA,Wijnand Baretta,Wijnand,5,
 4019,39,Anthony Turgis,21312,France,FRA,Frank Vellinga,Vel,3,
-4019,40,Axel Zingle,31263,France,FRA,Paul van Doorn,Paul,4,
+4019,40,Axel Zingle,31263,France,FRA,Paul van Doorn,Paul,4,1
 4019,47,Iván García Cortina,23497,Spain,ESP,Pieter-Bas de Bruijn,PB,1,
 4019,49,Sjoerd Bax,23306,Netherlands,NED,Pieter-Bas de Bruijn,PB,1,
 4019,52,Olav Kooij,30643,Netherlands,NED,Albert Kraaij,Albert,13,
-4019,53,Bauke Mollema,5139,Netherlands,NED,Roy Smits,Roy,2,
-4019,55,Ide Schelling,26301,Netherlands,NED,Harry Koene,Harry,2,
+4019,53,Bauke Mollema,5139,Netherlands,NED,Roy Smits,Roy,2,1
 4019,56,Mike Teunissen,19165,Netherlands,NED,Albert Kraaij,Albert,2,
-4019,57,Edoardo Affini,24794,Italy,ITA,Paul van Doorn,Paul,3,
+4019,57,Edoardo Affini,24794,Italy,ITA,Paul van Doorn,Paul,3,1
 4019,59,Filippo Ganna,24057,Italy,ITA,Jan Versluys,Jan,16,
 4019,60,Matteo Sobrero,27033,Italy,ITA,Frank Vellinga,Vel,2,
 4019,61,Luca Mozzato,28037,Italy,ITA,Nick Veenstra,Nicky,2,

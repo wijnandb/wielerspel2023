@@ -57,7 +57,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 37,135,Dylan Teuns,17908,Israel-Premier Tech,BEL,Harry Koene,Harry,4,
 37,136,Michael Woods,20257,Israel-Premier Tech,CAN,Albert Kraaij,Albert,2,
 37,141,Victor Campenaerts,20184,Lotto Dstny,BEL,Frank Vellinga,Vel,2,
-37,142,Pascal Eenkhoorn,24932,Lotto Dstny,NED,Harry Koene,Harry,1,
+37,142,Pascal Eenkhoorn,24932,Lotto Dstny,NED,Harry Koene,Harry,1,1
 37,143,Mathijs Paasschens,27103,Lotto Dstny,NED,-,-,-,
 37,144,Maxim Van Gils,28521,Lotto Dstny,BEL,-,-,-,
 37,146,Harm Vanhoucke,25652,Lotto Dstny,BEL,-,-,-,
@@ -84,19 +84,19 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 128,145,Cristian Raileanu,13770,Hengxiang Cycling Team,ROU,-,-,-,
 4019,1,Yves Lampaert,19941,Belgium,BEL,Harry Koene,Harry,1,
 4019,2,Wout van Aert,20730,Belgium,BEL,Frank Rozemeijer,Frank,61,
-4019,3,Jasper De Buyst,19274,Belgium,BEL,-,-,-,
+4019,3,Jasper De Buyst,19274,Belgium,BEL,-,-,-,1
 4019,4,Arnaud De Lie,32221,Belgium,BEL,Wijnand Baretta,Wijnand,14,
 4019,6,Jasper Stuyven,18233,Belgium,BEL,Pieter-Bas de Bruijn,PB,6,
-4019,7,Edward Theuns,16697,Belgium,BEL,Harry Koene,Harry,0,
+4019,7,Edward Theuns,16697,Belgium,BEL,Harry Koene,Harry,0,1
 4019,8,Florian Vermeersch,28127,Belgium,BEL,Albert Kraaij,Albert,2,
-4019,9,Mikkel Bjerg,26388,Denmark,DEN,Kees van Ommeren,Kees,2,
+4019,9,Mikkel Bjerg,26388,Denmark,DEN,Kees van Ommeren,Kees,2,1
 4019,13,Andreas Kron,26420,Denmark,DEN,Paul van Doorn,Paul,1,
 4019,15,Mads Pedersen,21992,Denmark,DEN,Harry Koene,Harry,18,
 4019,16,Casper Pedersen,23429,Denmark,DEN,-,-,-,
 4019,17,Tilen Finkst,25230,Slovenia,SLO,-,-,-,
-4019,18,Matevz Govekar,20406,Slovenia,SLO,-,-,-,
-4019,20,Kristjan Koren,2454,Slovenia,SLO,-,-,-,
-4019,21,Luka Mezgec,15789,Slovenia,SLO,-,-,-,
+4019,18,Matevz Govekar,20406,Slovenia,SLO,-,-,-,1
+4019,20,Kristjan Koren,2454,Slovenia,SLO,-,-,-,1
+4019,21,Luka Mezgec,15789,Slovenia,SLO,-,-,-,1
 4019,26,Lewis Askey,30685,Great Britain,GBR,-,-,-,
 4019,29,Mark Stewart,23644,Great Britain,GBR,-,-,-,
 4019,30,Ben Turner,27923,Great Britain,GBR,Arjan Knibbe,Arjan,1,
@@ -105,19 +105,18 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 4019,33,Arnaud Démare,16653,France,FRA,Wijnand Baretta,Wijnand,13,
 4019,34,Sandy Dujardin,28583,France,FRA,-,-,-,
 4019,35,Christophe Laporte,19953,France,FRA,Kaspar Burghard,Kaspar,15,
-4019,36,Matis Louvel,29982,France,FRA,Paul van Doorn,Paul,3,
+4019,36,Matis Louvel,29982,France,FRA,Paul van Doorn,Paul,3,1
 4019,38,Florian Sénéchal,19903,France,FRA,Wijnand Baretta,Wijnand,5,
 4019,39,Anthony Turgis,21312,France,FRA,Frank Vellinga,Vel,3,
-4019,40,Axel Zingle,31263,France,FRA,Paul van Doorn,Paul,4,
+4019,40,Axel Zingle,31263,France,FRA,Paul van Doorn,Paul,4,1
 4019,42,Fernando Barceló,27079,Spain,ESP,-,-,-,
 4019,47,Iván García Cortina,23497,Spain,ESP,Pieter-Bas de Bruijn,PB,1,
 4019,49,Sjoerd Bax,23306,Netherlands,NED,Pieter-Bas de Bruijn,PB,1,
 4019,50,Daan Hoole,27709,Netherlands,NED,-,-,-,
 4019,52,Olav Kooij,30643,Netherlands,NED,Albert Kraaij,Albert,13,
-4019,53,Bauke Mollema,5139,Netherlands,NED,Roy Smits,Roy,2,
-4019,55,Ide Schelling,26301,Netherlands,NED,Harry Koene,Harry,2,
+4019,53,Bauke Mollema,5139,Netherlands,NED,Roy Smits,Roy,2,1
 4019,56,Mike Teunissen,19165,Netherlands,NED,Albert Kraaij,Albert,2,
-4019,57,Edoardo Affini,24794,Italy,ITA,Paul van Doorn,Paul,3,
+4019,57,Edoardo Affini,24794,Italy,ITA,Paul van Doorn,Paul,3,1
 4019,59,Filippo Ganna,24057,Italy,ITA,Jan Versluys,Jan,16,
 4019,60,Matteo Sobrero,27033,Italy,ITA,Frank Vellinga,Vel,2,
 4019,61,Luca Mozzato,28037,Italy,ITA,Nick Veenstra,Nicky,2,
@@ -126,23 +125,22 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 4019,64,Elia Viviani,13240,Italy,ITA,Paul van Doorn,Paul,3,
 4019,65,Stefan Bissegger,26376,Switzerland,SUI,Bram van Ommeren,Bram,4,
 4019,73,Nelson Oliveira,13274,Portugal,POR,-,-,-,
-4019,74,Rui Oliveira,24030,Portugal,POR,-,-,-,
 4019,78,Andreas Leknessund,27653,Norway,NOR,Paul van Doorn,Paul,2,
-4019,79,Søren Wærenskjold,29187,Norway,NOR,-,-,-,
+4019,79,Søren Wærenskjold,29187,Norway,NOR,-,-,-,1
 4019,83,Rasmus Tiller,25623,Norway,NOR,Pieter-Bas de Bruijn,PB,1,
 4019,84,John Degenkolb,9851,Germany,GER,Kaspar Burghard,Kaspar,1,
 4019,85,Felix Engelhardt,29297,Germany,GER,-,-,-,
 4019,90,Max Walscheid,19646,Germany,GER,Pieter-Bas de Bruijn,PB,1,
-4019,92,Rory Townsend,25102,Ireland,IRL,-,-,-,
+4019,92,Rory Townsend,25102,Ireland,IRL,-,-,-,1
 4019,93,Rainer Kepplinger,32347,Austria,AUT,-,-,-,
 4019,94,Tobias Bayer,27932,Austria,AUT,-,-,-,
 4019,95,Sebastian Schönberger,20936,Austria,AUT,-,-,-,
-4019,96,Emils Liepins,18296,Latvia,LAT,-,-,-,
+4019,96,Emils Liepins,18296,Latvia,LAT,-,-,-,1
 4019,98,Toms Skujins,16739,Latvia,LAT,Kees van Ommeren,Kees,0,
-4019,102,Stanislaw Aniolkowski,24940,Poland,POL,-,-,-,
-4019,104,Marceli Boguslawski,28026,Poland,POL,-,-,-,
+4019,102,Stanislaw Aniolkowski,24940,Poland,POL,-,-,-,1
+4019,104,Marceli Boguslawski,28026,Poland,POL,-,-,-,1
 4019,106,Mathias Vacek,31713,Czech Republic,CZE,-,-,-,
-4019,118,Norman Vahtra,24200,Estonia,EST,-,-,-,
+4019,118,Norman Vahtra,24200,Estonia,EST,-,-,-,1
 4019,120,Itamar Einhorn,27315,Israel,ISR,-,-,-,
 4019,138,Mauro Schmid,29214,Switzerland,SUI,Jan Versluys,Jan,4,
 949,1,Bryan Coquard,18714,Cofidis,FRA,Jan Versluys,Jan,2,
