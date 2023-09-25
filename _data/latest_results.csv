@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour de Langkawi, Stage 3 : Jeli - Baling (prov.)",42292,JACKSON George,31889,0.0,0,2023-09-25
 1,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,HIRSCHI Marc,26509,0.0,0,2023-09-24
 2,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,MCNULTY Brandon,26508,0.0,0,2023-09-24
 3,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,HEALY Ben,28846,0.0,0,2023-09-24
@@ -9,11 +10,11 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,BOUWMAN Koen,20770,0.0,0,2023-09-24
 9,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,O'CONNOR Ben,23763,0.0,0,2023-09-24
 10,2.PS,"Tour de Luxembourg, General classification (prov.)",42217,VAN GILS Maxim,28521,0.0,0,2023-09-24
+1,2.PSs,"Tour de Langkawi, Stage 2 : Kuala Terengganu - Kota Bharu (prov.)",42291,SYRITSA Gleb,29927,0.0,0,2023-09-24
 1,2.PSs,"Tour de Luxembourg, Stage 5 : Mersch - Luxembourg (prov.)",42216,JOHANNESSEN Tobias Halland,31567,0.0,0,2023-09-24
 1,1.1,Paris - Chauny (prov.),42126,PHILIPSEN Jasper,26392,0.0,0,2023-09-24
 2,1.1,Paris - Chauny (prov.),42126,TESSON Jason,29883,0.0,0,2023-09-24
 3,1.1,Paris - Chauny (prov.),42126,PENHOËT Paul,30686,0.0,0,2023-09-24
-1,2.1s,"Tour de Langkawi, Stage 2 : Kuala Terengganu - Kota Bharu (prov.)",42291,SYRITSA Gleb,29927,0.0,0,2023-09-24
 1,1.WT3,European Championships (Drijber) R.R. (prov.),42137,LAPORTE Christophe,19953,0.0,0,2023-09-24
 2,1.WT3,European Championships (Drijber) R.R. (prov.),42137,VAN AERT Wout,20730,0.0,0,2023-09-24
 3,1.WT3,European Championships (Drijber) R.R. (prov.),42137,KOOIJ Olav,30643,0.0,0,2023-09-24
@@ -24,8 +25,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.WT3,European Championships (Drijber) R.R. (prov.),42137,DEGENKOLB John,9851,0.0,0,2023-09-24
 9,1.WT3,European Championships (Drijber) R.R. (prov.),42137,KRON Andreas Lorentz,26420,0.0,0,2023-09-24
 10,1.WT3,European Championships (Drijber) R.R. (prov.),42137,SENECHAL Florian,19903,0.0,0,2023-09-24
+1,2.PSs,"Tour de Langkawi, Stage 1 : Kerteh - Kuala Terangganu (prov.)",42290,DE KLEIJN Arvid,22596,0.0,0,2023-09-23
 1,2.PSs,"Tour de Luxembourg, Stage 4 : Pétange - Pétange I.T.T. (prov.)",42215,CAMPENAERTS Victor,20184,0.0,0,2023-09-23
-1,2.1s,"Tour de Langkawi, Stage 1 : Kerteh - Kuala Terangganu (prov.)",42290,DE KLEIJN Arvid,22596,0.0,0,2023-09-23
 1,2.PSs,"Tour de Luxembourg, Stage 3 : Mertert - Vianden (prov.)",42214,HEALY Ben,28846,0.0,0,2023-09-22
 1,2.PSs,"Tour de Luxembourg, Stage 2 : Mondorf-les-Bains - Mamer (prov.)",42213,BIERMANS Jenthe,22010,0.0,0,2023-09-21
 1,2.PSs,"Tour de Luxembourg, Stage 1 : Luxembourg - Luxembourg (prov.)",42212,STRONG Corbin,29492,0.0,0,2023-09-20
@@ -54,4 +55,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 0,GT2c,Correctie dragen bergtrui in Vuelta a España,42082,Evenepoel Remco,28377,-1.6,0,2023-09-17
 -1,GT2,Winnaar jongerentrui Vuelta a Españ,42079,Ayuso Juan,31654,0,0,2023-09-17
 1,GT2s,"Vuelta a España, Stage 21 : Madrid - Madrid",42079,GROVES Kaden,26637,0.0,0,2023-09-17
-1,GT2r,"Vuelta a España, Points classification",42081,GROVES Kaden,26637,0.0,0,2023-09-17
