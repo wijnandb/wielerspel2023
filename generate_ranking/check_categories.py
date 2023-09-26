@@ -6,4 +6,4 @@ for race in races:
     # race[2] is racename
     race[1] = change_category.new_category(race[2],race[1])
 
-process_files.write_csv_file('updated_results.csv', races)
+process_files.write_csv_file('all_results.csv', races)
