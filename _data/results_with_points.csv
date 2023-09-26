@@ -1547,16 +1547,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT1,Paris - Roubaix,41173,WALSCHEID Maximilian,19646,0,12,2023-04-09,PB
 9,1.WT1,Paris - Roubaix,41173,REX Laurenz,28442,0,10,2023-04-09,-
 10,1.WT1,Paris - Roubaix,41173,LAPORTE Christophe,19953,0,8,2023-04-09,Kaspar
-1,2.WT1s,"Itzulia Basque Country, General classification",41210,VINGEGAARD RASMUSSEN Jonas,25740,1,0,2023-04-08,Arjan
-2,2.WT1s,"Itzulia Basque Country, General classification",41210,LANDA MEANA Mikel,14319,0.0,0,2023-04-08,Harry
-3,2.WT1s,"Itzulia Basque Country, General classification",41210,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2023-04-08,Harry
-4,2.WT1s,"Itzulia Basque Country, General classification",41210,GAUDU David,24255,0.0,0,2023-04-08,Nicky
-5,2.WT1s,"Itzulia Basque Country, General classification",41210,MAS NICOLAU Enric,22794,0.0,0,2023-04-08,PB
-6,2.WT1s,"Itzulia Basque Country, General classification",41210,HIGUITA GARCIA Sergio Andres,25026,0.0,0,2023-04-08,Kaspar
-7,2.WT1s,"Itzulia Basque Country, General classification",41210,MCNULTY Brandon,26508,0.0,0,2023-04-08,Kees
-8,2.WT1s,"Itzulia Basque Country, General classification",41210,KNOX James,23403,0.0,0,2023-04-08,-
-9,2.WT1s,"Itzulia Basque Country, General classification",41210,YATES Simon,17893,0.0,0,2023-04-08,PB
-10,2.WT1s,"Itzulia Basque Country, General classification",41210,GALL Felix,26383,0.0,0,2023-04-08,-
+1,2.WT1,"Itzulia Basque Country, General classification",41210,VINGEGAARD RASMUSSEN Jonas,25740,10,50,2023-04-08,Arjan
+2,2.WT1,"Itzulia Basque Country, General classification",41210,LANDA MEANA Mikel,14319,3,35,2023-04-08,Harry
+3,2.WT1,"Itzulia Basque Country, General classification",41210,IZAGIRRE INSAUSTI Ion,14321,1,25,2023-04-08,Harry
+4,2.WT1,"Itzulia Basque Country, General classification",41210,GAUDU David,24255,0.5,20,2023-04-08,Nicky
+5,2.WT1,"Itzulia Basque Country, General classification",41210,MAS NICOLAU Enric,22794,0.2,18,2023-04-08,PB
+6,2.WT1,"Itzulia Basque Country, General classification",41210,HIGUITA GARCIA Sergio Andres,25026,0,16,2023-04-08,Kaspar
+7,2.WT1,"Itzulia Basque Country, General classification",41210,MCNULTY Brandon,26508,0,14,2023-04-08,Kees
+8,2.WT1,"Itzulia Basque Country, General classification",41210,KNOX James,23403,0,12,2023-04-08,-
+9,2.WT1,"Itzulia Basque Country, General classification",41210,YATES Simon,17893,0,10,2023-04-08,PB
+10,2.WT1,"Itzulia Basque Country, General classification",41210,GALL Felix,26383,0,8,2023-04-08,-
 1,2.WT1s,"Itzulia Basque Country, Stage 6 : Eibar - Eibar",41209,VINGEGAARD RASMUSSEN Jonas,25740,1,0,2023-04-08,Arjan
 1,2.WT1r,"Itzulia Basque Country, Mountains classification",41212,BARRENETXEA GOLZARRI Jon,31685,0.0,0,2023-04-08,-
 1,2.WT1r,"Itzulia Basque Country, Points classification",41211,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0,2023-04-08,Arjan
@@ -1638,16 +1638,16 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT3,Dwars door Vlaanderen,41067,PASQUALON Andrea,10220,0,12,2023-03-29,-
 9,1.WT3,Dwars door Vlaanderen,41067,BOIVIN Guillaume,10856,0,10,2023-03-29,-
 10,1.WT3,Dwars door Vlaanderen,41067,POLITT Nils,20847,0,8,2023-03-29,Albert
-1,2.WT1s,"Volta a Catalunya, General classification",41141,ROGLIC Primoz,20719,1,0,2023-03-26,Bram
-2,2.WT1s,"Volta a Catalunya, General classification",41141,EVENEPOEL Remco,28377,0.0,0,2023-03-26,Roy
-3,2.WT1s,"Volta a Catalunya, General classification",41141,ALMEIDA Joao Pedro Gonçalves,26482,0.0,0,2023-03-26,Wijnand
-4,2.WT1s,"Volta a Catalunya, General classification",41141,SOLER GIMENEZ Marc,23299,0.0,0,2023-03-26,Vel
-5,2.WT1s,"Volta a Catalunya, General classification",41141,LANDA MEANA Mikel,14319,0.0,0,2023-03-26,Harry
-6,2.WT1s,"Volta a Catalunya, General classification",41141,WOODS Michael,20257,0.0,0,2023-03-26,Albert
-7,2.WT1s,"Volta a Catalunya, General classification",41141,CICCONE Giulio,21812,0.0,0,2023-03-26,Nicky
-8,2.WT1s,"Volta a Catalunya, General classification",41141,HINDLEY Jai,23948,0.0,0,2023-03-26,Kaspar
-9,2.WT1s,"Volta a Catalunya, General classification",41141,UIJTDEBROEKS Cian,31803,0.0,0,2023-03-26,Vel
-10,2.WT1s,"Volta a Catalunya, General classification",41141,URAN URAN Rigoberto,4099,0.0,0,2023-03-26,Bram
+1,2.WT1,"Volta a Catalunya, General classification",41141,ROGLIC Primoz,20719,10,50,2023-03-26,Bram
+2,2.WT1,"Volta a Catalunya, General classification",41141,EVENEPOEL Remco,28377,3,35,2023-03-26,Roy
+3,2.WT1,"Volta a Catalunya, General classification",41141,ALMEIDA Joao Pedro Gonçalves,26482,1,25,2023-03-26,Wijnand
+4,2.WT1,"Volta a Catalunya, General classification",41141,SOLER GIMENEZ Marc,23299,0.5,20,2023-03-26,Vel
+5,2.WT1,"Volta a Catalunya, General classification",41141,LANDA MEANA Mikel,14319,0.2,18,2023-03-26,Harry
+6,2.WT1,"Volta a Catalunya, General classification",41141,WOODS Michael,20257,0,16,2023-03-26,Albert
+7,2.WT1,"Volta a Catalunya, General classification",41141,CICCONE Giulio,21812,0,14,2023-03-26,Nicky
+8,2.WT1,"Volta a Catalunya, General classification",41141,HINDLEY Jai,23948,0,12,2023-03-26,Kaspar
+9,2.WT1,"Volta a Catalunya, General classification",41141,UIJTDEBROEKS Cian,31803,0,10,2023-03-26,Vel
+10,2.WT1,"Volta a Catalunya, General classification",41141,URAN URAN Rigoberto,4099,0,8,2023-03-26,Bram
 1,1.WT2,Gent - Wevelgem,41062,LAPORTE Christophe,19953,10,50,2023-03-26,Kaspar
 2,1.WT2,Gent - Wevelgem,41062,VAN AERT Wout,20730,3,35,2023-03-26,Frank
 3,1.WT2,Gent - Wevelgem,41062,VANMARCKE Sep,7728,1,25,2023-03-26,Jan
