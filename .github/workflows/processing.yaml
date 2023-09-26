@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update_categories:
+  processing_points:
     runs-on: ubuntu-latest
     permissions: write-all
 
