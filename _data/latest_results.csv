@@ -1,5 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.PSs,"Tour de Langkawi, Stage 4 : Bukit Mertajam - Meru Raya (prov.)",42293,BABOR Daniel,27937,0.0,0,2023-09-26
+1,2.1s,"Cro Race, Stage 1 : Primosten - Sinj (prov.)",42236,VIVIANI Elia,13240,0.0,0,2023-09-26
 1,2.PSs,"Tour de Langkawi, Stage 3 : Jeli - Baling (prov.)",42292,JACKSON George,31889,0.0,0,2023-09-25
 1,2.PS,"Tour de Luxembourg, General classification",42217,HIRSCHI Marc,26509,0.0,0,2023-09-24
 2,2.PS,"Tour de Luxembourg, General classification",42217,MCNULTY Brandon,26508,0.0,0,2023-09-24
@@ -34,4 +35,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,1.1,Omloop van het Houtland - Lichtervelde,42124,THIJSSEN Gerben,27085,0.0,0,2023-09-20
 2,1.1,Omloop van het Houtland - Lichtervelde,42124,GROENEWEGEN Dylan,19238,0.0,0,2023-09-20
 3,1.1,Omloop van het Houtland - Lichtervelde,42124,BEULLENS Cédric,25580,0.0,0,2023-09-20
-1,CCT1,European Championships (Emmen) I.T.T.,42135,TARLING Joshua,34297,0.0,0,2023-09-20
