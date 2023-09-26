@@ -57,7 +57,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28298,COVI Alessandro,COVI Alessandro,Jan,3,UAD,ITA,25,0.5,25
 26965,DAINESE Alberto,DAINESE Alberto,Vel,3,DSM,ITA,25,4.3,0
 4557,DE GENDT Thomas,DE GENDT Thomas,Roy,1,LTD,BEL,37,0,0
-32221,DE LIE Arnaud,DE LIE Arnaud,Wijnand,14,LTD,BEL,21,26.7,283
+32221,DE LIE Arnaud,DE LIE Arnaud,Wijnand,14,LTD,BEL,21,25.7,283
 9851,DEGENKOLB John,DEGENKOLB John,Kaspar,1,DSM,GER,34,0,26
 27083,DEKKER David,DEKKER David,Wijnand,1,ARK,NED,25,0,0
 16653,DEMARE Arnaud,DEMARE Arnaud,Wijnand,13,GFC,FRA,32,5.9,119
@@ -66,7 +66,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 23765,DUNBAR Eddie,DUNBAR Eddie,Paul,2,JAY,IRL,27,3.0,24
 24932,EENKHOORN Pascal,EENKHOORN Pascal,Harry,1,LTD,NED,26,0.1,0
 21405,EIKING Odd Christian,EIKING Odd Christian,Roy,0,EFE,NOR,29,0,0
-28377,EVENEPOEL Remco,EVENEPOEL Remco,Roy,70,SOQ,BEL,23,74.2,289
+28377,EVENEPOEL Remco,EVENEPOEL Remco,Roy,70,SOQ,BEL,23,73.2,289
 19651,EWAN Caleb,EWAN Caleb,Paul,16,LTD,AUS,29,2.9,30
 29309,FEDOROV Yevgeniy,FEDOROV Yevgeniy,PB,1,AST,KAZ,23,0.5,0
 30562,FISHER-BLACK Finn,FISHER-BLACK Finn,Jan,1,UAD,NZL,22,0.2,0
@@ -145,7 +145,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 17988,MERLIER Tim,MERLIER Tim,Wijnand,14,SOQ,BEL,31,13.3,100
 32946,MIHKELS Madis,MIHKELS Madis,Albert,1,ICW,EST,20,0.3,0
 29359,MILAN Jonathan,MILAN Jonathan,Bram,2,TBV,ITA,23,7.2,0
-21145,MOHORIC Matej,MOHORIC Matej,Frank,16,TBV,SLO,29,9.1,134
+21145,MOHORIC Matej,MOHORIC Matej,Frank,16,TBV,SLO,29,8.1,134
 23463,MOLANO Juan,MOLANO BENAVIDES Juan Sebastian,PB,1,UAD,COL,29,6.8,82
 5139,MOLLEMA Bauke,MOLLEMA Bauke,Roy,2,TFS,NED,37,0,24
 22676,MOSCON Gianni,MOSCON Gianni,PB,2,AST,ITA,29,0,0
@@ -173,7 +173,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 24902,POWLESS Neilson,POWLESS Neilson,Harry,6,EFE,USA,27,9.5,128
 12843,QUINTANA Nairo,QUINTANA ROJAS Nairo Alexander,Roy,5,???,COL,33,1,25
 30836,RODRIGUEZ Carlos,RODRIGUEZ CANO Carlos,Roy,12,IGD,ESP,22,9.3,64
-20719,ROGLIC Primoz,ROGLIC Primoz,Bram,38,TJV,SLO,34,59.6,175
+20719,ROGLIC Primoz,ROGLIC Primoz,Bram,38,TJV,SLO,34,58.6,175
 21958,ROTA Lorenzo,ROTA Lorenzo,Paul,3,ICW,ITA,28,2.1,99
 13229,ROWE Luke,ROWE Luke,Arjan,0,IGD,GBR,33,0,0
 27024,RUBIO Einer Augusto,RUBIO REYES Einer Augusto,Frank,0,MOV,COL,25,3.8,50
@@ -239,7 +239,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 18247,VERMEERSCH Gianni,VERMEERSCH Gianni,Paul,0,ADC,BEL,31,0,16
 30035,VERNON Ethan,VERNON Ethan,Arjan,1,SOQ,GBR,23,4.0,16
 29568,VINE Jay,VINE Jay,Vel,2,UAD,AUS,28,10,62
-25740,VINGEGAARD Jonas,VINGEGAARD RASMUSSEN Jonas,Arjan,43,TJV,DEN,27,78.0,160
+25740,VINGEGAARD Jonas,VINGEGAARD RASMUSSEN Jonas,Arjan,43,TJV,DEN,27,77.0,160
 13240,VIVIANI Elia,VIVIANI Elia,Paul,3,IGD,ITA,34,1,35
 24316,VLASOV Aleksandr,VLASOV Aleksandr,Harry,19,BOH,RUS,27,5,102
 28509,WALLS Matthew,WALLS Matthew,PB,1,BOH,GBR,25,0,0
