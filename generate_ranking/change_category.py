@@ -25,16 +25,12 @@ Let's go for finding the name.
 I send the racename to this function, and then return the (new) category.
 """
 
-def new_category(racename,category):
-  if racename[:14] in ['Omloop Het Nie','Strade Bianche']:
-    category = '1.WT2'
-  if racename[:16] in ['Amstel Gold Race']:
-    category = '1.WT1'
-  # if racename in ['Volta a Catalunya','Itzulia Basque Country','Tour de Pologne','Benelux Tour']:
-  #   category = '2.WT1'
-  if racename[:11] in ['Volta a Cat','Itzulia Bas','Tour de Pol','Renewi Tour']:
-    if category == '2.WT2':
-      category = '2.WT1'
-    else:
-      category = '2.WT1s'
-  return category
+def new_category(racename, category):
+    if racename.startswith('Omloop Het Nie') or racename.startswith('Strade Bianche'):
+        return '1.WT2'
+    if racename.startswith('Amstel Gold Race'):
+        return '1.WT1'
+    if racename.startswith(('Volta a Cat', 'Itzulia Bas', 'Tour de Pol', 'Renewi Tour')):
+        if category.startswith('2.WT2'):
+            return '2.WT1' + category[5:]
+    return category
