@@ -1,3 +1,31 @@
-<footer class="py-5 bg-light">
-    <div class="container"><p class="m-0 text-center text-dark">Wielerspel 1994 - 2023<br />Laatste update: {{ site.time | date_to_xmlschema }}</p></div>
-</footer>
+<footer class="bg-dark-blue text-light py-4">
+    <div class="container">
+      <div class="row">
+        <!-- First Column -->
+        <div class="col-md-4">
+            <p>Wielerspel 1994 - 2023<br />Laatste update: {{ site.time | date_to_xmlschema }}</p>
+        </div>
+        <!-- Second Column -->
+        <div class="col-md-4">
+          <h5></h5>
+          <ul class="list-unstyled">
+            <li><a href="{{ site.baseurl }}{% link dynamic/index.html %}" class="footer-link">Stand per maand</a></li>
+            <li><a href="{{ site.baseurl }}{% link dynamic/ploegleider_verdiensten.html %}" class="footer-link">Verdiensten per ploegleider</a></li>
+            <li><a href="{{ site.baseurl }}{% link dynamic/riders_per_month.html %}" class="footer-link">Beste renners</a></li>
+            <li><a href="{{ site.baseurl }}{% link dynamic/riders.html %}" class="footer-link">Beste renners</a></li>
+            <li><a href="{{ site.baseurl }}{% link dynamic/highest-margin.html %}" class="footer-link">Hoogste marge</a></li>
+          </ul>
+        </div>
+        <!-- Third Column -->
+        <div class="col-md-4">
+          <h5>Column 3</h5>
+          <ul class="list-unstyled">
+            <li><a href="{{ site.baseurl }}{% link dynamic/chord-diagram.html %}" class="footer-link">Hoogste marge</a></li>
+            <li><a href="#" class="footer-link">Link 2</a></li>
+            <li><a href="#" class="footer-link">Link 3</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
