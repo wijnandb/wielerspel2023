@@ -1,4 +1,6 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.PSs,"Tour de Langkawi, Stage 5 : Slim River - Genting Highlands (prov.)",42294,CARR Simon,30010,0.0,0,2023-09-27
+1,2.1s,"Cro Race, Stage 2 : Biograd na Moru - Novalja (prov.)",42237,LEITAO Iuri Gabriel Dantas,31829,0.0,0,2023-09-27
 1,2.PSs,"Tour de Langkawi, Stage 4 : Bukit Mertajam - Meru Raya (prov.)",42293,BABOR Daniel,27937,0.0,0,2023-09-26
 1,2.1s,"Cro Race, Stage 1 : Primosten - Sinj (prov.)",42236,VIVIANI Elia,13240,0.0,0,2023-09-26
 1,2.PSs,"Tour de Langkawi, Stage 3 : Jeli - Baling (prov.)",42292,JACKSON George,31889,0.0,0,2023-09-25
@@ -30,4 +32,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.PSs,"Tour de Langkawi, Stage 1 : Kerteh - Kuala Terangganu (prov.)",42290,DE KLEIJN Arvid,22596,0.0,0,2023-09-23
 1,2.PSs,"Tour de Luxembourg, Stage 4 : Pétange - Pétange I.T.T.",42215,CAMPENAERTS Victor,20184,0.0,0,2023-09-23
 1,2.PSs,"Tour de Luxembourg, Stage 3 : Mertert - Vianden",42214,HEALY Ben,28846,0.0,0,2023-09-22
-1,2.PSs,"Tour de Luxembourg, Stage 2 : Mondorf-les-Bains - Mamer",42213,BIERMANS Jenthe,22010,0.0,0,2023-09-21
