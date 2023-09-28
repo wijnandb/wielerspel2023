@@ -1,4 +1,19 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.PS,Circuit Franco-Belge,42139,DE LIE Arnaud,32221,0.0,0,2023-09-28
+2,1.PS,Circuit Franco-Belge,42139,TILLER Rasmus Fossum,25623,0.0,0,2023-09-28
+3,1.PS,Circuit Franco-Belge,42139,STRONG Corbin,29492,0.0,0,2023-09-28
+4,1.PS,Circuit Franco-Belge,42139,JOHANNESSEN Tobias Halland,31567,0.0,0,2023-09-28
+5,1.PS,Circuit Franco-Belge,42139,SENECHAL Florian,19903,0.0,0,2023-09-28
+6,1.PS,Circuit Franco-Belge,42139,ROTA Lorenzo,21958,0.0,0,2023-09-28
+7,1.PS,Circuit Franco-Belge,42139,ZIMMERMANN Georg,25165,0.0,0,2023-09-28
+8,1.PS,Circuit Franco-Belge,42139,LAMPAERT Yves,19941,0.0,0,2023-09-28
+9,1.PS,Circuit Franco-Belge,42139,SKUJINS Toms,16739,0.0,0,2023-09-28
+10,1.PS,Circuit Franco-Belge,42139,TURGIS Anthony,21312,0.0,0,2023-09-28
+1,2.PSs,"Tour de Langkawi, Stage 6 : Karak - Melaka (prov.)",42295,DE KLEIJN Arvid,22596,0.0,0,2023-09-28
+1,1.1,Coppa Agostoni - Giro delle Brianze,42127,FORMOLO Davide,18749,0.0,0,2023-09-28
+2,1.1,Coppa Agostoni - Giro delle Brianze,42127,HIRSCHI Marc,26509,0.0,0,2023-09-28
+3,1.1,Coppa Agostoni - Giro delle Brianze,42127,LAFAY Victor,26197,0.0,0,2023-09-28
+1,2.1s,"Cro Race, Stage 3 : Otocac - Opatija (prov.)",42238,PARISINI Nicolo,29418,0.0,0,2023-09-28
 1,2.PSs,"Tour de Langkawi, Stage 5 : Slim River - Genting Highlands (prov.)",42294,CARR Simon,30010,0.0,0,2023-09-27
 1,2.1s,"Cro Race, Stage 2 : Biograd na Moru - Novalja (prov.)",42237,LEITAO Iuri Gabriel Dantas,31829,0.0,0,2023-09-27
 1,2.PSs,"Tour de Langkawi, Stage 4 : Bukit Mertajam - Meru Raya (prov.)",42293,BABOR Daniel,27937,0.0,0,2023-09-26
