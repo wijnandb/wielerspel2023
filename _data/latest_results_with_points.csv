@@ -1,4 +1,19 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.PS,Circuit Franco-Belge,42139,DE LIE Arnaud,32221,4,50,2023-09-28,Wijnand
+2,1.PS,Circuit Franco-Belge,42139,TILLER Rasmus Fossum,25623,1,35,2023-09-28,PB
+3,1.PS,Circuit Franco-Belge,42139,STRONG Corbin,29492,0.5,25,2023-09-28,PB
+4,1.PS,Circuit Franco-Belge,42139,JOHANNESSEN Tobias Halland,31567,0,20,2023-09-28,Albert
+5,1.PS,Circuit Franco-Belge,42139,SENECHAL Florian,19903,0,18,2023-09-28,Wijnand
+6,1.PS,Circuit Franco-Belge,42139,ROTA Lorenzo,21958,0,16,2023-09-28,Paul
+7,1.PS,Circuit Franco-Belge,42139,ZIMMERMANN Georg,25165,0,14,2023-09-28,-
+8,1.PS,Circuit Franco-Belge,42139,LAMPAERT Yves,19941,0,12,2023-09-28,Harry
+9,1.PS,Circuit Franco-Belge,42139,SKUJINS Toms,16739,0,10,2023-09-28,Kees
+10,1.PS,Circuit Franco-Belge,42139,TURGIS Anthony,21312,0,8,2023-09-28,Vel
+1,2.PSs,"Tour de Langkawi, Stage 6 : Karak - Melaka (prov.)",42295,DE KLEIJN Arvid,22596,0.3,0,2023-09-28,-
+1,1.1,Coppa Agostoni - Giro delle Brianze,42127,FORMOLO Davide,18749,2,0,2023-09-28,Nicky
+2,1.1,Coppa Agostoni - Giro delle Brianze,42127,HIRSCHI Marc,26509,0.3,0,2023-09-28,Bram
+3,1.1,Coppa Agostoni - Giro delle Brianze,42127,LAFAY Victor,26197,0.1,0,2023-09-28,Jan
+1,2.1s,"Cro Race, Stage 3 : Otocac - Opatija (prov.)",42238,PARISINI Nicolo,29418,0.2,0,2023-09-28,-
 1,2.PSs,"Tour de Langkawi, Stage 5 : Slim River - Genting Highlands (prov.)",42294,CARR Simon,30010,0.3,0,2023-09-27,-
 1,2.1s,"Cro Race, Stage 2 : Biograd na Moru - Novalja (prov.)",42237,LEITAO Iuri Gabriel Dantas,31829,0.2,0,2023-09-27,-
 1,2.PSs,"Tour de Langkawi, Stage 4 : Bukit Mertajam - Meru Raya (prov.)",42293,BABOR Daniel,27937,0.3,0,2023-09-26,-
@@ -29,5 +44,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT3,European Championships (Drijber) R.R.,42137,DEGENKOLB John,9851,0,12,2023-09-24,Kaspar
 9,1.WT3,European Championships (Drijber) R.R.,42137,KRON Andreas Lorentz,26420,0,10,2023-09-24,Paul
 10,1.WT3,European Championships (Drijber) R.R.,42137,SENECHAL Florian,19903,0,8,2023-09-24,Wijnand
-1,2.PSs,"Tour de Langkawi, Stage 1 : Kerteh - Kuala Terangganu (prov.)",42290,DE KLEIJN Arvid,22596,0.3,0,2023-09-23,-
-1,2.PSs,"Tour de Luxembourg, Stage 4 : Pétange - Pétange I.T.T.",42215,CAMPENAERTS Victor,20184,0.3,0,2023-09-23,Vel
