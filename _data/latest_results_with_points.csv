@@ -1,5 +1,27 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,2.PSs,"Tour de Langkawi, Stage 7 : Muar - Seramban (prov.)",42296,WEEMAES Sasha,27131,0.3,0,2023-09-29,-
+1,2.PS,"Tour de Langkawi, General classification",42298,CARR Simon,30010,4,50,2023-09-30,-
+2,2.PS,"Tour de Langkawi, General classification",42298,CEPEDA ORTIZ Jefferson Alexander,26775,1,35,2023-09-30,-
+3,2.PS,"Tour de Langkawi, General classification",42298,CASTRILLO ZAPATER Pablo,34135,0.5,25,2023-09-30,-
+4,2.PS,"Tour de Langkawi, General classification",42298,BOU COMPANY Joan,27598,0,20,2023-09-30,-
+5,2.PS,"Tour de Langkawi, General classification",42298,PRONSKIY Vadim,26676,0,18,2023-09-30,-
+6,2.PS,"Tour de Langkawi, General classification",42298,DOUBLE Paul,27721,0,16,2023-09-30,-
+7,2.PS,"Tour de Langkawi, General classification",42298,VAN ENGELEN Adne,24796,0,14,2023-09-30,-
+8,2.PS,"Tour de Langkawi, General classification",42298,AGIRRE EGAÑA Jon,30023,0,12,2023-09-30,-
+9,2.PS,"Tour de Langkawi, General classification",42298,MURGUIALDAY ELORZA Jokin,31268,0,10,2023-09-30,-
+10,2.PS,"Tour de Langkawi, General classification",42298,LOPEZ GRANIZO Harold Martin,29525,0,8,2023-09-30,-
+1,1.PS,Giro dell'Emilia,42128,ROGLIC Primoz,20719,4,50,2023-09-30,Bram
+2,1.PS,Giro dell'Emilia,42128,POGACAR Tadej,26526,1,35,2023-09-30,Kees
+3,1.PS,Giro dell'Emilia,42128,YATES Simon,17893,0.5,25,2023-09-30,PB
+4,1.PS,Giro dell'Emilia,42128,MAS NICOLAU Enric,22794,0,20,2023-09-30,PB
+5,1.PS,Giro dell'Emilia,42128,WOODS Michael,20257,0,18,2023-09-30,Albert
+6,1.PS,Giro dell'Emilia,42128,VLASOV Aleksandr,24316,0,16,2023-09-30,Harry
+7,1.PS,Giro dell'Emilia,42128,CARAPAZ MONTENEGRO Richard Antonio,21342,0,14,2023-09-30,Wijnand
+8,1.PS,Giro dell'Emilia,42128,CICCONE Giulio,21812,0,12,2023-09-30,Nicky
+9,1.PS,Giro dell'Emilia,42128,YATES Adam,18975,0,10,2023-09-30,Paul
+10,1.PS,Giro dell'Emilia,42128,BARGUIL Warren,17627,0,8,2023-09-30,Nicky
+1,2.PSs,"Tour de Langkawi, Stage 8 : Setia Alam - Kuala Lumpur",42297,SYRITSA Gleb,29927,0.3,0,2023-09-30,-
+1,2.1s,"Cro Race, Stage 5 : Crikvenica - Ozalj (prov.)",42240,AULAR SANABRIA Orluis Alberto,24326,0.2,0,2023-09-30,PB
+1,2.PSs,"Tour de Langkawi, Stage 7 : Muar - Seramban",42296,WEEMAES Sasha,27131,0.3,0,2023-09-29,-
 1,2.1s,"Cro Race, Stage 4 : Krk - Labin (prov.)",42239,MOHORIC Matej,21145,0.2,0,2023-09-29,Frank
 1,1.PS,Circuit Franco-Belge,42139,DE LIE Arnaud,32221,4,50,2023-09-28,Wijnand
 2,1.PS,Circuit Franco-Belge,42139,TILLER Rasmus Fossum,25623,1,35,2023-09-28,PB
@@ -11,24 +33,11 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Circuit Franco-Belge,42139,LAMPAERT Yves,19941,0,12,2023-09-28,Harry
 9,1.PS,Circuit Franco-Belge,42139,SKUJINS Toms,16739,0,10,2023-09-28,Kees
 10,1.PS,Circuit Franco-Belge,42139,TURGIS Anthony,21312,0,8,2023-09-28,Vel
-1,2.PSs,"Tour de Langkawi, Stage 6 : Karak - Melaka (prov.)",42295,DE KLEIJN Arvid,22596,0.3,0,2023-09-28,-
+1,2.PSs,"Tour de Langkawi, Stage 6 : Karak - Melaka",42295,DE KLEIJN Arvid,22596,0.3,0,2023-09-28,-
 1,1.1,Coppa Agostoni - Giro delle Brianze,42127,FORMOLO Davide,18749,2,0,2023-09-28,Nicky
 2,1.1,Coppa Agostoni - Giro delle Brianze,42127,HIRSCHI Marc,26509,0.3,0,2023-09-28,Bram
 3,1.1,Coppa Agostoni - Giro delle Brianze,42127,LAFAY Victor,26197,0.1,0,2023-09-28,Jan
 1,2.1s,"Cro Race, Stage 3 : Otocac - Opatija (prov.)",42238,PARISINI Nicolo,29418,0.2,0,2023-09-28,-
-1,2.PSs,"Tour de Langkawi, Stage 5 : Slim River - Genting Highlands (prov.)",42294,CARR Simon,30010,0.3,0,2023-09-27,-
+1,2.PSs,"Tour de Langkawi, Stage 5 : Slim River - Genting Highlands",42294,CARR Simon,30010,0.3,0,2023-09-27,-
 1,2.1s,"Cro Race, Stage 2 : Biograd na Moru - Novalja (prov.)",42237,LEITAO Iuri Gabriel Dantas,31829,0.2,0,2023-09-27,-
-1,2.PSs,"Tour de Langkawi, Stage 4 : Bukit Mertajam - Meru Raya (prov.)",42293,BABOR Daniel,27937,0.3,0,2023-09-26,-
-1,2.1s,"Cro Race, Stage 1 : Primosten - Sinj (prov.)",42236,VIVIANI Elia,13240,0.2,0,2023-09-26,Paul
-1,2.PSs,"Tour de Langkawi, Stage 3 : Jeli - Baling (prov.)",42292,JACKSON George,31889,0.3,0,2023-09-25,-
-1,2.PS,"Tour de Luxembourg, General classification",42217,HIRSCHI Marc,26509,4,50,2023-09-24,Bram
-2,2.PS,"Tour de Luxembourg, General classification",42217,MCNULTY Brandon,26508,1,35,2023-09-24,Kees
-3,2.PS,"Tour de Luxembourg, General classification",42217,HEALY Ben,28846,0.5,25,2023-09-24,-
-4,2.PS,"Tour de Luxembourg, General classification",42217,VAN WILDER Ilan,29828,0,20,2023-09-24,Wijnand
-5,2.PS,"Tour de Luxembourg, General classification",42217,ULISSI Diego,10023,0,18,2023-09-24,Paul
-6,2.PS,"Tour de Luxembourg, General classification",42217,KRAGH ANDERSEN Søren,20793,0,16,2023-09-24,Vel
-7,2.PS,"Tour de Luxembourg, General classification",42217,GROSSSCHARTNER Felix,19548,0,14,2023-09-24,Albert
-8,2.PS,"Tour de Luxembourg, General classification",42217,BOUWMAN Koen,20770,0,12,2023-09-24,Kaspar
-9,2.PS,"Tour de Luxembourg, General classification",42217,O'CONNOR Ben,23763,0,10,2023-09-24,Harry
-10,2.PS,"Tour de Luxembourg, General classification",42217,VAN GILS Maxim,28521,0,8,2023-09-24,-
-1,2.PSs,"Tour de Langkawi, Stage 2 : Kuala Terengganu - Kota Bharu (prov.)",42291,SYRITSA Gleb,29927,0.3,0,2023-09-24,-
+1,2.PSs,"Tour de Langkawi, Stage 4 : Bukit Mertajam - Meru Raya",42293,BABOR Daniel,27937,0.3,0,2023-09-26,-
