@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.1,"Cro Race, General classification (prov.)",42242,AULAR SANABRIA Orluis Alberto,24326,2,0,2023-10-01,PB
+2,2.1,"Cro Race, General classification (prov.)",42242,KRISTOFF Alexander,4179,0.3,0,2023-10-01,Nicky
+3,2.1,"Cro Race, General classification (prov.)",42242,HAYTER Ethan,27025,0.1,0,2023-10-01,Jan
+1,1.1,Tour de Vendée (prov.),42159,DEMARE Arnaud,16653,2,0,2023-10-01,Wijnand
+2,1.1,Tour de Vendée (prov.),42159,PENHOËT Paul,30686,0.3,0,2023-10-01,-
+3,1.1,Tour de Vendée (prov.),42159,DUJARDIN Sandy,28583,0.1,0,2023-10-01,-
+1,1.1,Famenne Ardenne Classic (prov.),42260,DE LIE Arnaud,32221,2,0,2023-10-01,Wijnand
+2,1.1,Famenne Ardenne Classic (prov.),42260,GROVES Kaden,26637,0.3,0,2023-10-01,Vel
+3,1.1,Famenne Ardenne Classic (prov.),42260,SENECHAL Florian,19903,0.1,0,2023-10-01,Wijnand
+1,2.1s,"Cro Race, Stage 6 : Samobor - Zagreb (prov.)",42241,STEWART Campbell,27557,0.2,0,2023-10-01,-
+1,NCT3,National Championships Switzerland (Gansingen) I.T.T. (prov.),42108,BISSEGGER Stefan,26376,1,0,2023-10-01,Bram
 1,2.PS,"Tour de Langkawi, General classification",42298,CARR Simon,30010,4,50,2023-09-30,-
 2,2.PS,"Tour de Langkawi, General classification",42298,CEPEDA ORTIZ Jefferson Alexander,26775,1,35,2023-09-30,-
 3,2.PS,"Tour de Langkawi, General classification",42298,CASTRILLO ZAPATER Pablo,34135,0.5,25,2023-09-30,-
@@ -23,20 +34,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.1s,"Cro Race, Stage 5 : Crikvenica - Ozalj (prov.)",42240,AULAR SANABRIA Orluis Alberto,24326,0.2,0,2023-09-30,PB
 1,2.PSs,"Tour de Langkawi, Stage 7 : Muar - Seramban",42296,WEEMAES Sasha,27131,0.3,0,2023-09-29,-
 1,2.1s,"Cro Race, Stage 4 : Krk - Labin (prov.)",42239,MOHORIC Matej,21145,0.2,0,2023-09-29,Frank
-1,1.PS,Circuit Franco-Belge,42139,DE LIE Arnaud,32221,4,50,2023-09-28,Wijnand
-2,1.PS,Circuit Franco-Belge,42139,TILLER Rasmus Fossum,25623,1,35,2023-09-28,PB
-3,1.PS,Circuit Franco-Belge,42139,STRONG Corbin,29492,0.5,25,2023-09-28,PB
-4,1.PS,Circuit Franco-Belge,42139,JOHANNESSEN Tobias Halland,31567,0,20,2023-09-28,Albert
-5,1.PS,Circuit Franco-Belge,42139,SENECHAL Florian,19903,0,18,2023-09-28,Wijnand
-6,1.PS,Circuit Franco-Belge,42139,ROTA Lorenzo,21958,0,16,2023-09-28,Paul
-7,1.PS,Circuit Franco-Belge,42139,ZIMMERMANN Georg,25165,0,14,2023-09-28,-
-8,1.PS,Circuit Franco-Belge,42139,LAMPAERT Yves,19941,0,12,2023-09-28,Harry
-9,1.PS,Circuit Franco-Belge,42139,SKUJINS Toms,16739,0,10,2023-09-28,Kees
-10,1.PS,Circuit Franco-Belge,42139,TURGIS Anthony,21312,0,8,2023-09-28,Vel
-1,2.PSs,"Tour de Langkawi, Stage 6 : Karak - Melaka",42295,DE KLEIJN Arvid,22596,0.3,0,2023-09-28,-
-1,1.1,Coppa Agostoni - Giro delle Brianze,42127,FORMOLO Davide,18749,2,0,2023-09-28,Nicky
-2,1.1,Coppa Agostoni - Giro delle Brianze,42127,HIRSCHI Marc,26509,0.3,0,2023-09-28,Bram
-3,1.1,Coppa Agostoni - Giro delle Brianze,42127,LAFAY Victor,26197,0.1,0,2023-09-28,Jan
-1,2.1s,"Cro Race, Stage 3 : Otocac - Opatija (prov.)",42238,PARISINI Nicolo,29418,0.2,0,2023-09-28,-
-1,2.PSs,"Tour de Langkawi, Stage 5 : Slim River - Genting Highlands",42294,CARR Simon,30010,0.3,0,2023-09-27,-
-1,2.1s,"Cro Race, Stage 2 : Biograd na Moru - Novalja (prov.)",42237,LEITAO Iuri Gabriel Dantas,31829,0.2,0,2023-09-27,-
