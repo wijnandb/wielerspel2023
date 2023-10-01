@@ -1,7 +1,5 @@
 startdate,enddate,race,FC_race_id,category,points,jpp
-2023-09-23 00:00:00,2023-09-30 00:00:00,Tour de Langkawi,128,2.PS,5.5,208
 2023-09-26 00:00:00,2023-10-01 00:00:00,CRO Race,773,2.1,2.4,0
-2023-09-30 00:00:00,,Giro dell'Emilia,29,1.PS,5.5,208
 2023-10-01 00:00:00,,Famenne Ardenne Classic,7660,1.1,2.4,0
 2023-10-01 00:00:00,,Tour de Vendée,94,1.1,2.4,0
 2023-10-02 00:00:00,,Coppa Bernocchi,196,1.PS,5.5,208
@@ -9,3 +7,6 @@ startdate,enddate,race,FC_race_id,category,points,jpp
 2023-10-03 00:00:00,,Munsterland Giro,158,1.PS,5.5,208
 2023-10-03 00:00:00,,Tre Valli Varesine,190,1.PS,5.5,208
 2023-10-04 00:00:00,,Bloeizone Elfsteden Fryslan,16523,1.1,2.4,0
+2023-10-05 00:00:00,,Gran Piemonte,61,1.PS,5.5,208
+2023-10-05 00:00:00,,Paris - Bourges,157,1.1,2.4,0
+2023-10-05 00:00:00,2023-10-09 00:00:00,Tour of Hainan,139,2.PS,5.5,208
