@@ -1,14 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.PS,Coppa Bernocchi (prov.),42261,VAN AERT Wout,20730,4,50,2023-10-02,Frank
-2,1.PS,Coppa Bernocchi (prov.),42261,ALBANESE Vincenzo,24139,1,35,2023-10-02,Harry
-3,1.PS,Coppa Bernocchi (prov.),42261,BAGIOLI Andrea,28452,0.5,25,2023-10-02,Albert
-4,1.PS,Coppa Bernocchi (prov.),42261,HIRSCHI Marc,26509,0,20,2023-10-02,Bram
-5,1.PS,Coppa Bernocchi (prov.),42261,MASNADA Fausto,20535,0,18,2023-10-02,Paul
-6,1.PS,Coppa Bernocchi (prov.),42261,BENOOT Tiesj,21244,0,16,2023-10-02,Paul
-7,1.PS,Coppa Bernocchi (prov.),42261,SCARONI Christian,27002,0,14,2023-10-02,-
-8,1.PS,Coppa Bernocchi (prov.),42261,ALAPHILIPPE Julian,18610,0,12,2023-10-02,Arjan
-9,1.PS,Coppa Bernocchi (prov.),42261,TRATNIK Jan,12748,0,10,2023-10-02,Kees
-10,1.PS,Coppa Bernocchi (prov.),42261,IZAGIRRE INSAUSTI Ion,14321,0,8,2023-10-02,Harry
+1,1.PS,Coppa Bernocchi,42261,VAN AERT Wout,20730,4,50,2023-10-02,Frank
+2,1.PS,Coppa Bernocchi,42261,ALBANESE Vincenzo,24139,1,35,2023-10-02,Harry
+3,1.PS,Coppa Bernocchi,42261,BAGIOLI Andrea,28452,0.5,25,2023-10-02,Albert
+4,1.PS,Coppa Bernocchi,42261,HIRSCHI Marc,26509,0,20,2023-10-02,Bram
+5,1.PS,Coppa Bernocchi,42261,MASNADA Fausto,20535,0,18,2023-10-02,Paul
+6,1.PS,Coppa Bernocchi,42261,BENOOT Tiesj,21244,0,16,2023-10-02,Paul
+7,1.PS,Coppa Bernocchi,42261,SCARONI Christian,27002,0,14,2023-10-02,-
+8,1.PS,Coppa Bernocchi,42261,ALAPHILIPPE Julian,18610,0,12,2023-10-02,Arjan
+9,1.PS,Coppa Bernocchi,42261,TRATNIK Jan,12748,0,10,2023-10-02,Kees
+10,1.PS,Coppa Bernocchi,42261,IZAGIRRE INSAUSTI Ion,14321,0,8,2023-10-02,Harry
 1,2.1,"Cro Race, General classification",42242,AULAR SANABRIA Orluis Alberto,24326,2,0,2023-10-01,PB
 2,2.1,"Cro Race, General classification",42242,KRISTOFF Alexander,4179,0.3,0,2023-10-01,Nicky
 3,2.1,"Cro Race, General classification",42242,HAYTER Ethan,27025,0.1,0,2023-10-01,Jan
