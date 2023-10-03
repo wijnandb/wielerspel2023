@@ -6,7 +6,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 28451,ALEOTTI Giovanni,ALEOTTI Giovanni,Wijnand,1,BOH,ITA,24,0,20
 22616,ALLEGAERT Piet,ALLEGAERT Piet,Vel,0,COF,BEL,28,0,0
 26482,ALMEIDA Joao,ALMEIDA Joao Pedro Gonçalves,Wijnand,14,UAD,POR,25,20.5,146
-20793,ANDERSEN Søren Kragh,ANDERSEN Søren Kragh,Vel,2,ADC,DEN,29,5.5,118
+20793,ANDERSEN Søren Kragh,ANDERSEN Søren Kragh,Vel,2,ADC,DEN,29,5.6,118
 23940,ARANBURU Alexander,ARANBURU DEBA Alexander,Jan,3,MOV,ESP,28,2.5,128
 27716,ARENSMAN Thymen,ARENSMAN Thymen,Kaspar,13,IGD,NED,24,3,16
 23558,ASGREEN Kasper,ASGREEN Kasper,Nicky,10,SOQ,DEN,28,6.2,49
@@ -149,7 +149,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 23463,MOLANO Juan,MOLANO BENAVIDES Juan Sebastian,PB,1,UAD,COL,29,6.8,82
 5139,MOLLEMA Bauke,MOLLEMA Bauke,Roy,2,TFS,NED,37,0,24
 22676,MOSCON Gianni,MOSCON Gianni,PB,2,AST,ITA,29,0,0
-28037,MOZZATO Luca,MOZZATO Luca,Nicky,2,ARK,ITA,25,0.2,0
+28037,MOZZATO Luca,MOZZATO Luca,Nicky,2,ARK,ITA,25,2.2,0
 21392,NAESEN Oliver,NAESEN Oliver,Harry,1,ACT,BEL,33,0,0
 25157,NARVAEZ Jhonatan,NARVAEZ PRADO Jhonatan Manuel,Nicky,1,IGD,ECU,26,2.6,0
 13863,NIZZOLO Giacomo,NIZZOLO Giacomo,PB,1,IPT,ITA,34,4,76
@@ -205,7 +205,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 29883,TESSON Jason,TESSON Jason,Jan,1,TEN,FRA,25,0.9,20
 19165,TEUNISSEN Mike,TEUNISSEN Mike,Albert,2,ICW,NED,31,1.5,44
 17908,TEUNS Dylan,TEUNS Dylan,Harry,4,IPT,BEL,31,1,71
-16697,THEUNS Edward,THEUNS Edward,Harry,0,TFS,BEL,32,1.1,59
+16697,THEUNS Edward,THEUNS Edward,Harry,0,TFS,BEL,32,1.4,59
 27085,THIJSSEN Gerben,THIJSSEN Gerben,Albert,1,ICW,BEL,25,11.4,103
 23641,THOMAS Benjamin,THOMAS Benjamin,Paul,3,COF,FRA,28,0.3,0
 3891,THOMAS Geraint,THOMAS Geraint,Arjan,9,IGD,GBR,37,18,43
