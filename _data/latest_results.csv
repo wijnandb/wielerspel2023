@@ -19,6 +19,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Tre Valli Varesine (prov.),42262,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2023-10-03
 9,1.PS,Tre Valli Varesine (prov.),42262,RODRIGUEZ CANO Carlos,30836,0.0,0,2023-10-03
 10,1.PS,Tre Valli Varesine (prov.),42262,O'CONNOR Ben,23763,0.0,0,2023-10-03
+1,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),42259,MOZZATO Luca,28037,0.0,0,2023-10-03
+2,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),42259,THEUNS Edward,16697,0.0,0,2023-10-03
+3,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),42259,KRAGH ANDERSEN Søren,20793,0.0,0,2023-10-03
 1,1.PS,Coppa Bernocchi,42261,VAN AERT Wout,20730,0.0,0,2023-10-02
 2,1.PS,Coppa Bernocchi,42261,ALBANESE Vincenzo,24139,0.0,0,2023-10-02
 3,1.PS,Coppa Bernocchi,42261,BAGIOLI Andrea,28452,0.0,0,2023-10-02
@@ -61,4 +64,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,1.PS,Giro dell'Emilia,42128,YATES Adam,18975,0.0,0,2023-09-30
 10,1.PS,Giro dell'Emilia,42128,BARGUIL Warren,17627,0.0,0,2023-09-30
 1,2.PSs,"Tour de Langkawi, Stage 8 : Setia Alam - Kuala Lumpur",42297,SYRITSA Gleb,29927,0.0,0,2023-09-30
-1,2.1s,"Cro Race, Stage 5 : Crikvenica - Ozalj",42240,AULAR SANABRIA Orluis Alberto,24326,0.0,0,2023-09-30
