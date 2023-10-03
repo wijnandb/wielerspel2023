@@ -14,16 +14,16 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 159,25,Stan Dewulf,25655,AG2R Citroën Team,BEL,Kaspar Burghard,Kaspar,0,
 159,31,Piet Allegaert,22616,Cofidis,BEL,Frank Vellinga,Vel,0,
 159,33,Christophe Noppe,22615,Cofidis,BEL,-,-,-,
-159,36,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,4,
+159,36,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,4,1
 159,41,Arnaud De Lie,32221,Lotto Dstny,BEL,Wijnand Baretta,Wijnand,14,
 159,42,Cédric Beullens,25580,Lotto Dstny,BEL,-,-,-,
-159,43,Pascal Eenkhoorn,24932,Lotto Dstny,NED,Harry Koene,Harry,1,
+159,43,Pascal Eenkhoorn,24932,Lotto Dstny,NED,Harry Koene,Harry,1,1
 159,47,Florian Vermeersch,28127,Lotto Dstny,BEL,Albert Kraaij,Albert,2,
-159,51,Sven Erik Bystrøm,18608,Intermarché-Circus-Wanty,NOR,-,-,-,
+159,51,Sven Erik Bystrøm,18608,Intermarché-Circus-Wanty,NOR,-,-,-,1
 159,53,Biniam Girmay,29474,Intermarché-Circus-Wanty,ERI,Nick Veenstra,Nicky,19,
 159,55,Hugo Page,30663,Intermarché-Circus-Wanty,FRA,Albert Kraaij,Albert,1,
 159,56,Mike Teunissen,19165,Intermarché-Circus-Wanty,NED,Albert Kraaij,Albert,2,
-159,57,Rune Herregodts,28392,Intermarché-Circus-Wanty,BEL,-,-,-,
+159,57,Rune Herregodts,28392,Intermarché-Circus-Wanty,BEL,-,-,-,1
 159,61,Lewis Askey,30685,Groupama-FDJ,GBR,-,-,-,
 159,62,Samuel Watson,32161,Groupama-FDJ,GBR,-,-,-,
 159,63,Kevin Geniets,25763,Groupama-FDJ,LUX,-,-,-,
@@ -33,22 +33,22 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 159,76,Luca Mozzato,28037,Team Arkéa-Samsic,ITA,Nick Veenstra,Nicky,2,
 159,81,Jasper Stuyven,18233,Lidl-Trek,BEL,Pieter-Bas de Bruijn,PB,6,
 159,82,Daan Hoole,27709,Lidl-Trek,NED,-,-,-,
-159,83,Quinn Simmons,30666,Lidl-Trek,USA,Bram van Ommeren,Bram,1,
+159,83,Quinn Simmons,30666,Lidl-Trek,USA,Bram van Ommeren,Bram,1,1
 159,84,Toms Skujins,16739,Lidl-Trek,LAT,Kees van Ommeren,Kees,0,
 159,85,Edward Theuns,16697,Lidl-Trek,BEL,Harry Koene,Harry,0,
-159,91,Pascal Ackermann,20917,UAE Team Emirates,GER,Frank Vellinga,Vel,5,
+159,91,Pascal Ackermann,20917,UAE Team Emirates,GER,Frank Vellinga,Vel,5,1
 159,92,Mikkel Bjerg,26388,UAE Team Emirates,DEN,Kees van Ommeren,Kees,2,
 159,97,Matteo Trentin,13270,UAE Team Emirates,ITA,Nick Veenstra,Nicky,4,
 159,107,Kenneth Van Rooy,20084,Bingoal WB,BEL,-,-,-,
-159,111,Giacomo Nizzolo,13863,Israel-Premier Tech,ITA,Pieter-Bas de Bruijn,PB,1,
+159,111,Giacomo Nizzolo,13863,Israel-Premier Tech,ITA,Pieter-Bas de Bruijn,PB,1,1
 159,115,Tom Van Asbroeck,18504,Israel-Premier Tech,BEL,-,-,-,
 159,121,Edvald Boasson-Hagen,4377,TotalEnergies,NOR,Bram van Ommeren,Bram,0,
 159,125,Sandy Dujardin,28583,TotalEnergies,FRA,-,-,-,
 159,127,Dries van Gestel,21952,TotalEnergies,BEL,Roy Smits,Roy,2,
 159,133,Rasmus Tiller,25623,Uno-X Pro Cycling Team,NOR,Pieter-Bas de Bruijn,PB,1,
-159,145,Bart Lemmen,32252,Human Powered Health,NED,-,-,-,
-159,147,Sebastian Schönberger,20936,Human Powered Health,AUT,-,-,-,
-159,154,Jenno Berckmoes,32588,Team Flanders-Baloise,BEL,-,-,-,
+159,145,Bart Lemmen,32252,Human Powered Health,NED,-,-,-,1
+159,147,Sebastian Schönberger,20936,Human Powered Health,AUT,-,-,-,1
+159,154,Jenno Berckmoes,32588,Team Flanders-Baloise,BEL,-,-,-,1
 159,162,Gotzon Martín,27134,Euskaltel-Euskadi,ESP,-,-,-,
 159,176,Norman Vahtra,24200,Van Rysel-Roubaix Lille Métropole,EST,-,-,-,
 159,182,Andreas Stokbro Nielsen,24953,Leopard Togt Pro Cycling,DEN,-,-,-,
@@ -84,40 +84,40 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 158,157,Søren Wærenskjold,29187,Uno-X Pro Cycling Team,NOR,-,-,-,
 158,221,Max Walscheid,19646,Germany,GER,Pieter-Bas de Bruijn,PB,1,
 190,1,Tadej Pogacar,26526,UAE Team Emirates,SLO,Kees van Ommeren,Kees,83,
-190,2,Davide Formolo,18749,UAE Team Emirates,ITA,Nick Veenstra,Nicky,2,
-190,4,Rafal Majka,14310,UAE Team Emirates,POL,Kees van Ommeren,Kees,1,
+190,2,Davide Formolo,18749,UAE Team Emirates,ITA,Nick Veenstra,Nicky,2,1
+190,4,Rafal Majka,14310,UAE Team Emirates,POL,Kees van Ommeren,Kees,1,1
 190,5,Diego Ulissi,10023,UAE Team Emirates,ITA,Paul van Doorn,Paul,2,
 190,6,Jay Vine,29568,UAE Team Emirates,AUS,Frank Vellinga,Vel,2,
 190,7,Adam Yates,18975,UAE Team Emirates,GBR,Paul van Doorn,Paul,12,
 190,11,Andrea Vendrame,22170,AG2R Citroën Team,ITA,-,-,-,
 190,12,Benoît Cosnefroy,24189,AG2R Citroën Team,FRA,Pieter-Bas de Bruijn,PB,17,
-190,13,Felix Gall,26383,AG2R Citroën Team,AUT,-,-,-,
+190,13,Felix Gall,26383,AG2R Citroën Team,AUT,-,-,-,1
 190,15,Ben O'Connor,23763,AG2R Citroën Team,AUS,Harry Koene,Harry,7,
 190,21,Axel Laurance,31621,Alpecin-Deceuninck,FRA,Jan Versluys,Jan,1,
-190,22,Tobias Bayer,27932,Alpecin-Deceuninck,AUT,-,-,-,
+190,22,Tobias Bayer,27932,Alpecin-Deceuninck,AUT,-,-,-,1
 190,24,Nicola Conci,26277,Alpecin-Deceuninck,ITA,Frank Rozemeijer,Frank,1,
 190,31,Simone Velasco,22662,Astana Qazaqstan Team,ITA,-,-,-,
-190,32,Samuele Battistella,28450,Astana Qazaqstan Team,ITA,Frank Vellinga,Vel,2,
+190,32,Samuele Battistella,28450,Astana Qazaqstan Team,ITA,Frank Vellinga,Vel,2,1
 190,33,David de la Cruz,12719,Astana Qazaqstan Team,ESP,-,-,-,
 190,41,Jai Hindley,23948,BORA-hansgrohe,AUS,Kaspar Burghard,Kaspar,13,
-190,42,Emanuel Buchmann,18739,BORA-hansgrohe,GER,Pieter-Bas de Bruijn,PB,2,
+190,42,Emanuel Buchmann,18739,BORA-hansgrohe,GER,Pieter-Bas de Bruijn,PB,2,1
 190,43,Sergio Higuita,25026,BORA-hansgrohe,COL,Kaspar Burghard,Kaspar,15,
-190,44,Lennard Kämna,23427,BORA-hansgrohe,GER,Jan Versluys,Jan,5,
-190,45,Patrick Konrad,16058,BORA-hansgrohe,AUT,Albert Kraaij,Albert,1,
+190,44,Lennard Kämna,23427,BORA-hansgrohe,GER,Jan Versluys,Jan,5,1
+190,45,Patrick Konrad,16058,BORA-hansgrohe,AUT,Albert Kraaij,Albert,1,1
 190,47,Aleksandr Vlasov,24316,BORA-hansgrohe,RUS,Harry Koene,Harry,19,
 190,51,Victor Lafay,26197,Cofidis,FRA,Jan Versluys,Jan,2,
 190,52,Ruben Fernandez,18483,Cofidis,ESP,-,-,-,
-190,53,Simon Geschke,4742,Cofidis,GER,-,-,-,
-190,54,Jesus Herrada,17534,Cofidis,ESP,Paul van Doorn,Paul,2,
+190,53,Simon Geschke,4742,Cofidis,GER,-,-,-,1
+190,54,Jesus Herrada,17534,Cofidis,ESP,Paul van Doorn,Paul,2,1
 190,55,Ion Izagirre,14321,Cofidis,ESP,Harry Koene,Harry,2,
 190,56,Guillaume Martin,19994,Cofidis,FRA,Jan Versluys,Jan,4,
-190,57,Rémy Rochas,24753,Cofidis,FRA,-,-,-,
+190,57,Rémy Rochas,24753,Cofidis,FRA,-,-,-,1
 190,61,Richard Carapaz,21342,EF Education-EasyPost,ECU,Wijnand Baretta,Wijnand,32,
 190,62,Esteban Chaves,16941,EF Education-EasyPost,COL,Jan Versluys,Jan,1,
-190,63,Ben Healy,28846,EF Education-EasyPost,IRL,-,-,-,
+190,63,Ben Healy,28846,EF Education-EasyPost,IRL,-,-,-,1
 190,64,Mikkel Honore,25629,EF Education-EasyPost,DEN,Harry Koene,Harry,3,
-190,65,Andrea Piccolo,30648,EF Education-EasyPost,ITA,Albert Kraaij,Albert,3,
-190,66,Sean Quinn,29331,EF Education-EasyPost,USA,-,-,-,
+190,65,Andrea Piccolo,30648,EF Education-EasyPost,ITA,Albert Kraaij,Albert,3,1
+190,66,Sean Quinn,29331,EF Education-EasyPost,USA,-,-,-,1
 190,67,Rigoberto Uran,4099,EF Education-EasyPost,COL,Bram van Ommeren,Bram,4,
 190,71,Thibaut Pinot,13080,Groupama-FDJ,FRA,Nick Veenstra,Nicky,4,
 190,72,Romain Grégoire,32766,Groupama-FDJ,FRA,-,-,-,
@@ -125,35 +125,35 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 190,74,Lenny Martinez,32721,Groupama-FDJ,FRA,Kees van Ommeren,Kees,1,
 190,75,Rudy Molard,11818,Groupama-FDJ,FRA,-,-,-,
 190,76,Quentin Pacher,20163,Groupama-FDJ,FRA,-,-,-,
-190,81,Thymen Arensman,27716,INEOS Grenadiers,NED,Kaspar Burghard,Kaspar,13,
-190,83,Brandon Rivera,26283,INEOS Grenadiers,COL,-,-,-,
+190,81,Thymen Arensman,27716,INEOS Grenadiers,NED,Kaspar Burghard,Kaspar,13,1
+190,83,Brandon Rivera,26283,INEOS Grenadiers,COL,-,-,-,1
 190,84,Carlos Rodriguez,30836,INEOS Grenadiers,ESP,Roy Smits,Roy,12,
 190,85,Pavel Sivakov,24934,INEOS Grenadiers,FRA,Paul van Doorn,Paul,7,
 190,87,Ben Turner,27923,INEOS Grenadiers,GBR,Arjan Knibbe,Arjan,1,
 190,91,Lorenzo Rota,21958,Intermarché-Circus-Wanty,ITA,Paul van Doorn,Paul,3,
 190,93,Francesco Busatto,32738,Intermarché-Circus-Wanty,ITA,-,-,-,
 190,94,Rui Costa,6807,Intermarché-Circus-Wanty,POR,-,-,-,
-190,96,Louis Meintjes,18413,Intermarché-Circus-Wanty,RSA,Wijnand Baretta,Wijnand,1,
+190,96,Louis Meintjes,18413,Intermarché-Circus-Wanty,RSA,Wijnand Baretta,Wijnand,1,1
 190,101,Primoz Roglic,20719,Jumbo-Visma,SLO,Bram van Ommeren,Bram,38,
 190,102,Tiesj Benoot,21244,Jumbo-Visma,BEL,Paul van Doorn,Paul,1,
 190,103,Wilco Kelderman,15171,Jumbo-Visma,NED,Albert Kraaij,Albert,2,
 190,104,Steven Kruijswijk,4443,Jumbo-Visma,NED,-,-,-,
-190,105,Jan Tratnik,12748,Jumbo-Visma,SLO,Kees van Ommeren,Kees,1,
+190,105,Jan Tratnik,12748,Jumbo-Visma,SLO,Kees van Ommeren,Kees,1,1
 190,107,Attila Valter,27198,Jumbo-Visma,HUN,Kees van Ommeren,Kees,2,
 190,111,Bauke Mollema,5139,Lidl-Trek,NED,Roy Smits,Roy,2,
-190,114,Giulio Ciccone,21812,Lidl-Trek,ITA,Nick Veenstra,Nicky,4,
-190,115,Filippo Baroncini,29419,Lidl-Trek,ITA,-,-,-,
-190,116,Juan Pedro Lopez,27132,Lidl-Trek,ESP,Pieter-Bas de Bruijn,PB,1,
-190,117,Natnael Tesfazion,28234,Lidl-Trek,ERI,Kaspar Burghard,Kaspar,3,
+190,114,Giulio Ciccone,21812,Lidl-Trek,ITA,Nick Veenstra,Nicky,4,1
+190,115,Filippo Baroncini,29419,Lidl-Trek,ITA,-,-,-,1
+190,116,Juan Pedro Lopez,27132,Lidl-Trek,ESP,Pieter-Bas de Bruijn,PB,1,1
+190,117,Natnael Tesfazion,28234,Lidl-Trek,ERI,Kaspar Burghard,Kaspar,3,1
 190,121,Alex Aranburu,23940,Movistar Team,ESP,Jan Versluys,Jan,3,
 190,122,Enric Mas,22794,Movistar Team,ESP,Pieter-Bas de Bruijn,PB,17,
-190,124,Óscar Rodríguez,26216,Movistar Team,ESP,-,-,-,
-190,125,José Joaquin Rojas,3327,Movistar Team,ESP,-,-,-,
-190,126,Gonzalo Serrano,22669,Movistar Team,BEL,Arjan Knibbe,Arjan,2,
-190,127,Carlos Verona,17994,Movistar Team,ESP,-,-,-,
+190,124,Óscar Rodríguez,26216,Movistar Team,ESP,-,-,-,1
+190,125,José Joaquin Rojas,3327,Movistar Team,ESP,-,-,-,1
+190,126,Gonzalo Serrano,22669,Movistar Team,BEL,Arjan Knibbe,Arjan,2,1
+190,127,Carlos Verona,17994,Movistar Team,ESP,-,-,-,1
 190,131,Julian Alaphilippe,18610,Soudal Quick-Step,FRA,Arjan Knibbe,Arjan,40,
 190,132,Jan Hirt,17078,Soudal Quick-Step,CZE,Wijnand Baretta,Wijnand,1,
-190,133,James Knox,23403,Soudal Quick-Step,GBR,-,-,-,
+190,133,James Knox,23403,Soudal Quick-Step,GBR,-,-,-,1
 190,135,Mauri Vansevenant,28580,Soudal Quick-Step,BEL,Wijnand Baretta,Wijnand,2,
 190,136,Ilan Van Wilder,29828,Soudal Quick-Step,BEL,Wijnand Baretta,Wijnand,1,
 190,141,Warren Barguil,17627,Team Arkéa-Samsic,FRA,Nick Veenstra,Nicky,3,
@@ -161,37 +161,37 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 190,143,Clément Champoussin,27153,Team Arkéa-Samsic,FRA,Jan Versluys,Jan,1,
 190,145,Kévin Vauquelin,31264,Team Arkéa-Samsic,FRA,Albert Kraaij,Albert,2,
 190,151,Romain Bardet,13566,Team dsm-firmenich,FRA,Jan Versluys,Jan,6,
-190,152,Patrick Bevin,15791,Team dsm-firmenich,NZL,Jan Versluys,Jan,1,
+190,152,Patrick Bevin,15791,Team dsm-firmenich,NZL,Jan Versluys,Jan,1,1
 190,154,Chris Hamilton,23885,Team dsm-firmenich,AUS,-,-,-,
-190,157,Kevin Vermaerke,29332,Team dsm-firmenich,USA,-,-,-,
+190,157,Kevin Vermaerke,29332,Team dsm-firmenich,USA,-,-,-,1
 190,161,Simon Yates,17893,Team Jayco-AlUla,GBR,Pieter-Bas de Bruijn,PB,13,
-190,163,Kevin Colleoni,27766,Team Jayco-AlUla,ITA,-,-,-,
-190,164,Lucas Hamilton,25289,Team Jayco-AlUla,AUS,Albert Kraaij,Albert,1,
-190,165,Michael Matthews,13066,Team Jayco-AlUla,AUS,Bram van Ommeren,Bram,12,
-190,166,Matteo Sobrero,27033,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,
+190,163,Kevin Colleoni,27766,Team Jayco-AlUla,ITA,-,-,-,1
+190,164,Lucas Hamilton,25289,Team Jayco-AlUla,AUS,Albert Kraaij,Albert,1,1
+190,165,Michael Matthews,13066,Team Jayco-AlUla,AUS,Bram van Ommeren,Bram,12,1
+190,166,Matteo Sobrero,27033,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,1
 190,167,Filippo Zana,27749,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,
-190,171,Marco Tizza,19237,Bingoal WB,ITA,-,-,-,
+190,171,Marco Tizza,19237,Bingoal WB,ITA,-,-,-,1
 190,173,Alexis Guérin,20155,Bingoal WB,FRA,-,-,-,
 190,176,Lennert Teugels,27102,Bingoal WB,BEL,-,-,-,
-190,191,Lorenzo Fortunato,25552,EOLO-Kometa,ITA,-,-,-,
-190,192,Vincenzo Albanese,24139,EOLO-Kometa,ITA,Harry Koene,Harry,1,
+190,191,Lorenzo Fortunato,25552,EOLO-Kometa,ITA,-,-,-,1
+190,192,Vincenzo Albanese,24139,EOLO-Kometa,ITA,Harry Koene,Harry,1,1
 190,211,Jakob Fuglsang,3828,Israel-Premier Tech,DEN,Kees van Ommeren,Kees,1,
-190,212,Krists Neilands,21113,Israel-Premier Tech,LAT,-,-,-,
+190,212,Krists Neilands,21113,Israel-Premier Tech,LAT,-,-,-,1
 190,213,Domenico Pozzovivo,1999,Israel-Premier Tech,ITA,-,-,-,
 190,214,Nick Schultz,22744,Israel-Premier Tech,AUS,-,-,-,
-190,215,Dylan Teuns,17908,Israel-Premier Tech,BEL,Harry Koene,Harry,4,
+190,215,Dylan Teuns,17908,Israel-Premier Tech,BEL,Harry Koene,Harry,4,1
 190,217,Michael Woods,20257,Israel-Premier Tech,CAN,Albert Kraaij,Albert,2,
 190,221,Andreas Kron,26420,Lotto Dstny,DEN,Paul van Doorn,Paul,1,
-190,222,Sylvain Moniquet,26331,Lotto Dstny,BEL,-,-,-,
-190,223,Mathijs Paasschens,27103,Lotto Dstny,NED,-,-,-,
-190,224,Eduardo Sepulveda,18487,Lotto Dstny,ARG,-,-,-,
+190,222,Sylvain Moniquet,26331,Lotto Dstny,BEL,-,-,-,1
+190,223,Mathijs Paasschens,27103,Lotto Dstny,NED,-,-,-,1
+190,224,Eduardo Sepulveda,18487,Lotto Dstny,ARG,-,-,-,1
 190,225,Lennert Van Eetvelt,32225,Lotto Dstny,BEL,-,-,-,
 190,226,Maxim Van Gils,28521,Lotto Dstny,BEL,-,-,-,
-190,227,Harm Vanhoucke,25652,Lotto Dstny,BEL,-,-,-,
+190,227,Harm Vanhoucke,25652,Lotto Dstny,BEL,-,-,-,1
 190,233,Walter Calzoni,32557,Q36.5 Pro Cycling Team,ITA,-,-,-,
 190,241,Pierre Latour,20156,TotalEnergies,FRA,Kaspar Burghard,Kaspar,2,
-190,244,Valentin Ferron,28375,TotalEnergies,FRA,-,-,-,
-190,245,Paul Ourselin,23509,TotalEnergies,FRA,-,-,-,
+190,244,Valentin Ferron,28375,TotalEnergies,FRA,-,-,-,1
+190,245,Paul Ourselin,23509,TotalEnergies,FRA,-,-,-,1
 190,247,Alexis Vuillermoz,16979,TotalEnergies,FRA,-,-,-,
 16523,2,Dylan Groenewegen,19238,Team Jayco-AlUla,NED,Frank Rozemeijer,Frank,14,
 16523,4,Luka Mezgec,15789,Team Jayco-AlUla,SLO,-,-,-,
@@ -203,12 +203,16 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 16523,26,Lionel Taminiaux,23416,Alpecin-Deceuninck,BEL,-,-,-,
 16523,31,Gerben Thijssen,27085,Intermarché-Circus-Wanty,BEL,Albert Kraaij,Albert,1,
 16523,35,Baptiste Planckaert,10276,Intermarché-Circus-Wanty,BEL,-,-,-,
-16523,36,Taco van der Hoorn,19897,Intermarché-Circus-Wanty,NED,Nick Veenstra,Nicky,1,
 16523,41,Sam Welsford,23517,Team dsm-firmenich,AUS,Pieter-Bas de Bruijn,PB,1,
 16523,42,Alberto Dainese,26965,Team dsm-firmenich,ITA,Frank Vellinga,Vel,3,
 16523,55,Mark Stewart,23644,Bolton Equities Black Spoke,GBR,-,-,-,
 16523,56,Rory Townsend,25102,Bolton Equities Black Spoke,IRL,-,-,-,
 16523,61,Matteo Moschetti,27126,Q36.5 Pro Cycling Team,ITA,-,-,-,
+674,2,Yevgeniy Fedorov,29309,Kazakhstan,KAZ,Pieter-Bas de Bruijn,PB,1,
+674,4,Alexey Lutsenko,18455,Kazakhstan,KAZ,Frank Vellinga,Vel,6,
+674,6,Tegshbayar Batsaikhan,27699,Mongolia,MGL,-,-,-,
+674,8,Jambaljamts Sainbayar,24289,Mongolia,MGL,-,-,-,
+61,,Patrick Bevin,15791,Team dsm-firmenich,NZL,Jan Versluys,Jan,1,
 157,1,Søren Kragh Andersen,20793,Alpecin-Deceuninck,DEN,Frank Vellinga,Vel,2,
 157,3,Dries De Bondt,22005,Alpecin-Deceuninck,BEL,-,-,-,
 157,11,Lewis Askey,30685,Groupama-FDJ,GBR,-,-,-,
@@ -258,3 +262,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 139,,Jakub Kaczmarek,20566,HRE Mazowsze Serce Polski,POL,-,-,-,
 139,,Itamar Einhorn,27315,Israel-Premier Tech,ISR,-,-,-,
 139,,Jeroen Meijers,21376,Terengganu Polygon CT,NED,-,-,-,
+24,,Romain Bardet,13566,Team dsm-firmenich,FRA,Jan Versluys,Jan,6,
+24,,Chris Hamilton,23885,Team dsm-firmenich,AUS,-,-,-,
+24,,Oscar Onley,31724,Team dsm-firmenich,GBR,-,-,-,
+24,,Kevin Vermaerke,29332,Team dsm-firmenich,USA,-,-,-,
