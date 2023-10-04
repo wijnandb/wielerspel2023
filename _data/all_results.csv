@@ -1,4 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.1,BetCity Elfstedenrace (prov.),42269,PHILIPSEN Jasper,26392,0.0,0,2023-10-04
+2,1.1,BetCity Elfstedenrace (prov.),42269,KOOIJ Olav,30643,0.0,0,2023-10-04
+3,1.1,BetCity Elfstedenrace (prov.),42269,BOMBOI Davide,30543,0.0,0,2023-10-04
+1,1.PS,Münsterland Giro,42263,HAGENES Per Strand,30442,0.0,0,2023-10-03
+2,1.PS,Münsterland Giro,42263,GROVES Kaden,26637,0.0,0,2023-10-03
+3,1.PS,Münsterland Giro,42263,PEDERSEN Mads,21992,0.0,0,2023-10-03
+4,1.PS,Münsterland Giro,42263,EEKHOFF Nils,26429,0.0,0,2023-10-03
+5,1.PS,Münsterland Giro,42263,LAPORTE Christophe,19953,0.0,0,2023-10-03
+6,1.PS,Münsterland Giro,42263,VAN POPPEL Danny,19242,0.0,0,2023-10-03
+7,1.PS,Münsterland Giro,42263,WAERENSKJOLD Søren,29187,0.0,0,2023-10-03
+8,1.PS,Münsterland Giro,42263,AFFINI Edoardo,24794,0.0,0,2023-10-03
+9,1.PS,Münsterland Giro,42263,PLANCKAERT Edward,24308,0.0,0,2023-10-03
+10,1.PS,Münsterland Giro,42263,KOCH Jonas,19616,0.0,0,2023-10-03
 1,1.PS,Tre Valli Varesine (prov.),42262,VAN WILDER Ilan,29828,0.0,0,2023-10-03
 2,1.PS,Tre Valli Varesine (prov.),42262,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2023-10-03
 3,1.PS,Tre Valli Varesine (prov.),42262,VLASOV Aleksandr,24316,0.0,0,2023-10-03
@@ -9,19 +22,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Tre Valli Varesine (prov.),42262,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2023-10-03
 9,1.PS,Tre Valli Varesine (prov.),42262,RODRIGUEZ CANO Carlos,30836,0.0,0,2023-10-03
 10,1.PS,Tre Valli Varesine (prov.),42262,O'CONNOR Ben,23763,0.0,0,2023-10-03
-1,1.PS,Münsterland Giro (prov.),42263,HAGENES Per Strand,30442,0.0,0,2023-10-03
-2,1.PS,Münsterland Giro (prov.),42263,GROVES Kaden,26637,0.0,0,2023-10-03
-3,1.PS,Münsterland Giro (prov.),42263,PEDERSEN Mads,21992,0.0,0,2023-10-03
-4,1.PS,Münsterland Giro (prov.),42263,EEKHOFF Nils,26429,0.0,0,2023-10-03
-5,1.PS,Münsterland Giro (prov.),42263,LAPORTE Christophe,19953,0.0,0,2023-10-03
-6,1.PS,Münsterland Giro (prov.),42263,VAN POPPEL Danny,19242,0.0,0,2023-10-03
-7,1.PS,Münsterland Giro (prov.),42263,WAERENSKJOLD Søren,29187,0.0,0,2023-10-03
-8,1.PS,Münsterland Giro (prov.),42263,AFFINI Edoardo,24794,0.0,0,2023-10-03
-9,1.PS,Münsterland Giro (prov.),42263,PLANCKAERT Edward,24308,0.0,0,2023-10-03
-10,1.PS,Münsterland Giro (prov.),42263,KOCH Jonas,19616,0.0,0,2023-10-03
-1,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),42259,MOZZATO Luca,28037,0.0,0,2023-10-03
-2,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),42259,THEUNS Edward,16697,0.0,0,2023-10-03
-3,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),42259,KRAGH ANDERSEN Søren,20793,0.0,0,2023-10-03
+1,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,42259,MOZZATO Luca,28037,0.0,0,2023-10-03
+2,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,42259,THEUNS Edward,16697,0.0,0,2023-10-03
+3,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,42259,KRAGH ANDERSEN Søren,20793,0.0,0,2023-10-03
 1,1.PS,Coppa Bernocchi,42261,VAN AERT Wout,20730,0.0,0,2023-10-02
 2,1.PS,Coppa Bernocchi,42261,ALBANESE Vincenzo,24139,0.0,0,2023-10-02
 3,1.PS,Coppa Bernocchi,42261,BAGIOLI Andrea,28452,0.0,0,2023-10-02
