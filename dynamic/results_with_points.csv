@@ -1,4 +1,71 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.PS,Tre Valli Varesine (prov.),42262,VAN WILDER Ilan,29828,4,50,2023-10-03,Wijnand
+2,1.PS,Tre Valli Varesine (prov.),42262,CARAPAZ MONTENEGRO Richard Antonio,21342,1,35,2023-10-03,Wijnand
+3,1.PS,Tre Valli Varesine (prov.),42262,VLASOV Aleksandr,24316,0.5,25,2023-10-03,Harry
+4,1.PS,Tre Valli Varesine (prov.),42262,ROGLIC Primoz,20719,0,20,2023-10-03,Bram
+5,1.PS,Tre Valli Varesine (prov.),42262,POGACAR Tadej,26526,0,18,2023-10-03,Kees
+6,1.PS,Tre Valli Varesine (prov.),42262,WOODS Michael,20257,0,16,2023-10-03,Albert
+7,1.PS,Tre Valli Varesine (prov.),42262,ZANA Filippo,27749,0,14,2023-10-03,Vel
+8,1.PS,Tre Valli Varesine (prov.),42262,IZAGIRRE INSAUSTI Ion,14321,0,12,2023-10-03,Harry
+9,1.PS,Tre Valli Varesine (prov.),42262,RODRIGUEZ CANO Carlos,30836,0,10,2023-10-03,Roy
+10,1.PS,Tre Valli Varesine (prov.),42262,O'CONNOR Ben,23763,0,8,2023-10-03,Harry
+1,1.PS,Münsterland Giro (prov.),42263,HAGENES Per Strand,30442,4,50,2023-10-03,-
+2,1.PS,Münsterland Giro (prov.),42263,GROVES Kaden,26637,1,35,2023-10-03,Vel
+3,1.PS,Münsterland Giro (prov.),42263,PEDERSEN Mads,21992,0.5,25,2023-10-03,Harry
+4,1.PS,Münsterland Giro (prov.),42263,EEKHOFF Nils,26429,0,20,2023-10-03,-
+5,1.PS,Münsterland Giro (prov.),42263,LAPORTE Christophe,19953,0,18,2023-10-03,Kaspar
+6,1.PS,Münsterland Giro (prov.),42263,VAN POPPEL Danny,19242,0,16,2023-10-03,Jan
+7,1.PS,Münsterland Giro (prov.),42263,WAERENSKJOLD Søren,29187,0,14,2023-10-03,-
+8,1.PS,Münsterland Giro (prov.),42263,AFFINI Edoardo,24794,0,12,2023-10-03,Paul
+9,1.PS,Münsterland Giro (prov.),42263,PLANCKAERT Edward,24308,0,10,2023-10-03,-
+10,1.PS,Münsterland Giro (prov.),42263,KOCH Jonas,19616,0,8,2023-10-03,-
+1,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),42259,MOZZATO Luca,28037,2,0,2023-10-03,Nicky
+2,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),42259,THEUNS Edward,16697,0.3,0,2023-10-03,Harry
+3,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke (prov.),42259,KRAGH ANDERSEN Søren,20793,0.1,0,2023-10-03,Vel
+1,1.PS,Coppa Bernocchi,42261,VAN AERT Wout,20730,4,50,2023-10-02,Frank
+2,1.PS,Coppa Bernocchi,42261,ALBANESE Vincenzo,24139,1,35,2023-10-02,Harry
+3,1.PS,Coppa Bernocchi,42261,BAGIOLI Andrea,28452,0.5,25,2023-10-02,Albert
+4,1.PS,Coppa Bernocchi,42261,HIRSCHI Marc,26509,0,20,2023-10-02,Bram
+5,1.PS,Coppa Bernocchi,42261,MASNADA Fausto,20535,0,18,2023-10-02,Paul
+6,1.PS,Coppa Bernocchi,42261,BENOOT Tiesj,21244,0,16,2023-10-02,Paul
+7,1.PS,Coppa Bernocchi,42261,SCARONI Christian,27002,0,14,2023-10-02,-
+8,1.PS,Coppa Bernocchi,42261,ALAPHILIPPE Julian,18610,0,12,2023-10-02,Arjan
+9,1.PS,Coppa Bernocchi,42261,TRATNIK Jan,12748,0,10,2023-10-02,Kees
+10,1.PS,Coppa Bernocchi,42261,IZAGIRRE INSAUSTI Ion,14321,0,8,2023-10-02,Harry
+1,2.1,"Cro Race, General classification",42242,AULAR SANABRIA Orluis Alberto,24326,2,0,2023-10-01,PB
+2,2.1,"Cro Race, General classification",42242,KRISTOFF Alexander,4179,0.3,0,2023-10-01,Nicky
+3,2.1,"Cro Race, General classification",42242,HAYTER Ethan,27025,0.1,0,2023-10-01,Jan
+1,1.1,Famenne Ardenne Classic,42260,DE LIE Arnaud,32221,2,0,2023-10-01,Wijnand
+2,1.1,Famenne Ardenne Classic,42260,GROVES Kaden,26637,0.3,0,2023-10-01,Vel
+3,1.1,Famenne Ardenne Classic,42260,SENECHAL Florian,19903,0.1,0,2023-10-01,Wijnand
+1,1.1,Tour de Vendée,42159,DEMARE Arnaud,16653,2,0,2023-10-01,Wijnand
+2,1.1,Tour de Vendée,42159,PENHOËT Paul,30686,0.3,0,2023-10-01,-
+3,1.1,Tour de Vendée,42159,DUJARDIN Sandy,28583,0.1,0,2023-10-01,-
+1,2.1s,"Cro Race, Stage 6 : Samobor - Zagreb",42241,STEWART Campbell,27557,0.2,0,2023-10-01,-
+1,NCT3,National Championships Switzerland (Gansingen) I.T.T.,42108,BISSEGGER Stefan,26376,1,0,2023-10-01,Bram
+1,2.PS,"Tour de Langkawi, General classification",42298,CARR Simon,30010,4,50,2023-09-30,-
+2,2.PS,"Tour de Langkawi, General classification",42298,CEPEDA ORTIZ Jefferson Alexander,26775,1,35,2023-09-30,-
+3,2.PS,"Tour de Langkawi, General classification",42298,CASTRILLO ZAPATER Pablo,34135,0.5,25,2023-09-30,-
+4,2.PS,"Tour de Langkawi, General classification",42298,BOU COMPANY Joan,27598,0,20,2023-09-30,-
+5,2.PS,"Tour de Langkawi, General classification",42298,PRONSKIY Vadim,26676,0,18,2023-09-30,-
+6,2.PS,"Tour de Langkawi, General classification",42298,DOUBLE Paul,27721,0,16,2023-09-30,-
+7,2.PS,"Tour de Langkawi, General classification",42298,VAN ENGELEN Adne,24796,0,14,2023-09-30,-
+8,2.PS,"Tour de Langkawi, General classification",42298,AGIRRE EGAÑA Jon,30023,0,12,2023-09-30,-
+9,2.PS,"Tour de Langkawi, General classification",42298,MURGUIALDAY ELORZA Jokin,31268,0,10,2023-09-30,-
+10,2.PS,"Tour de Langkawi, General classification",42298,LOPEZ GRANIZO Harold Martin,29525,0,8,2023-09-30,-
+1,1.PS,Giro dell'Emilia,42128,ROGLIC Primoz,20719,4,50,2023-09-30,Bram
+2,1.PS,Giro dell'Emilia,42128,POGACAR Tadej,26526,1,35,2023-09-30,Kees
+3,1.PS,Giro dell'Emilia,42128,YATES Simon,17893,0.5,25,2023-09-30,PB
+4,1.PS,Giro dell'Emilia,42128,MAS NICOLAU Enric,22794,0,20,2023-09-30,PB
+5,1.PS,Giro dell'Emilia,42128,WOODS Michael,20257,0,18,2023-09-30,Albert
+6,1.PS,Giro dell'Emilia,42128,VLASOV Aleksandr,24316,0,16,2023-09-30,Harry
+7,1.PS,Giro dell'Emilia,42128,CARAPAZ MONTENEGRO Richard Antonio,21342,0,14,2023-09-30,Wijnand
+8,1.PS,Giro dell'Emilia,42128,CICCONE Giulio,21812,0,12,2023-09-30,Nicky
+9,1.PS,Giro dell'Emilia,42128,YATES Adam,18975,0,10,2023-09-30,Paul
+10,1.PS,Giro dell'Emilia,42128,BARGUIL Warren,17627,0,8,2023-09-30,Nicky
+1,2.PSs,"Tour de Langkawi, Stage 8 : Setia Alam - Kuala Lumpur",42297,SYRITSA Gleb,29927,0.3,0,2023-09-30,-
+1,2.PSs,"Tour de Langkawi, Stage 4 : Bukit Mertajam - Meru Raya (prov.)",42293,BABOR Daniel,27937,0.3,0,2023-09-26,-
+1,2.1s,"Cro Race, Stage 1 : Primosten - Sinj (prov.)",42236,VIVIANI Elia,13240,0.2,0,2023-09-26,Paul
 1,2.PSs,"Tour de Langkawi, Stage 3 : Jeli - Baling (prov.)",42292,JACKSON George,31889,0.3,0,2023-09-25,-
 1,2.PS,"Tour de Luxembourg, General classification",42217,HIRSCHI Marc,26509,4,50,2023-09-24,Bram
 2,2.PS,"Tour de Luxembourg, General classification",42217,MCNULTY Brandon,26508,1,35,2023-09-24,Kees
@@ -298,18 +365,18 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 -2,GT2s,"Puntentrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Kron Andreas,26420,0.2,0,2023-08-27,Paul
 -3,GT2s,"Bergtrui na Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,Sobrero Matteo,27033,0.2,0,2023-08-27,Vel
 1,GT2s,"Vuelta a España, Stage 2 : Mataro - Barcelona (prov.)",42060,KRON Andreas Lorentz,26420,2,0,2023-08-27,Paul
-1,2.WT2,"Renewi Tour, General classification",42045,WELLENS Tim,16722,5,50,2023-08-27,Albert
-2,2.WT2,"Renewi Tour, General classification",42045,VERMEERSCH Florian,28127,2,35,2023-08-27,Albert
-3,2.WT2,"Renewi Tour, General classification",42045,LAMPAERT Yves,19941,0.5,25,2023-08-27,Harry
-4,2.WT2,"Renewi Tour, General classification",42045,STUYVEN Jasper,18233,0,20,2023-08-27,PB
-5,2.WT2,"Renewi Tour, General classification",42045,TEUNISSEN Mike,19165,0,18,2023-08-27,Albert
-6,2.WT2,"Renewi Tour, General classification",42045,HIRSCHI Marc,26509,0,16,2023-08-27,Bram
-7,2.WT2,"Renewi Tour, General classification",42045,MOHORIC Matej,21145,0,14,2023-08-27,Frank
-8,2.WT2,"Renewi Tour, General classification",42045,ZINGLE Axel,31263,0,12,2023-08-27,Paul
-9,2.WT2,"Renewi Tour, General classification",42045,TRENTIN Matteo,13270,0,10,2023-08-27,Nicky
-10,2.WT2,"Renewi Tour, General classification",42045,KRAGH ANDERSEN Søren,20793,0,8,2023-08-27,Vel
-1,2.WT2s,"Renewi Tour, Stage 5 : Riemst - Bilzen",42044,MOHORIC Matej,21145,0.5,0,2023-08-27,Frank
-1,2.WT2r,"Renewi Tour, Points classification",42046,DE LIE Arnaud,32221,0.0,0,2023-08-27,Wijnand
+1,2.WT1,"Renewi Tour, General classification",42045,WELLENS Tim,16722,10,50,2023-08-27,Albert
+2,2.WT1,"Renewi Tour, General classification",42045,VERMEERSCH Florian,28127,3,35,2023-08-27,Albert
+3,2.WT1,"Renewi Tour, General classification",42045,LAMPAERT Yves,19941,1,25,2023-08-27,Harry
+4,2.WT1,"Renewi Tour, General classification",42045,STUYVEN Jasper,18233,0.5,20,2023-08-27,PB
+5,2.WT1,"Renewi Tour, General classification",42045,TEUNISSEN Mike,19165,0.2,18,2023-08-27,Albert
+6,2.WT1,"Renewi Tour, General classification",42045,HIRSCHI Marc,26509,0,16,2023-08-27,Bram
+7,2.WT1,"Renewi Tour, General classification",42045,MOHORIC Matej,21145,0,14,2023-08-27,Frank
+8,2.WT1,"Renewi Tour, General classification",42045,ZINGLE Axel,31263,0,12,2023-08-27,Paul
+9,2.WT1,"Renewi Tour, General classification",42045,TRENTIN Matteo,13270,0,10,2023-08-27,Nicky
+10,2.WT1,"Renewi Tour, General classification",42045,KRAGH ANDERSEN Søren,20793,0,8,2023-08-27,Vel
+1,2.WT1s,"Renewi Tour, Stage 5 : Riemst - Bilzen",42044,MOHORIC Matej,21145,1,0,2023-08-27,Frank
+1,2.WT1r,"Renewi Tour, Points classification",42046,DE LIE Arnaud,32221,0.0,0,2023-08-27,Wijnand
 1,2.PS,"Deutschland Tour, General classification",42039,VAN WILDER Ilan,29828,4,50,2023-08-27,Wijnand
 2,2.PS,"Deutschland Tour, General classification",42039,GROSSSCHARTNER Felix,19548,1,35,2023-08-27,Albert
 3,2.PS,"Deutschland Tour, General classification",42039,VAN POPPEL Danny,19242,0.5,25,2023-08-27,Jan
@@ -335,24 +402,24 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.NCs,"Tour de l'Avenir, Stage 8 : Val-Cenis - Sainte Foy Tarentaise",42025,PELLIZZARI Giulio,33100,0.0,0,2023-08-27,-
 -4,GT2s,"Leiderstrui na Vuelta a España, Stage 1 : Barcelona - Barcelona T.T.T. (prov.)",42059,Milesi Lorenzo,31752,1,0,2023-08-26,-
 -1,GT2s,"Jongerentrui na Vuelta a España, Stage 1 : Barcelona - Barcelona T.T.T. (prov.)",42059,Milesi Lorenzo,31752,0.1,0,2023-08-26,-
-1,2.WT2s,"Renewi Tour, Stage 4 : Beringen - Peer",42043,WELSFORD Samuel,23517,0.5,0,2023-08-26,PB
+1,2.WT1s,"Renewi Tour, Stage 4 : Beringen - Peer",42043,WELSFORD Samuel,23517,1,0,2023-08-26,PB
 1,2.PSs,"Deutschland Tour, Stage 3 : Arnsberg - Essen",42037,MIHKELS Madis,32946,0.3,0,2023-08-26,Albert
 1,2.NCs,"Tour de l'Avenir, Stage 7b : Les Karellis - Col du Mont Cenis",42024,RYAN Archie,30565,0.0,0,2023-08-26,-
 1,2.NCs,"Tour de l'Avenir, Stage 7a : Montricher-Albanne - Les Karellis I.T.T.",42023,RICCITELLO Matthew,31559,0.0,0,2023-08-26,-
-1,2.WT2s,"Renewi Tour, Stage 3 : Aalter - Geraardsbergen (prov.)",42042,TEUNISSEN Mike,19165,0.5,0,2023-08-25,Albert
+1,2.WT1s,"Renewi Tour, Stage 3 : Aalter - Geraardsbergen (prov.)",42042,TEUNISSEN Mike,19165,1,0,2023-08-25,Albert
 1,2.PSs,"Deutschland Tour, Stage 2 : Kassel - Winterberg (prov.)",42036,MÜHLBERGER Gregor,21128,0.3,0,2023-08-25,-
 1,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification",42033,WAERENSKJOLD Søren,29187,2,0,2023-08-25,-
 2,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification",42033,ARMIRAIL Bruno,22906,0.3,0,2023-08-25,-
 3,2.1,"Tour Poitou-Charentes en Nouvelle Aquitaine, General classification",42033,MAESTRI Mirco,20073,0.1,0,2023-08-25,-
 1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 4 : Moncoutant - Poitiers",42032,SARREAU Marc,21267,0.2,0,2023-08-25,Roy
 1,2.NCs,"Tour de l'Avenir, Stage 6 : Méribel - Col de la Loze (prov.)",42022,DEL TORO ROMERO Isaac,33556,0.0,0,2023-08-25,-
-1,2.WT2s,"Renewi Tour, Stage 2 : Sluis - Sluis I.T.T. (prov.)",42041,TARLING Joshua,34297,0.5,0,2023-08-24,-
+1,2.WT1s,"Renewi Tour, Stage 2 : Sluis - Sluis I.T.T. (prov.)",42041,TARLING Joshua,34297,1,0,2023-08-24,-
 1,2.PSs,"Deutschland Tour, Stage 1 : St. Wendel - Merzig (prov.)",42035,VAN WILDER Ilan,29828,0.3,0,2023-08-24,Wijnand
 1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 3b : La Roche-Posay - La Roche-Posay I.T.T.",42031,ARMIRAIL Bruno,22906,0.2,0,2023-08-24,-
 1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 3a : Coussay-les-Bois - La Roche-Posay",42030,RIVI Samuele,28522,0.2,0,2023-08-24,-
 1,2.NCs,"Tour de l'Avenir, Stage 5 : La Tour-de-Salvagny - Lac d'Aiguebelette (prov.)",42021,ROMEO ABAD Ivan,32764,0.0,0,2023-08-24,-
 1,NC5,National Championships Indonesia (Lubuk Linggau) R.R. (prov.),41742,KUSUMA Terry Yudha,33545,1,0,2023-08-24,-
-1,2.WT2s,"Renewi Tour, Stage 1 : Blankenberge - Ardooie (prov.)",42040,PHILIPSEN Jasper,26392,0.5,0,2023-08-23,Nicky
+1,2.WT1s,"Renewi Tour, Stage 1 : Blankenberge - Ardooie (prov.)",42040,PHILIPSEN Jasper,26392,1,0,2023-08-23,Nicky
 1,2.PSs,"Deutschland Tour, Prologue : St. Wendel I.T.T. (prov.)",42034,VERNON Ethan,30035,0.3,0,2023-08-23,Arjan
 1,2.1s,"Tour Poitou-Charentes en Nouvelle Aquitaine, Stage 2 : Aulnay de Saintonge - Bressuire",42029,PENHOËT Paul,30686,0.2,0,2023-08-23,-
 1,2.NCs,"Tour de l'Avenir, Stage 4 : Aigurande - Evaux-les-Bains (prov.)",42020,CHRISTEN Fabio,31719,0.0,0,2023-08-23,-
@@ -500,8 +567,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.WT1,"Tour de Pologne, General classification",41891,BATTISTELLA Samuele,28450,0,10,2023-08-04,Vel
 10,2.WT1,"Tour de Pologne, General classification",41891,ONLEY Oscar,31724,0,8,2023-08-04,-
 1,2.WT1s,"Tour de Pologne, Stage 7 : Zabrze - Krakow",41890,MERLIER Tim,17988,1,0,2023-08-04,Wijnand
-1,2.WT2r,"Tour de Pologne, Points classification",41892,MOHORIC Matej,21145,0.0,0,2023-08-04,Frank
-1,2.WT2r,"Tour de Pologne, Mountains classification",41893,HOELGAARD Markus,20760,0.0,0,2023-08-04,-
+1,2.WT1r,"Tour de Pologne, Points classification",41892,MOHORIC Matej,21145,0.0,0,2023-08-04,Frank
+1,2.WT1r,"Tour de Pologne, Mountains classification",41893,HOELGAARD Markus,20760,0.0,0,2023-08-04,-
 1,2.WT1s,"Tour de Pologne, Stage 6 : Katowice - Katowice I.T.T.",41889,CATTANEO Mattia,16936,1,0,2023-08-03,Albert
 1,2.WT1s,"Tour de Pologne, Stage 5 : Pszczyna - Bielsko Biala",41888,VAN DEN BERG Marijn,27674,1,0,2023-08-02,-
 1,2.1,"Tour de lAin, General classification",41954,STORER Michael,25335,2,0,2023-08-02,Vel
@@ -1557,8 +1624,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.WT1,"Itzulia Basque Country, General classification",41210,YATES Simon,17893,0,10,2023-04-08,PB
 10,2.WT1,"Itzulia Basque Country, General classification",41210,GALL Felix,26383,0,8,2023-04-08,-
 1,2.WT1s,"Itzulia Basque Country, Stage 6 : Eibar - Eibar",41209,VINGEGAARD RASMUSSEN Jonas,25740,1,0,2023-04-08,Arjan
-1,2.WT2r,"Itzulia Basque Country, Mountains classification",41212,BARRENETXEA GOLZARRI Jon,31685,0.0,0,2023-04-08,-
-1,2.WT2r,"Itzulia Basque Country, Points classification",41211,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0,2023-04-08,Arjan
+1,2.WT1r,"Itzulia Basque Country, Mountains classification",41212,BARRENETXEA GOLZARRI Jon,31685,0.0,0,2023-04-08,-
+1,2.WT1r,"Itzulia Basque Country, Points classification",41211,VINGEGAARD RASMUSSEN Jonas,25740,0.0,0,2023-04-08,Arjan
 1,2.WT1s,"Itzulia Basque Country, Stage 5 : Amorebieta - Amorebieta",41208,HIGUITA GARCIA Sergio Andres,25026,1,0,2023-04-07,Kaspar
 1,2.1,"Région Pays de la Loire Tour, General classification",41217,KAMP Alexander,19391,2,0,2023-04-07,-
 2,2.1,"Région Pays de la Loire Tour, General classification",41217,DVERSNES Fredrik,28553,0.3,0,2023-04-07,-
@@ -1658,8 +1725,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,1.WT2,Gent - Wevelgem,41062,VAN POPPEL Danny,19242,0,10,2023-03-26,Jan
 10,1.WT2,Gent - Wevelgem,41062,MCLAY Daniel,18498,0,8,2023-03-26,-
 1,2.WT1s,"Volta a Catalunya, Stage 7 : Barcelona - Barcelona",41140,EVENEPOEL Remco,28377,1,0,2023-03-26,Roy
-1,2.WT2r,"Volta a Catalunya, Points classification",41142,ROGLIC Primoz,20719,0.0,0,2023-03-26,Bram
-1,2.WT2r,"Volta a Catalunya, Mountains classification",41143,EVENEPOEL Remco,28377,0.0,0,2023-03-26,Roy
+1,2.WT1r,"Volta a Catalunya, Points classification",41142,ROGLIC Primoz,20719,0.0,0,2023-03-26,Bram
+1,2.WT1r,"Volta a Catalunya, Mountains classification",41143,EVENEPOEL Remco,28377,0.0,0,2023-03-26,Roy
 1,1.PS,GP Industria & Artigianato - Larciano,41065,HEALY Ben,28846,4,50,2023-03-26,-
 2,1.PS,GP Industria & Artigianato - Larciano,41065,GEBREIGZABHIER Amanuel Werkilul,21482,1,35,2023-03-26,-
 3,1.PS,GP Industria & Artigianato - Larciano,41065,STEWART Mark,23644,0.5,25,2023-03-26,-
