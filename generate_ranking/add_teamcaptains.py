@@ -43,6 +43,8 @@ def add_teamcaptain(infile, outfile=None):
                 break
 
     process_files.write_csv_file(infile, results)
+    # also store the file in the dynamic folder so Javascript can access it
+    process_files.write_csv_file(infile, results, "dynamic/")
 
 
 def add_teamcaptain_to_startlist(rider_id):
