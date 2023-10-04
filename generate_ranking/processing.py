@@ -68,6 +68,8 @@ def add_up_points_per_rider():
     # store the riders with points in a CSV
     # or progress to the next step, adding up points per teamcaptain
     process_files.write_csv_file("riders_with_points.csv", riders)
+    # also store the file in the dynamic folder so Javascript can access it
+    process_files.write_csv_file("riders_with_points.csv", riders,"dynamic/")
     add_up_points_per_teamcaptain(riders)
 
 
