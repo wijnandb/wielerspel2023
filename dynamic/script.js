@@ -1,5 +1,5 @@
 let results = [];
-const csvUrl = '../data/results_with_points.csv';
+const csvUrl = 'results_with_points.csv';
 
 // Fetch and parse the CSV file from a given URL
 fetch(csvUrl)
