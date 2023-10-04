@@ -1,7 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,1.1,BetCity Elfstedenrace (prov.),42269,PHILIPSEN Jasper,26392,0.0,0,2023-10-04
-2,1.1,BetCity Elfstedenrace (prov.),42269,KOOIJ Olav,30643,0.0,0,2023-10-04
-3,1.1,BetCity Elfstedenrace (prov.),42269,BOMBOI Davide,30543,0.0,0,2023-10-04
+1,1.1,BetCity Elfstedenrace,42269,PHILIPSEN Jasper,26392,0.0,0,2023-10-04
+2,1.1,BetCity Elfstedenrace,42269,KOOIJ Olav,30643,0.0,0,2023-10-04
+3,1.1,BetCity Elfstedenrace,42269,BOMBOI Davide,30543,0.0,0,2023-10-04
+1,1.PS,Tre Valli Varesine,42262,VAN WILDER Ilan,29828,0.0,0,2023-10-03
+2,1.PS,Tre Valli Varesine,42262,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2023-10-03
+3,1.PS,Tre Valli Varesine,42262,VLASOV Aleksandr,24316,0.0,0,2023-10-03
+4,1.PS,Tre Valli Varesine,42262,ROGLIC Primoz,20719,0.0,0,2023-10-03
+5,1.PS,Tre Valli Varesine,42262,POGACAR Tadej,26526,0.0,0,2023-10-03
+6,1.PS,Tre Valli Varesine,42262,WOODS Michael,20257,0.0,0,2023-10-03
+7,1.PS,Tre Valli Varesine,42262,ZANA Filippo,27749,0.0,0,2023-10-03
+8,1.PS,Tre Valli Varesine,42262,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2023-10-03
+9,1.PS,Tre Valli Varesine,42262,RODRIGUEZ CANO Carlos,30836,0.0,0,2023-10-03
+10,1.PS,Tre Valli Varesine,42262,O'CONNOR Ben,23763,0.0,0,2023-10-03
 1,1.PS,Münsterland Giro,42263,HAGENES Per Strand,30442,0.0,0,2023-10-03
 2,1.PS,Münsterland Giro,42263,GROVES Kaden,26637,0.0,0,2023-10-03
 3,1.PS,Münsterland Giro,42263,PEDERSEN Mads,21992,0.0,0,2023-10-03
@@ -12,16 +22,6 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 8,1.PS,Münsterland Giro,42263,AFFINI Edoardo,24794,0.0,0,2023-10-03
 9,1.PS,Münsterland Giro,42263,PLANCKAERT Edward,24308,0.0,0,2023-10-03
 10,1.PS,Münsterland Giro,42263,KOCH Jonas,19616,0.0,0,2023-10-03
-1,1.PS,Tre Valli Varesine (prov.),42262,VAN WILDER Ilan,29828,0.0,0,2023-10-03
-2,1.PS,Tre Valli Varesine (prov.),42262,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2023-10-03
-3,1.PS,Tre Valli Varesine (prov.),42262,VLASOV Aleksandr,24316,0.0,0,2023-10-03
-4,1.PS,Tre Valli Varesine (prov.),42262,ROGLIC Primoz,20719,0.0,0,2023-10-03
-5,1.PS,Tre Valli Varesine (prov.),42262,POGACAR Tadej,26526,0.0,0,2023-10-03
-6,1.PS,Tre Valli Varesine (prov.),42262,WOODS Michael,20257,0.0,0,2023-10-03
-7,1.PS,Tre Valli Varesine (prov.),42262,ZANA Filippo,27749,0.0,0,2023-10-03
-8,1.PS,Tre Valli Varesine (prov.),42262,IZAGIRRE INSAUSTI Ion,14321,0.0,0,2023-10-03
-9,1.PS,Tre Valli Varesine (prov.),42262,RODRIGUEZ CANO Carlos,30836,0.0,0,2023-10-03
-10,1.PS,Tre Valli Varesine (prov.),42262,O'CONNOR Ben,23763,0.0,0,2023-10-03
 1,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,42259,MOZZATO Luca,28037,0.0,0,2023-10-03
 2,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,42259,THEUNS Edward,16697,0.0,0,2023-10-03
 3,1.1,Binche - Chimay - Binche / Mémorial Frank Vandenbroucke,42259,KRAGH ANDERSEN Søren,20793,0.0,0,2023-10-03
@@ -46,13 +46,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 3,1.1,Tour de Vendée,42159,DUJARDIN Sandy,28583,0.0,0,2023-10-01
 1,2.1s,"Cro Race, Stage 6 : Samobor - Zagreb",42241,STEWART Campbell,27557,0.0,0,2023-10-01
 1,NCT3,National Championships Switzerland (Gansingen) I.T.T.,42108,BISSEGGER Stefan,26376,0.0,0,2023-10-01
-1,2.PS,"Tour de Langkawi, General classification",42298,CARR Simon,30010,0.0,0,2023-09-30
-2,2.PS,"Tour de Langkawi, General classification",42298,CEPEDA ORTIZ Jefferson Alexander,26775,0.0,0,2023-09-30
-3,2.PS,"Tour de Langkawi, General classification",42298,CASTRILLO ZAPATER Pablo,34135,0.0,0,2023-09-30
-4,2.PS,"Tour de Langkawi, General classification",42298,BOU COMPANY Joan,27598,0.0,0,2023-09-30
-5,2.PS,"Tour de Langkawi, General classification",42298,PRONSKIY Vadim,26676,0.0,0,2023-09-30
-6,2.PS,"Tour de Langkawi, General classification",42298,DOUBLE Paul,27721,0.0,0,2023-09-30
-7,2.PS,"Tour de Langkawi, General classification",42298,VAN ENGELEN Adne,24796,0.0,0,2023-09-30
-8,2.PS,"Tour de Langkawi, General classification",42298,AGIRRE EGAÑA Jon,30023,0.0,0,2023-09-30
-9,2.PS,"Tour de Langkawi, General classification",42298,MURGUIALDAY ELORZA Jokin,31268,0.0,0,2023-09-30
-10,2.PS,"Tour de Langkawi, General classification",42298,LOPEZ GRANIZO Harold Martin,29525,0.0,0,2023-09-30
