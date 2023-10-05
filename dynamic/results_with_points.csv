@@ -1,18 +1,18 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.PS,Gran Piemonte (prov.),42272,BAGIOLI Andrea,28452,4,50,2023-10-05,Albert
-2,1.PS,Gran Piemonte (prov.),42272,HIRSCHI Marc,26509,1,35,2023-10-05,Bram
-3,1.PS,Gran Piemonte (prov.),42272,ARANBURU DEBA Alexander,23940,0.5,25,2023-10-05,Jan
-4,1.PS,Gran Piemonte (prov.),42272,GANNA Filippo,24057,0,20,2023-10-05,Jan
-5,1.PS,Gran Piemonte (prov.),42272,COSTA Rui Alberto Faria,6807,0,18,2023-10-05,-
-6,1.PS,Gran Piemonte (prov.),42272,ZIMMERMANN Georg,25165,0,16,2023-10-05,-
-7,1.PS,Gran Piemonte (prov.),42272,MARCELLUSI Martin,29845,0,14,2023-10-05,-
-8,1.PS,Gran Piemonte (prov.),42272,TEJADA CANACUE Harold Alfonso,26813,0,12,2023-10-05,-
-9,1.PS,Gran Piemonte (prov.),42272,TIBERI Antonio,30649,0,10,2023-10-05,-
-10,1.PS,Gran Piemonte (prov.),42272,SCHULTZ Nicholas,22744,0,8,2023-10-05,-
+1,1.PS,Gran Piemonte,42272,BAGIOLI Andrea,28452,4,50,2023-10-05,Albert
+2,1.PS,Gran Piemonte,42272,HIRSCHI Marc,26509,1,35,2023-10-05,Bram
+3,1.PS,Gran Piemonte,42272,ARANBURU DEBA Alexander,23940,0.5,25,2023-10-05,Jan
+4,1.PS,Gran Piemonte,42272,GANNA Filippo,24057,0,20,2023-10-05,Jan
+5,1.PS,Gran Piemonte,42272,COSTA Rui Alberto Faria,6807,0,18,2023-10-05,-
+6,1.PS,Gran Piemonte,42272,ZIMMERMANN Georg,25165,0,16,2023-10-05,-
+7,1.PS,Gran Piemonte,42272,MARCELLUSI Martin,29845,0,14,2023-10-05,-
+8,1.PS,Gran Piemonte,42272,TEJADA CANACUE Harold Alfonso,26813,0,12,2023-10-05,-
+9,1.PS,Gran Piemonte,42272,TIBERI Antonio,30649,0,10,2023-10-05,-
+10,1.PS,Gran Piemonte,42272,SCHULTZ Nicholas,22744,0,8,2023-10-05,-
 1,2.PSs,"Tour of Hainan, Stage 1 : Qionghai - Qionghai (prov.)",42306,JACKSON George,31889,0.3,0,2023-10-05,-
-1,1.1,Paris - Bourges (prov.),42271,DEMARE Arnaud,16653,2,0,2023-10-05,Wijnand
-2,1.1,Paris - Bourges (prov.),42271,DE LIE Arnaud,32221,0.3,0,2023-10-05,Wijnand
-3,1.1,Paris - Bourges (prov.),42271,PENHOËT Paul,30686,0.1,0,2023-10-05,-
+1,1.1,Paris - Bourges,42271,DEMARE Arnaud,16653,2,0,2023-10-05,Wijnand
+2,1.1,Paris - Bourges,42271,DE LIE Arnaud,32221,0.3,0,2023-10-05,Wijnand
+3,1.1,Paris - Bourges,42271,MEEUS Jordi,26421,0.1,0,2023-10-05,Vel
 1,1.1,BetCity Elfstedenrace,42269,PHILIPSEN Jasper,26392,2,0,2023-10-04,Nicky
 2,1.1,BetCity Elfstedenrace,42269,KOOIJ Olav,30643,0.3,0,2023-10-04,Albert
 3,1.1,BetCity Elfstedenrace,42269,BOMBOI Davide,30543,0.1,0,2023-10-04,-
