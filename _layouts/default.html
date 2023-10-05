@@ -16,25 +16,30 @@
         <!-- Datatables CSS-->
         <link href="https://cdn.datatables.net/v/bs5/jszip-2.5.0/dt-1.13.4/b-2.3.6/b-html5-2.3.6/b-print-2.3.6/datatables.min.css" rel="stylesheet"/>
         <!-- Plausible analytics -->
-        <script defer data-domain="wijnandb.github.io/wielerspel2023" src="https://plausible.io/js/script.js"></script>
-
+        <script defer data-domain="wijnandb.github.io/wielerspel2023" src="https://plausible.io/js/script.hash.outbound-links.js"></script>
     </head>
 
     <body>
-        <!-- Responsive navbar-->
+        <!-- Responsive navbar -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container">
                 <a class="navbar-brand" href="{{ site.baseurl }}{% link index.html %}">Wielerspel 2023</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <!--li class="nav-item"><a class="nav-link active" aria-current="page" href="{{ '/startlist/races/GT/index.html' | relative_url }}">Vuelta</a></li-->
+                        <!-- li class="nav-item"><a class="nav-link active" aria-current="page" href="{{ '/startlist/races/GT/index.html' | relative_url }}">Vuelta</a></li -->
                         <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{% link renners.html %}">Verkochte renners</a></li>
                         <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{% link uitslagen.html %}">Uitslagen</a></li>
                     </ul>
+                    <!-- Add the search box here -->
+                    <div class="search-box">
+                        <input type="text" id="searchInput" placeholder="Zoek renner">
+                        <div id="searchResults" class="search-results"></div>
+                    </div>
                 </div>
             </div>
         </nav>
+
         <!-- Header - set the background image for the header in the line below-->
         <header class="py-5 bg-image-full" style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/a/a7/Mathieu_van_der_Poel_KBK_2021.jpg')">
             <div class="text-center my-5">
@@ -64,6 +69,10 @@
             crossorigin="anonymous"></script>
         <!-- Core theme JS-->
         <script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
+        <!-- Papaparse to cread CSV files -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+        <!-- datatables JS -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.js"></script>
         <script src="https://cdn.datatables.net/v/bs5/jszip-2.5.0/dt-1.13.4/b-2.3.6/b-html5-2.3.6/b-print-2.3.6/datatables.min.js"></script>
@@ -103,6 +112,72 @@
                     }
                 } );
             });
+        </script>
+        <script>
+          // Wait for the DOM to be fully loaded
+            document.addEventListener("DOMContentLoaded", function () {
+                const searchInput = document.getElementById("searchInput");
+                const searchResults = document.getElementById("searchResults");
+
+                // Load the CSV data
+                const csvFilePath = "{{ site.baseurl }}/dynamic/riders_with_points.csv";
+                Papa.parse(csvFilePath, {
+                    header: true,
+                    download: true,
+                    dynamicTyping: true,
+                    skipEmptyLines: true, // Add this option to skip empty lines
+                    complete: function (results) {
+                        const data = results.data;
+
+                        // Event listener for input changes
+                        searchInput.addEventListener("input", function () {
+                            const searchTerm = searchInput.value.toLowerCase().trim();
+                            const filteredResults = data.filter((row) => {
+                                return row.rider.toLowerCase().includes(searchTerm);
+                            });
+
+                            // Show or hide the results div based on input
+                            if (searchTerm) {
+                                displayResults(filteredResults.slice(0, 20));
+                                searchResults.style.display = "block"; // Show the results div
+                            } else {
+                                searchResults.style.display = "none"; // Hide the results div when there's no input
+                            }
+                        });
+                    },
+                });
+
+                // Display search results
+                function displayResults(results) {
+                    searchResults.innerHTML = "";
+                    if (results.length === 0) {
+                        searchResults.textContent = "No results found.";
+                    } else {
+                        results.forEach((result) => {
+                            const riderName = result.rider;
+                            const rennerId = result.renner_id;
+
+                            // Create an anchor element
+                            const resultLink = document.createElement("a");
+                            resultLink.href = `{{ site.baseurl }}/renners/#/${rennerId}`;
+                            resultLink.classList.add("search-result-link"); // Add a class for styling
+
+                            // Create a div element for each result
+                            const resultDiv = document.createElement("div");
+
+                            // Set the text content of the div
+                            resultDiv.textContent = riderName;
+
+                            // Append the div to the anchor
+                            resultLink.appendChild(resultDiv);
+
+                            // Append the anchor to the search results div
+                            searchResults.appendChild(resultLink);
+                        });
+                    }
+                }
+            });
+  
         </script>
 
   </body>

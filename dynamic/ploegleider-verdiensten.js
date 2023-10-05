@@ -126,7 +126,12 @@ function updateChart(data) {
 function displayLatestResults(data, selectedMonth, selectedTeamCaptain) {
     // Update the span with the selected team captain
     const ploegleiderSpan = document.getElementById('ploegleider');
-    ploegleiderSpan.textContent = selectedTeamCaptain;
+
+    if (selectedTeamCaptain === "-") {
+      ploegleiderSpan.textContent = "Niet verkochte renners";
+  } else {
+      ploegleiderSpan.textContent = selectedTeamCaptain;
+  }
   
     // Get the name of the selected month
     const monthNames = ['Januari', 'Februari', 'Maart', 'April', 'Mei', 'Juni', 'Juli', 'Augustus', 'September', 'Oktober'];

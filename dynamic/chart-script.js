@@ -15,7 +15,7 @@ fetch('results_with_points.csv')
     });
   });
 
-  function calculateAndDisplayPoints(results) {
+  function calculateAndDisplayPoints(results, year=2023) {
     const groupedData = {};
   
     results.forEach(result => {
@@ -71,7 +71,7 @@ function updateChart(data) {
       scales: {
         x: {
           type: 'category',
-          labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October']
+          labels: ['Januari', 'Februari', 'Maart', 'April', 'Mei', 'Juni', 'Juli', 'Augustus', 'September', 'Oktober']
         }
       }
     }

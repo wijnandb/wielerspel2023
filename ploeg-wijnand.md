@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: "Ploeg van Wijnand 2023"
 ---
 

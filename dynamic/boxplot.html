@@ -1,15 +1,15 @@
 ---
-template: default
-title: "Boxplot per ploegleider"
+layout: graphs
+title: "Dynamische stand Wielerspel"
 ---
-Wat zien we hier?
+<p>Wat zien we hier?<br/ >
 Per ploegleider wordt een boxplot getoond, gebaseerd op de prijs van de renners die hij heeft gekocht.
 een boxplot bestaat uit 5 waarden: de minimum waarde, de maximum waarde, de mediaan, het eerste kwartiel en het derde kwartiel.
 De mediaan is de middelste waarde. Het eerste kwartiel is de waarde waar 25% van de waarden onder zit. Het derde kwartiel is de waarde waar 75% van de waarden onder zit.
-
-<div id="boxplotDivPoints"></div>
-<div id="boxplotDivCosts"></div>
-
+</p>
+<h2>Verdiensten per ploeg</h2><div id="boxplotDivPoints"></div>
+<h2>Inkoop per ploeg</h2><div id="boxplotDivCosts"></div>
+<p>Het is waarschijnlijk mooier en veelzeggender als we de punten en kosten per ploeg in twee boxplots naast elkaar vergelijken</p>
 <script src="https://d3js.org/d3.v6.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
   <script>

@@ -1,5 +1,5 @@
 ---
-template: default
+layout: default
 title: Veiling verbeteringen
 ---
 
@@ -9,4 +9,6 @@ Wat kunnen we doen om de veiling sneller te laten verlopen, zonder het unieke ka
 
 De uitgangspunten bij het kijken naar mogelijke verbeteringen zijn als volgt:
 
+- iedereen moet fysiek aanwezig zijn bij de veiling
+- automatisering mag niet nadelig zijn voor de ploegleiders die fysiek aan het bieden zijn
 - 
