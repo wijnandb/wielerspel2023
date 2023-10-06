@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PSs,"Tour of Hainan, Stage 2 : Qionghai - Baoting (prov.)",42307,BERWICK Sebastian,29490,0.3,0,2023-10-06,-
 1,1.PS,Gran Piemonte,42272,BAGIOLI Andrea,28452,4,50,2023-10-05,Albert
 2,1.PS,Gran Piemonte,42272,HIRSCHI Marc,26509,1,35,2023-10-05,Bram
 3,1.PS,Gran Piemonte,42272,ARANBURU DEBA Alexander,23940,0.5,25,2023-10-05,Jan
@@ -52,9 +53,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.1,"Cro Race, General classification",42242,AULAR SANABRIA Orluis Alberto,24326,2,0,2023-10-01,PB
 2,2.1,"Cro Race, General classification",42242,KRISTOFF Alexander,4179,0.3,0,2023-10-01,Nicky
 3,2.1,"Cro Race, General classification",42242,HAYTER Ethan,27025,0.1,0,2023-10-01,Jan
-1,1.1,Famenne Ardenne Classic,42260,DE LIE Arnaud,32221,2,0,2023-10-01,Wijnand
-2,1.1,Famenne Ardenne Classic,42260,GROVES Kaden,26637,0.3,0,2023-10-01,Vel
-3,1.1,Famenne Ardenne Classic,42260,SENECHAL Florian,19903,0.1,0,2023-10-01,Wijnand
-1,1.1,Tour de Vendée,42159,DEMARE Arnaud,16653,2,0,2023-10-01,Wijnand
-2,1.1,Tour de Vendée,42159,PENHOËT Paul,30686,0.3,0,2023-10-01,-
-3,1.1,Tour de Vendée,42159,DUJARDIN Sandy,28583,0.1,0,2023-10-01,-
