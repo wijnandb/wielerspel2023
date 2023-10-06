@@ -5,7 +5,7 @@ let allData;
 // Fetch and parse the CSV file
 async function fetchDataAndPopulate() {
     try {
-      const response = await fetch('results_with_points.csv');
+      const response = await fetch('/assets/data/results_with_points.csv');
       const csvString = await response.text();
       Papa.parse(csvString, {
         header: true,

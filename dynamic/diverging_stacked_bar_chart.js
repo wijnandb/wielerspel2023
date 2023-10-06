@@ -1,5 +1,5 @@
 // Load the CSV data
-d3.csv('riders_with_points.csv')
+d3.csv('/assets/data/riders_with_points.csv')
   .then(data => {
     createDivergingStackedBarChart(data);
   })

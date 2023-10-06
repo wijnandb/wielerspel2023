@@ -2,7 +2,7 @@
 let ridersChart;
 
 // Fetch and parse the CSV file from a given URL
-fetch('riders_with_points.csv')
+fetch('/assets/data/riders_with_points.csv')
   .then(response => response.text())
   .then(csvString => {
     Papa.parse(csvString, {

@@ -4,7 +4,7 @@ title: "Dynamische stand Wielerspel"
 ---
 <p>Wat zien we hier?<br/ >
 Per ploegleider wordt een boxplot getoond, gebaseerd op de prijs van de renners die hij heeft gekocht.
-een boxplot bestaat uit 5 waarden: de minimum waarde, de maximum waarde, de mediaan, het eerste kwartiel en het derde kwartiel.
+een boxplot bestaat uit 5 waarden: de minimum waarde, de maximum waarde, de mediaan, het eerste kwartiel en het derde kwartiel. 
 De mediaan is de middelste waarde. Het eerste kwartiel is de waarde waar 25% van de waarden onder zit. Het derde kwartiel is de waarde waar 75% van de waarden onder zit.
 </p>
 <h2>Verdiensten per ploeg</h2><div id="boxplotDivPoints"></div>
@@ -16,7 +16,7 @@ De mediaan is de middelste waarde. Het eerste kwartiel is de waarde waar 25% van
 // Wait for the DOM to load
 document.addEventListener("DOMContentLoaded", function() {
   // Fetch and parse the CSV file
-  d3.csv('riders_with_points.csv').then(function(data) {
+  d3.csv('/assets/data/riders_with_points.csv').then(function(data) {
     // Convert string data to numbers
     data.forEach(function(d) {
       d.kosten = +d.kosten;  // Convert price to number

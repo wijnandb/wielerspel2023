@@ -3,14 +3,21 @@ layout: default
 title: "Renners per prijsklasse naar verdiensten - Wielerspel"
 ---
 
-
-    <div id="chordDiagram"></div>
-    <div id="riderInfo"></div>
-    <div id="legend"></div>
-    <div>Toelichting:<br>Informatie verschijnt <i>on mouse over</i>, dus alleen op computer en niet op mobiel of tablet.<br />
+<div class="row">
+    <div class="col-md-9">
+        <div id="chordDiagram"></div>
+    </div>
+    <div class="col-md-3">
+        <div id="legend"></div>
+    </div>
+    <div class="col-md-12">
+        Toelichting:<br>Informatie verschijnt <i>on mouse over</i>, dus alleen op computer en niet op mobiel of tablet.<br />
         Je ziet hier de prestaties van alle (verkochte) renners. De renners zijn ingedeeld in een aantal prijsklassen (begin op 12 uur,
-    met de klok mee, 0 punten t/m >20 punten, zie ook legenda). Er is aangegeven vanuit welke categorie qua kosten ze gaan naar welke 
-categorie qua verdiensten.<br /> Nadeel is dat de omvang van de categorie wordt bepaald door de kosten, en niet door de verdiende punten.</div>
+        met de klok mee, 0 punten t/m >20 punten, zie ook legenda). Er is aangegeven vanuit welke categorie qua kosten ze gaan naar welke 
+        categorie qua verdiensten.<br /> Nadeel is dat de omvang van de categorie wordt bepaald door de kosten, en niet door de verdiende punten.<br />
+        Dat is te zien doordat er 13 gratis renners zijn, terwijl er maar liefst
+    </div>
+</div>
 
 
 
@@ -72,7 +79,7 @@ categorie qua verdiensten.<br /> Nadeel is dat de omvang van de categorie wordt 
 
 
     // Fetch and parse the CSV file
-    fetch('riders_with_points.csv')
+    fetch('/assets/data/riders_with_points.csv')
     .then(response => response.text())
     .then(csvString => {
         Papa.parse(csvString, {

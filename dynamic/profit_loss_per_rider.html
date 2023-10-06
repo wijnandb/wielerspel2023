@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Costs, Points, and Profit/Loss Bar Chart (Ploegleider: Wijnand)</title>
+---
+layout: default
+title: "Profit/Loss per rider - Wielerspel"
+---
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <style>
         /* Define CSS styles for bars and dots */
@@ -29,8 +27,6 @@
             transform: rotate(30deg);
         }
     </style>
-</head>
-<body>
     
     <div id="chart-container"></div>
 
@@ -44,7 +40,7 @@
         d3.csv('riders_with_points.csv')
             .then(data => {
                 // Filter data for ploegleider "Wijnand"
-                //data = data.filter(d => d.ploegleider === 'Wijnand');
+                data = data.filter(d => d.ploegleider === 'Vel');
 
                 // Convert "kosten" and "punten" to numbers
                 data.forEach(d => {
@@ -88,7 +84,7 @@
                     .attr('height', d => Math.abs(yScale(d.kosten) - yScale(0))) // Range until y=0
                     .attr('fill', 'lightcoral')
                     .append('title')
-                    .text(d => `${d.renner}\nKosten: ${-d.kosten}\nPunten: ${d.punten}\nProfit/Loss: ${d.profitLoss}\nPloegleider: ${d.ploegleider}`);
+                    .text(d => `${d.renner}\nKosten: ${-d.kosten}\nPunten: ${d.punten}\nProfit/Loss: ${d.profitLoss.toFixed(1)}\nPloegleider: ${d.ploegleider}`);
 
                 // Create punten bars
                 svg.selectAll('.punten-bar')
@@ -102,7 +98,7 @@
                     .attr('height', d => Math.abs(yScale(d.punten) - yScale(0))) // Range until y=0
                     .attr('fill', 'lightgreen')
                     .append('title')
-                    .text(d => `${d.renner}\nKosten: ${-d.kosten}\nPunten: ${d.punten}\nProfit/Loss: ${d.profitLoss}\nPloegleider: ${d.ploegleider}`);
+                    .text(d => `${d.renner}\nKosten: ${-d.kosten}\nPunten: ${d.punten}\nProfit/Loss: ${d.profitLoss.toFixed(1)}\nPloegleider: ${d.ploegleider}`);
 
                 // Create profit/loss lines and dots
                 svg.selectAll('.profit-loss-line')
@@ -126,7 +122,7 @@
                     .attr('r', 3)
                     .style('fill', 'blue')
                     .append('title')
-                    .text(d => `${d.renner}\nKosten: ${-d.kosten}\nPunten: ${d.punten}\nProfit/Loss: ${d.profitLoss}\nPloegleider: ${d.ploegleider}`);
+                    .text(d => `${d.renner}\nKosten: ${-d.kosten}\nPunten: ${d.punten}\nProfit/Loss: ${d.profitLoss.toFixed(1)}\nPloegleider: ${d.ploegleider}`);
 
                 // Add y-axis
                 svg.append('g')
@@ -151,5 +147,4 @@
                 console.error('Error loading data:', error);
             });
     </script>
-</body>
-</html>
+

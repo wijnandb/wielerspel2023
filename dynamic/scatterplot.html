@@ -3,17 +3,25 @@ layout: default
 title: "Kosten afgezet tegen verdiensten"
 ---
 
-Op deze pagina maak ik een scatterplot. Alle verkochte renners die iets hebben verdiend (meer dan 0 dus) worden als een stip weergegeven.
+<p>Op deze pagina zie je een scatterplot. Alle verkochte renners die iets hebben verdiend (meer dan 0 dus) worden als een stip weergegeven.</p>
 De x-as geeft de kosten van de renner weer, de y-as de verdiensten. 
 De kleur van de stip wordt bepaald door de ploegleider die de renner heeft gekocht. Elke ploegleider heeft een eigen kleur.
+Je kunt ploegleiders aan- en uitzetten door op de checkboxen in de legenda te klikken.
 
-<div id="scatterplot"></div>
-<div id="legend"></div>
-<div id="tooltip" style="position: absolute; opacity: 0;"></div>
+<div class="row">
+  <div class="col-md-6">
+    <div id="scatterplot"></div>
+    <div id="tooltip" style="position: absolute; opacity: 0;"></div>
+  </div>
+  <div class="col-md-6">
+    <div id="legend"></div>
+  </div>
+
+
 
 <script>
     // Fetch and parse the CSV file
-fetch('riders_with_points.csv')
+fetch('/assets/data/riders_with_points.csv')
   .then(response => response.text())
   .then(csvString => {
     Papa.parse(csvString, {
