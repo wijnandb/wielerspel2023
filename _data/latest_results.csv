@@ -1,14 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
-1,1.WT1,Il Lombardia (prov.),42273,POGACAR Tadej,26526,0.0,0,2023-10-07
-2,1.WT1,Il Lombardia (prov.),42273,BAGIOLI Andrea,28452,0.0,0,2023-10-07
-3,1.WT1,Il Lombardia (prov.),42273,ROGLIC Primoz,20719,0.0,0,2023-10-07
-4,1.WT1,Il Lombardia (prov.),42273,VLASOV Aleksandr,24316,0.0,0,2023-10-07
-5,1.WT1,Il Lombardia (prov.),42273,YATES Simon,17893,0.0,0,2023-10-07
-6,1.WT1,Il Lombardia (prov.),42273,YATES Adam,18975,0.0,0,2023-10-07
-7,1.WT1,Il Lombardia (prov.),42273,RODRIGUEZ CANO Carlos,30836,0.0,0,2023-10-07
-8,1.WT1,Il Lombardia (prov.),42273,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2023-10-07
-9,1.WT1,Il Lombardia (prov.),42273,EVENEPOEL Remco,28377,0.0,0,2023-10-07
-10,1.WT1,Il Lombardia (prov.),42273,KRON Andreas Lorentz,26420,0.0,0,2023-10-07
+1,1.WT1,Il Lombardia,42273,POGACAR Tadej,26526,0.0,0,2023-10-07
+2,1.WT1,Il Lombardia,42273,BAGIOLI Andrea,28452,0.0,0,2023-10-07
+3,1.WT1,Il Lombardia,42273,ROGLIC Primoz,20719,0.0,0,2023-10-07
+4,1.WT1,Il Lombardia,42273,VLASOV Aleksandr,24316,0.0,0,2023-10-07
+5,1.WT1,Il Lombardia,42273,YATES Simon,17893,0.0,0,2023-10-07
+6,1.WT1,Il Lombardia,42273,YATES Adam,18975,0.0,0,2023-10-07
+7,1.WT1,Il Lombardia,42273,RODRIGUEZ CANO Carlos,30836,0.0,0,2023-10-07
+8,1.WT1,Il Lombardia,42273,CARAPAZ MONTENEGRO Richard Antonio,21342,0.0,0,2023-10-07
+9,1.WT1,Il Lombardia,42273,EVENEPOEL Remco,28377,0.0,0,2023-10-07
+10,1.WT1,Il Lombardia,42273,KRON Andreas Lorentz,26420,0.0,0,2023-10-07
 1,2.PSs,"Tour of Hainan, Stage 3 : Baoting - Wuzhishan (prov.)",42308,PICCOLI James,21644,0.0,0,2023-10-07
 1,2.1s,"Tour de Kyushu, Stage 1 : Kitakyushu - Omuta (prov.)",42312,KOJIMA Naoki,31960,0.0,0,2023-10-07
 1,2.PSs,"Tour of Hainan, Stage 2 : Qionghai - Baoting (prov.)",42307,BERWICK Sebastian,29490,0.0,0,2023-10-06
