@@ -11,14 +11,14 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 28,24,Stan Dewulf,25655,AG2R Citroën Team,BEL,Kaspar Burghard,Kaspar,0,
 28,26,Oliver Naesen,21392,AG2R Citroën Team,BEL,Harry Koene,Harry,1,
 28,31,Matteo Trentin,13270,UAE Team Emirates,ITA,Nick Veenstra,Nicky,4,
-28,32,Pascal Ackermann,20917,UAE Team Emirates,GER,Frank Vellinga,Vel,5,
-28,34,Mikkel Bjerg,26388,UAE Team Emirates,DEN,Kees van Ommeren,Kees,2,
-28,35,Sebastian Molano,23463,UAE Team Emirates,COL,Pieter-Bas de Bruijn,PB,1,
+28,32,Pascal Ackermann,20917,UAE Team Emirates,GER,Frank Vellinga,Vel,5,1
+28,34,Mikkel Bjerg,26388,UAE Team Emirates,DEN,Kees van Ommeren,Kees,2,1
+28,35,Sebastian Molano,23463,UAE Team Emirates,COL,Pieter-Bas de Bruijn,PB,1,1
 28,36,Tim Wellens,16722,UAE Team Emirates,BEL,Albert Kraaij,Albert,5,
 28,44,Toms Skujins,16739,Lidl-Trek,LAT,Kees van Ommeren,Kees,0,
 28,45,Jasper Stuyven,18233,Lidl-Trek,BEL,Pieter-Bas de Bruijn,PB,6,
 28,46,Edward Theuns,16697,Lidl-Trek,BEL,Harry Koene,Harry,0,
-28,51,Arnaud De Lie,32221,Lotto Dstny,BEL,Wijnand Baretta,Wijnand,14,
+28,51,Arnaud De Lie,32221,Lotto Dstny,BEL,Wijnand Baretta,Wijnand,14,1
 28,53,Victor Campenaerts,20184,Lotto Dstny,BEL,Frank Vellinga,Vel,2,
 28,71,Jordi Meeus,26421,BORA-hansgrohe,BEL,Frank Vellinga,Vel,5,
 28,76,Danny van Poppel,19242,BORA-hansgrohe,NED,Jan Versluys,Jan,1,
