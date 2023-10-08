@@ -1,14 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
-1,1.PS,Paris - Tours (prov.),42275,SHEEHAN Riley,29301,4,50,2023-10-08,-
-2,1.PS,Paris - Tours (prov.),42275,ASKEY Lewis,30685,1,35,2023-10-08,-
-3,1.PS,Paris - Tours (prov.),42275,JOHANNESSEN Tobias Halland,31567,0.5,25,2023-10-08,Albert
-4,1.PS,Paris - Tours (prov.),42275,DELBOVE Joris,32181,0,20,2023-10-08,-
-5,1.PS,Paris - Tours (prov.),42275,LE GAC Olivier,18234,0,18,2023-10-08,-
-6,1.PS,Paris - Tours (prov.),42275,LAPORTE Christophe,19953,0,16,2023-10-08,Kaspar
-7,1.PS,Paris - Tours (prov.),42275,VAN ASBROECK Tom,18504,0,14,2023-10-08,-
-8,1.PS,Paris - Tours (prov.),42275,DEMARE Arnaud,16653,0,12,2023-10-08,Wijnand
-9,1.PS,Paris - Tours (prov.),42275,THEUNS Edward,16697,0,10,2023-10-08,Harry
-10,1.PS,Paris - Tours (prov.),42275,PENHOËT Paul,30686,0,8,2023-10-08,-
+1,1.PS,Paris - Tours,42275,SHEEHAN Riley,29301,4,50,2023-10-08,-
+2,1.PS,Paris - Tours,42275,ASKEY Lewis,30685,1,35,2023-10-08,-
+3,1.PS,Paris - Tours,42275,JOHANNESSEN Tobias Halland,31567,0.5,25,2023-10-08,Albert
+4,1.PS,Paris - Tours,42275,DELBOVE Joris,32181,0,20,2023-10-08,-
+5,1.PS,Paris - Tours,42275,LE GAC Olivier,18234,0,18,2023-10-08,-
+6,1.PS,Paris - Tours,42275,LAPORTE Christophe,19953,0,16,2023-10-08,Kaspar
+7,1.PS,Paris - Tours,42275,VAN ASBROECK Tom,18504,0,14,2023-10-08,-
+8,1.PS,Paris - Tours,42275,DEMARE Arnaud,16653,0,12,2023-10-08,Wijnand
+9,1.PS,Paris - Tours,42275,THEUNS Edward,16697,0,10,2023-10-08,Harry
+10,1.PS,Paris - Tours,42275,PENHOËT Paul,30686,0,8,2023-10-08,-
 1,2.PSs,"Tour of Hainan, Stage 4 : Wuzhishan - Changjiang (prov.)",42309,DALLA VALLE Nicolas,26998,0.3,0,2023-10-08,-
 1,2.1s,"Presidential Tour of Turkey, Stage 1 : Alanya - Antalya (prov.)",41246,PHILIPSEN Jasper,26392,0.2,0,2023-10-08,Nicky
 1,2.1s,"Tour de Kyushu, Stage 2 : Minami Oguni - Minami Aso (prov.)",42313,ZEITS Andrey,5259,0.2,0,2023-10-08,-
