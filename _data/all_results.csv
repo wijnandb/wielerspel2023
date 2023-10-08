@@ -1,4 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.PS,Paris - Tours (prov.),42275,SHEEHAN Riley,29301,0.0,0,2023-10-08
+2,1.PS,Paris - Tours (prov.),42275,ASKEY Lewis,30685,0.0,0,2023-10-08
+3,1.PS,Paris - Tours (prov.),42275,JOHANNESSEN Tobias Halland,31567,0.0,0,2023-10-08
+4,1.PS,Paris - Tours (prov.),42275,DELBOVE Joris,32181,0.0,0,2023-10-08
+5,1.PS,Paris - Tours (prov.),42275,LE GAC Olivier,18234,0.0,0,2023-10-08
+6,1.PS,Paris - Tours (prov.),42275,LAPORTE Christophe,19953,0.0,0,2023-10-08
+7,1.PS,Paris - Tours (prov.),42275,VAN ASBROECK Tom,18504,0.0,0,2023-10-08
+8,1.PS,Paris - Tours (prov.),42275,DEMARE Arnaud,16653,0.0,0,2023-10-08
+9,1.PS,Paris - Tours (prov.),42275,THEUNS Edward,16697,0.0,0,2023-10-08
+10,1.PS,Paris - Tours (prov.),42275,PENHOËT Paul,30686,0.0,0,2023-10-08
+1,2.PSs,"Tour of Hainan, Stage 4 : Wuzhishan - Changjiang (prov.)",42309,DALLA VALLE Nicolas,26998,0.0,0,2023-10-08
+1,2.1s,"Presidential Tour of Turkey, Stage 1 : Alanya - Antalya (prov.)",41246,PHILIPSEN Jasper,26392,0.0,0,2023-10-08
+1,2.1s,"Tour de Kyushu, Stage 2 : Minami Oguni - Minami Aso (prov.)",42313,ZEITS Andrey,5259,0.0,0,2023-10-08
 1,1.WT1,Il Lombardia,42273,POGACAR Tadej,26526,0.0,0,2023-10-07
 2,1.WT1,Il Lombardia,42273,BAGIOLI Andrea,28452,0.0,0,2023-10-07
 3,1.WT1,Il Lombardia,42273,ROGLIC Primoz,20719,0.0,0,2023-10-07
