@@ -1,4 +1,20 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,2.PS,"Tour of Hainan, General classification",42311,SEVILLA RIVERA Oscar Miguel,128,4,50,2023-10-09,-
+2,2.PS,"Tour of Hainan, General classification",42311,BERWICK Sebastian,29490,1,35,2023-10-09,-
+3,2.PS,"Tour of Hainan, General classification",42311,PICCOLI James,21644,0.5,25,2023-10-09,-
+4,2.PS,"Tour of Hainan, General classification",42311,HERMANS Ben,4819,0,20,2023-10-09,Albert
+5,2.PS,"Tour of Hainan, General classification",42311,CONTI Valerio,21295,0,18,2023-10-09,-
+6,2.PS,"Tour of Hainan, General classification",42311,TRARIEUX Julien,24752,0,16,2023-10-09,-
+7,2.PS,"Tour of Hainan, General classification",42311,RAILEANU Cristian,13770,0,14,2023-10-09,-
+8,2.PS,"Tour of Hainan, General classification",42311,BURNETT Josh,31888,0,12,2023-10-09,-
+9,2.PS,"Tour of Hainan, General classification",42311,HOLLYMAN Mason,29836,0,10,2023-10-09,-
+10,2.PS,"Tour of Hainan, General classification",42311,QUARTUCCI Lorenzo,30047,0,8,2023-10-09,-
+1,2.PSs,"Tour of Hainan, Stage 5 : Changjian - Sanya",42310,RASCH Jesper,29098,0.3,0,2023-10-09,-
+1,2.1,"Tour de Kyushu, General classification",42315,ZEITS Andrey,5259,2,0,2023-10-09,-
+2,2.1,"Tour de Kyushu, General classification",42315,NIBALI Antonio,22244,0.3,0,2023-10-09,-
+3,2.1,"Tour de Kyushu, General classification",42315,EAVES William,34629,0.1,0,2023-10-09,-
+1,2.1s,"Presidential Tour of Turkey, Stage 2 : Kemer - Kalkan (prov.)",41247,PHILIPSEN Jasper,26392,0.2,0,2023-10-09,Nicky
+1,2.1s,"Tour de Kyushu, Stage 3 : Hita - Hita",42314,TREZISE Declan,31910,0.2,0,2023-10-09,-
 1,1.PS,Paris - Tours,42275,SHEEHAN Riley,29301,4,50,2023-10-08,-
 2,1.PS,Paris - Tours,42275,ASKEY Lewis,30685,1,35,2023-10-08,-
 3,1.PS,Paris - Tours,42275,JOHANNESSEN Tobias Halland,31567,0.5,25,2023-10-08,Albert
@@ -9,9 +25,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Paris - Tours,42275,DEMARE Arnaud,16653,0,12,2023-10-08,Wijnand
 9,1.PS,Paris - Tours,42275,THEUNS Edward,16697,0,10,2023-10-08,Harry
 10,1.PS,Paris - Tours,42275,PENHOËT Paul,30686,0,8,2023-10-08,-
-1,2.PSs,"Tour of Hainan, Stage 4 : Wuzhishan - Changjiang (prov.)",42309,DALLA VALLE Nicolas,26998,0.3,0,2023-10-08,-
+1,2.PSs,"Tour of Hainan, Stage 4 : Wuzhishan - Changjiang",42309,DALLA VALLE Nicolas,26998,0.3,0,2023-10-08,-
 1,2.1s,"Presidential Tour of Turkey, Stage 1 : Alanya - Antalya (prov.)",41246,PHILIPSEN Jasper,26392,0.2,0,2023-10-08,Nicky
-1,2.1s,"Tour de Kyushu, Stage 2 : Minami Oguni - Minami Aso (prov.)",42313,ZEITS Andrey,5259,0.2,0,2023-10-08,-
+1,2.1s,"Tour de Kyushu, Stage 2 : Minami Oguni - Minami Aso",42313,ZEITS Andrey,5259,0.2,0,2023-10-08,-
 1,1.WT1,Il Lombardia,42273,POGACAR Tadej,26526,15,50,2023-10-07,Kees
 2,1.WT1,Il Lombardia,42273,BAGIOLI Andrea,28452,3,35,2023-10-07,Albert
 3,1.WT1,Il Lombardia,42273,ROGLIC Primoz,20719,2,25,2023-10-07,Bram
@@ -22,9 +38,9 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.WT1,Il Lombardia,42273,CARAPAZ MONTENEGRO Richard Antonio,21342,0,12,2023-10-07,Wijnand
 9,1.WT1,Il Lombardia,42273,EVENEPOEL Remco,28377,0,10,2023-10-07,Roy
 10,1.WT1,Il Lombardia,42273,KRON Andreas Lorentz,26420,0,8,2023-10-07,Paul
-1,2.PSs,"Tour of Hainan, Stage 3 : Baoting - Wuzhishan (prov.)",42308,PICCOLI James,21644,0.3,0,2023-10-07,-
-1,2.1s,"Tour de Kyushu, Stage 1 : Kitakyushu - Omuta (prov.)",42312,KOJIMA Naoki,31960,0.2,0,2023-10-07,-
-1,2.PSs,"Tour of Hainan, Stage 2 : Qionghai - Baoting (prov.)",42307,BERWICK Sebastian,29490,0.3,0,2023-10-06,-
+1,2.PSs,"Tour of Hainan, Stage 3 : Baoting - Wuzhishan",42308,PICCOLI James,21644,0.3,0,2023-10-07,-
+1,2.1s,"Tour de Kyushu, Stage 1 : Kitakyushu - Omuta",42312,KOJIMA Naoki,31960,0.2,0,2023-10-07,-
+1,2.PSs,"Tour of Hainan, Stage 2 : Qionghai - Baoting",42307,BERWICK Sebastian,29490,0.3,0,2023-10-06,-
 1,1.PS,Gran Piemonte,42272,BAGIOLI Andrea,28452,4,50,2023-10-05,Albert
 2,1.PS,Gran Piemonte,42272,HIRSCHI Marc,26509,1,35,2023-10-05,Bram
 3,1.PS,Gran Piemonte,42272,ARANBURU DEBA Alexander,23940,0.5,25,2023-10-05,Jan
@@ -35,7 +51,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Gran Piemonte,42272,TEJADA CANACUE Harold Alfonso,26813,0,12,2023-10-05,-
 9,1.PS,Gran Piemonte,42272,TIBERI Antonio,30649,0,10,2023-10-05,-
 10,1.PS,Gran Piemonte,42272,SCHULTZ Nicholas,22744,0,8,2023-10-05,-
-1,2.PSs,"Tour of Hainan, Stage 1 : Qionghai - Qionghai (prov.)",42306,JACKSON George,31889,0.3,0,2023-10-05,-
+1,2.PSs,"Tour of Hainan, Stage 1 : Qionghai - Qionghai",42306,JACKSON George,31889,0.3,0,2023-10-05,-
 1,1.1,Paris - Bourges,42271,DEMARE Arnaud,16653,2,0,2023-10-05,Wijnand
 2,1.1,Paris - Bourges,42271,DE LIE Arnaud,32221,0.3,0,2023-10-05,Wijnand
 3,1.1,Paris - Bourges,42271,MEEUS Jordi,26421,0.1,0,2023-10-05,Vel
