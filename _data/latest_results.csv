@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.1s,"Presidential Tour of Turkey, Stage 3 : Fethiye - Babadag (prov.)",41248,LUTSENKO Alexey,18455,0.0,0,2023-10-10
 1,2.PS,"Tour of Hainan, General classification",42311,SEVILLA RIVERA Oscar Miguel,128,0.0,0,2023-10-09
 2,2.PS,"Tour of Hainan, General classification",42311,BERWICK Sebastian,29490,0.0,0,2023-10-09
 3,2.PS,"Tour of Hainan, General classification",42311,PICCOLI James,21644,0.0,0,2023-10-09
@@ -52,6 +53,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,1.PS,Gran Piemonte,42272,TIBERI Antonio,30649,0.0,0,2023-10-05
 10,1.PS,Gran Piemonte,42272,SCHULTZ Nicholas,22744,0.0,0,2023-10-05
 1,2.PSs,"Tour of Hainan, Stage 1 : Qionghai - Qionghai",42306,JACKSON George,31889,0.0,0,2023-10-05
-1,1.1,Paris - Bourges,42271,DEMARE Arnaud,16653,0.0,0,2023-10-05
-2,1.1,Paris - Bourges,42271,DE LIE Arnaud,32221,0.0,0,2023-10-05
-3,1.1,Paris - Bourges,42271,MEEUS Jordi,26421,0.0,0,2023-10-05
