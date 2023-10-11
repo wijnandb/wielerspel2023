@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,1.PS,Giro del Veneto,42276,GODON Dorian,25704,4,50,2023-10-11,-
+2,1.PS,Giro del Veneto,42276,JOHANNESSEN Tobias Halland,31567,1,35,2023-10-11,Albert
+3,1.PS,Giro del Veneto,42276,VERMEERSCH Florian,28127,0.5,25,2023-10-11,Albert
+4,1.PS,Giro del Veneto,42276,STRONG Corbin,29492,0,20,2023-10-11,PB
+5,1.PS,Giro del Veneto,42276,HIRSCHI Marc,26509,0,18,2023-10-11,Bram
+6,1.PS,Giro del Veneto,42276,MOZZATO Luca,28037,0,16,2023-10-11,Nicky
+7,1.PS,Giro del Veneto,42276,BATTISTELLA Samuele,28450,0,14,2023-10-11,Vel
+8,1.PS,Giro del Veneto,42276,LOUVEL Matis,29982,0,12,2023-10-11,Paul
+9,1.PS,Giro del Veneto,42276,KRON Andreas Lorentz,26420,0,10,2023-10-11,Paul
+10,1.PS,Giro del Veneto,42276,BRAMBILLA Gianluca,7279,0,8,2023-10-11,-
+1,2.1s,"Presidential Tour of Turkey, Stage 4 : Fethiye - Marmaris (prov.)",41249,PHILIPSEN Jasper,26392,0.2,0,2023-10-11,Nicky
 1,2.1s,"Presidential Tour of Turkey, Stage 3 : Fethiye - Babadag (prov.)",41248,LUTSENKO Alexey,18455,0.2,0,2023-10-10,Vel
 1,2.PS,"Tour of Hainan, General classification",42311,SEVILLA RIVERA Oscar Miguel,128,4,50,2023-10-09,-
 2,2.PS,"Tour of Hainan, General classification",42311,BERWICK Sebastian,29490,1,35,2023-10-09,-
