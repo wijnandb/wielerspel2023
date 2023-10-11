@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,1.PS,Giro del Veneto,42276,GODON Dorian,25704,0.0,0,2023-10-11
+2,1.PS,Giro del Veneto,42276,JOHANNESSEN Tobias Halland,31567,0.0,0,2023-10-11
+3,1.PS,Giro del Veneto,42276,VERMEERSCH Florian,28127,0.0,0,2023-10-11
+4,1.PS,Giro del Veneto,42276,STRONG Corbin,29492,0.0,0,2023-10-11
+5,1.PS,Giro del Veneto,42276,HIRSCHI Marc,26509,0.0,0,2023-10-11
+6,1.PS,Giro del Veneto,42276,MOZZATO Luca,28037,0.0,0,2023-10-11
+7,1.PS,Giro del Veneto,42276,BATTISTELLA Samuele,28450,0.0,0,2023-10-11
+8,1.PS,Giro del Veneto,42276,LOUVEL Matis,29982,0.0,0,2023-10-11
+9,1.PS,Giro del Veneto,42276,KRON Andreas Lorentz,26420,0.0,0,2023-10-11
+10,1.PS,Giro del Veneto,42276,BRAMBILLA Gianluca,7279,0.0,0,2023-10-11
+1,2.1s,"Presidential Tour of Turkey, Stage 4 : Fethiye - Marmaris (prov.)",41249,PHILIPSEN Jasper,26392,0.0,0,2023-10-11
 1,2.1s,"Presidential Tour of Turkey, Stage 3 : Fethiye - Babadag (prov.)",41248,LUTSENKO Alexey,18455,0.0,0,2023-10-10
 1,2.PS,"Tour of Hainan, General classification",42311,SEVILLA RIVERA Oscar Miguel,128,0.0,0,2023-10-09
 2,2.PS,"Tour of Hainan, General classification",42311,BERWICK Sebastian,29490,0.0,0,2023-10-09
@@ -42,14 +53,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.PSs,"Tour of Hainan, Stage 3 : Baoting - Wuzhishan",42308,PICCOLI James,21644,0.0,0,2023-10-07
 1,2.1s,"Tour de Kyushu, Stage 1 : Kitakyushu - Omuta",42312,KOJIMA Naoki,31960,0.0,0,2023-10-07
 1,2.PSs,"Tour of Hainan, Stage 2 : Qionghai - Baoting",42307,BERWICK Sebastian,29490,0.0,0,2023-10-06
-1,1.PS,Gran Piemonte,42272,BAGIOLI Andrea,28452,0.0,0,2023-10-05
-2,1.PS,Gran Piemonte,42272,HIRSCHI Marc,26509,0.0,0,2023-10-05
-3,1.PS,Gran Piemonte,42272,ARANBURU DEBA Alexander,23940,0.0,0,2023-10-05
-4,1.PS,Gran Piemonte,42272,GANNA Filippo,24057,0.0,0,2023-10-05
-5,1.PS,Gran Piemonte,42272,COSTA Rui Alberto Faria,6807,0.0,0,2023-10-05
-6,1.PS,Gran Piemonte,42272,ZIMMERMANN Georg,25165,0.0,0,2023-10-05
-7,1.PS,Gran Piemonte,42272,MARCELLUSI Martin,29845,0.0,0,2023-10-05
-8,1.PS,Gran Piemonte,42272,TEJADA CANACUE Harold Alfonso,26813,0.0,0,2023-10-05
-9,1.PS,Gran Piemonte,42272,TIBERI Antonio,30649,0.0,0,2023-10-05
-10,1.PS,Gran Piemonte,42272,SCHULTZ Nicholas,22744,0.0,0,2023-10-05
-1,2.PSs,"Tour of Hainan, Stage 1 : Qionghai - Qionghai",42306,JACKSON George,31889,0.0,0,2023-10-05
