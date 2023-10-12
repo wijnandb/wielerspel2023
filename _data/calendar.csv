@@ -32,21 +32,21 @@ startdate,enddate,race,race_id,category,points,JPP
 2023-10-01,,Tour de Vendée,94,1.1,2.4,0
 2023-10-02,,Coppa Bernocchi,196,1.PS,5.5,208
 2023-10-03,,Asian Games ITT,673,CCTT,0,0
-2023-10-03,,Binche-Chimay-Binche,159,1.1,2.4,0
 2023-10-03,,Munsterland Giro,158,1.PS,5.5,208
 2023-10-03,,Tre Valli Varesine,190,1.PS,5.5,208
+2023-10-03,,Binche-Chimay-Binche,159,1.1,2.4,0
 2023-10-04,,Visit Friesland Elfstedenrace,16523,1.1,2.4,0
 2023-10-05,,Asian Games RR,674,CCRR,0,0
 2023-10-05,,Gran Piemonte,61,1.PS,5.5,208
-2023-10-05,,Paris - Bourges,157,1.1,2.4,0
 2023-10-05,2023-10-09,Tour of Hainan,139,2.PS,5.5,208
-2023-10-07,,Il Lombardia,24,1.WT1,21.5,208
+2023-10-05,,Paris - Bourges,157,1.1,2.4,0
 2023-10-07,2023-10-09,Tour de Kyushu,18945,2.1,2.4,0
-2023-10-08,,Paris - Tours,28,1.PS,5.5,208
+2023-10-07,,Il Lombardia,24,1.WT1,21.5,208
 2023-10-08,2023-10-15,Tour of Türkiye,152,2.1,2.4,0
+2023-10-08,,Paris - Tours,28,1.PS,5.5,208
 2023-10-11,,Giro del Veneto,183,1.PS,5.5,208
 2023-10-12,2023-10-17,Gree - Tour of Guangxi,7591,2.WT3,8.0,208
-2023-10-15,,Chrono des Nations,154,1.1,2.4,0
 2023-10-15,,Japan Cup,95,1.PS,5.5,208
 2023-10-15,,Veneto Classic,15208,1.PS,5.5,208
+2023-10-15,,Chrono des Nations,154,1.1,2.4,0
 2023-10-22,,Hong Kong Challenge,8499,1.1,2.4,0
