@@ -1,5 +1,5 @@
 race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id,price,dropped_out
-152,1,Finn Fisher-Black,30562,UAE Team Emirates,NZL,Jan Versluys,Jan,1,
+152,1,Finn Fisher-Black,30562,UAE Team Emirates,NZL,Jan Versluys,Jan,1,1
 152,7,Jay Vine,29568,UAE Team Emirates,AUS,Frank Vellinga,Vel,2,
 152,11,Jasper Philipsen,26392,Alpecin-Deceuninck,BEL,Nick Veenstra,Nicky,11,
 152,22,Patrick Konrad,16058,BORA-hansgrohe,AUT,Albert Kraaij,Albert,1,
@@ -41,7 +41,6 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 95,,Odd Christian Eiking,21405,EF Education-EasyPost,NOR,Roy Smits,Roy,0,
 95,,Andrea Piccolo,30648,EF Education-EasyPost,ITA,Albert Kraaij,Albert,3,
 95,,Lorenzo Rota,21958,Intermarché-Circus-Wanty,ITA,Paul van Doorn,Paul,3,
-95,,Giulio Ciccone,21812,Lidl-Trek,ITA,Nick Veenstra,Nicky,4,
 95,,Juan Pedro Lopez,27132,Lidl-Trek,ESP,Pieter-Bas de Bruijn,PB,1,
 95,,Bauke Mollema,5139,Lidl-Trek,NED,Roy Smits,Roy,2,
 95,,Edward Theuns,16697,Lidl-Trek,BEL,Harry Koene,Harry,0,
