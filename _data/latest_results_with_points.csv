@@ -1,38 +1,38 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,2.WT3s,"Tour of Guangxi, Stage 4 : Nanning - Nongla (prov.)",42323,VADER Milan,32720,0.5,0,2023-10-15,-
-1,1.PS,Veneto Classic (prov.),42282,FORMOLO Davide,18749,4,50,2023-10-15,Nicky
-2,1.PS,Veneto Classic (prov.),42282,HIRSCHI Marc,26509,1,35,2023-10-15,Bram
-3,1.PS,Veneto Classic (prov.),42282,ZANA Filippo,27749,0.5,25,2023-10-15,Vel
-4,1.PS,Veneto Classic (prov.),42282,VENDRAME Andrea,22170,0,20,2023-10-15,-
-5,1.PS,Veneto Classic (prov.),42282,KRON Andreas Lorentz,26420,0,18,2023-10-15,Paul
-6,1.PS,Veneto Classic (prov.),42282,BATTISTELLA Samuele,28450,0,16,2023-10-15,Vel
-7,1.PS,Veneto Classic (prov.),42282,VERMEERSCH Florian,28127,0,14,2023-10-15,Albert
-8,1.PS,Veneto Classic (prov.),42282,TRAEEN Torstein,24068,0,12,2023-10-15,-
-9,1.PS,Veneto Classic (prov.),42282,LAURANCE Axel,31621,0,10,2023-10-15,Jan
-10,1.PS,Veneto Classic (prov.),42282,FIORELLI Filippo,24152,0,8,2023-10-15,-
-1,1.PS,Japan Cup (prov.),42279,COSTA Rui Alberto Faria,6807,4,50,2023-10-15,-
-2,1.PS,Japan Cup (prov.),42279,ENGELHARDT Felix,29297,1,35,2023-10-15,-
-3,1.PS,Japan Cup (prov.),42279,MARTIN Guillaume,19994,0.5,25,2023-10-15,Jan
-4,1.PS,Japan Cup (prov.),42279,VAN GILS Maxim,28521,0,20,2023-10-15,-
-5,1.PS,Japan Cup (prov.),42279,ZIMMERMANN Georg,25165,0,18,2023-10-15,-
-6,1.PS,Japan Cup (prov.),42279,SHEEHAN Riley,29301,0,16,2023-10-15,-
-7,1.PS,Japan Cup (prov.),42279,ZINGLE Axel,31263,0,14,2023-10-15,Paul
-8,1.PS,Japan Cup (prov.),42279,ROTA Lorenzo,21958,0,12,2023-10-15,Paul
-9,1.PS,Japan Cup (prov.),42279,VALGREN HUNDAHL (ANDERSEN) Michael,18123,0,10,2023-10-15,Harry
-10,1.PS,Japan Cup (prov.),42279,BERNARD Julien,23357,0,8,2023-10-15,-
-1,2.1,"Presidential Tour of Turkey, General classification (prov.)",41254,LUTSENKO Alexey,18455,2,0,2023-10-15,Vel
-2,2.1,"Presidential Tour of Turkey, General classification (prov.)",41254,ZWIEHOFF Ben,31491,0.3,0,2023-10-15,-
-3,2.1,"Presidential Tour of Turkey, General classification (prov.)",41254,TEJADA CANACUE Harold Alfonso,26813,0.1,0,2023-10-15,-
-1,1.1,Chrono des Nations (prov.),42281,TARLING Joshua,34297,2,0,2023-10-15,-
-2,1.1,Chrono des Nations (prov.),42281,EVENEPOEL Remco,28377,0.3,0,2023-10-15,Roy
-3,1.1,Chrono des Nations (prov.),42281,BISSEGGER Stefan,26376,0.1,0,2023-10-15,Bram
-1,2.1s,"Presidential Tour of Turkey, Stage 8 : Istanbul - Sultanahmet (prov.)",41253,PHILIPSEN Jasper,26392,0.2,0,2023-10-15,Nicky
+1,1.PS,Veneto Classic,42282,FORMOLO Davide,18749,4,50,2023-10-15,Nicky
+2,1.PS,Veneto Classic,42282,HIRSCHI Marc,26509,1,35,2023-10-15,Bram
+3,1.PS,Veneto Classic,42282,ZANA Filippo,27749,0.5,25,2023-10-15,Vel
+4,1.PS,Veneto Classic,42282,VENDRAME Andrea,22170,0,20,2023-10-15,-
+5,1.PS,Veneto Classic,42282,KRON Andreas Lorentz,26420,0,18,2023-10-15,Paul
+6,1.PS,Veneto Classic,42282,BATTISTELLA Samuele,28450,0,16,2023-10-15,Vel
+7,1.PS,Veneto Classic,42282,VERMEERSCH Florian,28127,0,14,2023-10-15,Albert
+8,1.PS,Veneto Classic,42282,TRAEEN Torstein,24068,0,12,2023-10-15,-
+9,1.PS,Veneto Classic,42282,LAURANCE Axel,31621,0,10,2023-10-15,Jan
+10,1.PS,Veneto Classic,42282,FIORELLI Filippo,24152,0,8,2023-10-15,-
+1,1.PS,Japan Cup,42279,COSTA Rui Alberto Faria,6807,4,50,2023-10-15,-
+2,1.PS,Japan Cup,42279,ENGELHARDT Felix,29297,1,35,2023-10-15,-
+3,1.PS,Japan Cup,42279,MARTIN Guillaume,19994,0.5,25,2023-10-15,Jan
+4,1.PS,Japan Cup,42279,VAN GILS Maxim,28521,0,20,2023-10-15,-
+5,1.PS,Japan Cup,42279,ZIMMERMANN Georg,25165,0,18,2023-10-15,-
+6,1.PS,Japan Cup,42279,SHEEHAN Riley,29301,0,16,2023-10-15,-
+7,1.PS,Japan Cup,42279,ZINGLE Axel,31263,0,14,2023-10-15,Paul
+8,1.PS,Japan Cup,42279,ROTA Lorenzo,21958,0,12,2023-10-15,Paul
+9,1.PS,Japan Cup,42279,VALGREN HUNDAHL (ANDERSEN) Michael,18123,0,10,2023-10-15,Harry
+10,1.PS,Japan Cup,42279,BERNARD Julien,23357,0,8,2023-10-15,-
+1,2.1,"Presidential Tour of Turkey, General classification",41254,LUTSENKO Alexey,18455,2,0,2023-10-15,Vel
+2,2.1,"Presidential Tour of Turkey, General classification",41254,ZWIEHOFF Ben,31491,0.3,0,2023-10-15,-
+3,2.1,"Presidential Tour of Turkey, General classification",41254,TEJADA CANACUE Harold Alfonso,26813,0.1,0,2023-10-15,-
+1,1.1,Chrono des Nations,42281,TARLING Joshua,34297,2,0,2023-10-15,-
+2,1.1,Chrono des Nations,42281,EVENEPOEL Remco,28377,0.3,0,2023-10-15,Roy
+3,1.1,Chrono des Nations,42281,BISSEGGER Stefan,26376,0.1,0,2023-10-15,Bram
+1,2.1s,"Presidential Tour of Turkey, Stage 8 : Istanbul - Sultanahmet",41253,PHILIPSEN Jasper,26392,0.2,0,2023-10-15,Nicky
 1,2.WT3s,"Tour of Guangxi, Stage 3 : Nanning - Nanning (prov.)",42322,KOOIJ Olav,30643,0.5,0,2023-10-14,Albert
-1,2.1s,"Presidential Tour of Turkey, Stage 7 : Selcuk - Izmir (prov.)",41252,VINE Jay,29568,0.2,0,2023-10-14,Vel
+1,2.1s,"Presidential Tour of Turkey, Stage 7 : Selcuk - Izmir",41252,VINE Jay,29568,0.2,0,2023-10-14,Vel
 1,2.WT3s,"Tour of Guangxi, Stage 2 : Beihai - Qinzhou (prov.)",42321,MILAN Jonathan,29359,0.5,0,2023-10-13,Bram
-1,2.1s,"Presidential Tour of Turkey, Stage 6 : Bodrum - Selcuk (prov.)",41251,LANGELLOTTI Victor,26397,0.2,0,2023-10-13,-
+1,2.1s,"Presidential Tour of Turkey, Stage 6 : Bodrum - Selcuk",41251,LANGELLOTTI Victor,26397,0.2,0,2023-10-13,-
 1,2.WT3s,"Tour of Guangxi, Stage 1 : Beihai - Beihai (prov.)",42320,VIVIANI Elia,13240,0.5,0,2023-10-12,Paul
-1,2.1s,"Presidential Tour of Turkey, Stage 5 : Marmaris - Bodrum (prov.)",41250,DENZ Nico,21504,0.2,0,2023-10-12,-
+1,2.1s,"Presidential Tour of Turkey, Stage 5 : Marmaris - Bodrum",41250,DENZ Nico,21504,0.2,0,2023-10-12,-
 1,1.PS,Giro del Veneto,42276,GODON Dorian,25704,4,50,2023-10-11,-
 2,1.PS,Giro del Veneto,42276,JOHANNESSEN Tobias Halland,31567,1,35,2023-10-11,Albert
 3,1.PS,Giro del Veneto,42276,VERMEERSCH Florian,28127,0.5,25,2023-10-11,Albert
@@ -43,8 +43,8 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,1.PS,Giro del Veneto,42276,LOUVEL Matis,29982,0,12,2023-10-11,Paul
 9,1.PS,Giro del Veneto,42276,KRON Andreas Lorentz,26420,0,10,2023-10-11,Paul
 10,1.PS,Giro del Veneto,42276,BRAMBILLA Gianluca,7279,0,8,2023-10-11,-
-1,2.1s,"Presidential Tour of Turkey, Stage 4 : Fethiye - Marmaris (prov.)",41249,PHILIPSEN Jasper,26392,0.2,0,2023-10-11,Nicky
-1,2.1s,"Presidential Tour of Turkey, Stage 3 : Fethiye - Babadag (prov.)",41248,LUTSENKO Alexey,18455,0.2,0,2023-10-10,Vel
+1,2.1s,"Presidential Tour of Turkey, Stage 4 : Fethiye - Marmaris",41249,PHILIPSEN Jasper,26392,0.2,0,2023-10-11,Nicky
+1,2.1s,"Presidential Tour of Turkey, Stage 3 : Fethiye - Babadag",41248,LUTSENKO Alexey,18455,0.2,0,2023-10-10,Vel
 1,2.PS,"Tour of Hainan, General classification",42311,SEVILLA RIVERA Oscar Miguel,128,4,50,2023-10-09,-
 2,2.PS,"Tour of Hainan, General classification",42311,BERWICK Sebastian,29490,1,35,2023-10-09,-
 3,2.PS,"Tour of Hainan, General classification",42311,PICCOLI James,21644,0.5,25,2023-10-09,-
@@ -55,4 +55,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 8,2.PS,"Tour of Hainan, General classification",42311,BURNETT Josh,31888,0,12,2023-10-09,-
 9,2.PS,"Tour of Hainan, General classification",42311,HOLLYMAN Mason,29836,0,10,2023-10-09,-
 10,2.PS,"Tour of Hainan, General classification",42311,QUARTUCCI Lorenzo,30047,0,8,2023-10-09,-
-1,2.PSs,"Tour of Hainan, Stage 5 : Changjian - Sanya",42310,RASCH Jesper,29098,0.3,0,2023-10-09,-
