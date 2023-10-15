@@ -1,4 +1,15 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT3s,"Tour of Guangxi, Stage 4 : Nanning - Nongla (prov.)",42323,VADER Milan,32720,0.0,0,2023-10-15
+1,1.PS,Japan Cup (prov.),42279,COSTA Rui Alberto Faria,6807,0.0,0,2023-10-15
+2,1.PS,Japan Cup (prov.),42279,ENGELHARDT Felix,29297,0.0,0,2023-10-15
+3,1.PS,Japan Cup (prov.),42279,MARTIN Guillaume,19994,0.0,0,2023-10-15
+4,1.PS,Japan Cup (prov.),42279,VAN GILS Maxim,28521,0.0,0,2023-10-15
+5,1.PS,Japan Cup (prov.),42279,ZIMMERMANN Georg,25165,0.0,0,2023-10-15
+6,1.PS,Japan Cup (prov.),42279,SHEEHAN Riley,29301,0.0,0,2023-10-15
+7,1.PS,Japan Cup (prov.),42279,ZINGLE Axel,31263,0.0,0,2023-10-15
+8,1.PS,Japan Cup (prov.),42279,ROTA Lorenzo,21958,0.0,0,2023-10-15
+9,1.PS,Japan Cup (prov.),42279,VALGREN HUNDAHL (ANDERSEN) Michael,18123,0.0,0,2023-10-15
+10,1.PS,Japan Cup (prov.),42279,BERNARD Julien,23357,0.0,0,2023-10-15
 1,2.WT3s,"Tour of Guangxi, Stage 3 : Nanning - Nanning (prov.)",42322,KOOIJ Olav,30643,0.0,0,2023-10-14
 1,2.1s,"Presidential Tour of Turkey, Stage 7 : Selcuk - Izmir (prov.)",41252,VINE Jay,29568,0.0,0,2023-10-14
 1,2.WT3s,"Tour of Guangxi, Stage 2 : Beihai - Qinzhou (prov.)",42321,MILAN Jonathan,29359,0.0,0,2023-10-13
@@ -45,4 +56,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 10,1.PS,Paris - Tours,42275,PENHOËT Paul,30686,0.0,0,2023-10-08
 1,2.PSs,"Tour of Hainan, Stage 4 : Wuzhishan - Changjiang",42309,DALLA VALLE Nicolas,26998,0.0,0,2023-10-08
 1,2.1s,"Presidential Tour of Turkey, Stage 1 : Alanya - Antalya (prov.)",41246,PHILIPSEN Jasper,26392,0.0,0,2023-10-08
-1,2.1s,"Tour de Kyushu, Stage 2 : Minami Oguni - Minami Aso",42313,ZEITS Andrey,5259,0.0,0,2023-10-08
