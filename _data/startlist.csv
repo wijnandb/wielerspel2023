@@ -44,7 +44,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 7591,61,Ethan Hayter,27025,INEOS Grenadiers,GBR,Jan Versluys,Jan,19,
 7591,62,Leo Hayter,30635,INEOS Grenadiers,GBR,Wijnand Baretta,Wijnand,1,
 7591,64,Jhonnatan Narvaez,25157,INEOS Grenadiers,ECU,Nick Veenstra,Nicky,1,
-7591,65,Lucas Plapp,29787,INEOS Grenadiers,AUS,Frank Vellinga,Vel,5,
+7591,65,Lucas Plapp,29787,INEOS Grenadiers,AUS,Frank Vellinga,Vel,5,1
 7591,67,Elia Viviani,13240,INEOS Grenadiers,ITA,Paul van Doorn,Paul,3,
 7591,71,Sven Erik Bystrøm,18608,Intermarché-Circus-Wanty,NOR,-,-,-,
 7591,72,Rune Herregodts,28392,Intermarché-Circus-Wanty,BEL,-,-,-,
@@ -63,7 +63,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 7591,114,Andreas Leknessund,27653,Team dsm-firmenich,NOR,Paul van Doorn,Paul,2,1
 7591,116,Oscar Onley,31724,Team dsm-firmenich,GBR,-,-,-,
 7591,117,Sam Welsford,23517,Team dsm-firmenich,AUS,Pieter-Bas de Bruijn,PB,1,1
-7591,132,George Bennett,12254,UAE Team Emirates,NZL,Nick Veenstra,Nicky,1,
+7591,132,George Bennett,12254,UAE Team Emirates,NZL,Nick Veenstra,Nicky,1,1
 7591,133,Felix Großschartner,19548,UAE Team Emirates,AUT,Albert Kraaij,Albert,1,
 7591,135,Sebastian Molano,23463,UAE Team Emirates,COL,Pieter-Bas de Bruijn,PB,1,
 7591,137,Tim Wellens,16722,UAE Team Emirates,BEL,Albert Kraaij,Albert,5,
@@ -72,7 +72,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 7591,154,Sylvain Moniquet,26331,Lotto Dstny,BEL,-,-,-,
 7591,155,Mathijs Paasschens,27103,Lotto Dstny,NED,-,-,-,
 7591,162,Arvid de Kleijn,22596,Tudor Pro Cycling Team,NED,-,-,-,
-95,1,Andrea Piccolo,30648,EF Education-EasyPost,ITA,Albert Kraaij,Albert,3,
+95,1,Andrea Piccolo,30648,EF Education-EasyPost,ITA,Albert Kraaij,Albert,3,1
 95,3,Sean Quinn,29331,EF Education-EasyPost,USA,-,-,-,
 95,4,Odd Christian Eiking,21405,EF Education-EasyPost,NOR,Roy Smits,Roy,0,
 95,5,James Shaw,24546,EF Education-EasyPost,GBR,-,-,-,
@@ -81,22 +81,22 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 95,21,Guillaume Martin,19994,Cofidis,FRA,Jan Versluys,Jan,4,
 95,23,Axel Zingle,31263,Cofidis,FRA,Paul van Doorn,Paul,4,
 95,32,Lorenzo Rota,21958,Intermarché-Circus-Wanty,ITA,Paul van Doorn,Paul,3,
-95,33,Rein Taaramäe,1646,Intermarché-Circus-Wanty,EST,-,-,-,
+95,33,Rein Taaramäe,1646,Intermarché-Circus-Wanty,EST,-,-,-,1
 95,34,Rui Costa,6807,Intermarché-Circus-Wanty,POR,-,-,-,
 95,35,Georg Zimmermann,25165,Intermarché-Circus-Wanty,GER,-,-,-,
 95,36,Francesco Busatto,32738,Intermarché-Circus-Wanty,ITA,-,-,-,
-95,41,Giulio Ciccone,21812,Lidl-Trek,ITA,Nick Veenstra,Nicky,4,
-95,44,Juan Pedro Lopez,27132,Lidl-Trek,ESP,Pieter-Bas de Bruijn,PB,1,
+95,41,Giulio Ciccone,21812,Lidl-Trek,ITA,Nick Veenstra,Nicky,4,1
+95,44,Juan Pedro Lopez,27132,Lidl-Trek,ESP,Pieter-Bas de Bruijn,PB,1,1
 95,45,Bauke Mollema,5139,Lidl-Trek,NED,Roy Smits,Roy,2,
-95,46,Edward Theuns,16697,Lidl-Trek,BEL,Harry Koene,Harry,0,
+95,46,Edward Theuns,16697,Lidl-Trek,BEL,Harry Koene,Harry,0,1
 95,51,Julian Alaphilippe,18610,Soudal Quick-Step,FRA,Arjan Knibbe,Arjan,40,
-95,52,James Knox,23403,Soudal Quick-Step,GBR,-,-,-,
+95,52,James Knox,23403,Soudal Quick-Step,GBR,-,-,-,1
 95,55,Stan Van Tricht,28579,Soudal Quick-Step,BEL,Jan Versluys,Jan,1,
-95,56,Ilan Van Wilder,29828,Soudal Quick-Step,BEL,Wijnand Baretta,Wijnand,1,
-95,61,Edward Dunbar,23765,Team Jayco-AlUla,IRL,Paul van Doorn,Paul,2,
+95,56,Ilan Van Wilder,29828,Soudal Quick-Step,BEL,Wijnand Baretta,Wijnand,1,1
+95,61,Edward Dunbar,23765,Team Jayco-AlUla,IRL,Paul van Doorn,Paul,2,1
 95,62,Felix Engelhardt,29297,Team Jayco-AlUla,GER,-,-,-,
 95,65,Lucas Hamilton,25289,Team Jayco-AlUla,AUS,Albert Kraaij,Albert,1,
-95,66,Kevin Colleoni,27766,Team Jayco-AlUla,ITA,-,-,-,
+95,66,Kevin Colleoni,27766,Team Jayco-AlUla,ITA,-,-,-,1
 95,82,Pascal Eenkhoorn,24932,Lotto Dstny,NED,Harry Koene,Harry,1,
 95,83,Eduardo Sepulveda,18487,Lotto Dstny,ARG,-,-,-,
 95,84,Maxim Van Gils,28521,Lotto Dstny,BEL,-,-,-,
@@ -111,36 +111,36 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 15208,22,Axel Laurance,31621,Alpecin-Deceuninck,FRA,Jan Versluys,Jan,1,
 15208,25,Nicola Conci,26277,Alpecin-Deceuninck,ITA,Frank Rozemeijer,Frank,1,
 15208,27,Stefano Oldani,27072,Alpecin-Deceuninck,ITA,Frank Rozemeijer,Frank,1,
-15208,31,Simone Velasco,22662,Astana Qazaqstan Team,ITA,-,-,-,
+15208,31,Simone Velasco,22662,Astana Qazaqstan Team,ITA,-,-,-,1
 15208,33,Samuele Battistella,28450,Astana Qazaqstan Team,ITA,Frank Vellinga,Vel,2,
-15208,37,Cristian Scaroni,27002,Astana Qazaqstan Team,ITA,-,-,-,
+15208,37,Cristian Scaroni,27002,Astana Qazaqstan Team,ITA,-,-,-,1
 15208,45,Natnael Tesfazion,28234,Lidl-Trek,ERI,Kaspar Burghard,Kaspar,3,
 15208,51,Luca Mozzato,28037,Team Arkéa-Samsic,ITA,Nick Veenstra,Nicky,2,
-15208,52,Jenthe Biermans,22010,Team Arkéa-Samsic,BEL,-,-,-,
+15208,52,Jenthe Biermans,22010,Team Arkéa-Samsic,BEL,-,-,-,1
 15208,53,Anthony Delaplace,12100,Team Arkéa-Samsic,FRA,-,-,-,
-15208,54,Clément Champoussin,27153,Team Arkéa-Samsic,FRA,Jan Versluys,Jan,1,
-15208,56,Matis Louvel,29982,Team Arkéa-Samsic,FRA,Paul van Doorn,Paul,3,
+15208,54,Clément Champoussin,27153,Team Arkéa-Samsic,FRA,Jan Versluys,Jan,1,1
+15208,56,Matis Louvel,29982,Team Arkéa-Samsic,FRA,Paul van Doorn,Paul,3,1
 15208,57,Kévin Vauquelin,31264,Team Arkéa-Samsic,FRA,Albert Kraaij,Albert,2,
 15208,65,Michael Matthews,13066,Team Jayco-AlUla,AUS,Bram van Ommeren,Bram,12,
-15208,66,Matteo Sobrero,27033,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,
+15208,66,Matteo Sobrero,27033,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,1
 15208,67,Filippo Zana,27749,Team Jayco-AlUla,ITA,Frank Vellinga,Vel,2,
 15208,71,Vincenzo Albanese,24139,EOLO-Kometa,ITA,Harry Koene,Harry,1,
 15208,81,Luca Covili,26177,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-,
 15208,82,Filippo Fiorelli,24152,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-,
 15208,86,Davide Gabburo,20196,Green Project-Bardiani CSF-Faizanè,ITA,-,-,-,
-15208,91,Frederik Frison,20643,Lotto Dstny,BEL,-,-,-,
+15208,91,Frederik Frison,20643,Lotto Dstny,BEL,-,-,-,1
 15208,92,Andreas Kron,26420,Lotto Dstny,DEN,Paul van Doorn,Paul,1,
 15208,94,Milan Menten,24180,Lotto Dstny,BEL,-,-,-,
 15208,95,Florian Vermeersch,28127,Lotto Dstny,BEL,Albert Kraaij,Albert,2,
 15208,102,Jakob Fuglsang,3828,Israel-Premier Tech,DEN,Kees van Ommeren,Kees,1,
 15208,103,Krists Neilands,21113,Israel-Premier Tech,LAT,-,-,-,
-15208,105,Domenico Pozzovivo,1999,Israel-Premier Tech,ITA,-,-,-,
-15208,106,Nick Schultz,22744,Israel-Premier Tech,AUS,-,-,-,
+15208,105,Domenico Pozzovivo,1999,Israel-Premier Tech,ITA,-,-,-,1
+15208,106,Nick Schultz,22744,Israel-Premier Tech,AUS,-,-,-,1
 15208,107,Corbin Strong,29492,Israel-Premier Tech,NZL,Pieter-Bas de Bruijn,PB,1,
 15208,112,Walter Calzoni,32557,Q36.5 Pro Cycling Team,ITA,-,-,-,
-15208,124,Alexander Kamp,19391,Tudor Pro Cycling Team,DEN,-,-,-,
+15208,124,Alexander Kamp,19391,Tudor Pro Cycling Team,DEN,-,-,-,1
 15208,126,Sebastien Reichenbach,13740,Tudor Pro Cycling Team,SUI,-,-,-,
-15208,133,Fredrik Dversnes,28553,Uno-X Pro Cycling Team,NOR,-,-,-,
+15208,133,Fredrik Dversnes,28553,Uno-X Pro Cycling Team,NOR,-,-,-,1
 15208,135,Tobias Halland Johannessen,31567,Uno-X Pro Cycling Team,NOR,Albert Kraaij,Albert,2,
 15208,136,Anthon Charmig,26474,Uno-X Pro Cycling Team,DEN,-,-,-,
 15208,137,Torstein Træen,24068,Uno-X Pro Cycling Team,NOR,-,-,-,
@@ -149,7 +149,7 @@ race_id,start_number,rider,cq_rider_id,team,country,team_captain,team_captain_id
 154,4,Remi Cavagna,22910,Soudal Quick-Step,FRA,Harry Koene,Harry,4,
 154,5,Mikkel Bjerg,26388,UAE Team Emirates,DEN,Kees van Ommeren,Kees,2,
 154,7,Cian Uijtdebroeks,31803,BORA-hansgrohe,BEL,Frank Vellinga,Vel,2,
-154,8,Ben Healy,28846,EF Education-EasyPost,IRL,-,-,-,
+154,8,Ben Healy,28846,EF Education-EasyPost,IRL,-,-,-,1
 154,9,Alessandro De Marchi,7268,Team Jayco-AlUla,ITA,-,-,-,
-154,14,Magnus Cort,19448,EF Education-EasyPost,DEN,Frank Vellinga,Vel,4,
+154,14,Magnus Cort,19448,EF Education-EasyPost,DEN,Frank Vellinga,Vel,4,1
 154,16,Stefan de Bod,23888,EF Education-EasyPost,RSA,-,-,-,
