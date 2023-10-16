@@ -1,4 +1,5 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT3s,"Tour of Guangxi, Stage 5 : Liuzhou - Guilin (prov.)",42324,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0,2023-10-16
 1,2.WT3s,"Tour of Guangxi, Stage 4 : Nanning - Nongla (prov.)",42323,VADER Milan,32720,0.0,0,2023-10-15
 1,1.PS,Veneto Classic,42282,FORMOLO Davide,18749,0.0,0,2023-10-15
 2,1.PS,Veneto Classic,42282,HIRSCHI Marc,26509,0.0,0,2023-10-15
@@ -44,14 +45,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 9,1.PS,Giro del Veneto,42276,KRON Andreas Lorentz,26420,0.0,0,2023-10-11
 10,1.PS,Giro del Veneto,42276,BRAMBILLA Gianluca,7279,0.0,0,2023-10-11
 1,2.1s,"Presidential Tour of Turkey, Stage 4 : Fethiye - Marmaris",41249,PHILIPSEN Jasper,26392,0.0,0,2023-10-11
-1,2.1s,"Presidential Tour of Turkey, Stage 3 : Fethiye - Babadag",41248,LUTSENKO Alexey,18455,0.0,0,2023-10-10
-1,2.PS,"Tour of Hainan, General classification",42311,SEVILLA RIVERA Oscar Miguel,128,0.0,0,2023-10-09
-2,2.PS,"Tour of Hainan, General classification",42311,BERWICK Sebastian,29490,0.0,0,2023-10-09
-3,2.PS,"Tour of Hainan, General classification",42311,PICCOLI James,21644,0.0,0,2023-10-09
-4,2.PS,"Tour of Hainan, General classification",42311,HERMANS Ben,4819,0.0,0,2023-10-09
-5,2.PS,"Tour of Hainan, General classification",42311,CONTI Valerio,21295,0.0,0,2023-10-09
-6,2.PS,"Tour of Hainan, General classification",42311,TRARIEUX Julien,24752,0.0,0,2023-10-09
-7,2.PS,"Tour of Hainan, General classification",42311,RAILEANU Cristian,13770,0.0,0,2023-10-09
-8,2.PS,"Tour of Hainan, General classification",42311,BURNETT Josh,31888,0.0,0,2023-10-09
-9,2.PS,"Tour of Hainan, General classification",42311,HOLLYMAN Mason,29836,0.0,0,2023-10-09
-10,2.PS,"Tour of Hainan, General classification",42311,QUARTUCCI Lorenzo,30047,0.0,0,2023-10-09
