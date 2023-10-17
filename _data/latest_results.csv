@@ -1,4 +1,17 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
+1,2.WT3,"Tour of Guangxi, General classification (prov.)",42326,VADER Milan,32720,0.0,0,2023-10-17
+2,2.WT3,"Tour of Guangxi, General classification (prov.)",42326,ROCHAS Rémy,24753,0.0,0,2023-10-17
+3,2.WT3,"Tour of Guangxi, General classification (prov.)",42326,HAYTER Ethan,27025,0.0,0,2023-10-17
+4,2.WT3,"Tour of Guangxi, General classification (prov.)",42326,CARTHY Hugh,21014,0.0,0,2023-10-17
+5,2.WT3,"Tour of Guangxi, General classification (prov.)",42326,WELLENS Tim,16722,0.0,0,2023-10-17
+6,2.WT3,"Tour of Guangxi, General classification (prov.)",42326,BARRE Louis,30055,0.0,0,2023-10-17
+7,2.WT3,"Tour of Guangxi, General classification (prov.)",42326,JORGENSON Matteo,28057,0.0,0,2023-10-17
+8,2.WT3,"Tour of Guangxi, General classification (prov.)",42326,PEÑA JIMENEZ Jesus David,29399,0.0,0,2023-10-17
+9,2.WT3,"Tour of Guangxi, General classification (prov.)",42326,GROSSSCHARTNER Felix,19548,0.0,0,2023-10-17
+10,2.WT3,"Tour of Guangxi, General classification (prov.)",42326,MONIQUET Sylvain,26331,0.0,0,2023-10-17
+1,2.WT3s,"Tour of Guangxi, Stage 6 : Guilin - Guilin (prov.)",42325,KOOIJ Olav,30643,0.0,0,2023-10-17
+1,2.WT3r,"Tour of Guangxi, Points classification (prov.)",42327,DE BONDT Dries,22005,0.0,0,2023-10-17
+1,2.WT3r,"Tour of Guangxi, Mountains classification (prov.)",42328,WANDAHL Frederik,30710,0.0,0,2023-10-17
 1,2.WT3s,"Tour of Guangxi, Stage 5 : Liuzhou - Guilin (prov.)",42324,MOLANO BENAVIDES Juan Sebastian,23463,0.0,0,2023-10-16
 1,2.WT3s,"Tour of Guangxi, Stage 4 : Nanning - Nongla (prov.)",42323,VADER Milan,32720,0.0,0,2023-10-15
 1,1.PS,Veneto Classic,42282,FORMOLO Davide,18749,0.0,0,2023-10-15
@@ -32,16 +45,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date
 1,2.1s,"Presidential Tour of Turkey, Stage 7 : Selcuk - Izmir",41252,VINE Jay,29568,0.0,0,2023-10-14
 1,2.WT3s,"Tour of Guangxi, Stage 2 : Beihai - Qinzhou (prov.)",42321,MILAN Jonathan,29359,0.0,0,2023-10-13
 1,2.1s,"Presidential Tour of Turkey, Stage 6 : Bodrum - Selcuk",41251,LANGELLOTTI Victor,26397,0.0,0,2023-10-13
-1,2.WT3s,"Tour of Guangxi, Stage 1 : Beihai - Beihai (prov.)",42320,VIVIANI Elia,13240,0.0,0,2023-10-12
-1,2.1s,"Presidential Tour of Turkey, Stage 5 : Marmaris - Bodrum",41250,DENZ Nico,21504,0.0,0,2023-10-12
-1,1.PS,Giro del Veneto,42276,GODON Dorian,25704,0.0,0,2023-10-11
-2,1.PS,Giro del Veneto,42276,JOHANNESSEN Tobias Halland,31567,0.0,0,2023-10-11
-3,1.PS,Giro del Veneto,42276,VERMEERSCH Florian,28127,0.0,0,2023-10-11
-4,1.PS,Giro del Veneto,42276,STRONG Corbin,29492,0.0,0,2023-10-11
-5,1.PS,Giro del Veneto,42276,HIRSCHI Marc,26509,0.0,0,2023-10-11
-6,1.PS,Giro del Veneto,42276,MOZZATO Luca,28037,0.0,0,2023-10-11
-7,1.PS,Giro del Veneto,42276,BATTISTELLA Samuele,28450,0.0,0,2023-10-11
-8,1.PS,Giro del Veneto,42276,LOUVEL Matis,29982,0.0,0,2023-10-11
-9,1.PS,Giro del Veneto,42276,KRON Andreas Lorentz,26420,0.0,0,2023-10-11
-10,1.PS,Giro del Veneto,42276,BRAMBILLA Gianluca,7279,0.0,0,2023-10-11
-1,2.1s,"Presidential Tour of Turkey, Stage 4 : Fethiye - Marmaris",41249,PHILIPSEN Jasper,26392,0.0,0,2023-10-11
