@@ -2,6 +2,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 1,1.1,Hong Kong Cyclothon,42374,PÖSTLBERGER Lukas,18313,2,0,2023-10-22,-
 2,1.1,Hong Kong Cyclothon,42374,RICHARDS Kane,28063,0.3,0,2023-10-22,-
 3,1.1,Hong Kong Cyclothon,42374,STYBAR Zdenek,3348,0.1,0,2023-10-22,-
+1,NC5,National Championships Puerto Rico (Peñuelas) R.R. (prov.),41492,MORALES FONTAN Christopher,33913,1,0,2023-10-22,-
 1,2.WT3,"Tour of Guangxi, General classification",42326,VADER Milan,32720,5,50,2023-10-17,-
 2,2.WT3,"Tour of Guangxi, General classification",42326,ROCHAS Rémy,24753,2,35,2023-10-17,-
 3,2.WT3,"Tour of Guangxi, General classification",42326,HAYTER Ethan,27025,1,25,2023-10-17,Jan
@@ -45,4 +46,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 3,1.1,Chrono des Nations,42281,BISSEGGER Stefan,26376,0.1,0,2023-10-15,Bram
 1,2.1s,"Presidential Tour of Turkey, Stage 8 : Istanbul - Sultanahmet",41253,PHILIPSEN Jasper,26392,0.2,0,2023-10-15,Nicky
 1,2.WT3s,"Tour of Guangxi, Stage 3 : Nanning - Nanning",42322,KOOIJ Olav,30643,0.5,0,2023-10-14,Albert
-1,2.1s,"Presidential Tour of Turkey, Stage 7 : Selcuk - Izmir",41252,VINE Jay,29568,0.2,0,2023-10-14,Vel
