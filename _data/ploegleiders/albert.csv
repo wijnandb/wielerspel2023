@@ -1,5 +1,5 @@
 renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
-31654,AYUSO Juan,AYUSO PESQUERA Juan,Albert,21,UAD,ESP,21,15.1,90
+31654,AYUSO Juan,AYUSO PESQUERA Juan,Albert,21,UAD,ESP,21,15.4,90
 28452,BAGIOLI Andrea,BAGIOLI Andrea,Albert,2,SOQ,ITA,24,8.5,173
 16936,CATTANEO Mattia,CATTANEO Mattia,Albert,1,SOQ,ITA,33,1.2,30
 12823,DENNIS Rohan,DENNIS Rohan,Albert,1,TJV,AUS,33,1,14
@@ -27,5 +27,5 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 3333,VAN AVERMAET Greg,VAN AVERMAET Greg,Albert,1,ACT,BEL,38,2,0
 31264,VAUQUELIN Kévin,VAUQUELIN Kévin,Albert,2,ARK,FRA,22,4.5,0
 28127,VERMEERSCH Florian,VERMEERSCH Florian,Albert,2,LTD,BEL,24,4.8,168
-16722,WELLENS Tim,WELLENS Tim,Albert,5,UAD,BEL,32,10.4,86
-20257,WOODS Michael,WOODS Michael,Albert,2,IPT,CAN,37,6.7,105
+16722,WELLENS Tim,WELLENS Tim,Albert,5,UAD,BEL,32,20.4,136
+20257,WOODS Michael,WOODS Michael,Albert,2,IPT,CAN,37,8.7,105
