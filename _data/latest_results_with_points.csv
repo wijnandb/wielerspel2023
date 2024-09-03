@@ -1,4 +1,10 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+-4,GT2s,"Leiderstrui na Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,Kuss Sepp,25653,1,0,2023-09-03,Nicky
+-1,GT2s,"Jongerentrui na Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,Ayuso Juan,31654,0.1,0,2023-09-03,Albert
+-2,GT2s,"Puntentrui na Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,Groves Kaden,26637,0.2,0,2023-09-03,Vel
+-3,GT2s,"Bergtrui na Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,Evenepoel Remco,28377,0.2,0,2023-09-03,Roy
+1,GT2s,"Vuelta a España , Stage 16 : Luanco - Lagos de Covadonga (prov.)",43492,SOLER Marc,23299,2,0,2023-09-03,Vel
+1,2.PSs,"Tour of Britain , Stage 1 : Kelso - Kelso (prov.)",43670,MAGNIER Paul,34555,0.3,0,2023-09-03,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,Kuss Sepp,25653,1,0,2023-09-01,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,Ayuso Juan,31654,0.1,0,2023-09-01,Albert
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 15 : Infiesto - Cuitu Negru (prov.)",43491,Groves Kaden,26637,0.2,0,2023-09-01,Vel
@@ -16,6 +22,7 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 10,2.WT1,"Renewi Tour , General classification",43562,BETTIOL Alberto,20697,0,8,2024-09-01,PB
 1,2.WT1s,"Renewi Tour , Stage 5 : Menen - Geraardsbergen",43561,DE LIE Arnaud,32221,1,0,2023-09-01,Wijnand
 1,2.WT2r,"Renewi Tour , Points classification",43563,PHILIPSEN Jasper,26392,0.0,0,2023-09-01,Nicky
+1,NC5,National Championships Mexico (Toliman) R.R. (prov.),43790,CADENA MARTINEZ Edgar David,32051,1,0,2024-09-01,-
 -4,GT2s,"Leiderstrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,Kuss Sepp,25653,1,0,2023-08-31,Nicky
 -1,GT2s,"Jongerentrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,Ayuso Juan,31654,0.1,0,2023-08-31,Albert
 -2,GT2s,"Puntentrui na Vuelta a España , Stage 14 : Villafranca del Bierzo - Villablino (prov.)",43490,Groves Kaden,26637,0.2,0,2023-08-31,Vel
@@ -33,8 +40,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,2.PS,"Tour of Hainan, General classification",43556,QUARTUCCI Lorenzo,30047,0,10,2024-08-31,-
 10,2.PS,"Tour of Hainan, General classification",43556,SAINBAYAR Jambaljamts,24289,0,8,2024-08-31,-
 1,2.PSs,"Tour of Hainan, Stage 5 : Changjiang - Changjiang",43555,SMIRNOV Ivan,27928,0.3,0,2023-08-31,-
--4,GT2s,"Leiderstrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,Kuss Sepp,25653,1,0,2023-08-30,Nicky
--1,GT2s,"Jongerentrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,Ayuso Juan,31654,0.1,0,2023-08-30,Albert
--2,GT2s,"Puntentrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,Groves Kaden,26637,0.2,0,2023-08-30,Vel
--3,GT2s,"Bergtrui na Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,Vingegaard Jonas,25740,0.2,0,2023-08-30,Arjan
-1,GT2s,"Vuelta a España , Stage 13 : Lugo - Puerto de Ancares (prov.)",43489,WOODS Michael,20257,2,0,2023-08-30,Albert
