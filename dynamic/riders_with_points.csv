@@ -2,7 +2,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 20917,ACKERMANN Pascal,ACKERMANN Pascal,Vel,5,UAD,GER,29,3.2,35
 24794,AFFINI Edoardo,AFFINI Edoardo,Paul,3,TJV,ITA,27,2,12
 18610,ALAPHILIPPE Julian,ALAPHILIPPE Julian,Arjan,40,SOQ,FRA,31,5,80
-24139,ALBANESE Vincenzo,ALBANESE Vincenzo,Harry,1,EOK,ITA,27,1.1,51
+24139,ALBANESE Vincenzo,ALBANESE Vincenzo,Harry,1,EOK,ITA,27,1.1,61
 28451,ALEOTTI Giovanni,ALEOTTI Giovanni,Wijnand,1,BOH,ITA,24,0,20
 22616,ALLEGAERT Piet,ALLEGAERT Piet,Vel,0,COF,BEL,28,0,0
 26482,ALMEIDA Joao,ALMEIDA Joao Pedro Gonçalves,Wijnand,14,UAD,POR,25,20.5,146
@@ -10,7 +10,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 23940,ARANBURU Alexander,ARANBURU DEBA Alexander,Jan,3,MOV,ESP,28,3.0,153
 27716,ARENSMAN Thymen,ARENSMAN Thymen,Kaspar,13,IGD,NED,24,3,16
 23558,ASGREEN Kasper,ASGREEN Kasper,Nicky,10,SOQ,DEN,28,6.2,49
-24326,AULAR Orluis,AULAR SANABRIA Orluis Alberto,PB,1,CJR,VEN,27,3.7,20
+24326,AULAR Orluis,AULAR SANABRIA Orluis Alberto,PB,1,CJR,VEN,27,3.7,32
 31654,AYUSO Juan,AYUSO PESQUERA Juan,Albert,21,UAD,ESP,21,16.3,90
 28452,BAGIOLI Andrea,BAGIOLI Andrea,Albert,2,SOQ,ITA,24,8.5,173
 22020,BALLERINI Davide,BALLERINI Davide,Harry,3,SOQ,ITA,29,0,30
@@ -96,7 +96,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 17534,HERRADA Jesus,HERRADA LOPEZ Jesus,Paul,2,COF,ESP,33,5.0,34
 25026,HIGUITA Sergio,HIGUITA GARCIA Sergio Andres,Kaspar,15,BOH,COL,26,2.5,76
 23948,HINDLEY Jai,HINDLEY Jai,Kaspar,13,BOH,AUS,27,9.5,46
-26509,HIRSCHI Marc,HIRSCHI Marc,Bram,10,UAD,SUI,25,25.2,408
+26509,HIRSCHI Marc,HIRSCHI Marc,Bram,10,UAD,SUI,25,29.2,458
 17078,HIRT Jan,HIRT Jan,Wijnand,1,SOQ,CZE,32,0,0
 26396,HODEG Alvaro,HODEG CHAGUI Alvaro Jose,Albert,1,UAD,COL,26,0,12
 22702,HOFSTETTER Hugo,HOFSTETTER Hugo,Albert,2,ARK,FRA,29,0.3,0
@@ -197,7 +197,7 @@ renner_id,renner,rider,ploegleider,kosten,team,nationality,age,punten,JPP
 26409,STANNARD Robert,STANNARD Robert,Kees,2,ADC,AUS,25,0,0
 25081,STEIMLE Jannik,STEIMLE Jannik,Jan,1,SOQ,GER,27,0,20
 28437,STEWART Jake,STEWART Jake,Jan,2,GFC,GBR,24,0.2,0
-25335,STORER Michael,STORER Michael,Vel,2,GFC,AUS,26,2.6,0
+25335,STORER Michael,STORER Michael,Vel,2,GFC,AUS,26,2.6,14
 29492,STRONG Corbin,STRONG Corbin,PB,1,IPT,NZL,23,3.8,122
 18233,STUYVEN Jasper,STUYVEN Jasper,PB,6,TFS,BEL,31,2.5,95
 26437,SWIFT Connor,SWIFT Connor,PB,1,IGD,GBR,28,0,36
