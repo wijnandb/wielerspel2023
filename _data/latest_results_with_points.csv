@@ -1,4 +1,14 @@
 rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
+1,WCU,World Championships U23 (Zurich) R.R. (prov.),43616,BEHRENS Niklas,35584,0.0,0,2024-09-27,-
+2,WCU,World Championships U23 (Zurich) R.R. (prov.),43616,SVRCEK Martin,32767,0.0,0,2024-09-27,-
+3,WCU,World Championships U23 (Zurich) R.R. (prov.),43616,SEGAERT Alec,33567,0.0,0,2024-09-27,-
+4,WCU,World Championships U23 (Zurich) R.R. (prov.),43616,CHRISTEN Jan,34430,0.0,0,2024-09-27,-
+5,WCU,World Championships U23 (Zurich) R.R. (prov.),43616,BLACKMORE Joseph,34973,0.0,0,2024-09-27,-
+6,WCU,World Championships U23 (Zurich) R.R. (prov.),43616,DEL TORO ROMERO Isaac,33556,0.0,0,2024-09-27,-
+7,WCU,World Championships U23 (Zurich) R.R. (prov.),43616,WIDAR Jarno,35565,0.0,0,2024-09-27,-
+8,WCU,World Championships U23 (Zurich) R.R. (prov.),43616,DEL GROSSO Tibor,32891,0.0,0,2024-09-27,-
+9,WCU,World Championships U23 (Zurich) R.R. (prov.),43616,ROMEO ABAD Ivan,32764,0.0,0,2024-09-27,-
+10,WCU,World Championships U23 (Zurich) R.R. (prov.),43616,ARRIETA LIZARRAGA Igor,32611,0.0,0,2024-09-27,-
 1,1.1,Omloop van het Houtland,43631,WALSCHEID Maximilian,19646,2,0,2024-09-25,PB
 2,1.1,Omloop van het Houtland,43631,GROENEWEGEN Dylan,19238,0.3,0,2024-09-25,Frank
 3,1.1,Omloop van het Houtland,43631,BARBIER Pierre,25501,0.1,0,2024-09-25,-
@@ -66,19 +76,3 @@ rank,category,racename,race_id,rider_name,rider_id,points,jpp,date,ploegleider
 9,1.PS,GP de Wallonie,43625,ZINGLE Axel,31263,0,10,2024-09-18,Paul
 10,1.PS,GP de Wallonie,43625,OLIVEIRA Rui Filipe Alves,24030,0,8,2024-09-18,-
 1,2.PSs,"Tour de Luxembourg, Stage 1 : Luxembourg - Luxembourg",43702,VAN DER POEL Mathieu,21971,0.3,0,2023-09-18,Vel
-1,1.WT1,GP de Montréal,43622,POGACAR Tadej,26526,15,50,2024-09-15,Kees
-2,1.WT1,GP de Montréal,43622,BILBAO LOPEZ DE ARMENTIA Pello,17881,3,35,2024-09-15,Jan
-3,1.WT1,GP de Montréal,43622,ALAPHILIPPE Julian,18610,2,25,2024-09-15,Arjan
-4,1.WT1,GP de Montréal,43622,VAN GILS Maxim,28521,1,20,2024-09-15,-
-5,1.WT1,GP de Montréal,43622,IZAGIRRE INSAUSTI Ion,14321,0.5,18,2024-09-15,Harry
-6,1.WT1,GP de Montréal,43622,SKUJINS Toms,16739,0,16,2024-09-15,Kees
-7,1.WT1,GP de Montréal,43622,BENOOT Tiesj,21244,0,14,2024-09-15,Paul
-8,1.WT1,GP de Montréal,43622,WOODS Michael,20257,0,12,2024-09-15,Albert
-9,1.WT1,GP de Montréal,43622,ZAMBANINI Edoardo,31437,0,10,2024-09-15,-
-10,1.WT1,GP de Montréal,43622,HINDLEY Jai,23948,0,8,2024-09-15,Kaspar
-1,2.1,"Tour of Istanbul, General classification",43696,BURGAUDEAU Mathieu,27151,2,0,2024-09-15,Paul
-2,2.1,"Tour of Istanbul, General classification",43696,ROMELE Alessandro,33133,0.3,0,2024-09-15,-
-3,2.1,"Tour of Istanbul, General classification",43696,JEANNIERE Emilien,29288,0.1,0,2024-09-15,-
-1,1.1,GP d'Isbergues - Pas de Calais,43623,DE KLEIJN Arvid,22596,2,0,2024-09-15,-
-2,1.1,GP d'Isbergues - Pas de Calais,43623,PITHIE Laurence,31638,0.3,0,2024-09-15,-
-3,1.1,GP d'Isbergues - Pas de Calais,43623,THIJSSEN Gerben,27085,0.1,0,2024-09-15,Albert
